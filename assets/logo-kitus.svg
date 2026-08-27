@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 132" role="img" aria-label="Kitus">
+  <g fill="none" fill-rule="evenodd">
+    <path d="M64 12c30 0 53 22 53 52 0 27-22 51-53 51-31 0-54-23-54-51 0-31 24-52 54-52Z"
+          stroke="#C1272D" stroke-width="6" stroke-linecap="round"
+          stroke-dasharray="330 8" transform="rotate(-4 64 64)"/>
+    <text x="63" y="95" font-family="'Playfair Display', Georgia, 'Times New Roman', serif"
+          font-size="90" font-weight="700" fill="#C1272D" text-anchor="middle">K</text>
+    <text x="120" y="94" font-family="'Playfair Display', Georgia, 'Times New Roman', serif"
+          font-size="80" font-weight="700" fill="#161616" letter-spacing="3">ITUS</text>
+  </g>
+</svg>
