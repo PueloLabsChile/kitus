@@ -89,28 +89,35 @@ partir de las notas de `src/content/articulos/`. Solo hay que crear la nota.
 
 ## Contenido que se actualiza solo
 
-Además de las notas propias, dos bloques se refrescan automáticamente:
+Además de las notas propias, dos bloques se refrescan automáticamente, **sin IA,
+sin API keys y sin costo**:
 
 | Bloque | De dónde sale | Archivo |
 |---|---|---|
 | Franja **Multimedia** y página `/multimedia` | Últimos videos del canal de YouTube | `src/data/videos.json` |
-| **"En la agenda · otras miradas"** (portada) | Feeds RSS de medios afines | `src/data/agenda.json` |
+| Bloque **"Hoy · el mundo en análisis"** (portada) y página **`/hoy/`** | Feeds RSS de medios internacionales de análisis político y geopolítico | `src/data/titulares.json` |
 
 **Cómo funciona.** El script `scripts/actualizar.mjs` lee la página pública del
 canal y los feeds listados en `scripts/fuentes.json`, y reescribe esos dos JSON
-(y descarga las miniaturas nuevas a `public/uploads/`). No usa API keys ni
-dependencias.
+(y descarga las miniaturas nuevas a `public/uploads/`). El bloque "Hoy" muestra
+titular + extracto corto (el que trae el propio RSS) + medio + enlace a la nota
+original en su fuente; Kitus no reproduce ni edita esos textos.
 
 - **Probarlo a mano:** `npm run actualizar`
 - **Automático:** el workflow `.github/workflows/actualizar.yml` lo corre **cada
-  8 horas** en GitHub Actions. Si algo cambió, hace un commit; ese commit dispara
-  el redeploy del hosting. También se puede ejecutar a mano desde la pestaña
-  *Actions* del repo (*Run workflow*).
-- **Elegir las fuentes:** editar `scripts/fuentes.json` (lista `agenda`: nombre
-  del medio + URL del feed). Si un feed no responde, se conservan los datos
-  anteriores; el sitio nunca queda vacío.
+  8 horas** en GitHub Actions (dentro del tramo gratuito). Si algo cambió, hace un
+  commit; ese commit dispara el redeploy del hosting. También se puede ejecutar a
+  mano desde la pestaña *Actions* del repo (*Run workflow*).
+- **Elegir las fuentes:** editar `scripts/fuentes.json` -> lista `internacional`
+  (medio + URL del feed + país + idioma `es`/`en`). Si un feed no responde, se
+  conservan los titulares anteriores; el sitio nunca queda vacío.
 - Los títulos de video ya cargados a mano en `videos.json` se respetan; los
   videos nuevos toman el título de YouTube.
+
+> **Notas redactadas automáticamente (con IA):** no están activadas —requieren una
+> API key de pago—. El enganche está pensado para sumarse encima de este agregador
+> cuando haya presupuesto o periodistas. Por ahora el contenido automático son
+> titulares enlazados, no artículos originales.
 
 ---
 

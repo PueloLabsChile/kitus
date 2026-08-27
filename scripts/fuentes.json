@@ -3,13 +3,22 @@
     "handle": "kitusonline6343",
     "channelId": "UCqHkNvdvKoCJtpMZuNVlrtw"
   },
-  "//": "Feeds RSS de medios afines para el bloque 'En la agenda'. Editá esta lista. Cada uno: nombre visible + url del feed.",
-  "agenda": [
-    { "medio": "Desinformémonos", "url": "https://desinformemonos.org/feed/" },
-    { "medio": "Agencia Tierra Viva", "url": "https://agenciatierraviva.com.ar/feed/" },
-    { "medio": "El Salto", "url": "https://www.elsaltodiario.com/general/feed" },
-    { "medio": "La tinta", "url": "https://latinta.com.ar/feed/" }
+  "//": "Feeds del agregado internacional (bloque 'Hoy' y pagina /hoy/). Editá esta lista: medio + url del feed + pais + idioma (es|en). Si un feed no responde, se conservan los titulares anteriores.",
+  "internacional": [
+    { "medio": "El Orden Mundial", "url": "https://elordenmundial.com/feed/", "pais": "España", "idioma": "es" },
+    { "medio": "Nodal", "url": "https://www.nodal.am/feed/", "pais": "América Latina", "idioma": "es" },
+    { "medio": "ALAI", "url": "https://www.alainet.org/es/rss.xml", "pais": "América Latina", "idioma": "es" },
+    { "medio": "Pressenza", "url": "https://www.pressenza.com/es/feed/", "pais": "Agencia internacional", "idioma": "es" },
+    { "medio": "Global Voices", "url": "https://es.globalvoices.org/feed/", "pais": "Prensa ciudadana", "idioma": "es" },
+    { "medio": "Jacobin América Latina", "url": "https://jacobinlat.com/feed/", "pais": "América Latina", "idioma": "es" },
+    { "medio": "El Salto", "url": "https://www.elsaltodiario.com/global/feed", "pais": "España", "idioma": "es" },
+    { "medio": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml", "pais": "Qatar", "idioma": "en" },
+    { "medio": "Middle East Eye", "url": "https://www.middleeasteye.net/rss", "pais": "Asia Occidental", "idioma": "en" },
+    { "medio": "The Cradle", "url": "https://thecradle.co/feed", "pais": "Asia Occidental", "idioma": "en" },
+    { "medio": "Peoples Dispatch", "url": "https://peoplesdispatch.org/feed/", "pais": "Sur Global", "idioma": "en" },
+    { "medio": "Mondoweiss", "url": "https://mondoweiss.net/feed/", "pais": "Asia Occidental / EE.UU.", "idioma": "en" },
+    { "medio": "The Tricontinental", "url": "https://thetricontinental.org/feed/", "pais": "Investigación, Sur Global", "idioma": "en" }
   ],
-  "maxAgenda": 12,
+  "maxTitulares": 60,
   "maxVideos": 24
 }

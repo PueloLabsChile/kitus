@@ -1,7 +1,8 @@
 name: Actualizar contenido
 
-# Trae los últimos videos del canal y los titulares de los feeds de scripts/fuentes.json.
-# Si algo cambió, hace commit — y eso dispara el redeploy del hosting (Netlify / Cloudflare).
+# Trae los últimos videos del canal y el agregado internacional (titulares) de los
+# feeds de scripts/fuentes.json. Si algo cambió, hace commit — y eso dispara el
+# redeploy del hosting (Netlify / Cloudflare).
 
 on:
   schedule:
@@ -25,7 +26,7 @@ jobs:
         with:
           node-version: 20
 
-      - name: Traer videos y agenda
+      - name: Traer videos y titulares
         run: node scripts/actualizar.mjs
 
       - name: Commit si hubo cambios
@@ -34,7 +35,7 @@ jobs:
             git config user.name "kitus-bot"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add src/data public/uploads
-            git commit -m "Auto: actualiza videos y agenda [skip ci]"
+            git commit -m "Auto: actualiza videos y titulares [skip ci]"
             git push
           else
             echo "Sin cambios."

@@ -6,6 +6,7 @@ const { activa } = Astro.props;
 <nav class="nav" aria-label="Secciones">
   <div class="nav__inner">
     <a href="/" aria-current={activa === "portada" ? "page" : undefined}>Portada</a>
+    <a href="/hoy/" aria-current={activa === "hoy" ? "page" : undefined}>Hoy</a>
     {SECCION_SLUGS.map((slug) => (
       <a href={`/${slug}/`} aria-current={activa === slug ? "page" : undefined}>
         {SECCIONES[slug].nombre}

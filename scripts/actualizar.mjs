@@ -1,11 +1,11 @@
 #!/usr/bin/env node
 /**
  * Actualiza el contenido automático de Kitus:
- *   - src/data/videos.json   : últimos videos del canal de YouTube
- *   - src/data/agenda.json    : titulares de medios afines (feeds RSS de scripts/fuentes.json)
- *   - public/uploads/yt-*.jpg : miniaturas de los videos nuevos
+ *   - src/data/videos.json     : últimos videos del canal de YouTube
+ *   - src/data/titulares.json  : agregado internacional (bloque "Hoy" y página /hoy/)
+ *   - public/uploads/yt-*.jpg  : miniaturas de los videos nuevos
  *
- * Sin dependencias. Node 20+. Pensado para correr en GitHub Actions cada X horas.
+ * Sin dependencias. Sin API keys. Node 20+. Pensado para correr en GitHub Actions.
  * Si una fuente falla, conserva los datos anteriores (no rompe el build).
  *
  * Uso:  node scripts/actualizar.mjs
@@ -47,6 +47,7 @@ function decodeEntities(s = "") {
     .replace(/&quot;/g, '"')
     .replace(/&#39;|&apos;/g, "'")
     .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(+n))
+    .replace(/&#x([0-9a-f]+);/gi, (_, n) => String.fromCharCode(parseInt(n, 16)))
     .replace(/&nbsp;/g, " ")
     .trim();
 }
@@ -58,6 +59,28 @@ function limpiarTitulo(t) {
     .trim();
   if (t === t.toUpperCase() && t.length > 4) t = t.charAt(0) + t.slice(1).toLowerCase();
   return t;
+}
+/** Quita HTML, normaliza espacios y recorta en límite de palabra. */
+function resumir(html, limite = 240) {
+  // 1) desenvolver CDATA y entidades  2) quitar etiquetas reales  3) decodificar lo que quede
+  let s = decodeEntities(String(html || ""));
+  s = decodeEntities(s.replace(/<[^>]+>/g, " "))
+    .replace(/\s+/g, " ")
+    .replace(/\s*\[\s*…?\s*\]\s*$/, "")
+    .replace(/(Leer más|Seguir leyendo|Continue reading|Read more|The post .*? appeared first on .*)$/i, "")
+    .trim();
+  if (s.length <= limite) return s;
+  const corte = s.slice(0, limite);
+  const ultimoEspacio = corte.lastIndexOf(" ");
+  return (ultimoEspacio > 60 ? corte.slice(0, ultimoEspacio) : corte).replace(/[,;:.\s]+$/, "") + "…";
+}
+function normalizarTitulo(t) {
+  return t
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[̀-ͯ]/g, "")
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim();
 }
 
 /* ------------------------------------------------------------------ videos */
@@ -141,50 +164,90 @@ async function bajarMiniaturas(videos) {
   if (nuevas) log(`miniaturas nuevas: ${nuevas}`);
 }
 
-/* ------------------------------------------------------------------ agenda */
-function parsearFeed(xml, medio) {
+/* -------------------------------------------------------------- titulares */
+function parsearFeed(xml, fuente) {
   const items = [];
   const bloques = xml.match(/<(item|entry)\b[\s\S]*?<\/\1>/g) || [];
-  for (const b of bloques.slice(0, 6)) {
+  for (const b of bloques.slice(0, 8)) {
     const titulo = decodeEntities((b.match(/<title\b[^>]*>([\s\S]*?)<\/title>/i) || [])[1] || "");
     let link =
+      (b.match(/<link\b[^>]*rel=["']alternate["'][^>]*href=["']([^"']+)["']/i) || [])[1] ||
       (b.match(/<link\b[^>]*href=["']([^"']+)["']/i) || [])[1] ||
       decodeEntities((b.match(/<link\b[^>]*>([\s\S]*?)<\/link>/i) || [])[1] || "");
     const fechaTxt =
-      (b.match(/<(pubDate|published|updated)\b[^>]*>([\s\S]*?)<\/\1>/i) || [])[2] || "";
-    const fecha = fechaTxt ? new Date(fechaTxt).toISOString() : null;
-    if (titulo && link) items.push({ titulo, url: link.trim(), medio, fecha });
+      (b.match(/<(pubDate|published|updated|dc:date)\b[^>]*>([\s\S]*?)<\/\1>/i) || [])[2] || "";
+    const fecha = fechaTxt && !Number.isNaN(+new Date(fechaTxt)) ? new Date(fechaTxt).toISOString() : null;
+    const crudo =
+      (b.match(/<description\b[^>]*>([\s\S]*?)<\/description>/i) || [])[1] ||
+      (b.match(/<summary\b[^>]*>([\s\S]*?)<\/summary>/i) || [])[1] ||
+      (b.match(/<content:encoded\b[^>]*>([\s\S]*?)<\/content:encoded>/i) || [])[1] ||
+      (b.match(/<content\b[^>]*>([\s\S]*?)<\/content>/i) || [])[1] ||
+      "";
+    if (!titulo || !link) continue;
+    let resumen = resumir(crudo);
+    // algunos feeds arrancan el resumen repitiendo el titular: lo sacamos
+    if (resumen.toLowerCase().startsWith(titulo.toLowerCase().slice(0, 60))) {
+      resumen = resumen.slice(titulo.length).replace(/^[\s.–—-]+/, "");
+    }
+    items.push({
+      titulo,
+      resumen,
+      url: link.trim(),
+      medio: fuente.medio,
+      pais: fuente.pais || "",
+      idioma: fuente.idioma || "es",
+      fecha,
+    });
   }
   return items;
 }
 
-async function traerAgenda(fuentes, maxItems, previos) {
+async function traerTitulares(fuentes, maxItems, previos) {
   const todo = [];
+  let ok = 0;
   for (const f of fuentes) {
     try {
       const xml = await bajar(f.url, { timeout: 15000 });
-      const items = parsearFeed(xml, f.medio);
+      const items = parsearFeed(xml, f);
       log(`${f.medio}: ${items.length} titulares`);
+      if (items.length) ok++;
       todo.push(...items);
     } catch (e) {
       log(`${f.medio}: falló (${e.message})`);
     }
   }
-  if (!todo.length) {
-    log("ningún feed respondió — se conserva la agenda actual");
+  if (ok === 0) {
+    log("ningún feed respondió — se conservan los titulares actuales");
     return previos;
   }
-  todo.sort((a, b) => (b.fecha || "").localeCompare(a.fecha || ""));
-  // uno por medio primero, después completar
-  const porMedio = new Map();
-  const orden = [];
+
+  // dedup por URL y por título normalizado
+  const porUrl = new Set();
+  const porTitulo = new Set();
+  const unicos = [];
   for (const it of todo) {
-    if (!porMedio.has(it.medio)) {
-      porMedio.set(it.medio, true);
+    const t = normalizarTitulo(it.titulo);
+    if (porUrl.has(it.url) || porTitulo.has(t)) continue;
+    porUrl.add(it.url);
+    porTitulo.add(t);
+    unicos.push(it);
+  }
+
+  unicos.sort((a, b) => (b.fecha || "").localeCompare(a.fecha || ""));
+
+  // primera vuelta: un titular por medio (para que ninguno acapare el arranque)
+  const usados = new Set();
+  const orden = [];
+  const vistoMedio = new Set();
+  for (const it of unicos) {
+    if (!vistoMedio.has(it.medio)) {
+      vistoMedio.add(it.medio);
+      usados.add(it);
       orden.push(it);
     }
   }
-  for (const it of todo) if (!orden.includes(it)) orden.push(it);
+  for (const it of unicos) if (!usados.has(it)) orden.push(it);
+
   return orden.slice(0, maxItems);
 }
 
@@ -196,13 +259,18 @@ if (!cfg) {
 }
 
 const videosPrevios = await leerJSON("src/data/videos.json", []);
-const agendaPrevia = await leerJSON("src/data/agenda.json", []);
+const titularesPrevios = await leerJSON("src/data/titulares.json", []);
 
 const videos = await traerVideos(cfg.canalYoutube, videosPrevios);
 await bajarMiniaturas(videos);
 await guardarJSON("src/data/videos.json", videos);
 
-const agenda = await traerAgenda(cfg.agenda || [], cfg.maxAgenda ?? 12, agendaPrevia);
-await guardarJSON("src/data/agenda.json", agenda);
+const titulares = await traerTitulares(
+  cfg.internacional || [],
+  cfg.maxTitulares ?? 60,
+  titularesPrevios,
+);
+await guardarJSON("src/data/titulares.json", titulares);
+log(`titulares: ${titulares.length} guardados`);
 
 log("listo.");

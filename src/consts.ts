@@ -17,32 +17,32 @@ export const SECCIONES = {
   politica: {
     nombre: "Política",
     descripcion:
-      "Poder, Congreso, gobierno y territorio. La política argentina contada sin agenda ajena.",
+      "Poder, Estados y disputa institucional: cómo se gobierna y quién decide, dentro y fuera de la región.",
   },
   internacional: {
     nombre: "Internacional",
     descripcion:
-      "América Latina y el mundo desde una mirada del sur, atenta a los que quedan fuera del relato.",
+      "Geopolítica, conflictos y alineamientos. El tablero mundial mirado desde el Sur global.",
   },
   economia: {
     nombre: "Economía",
     descripcion:
-      "Números que se sienten en el bolsillo: precios, deuda, salarios y quién gana con cada medida.",
+      "Comercio, deuda, recursos y trabajo: la economía política del sistema mundial y sus efectos concretos.",
   },
   derechos: {
     nombre: "Derechos",
     descripcion:
-      "Derechos humanos, ambiente, género y salud. Los temas que inciden en el entorno social de cada comunidad.",
+      "Derechos humanos, territorios, género y ambiente. Los movimientos que empujan el cambio.",
   },
   opinion: {
     nombre: "Opinión",
     descripcion:
-      "Columnas y editoriales de Kitus y su red de colaboradores y colaboradoras.",
+      "Análisis y columnas de Kitus y su red de colaboradores y colaboradoras.",
   },
   cultura: {
     nombre: "Cultura",
     descripcion:
-      "Arte, ideas y producción audiovisual que dan visibilidad a lo que los grandes medios no muestran.",
+      "Ideas, relatos y producción cultural que disputan el sentido común.",
   },
 } as const;
 
