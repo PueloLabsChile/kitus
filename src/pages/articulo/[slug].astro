@@ -3,7 +3,7 @@ import type { GetStaticPaths } from "astro";
 import { getCollection, getEntry, render } from "astro:content";
 import Base from "../../layouts/Base.astro";
 import Boletin from "../../components/Boletin.astro";
-import { nombreSeccion } from "../../consts";
+import { nombreSeccion, minutosLectura } from "../../consts";
 
 export const getStaticPaths = (async () => {
   const articulos = await getCollection("articulos", ({ data }) => !data.borrador);
@@ -17,6 +17,7 @@ const { articulo } = Astro.props;
 const { titulo, bajada, seccion, fecha, etiquetas, portada, creditoPortada } = articulo.data;
 const autor = await getEntry(articulo.data.autor);
 const { Content } = await render(articulo);
+const min = minutosLectura(articulo.body);
 
 const fechaTxt = fecha.toLocaleDateString("es-AR", {
   day: "numeric",
@@ -35,6 +36,7 @@ const kicker = etiquetas[0] ? `${nombreSeccion(seccion)} · ${etiquetas[0]}` : n
       <div class="articulo__meta">
         <span class="byline">Por <strong>{autor.data.nombre}</strong></span>
         <span class="byline">{fechaTxt}</span>
+        <span class="minutos">{min} min de lectura</span>
       </div>
 
       <figure class="articulo__hero">

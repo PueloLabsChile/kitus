@@ -4,7 +4,7 @@ import Base from "../layouts/Base.astro";
 import TarjetaArticulo from "../components/TarjetaArticulo.astro";
 import FranjaMultimedia from "../components/FranjaMultimedia.astro";
 import Boletin from "../components/Boletin.astro";
-import { SITIO, nombreSeccion } from "../consts";
+import { SITIO, SECCIONES, SECCION_SLUGS } from "../consts";
 
 const todos = (await getCollection("articulos", ({ data }) => !data.borrador)).sort(
   (a, b) => b.data.fecha.getTime() - a.data.fecha.getTime(),
@@ -13,62 +13,45 @@ const todos = (await getCollection("articulos", ({ data }) => !data.borrador)).s
 const opiniones = todos.filter((a) => a.data.opinion);
 const notas = todos.filter((a) => !a.data.opinion);
 
-const destacada = notas.find((a) => a.data.destacada) ?? notas[0];
-const resto = notas.filter((a) => a.id !== destacada?.id);
-const secundarias = resto.slice(0, 3);
-const ultimas = resto.slice(3, 9);
+const lead = notas.find((a) => a.data.destacada) ?? notas[0];
+const resto = notas.filter((a) => a.id !== lead?.id);
+
+const wellSecundarias = resto.slice(0, 2); // debajo del lead, sin foto
+const feature = resto[2];                  // columna central, con foto
+const featureSecundarias = resto.slice(3, 5);
+const ultimas = resto.slice(5, 9);
 
 async function conAutor(a: (typeof todos)[number]) {
   return { articulo: a, autor: await getEntry(a.data.autor) };
 }
-const destacadaX = destacada ? await conAutor(destacada) : null;
-const secundariasX = await Promise.all(secundarias.map(conAutor));
+const leadX = lead ? await conAutor(lead) : null;
+const wellX = await Promise.all(wellSecundarias.map(conAutor));
+const featureX = feature ? await conAutor(feature) : null;
+const featureSecX = await Promise.all(featureSecundarias.map(conAutor));
 const ultimasX = await Promise.all(ultimas.map(conAutor));
-const opinionesX = await Promise.all(opiniones.slice(0, 5).map(conAutor));
+const opinionesX = await Promise.all(opiniones.slice(0, 6).map(conAutor));
 ---
 <Base titulo={SITIO.nombre} activa="portada">
   <main class="contenedor">
-    {destacadaX && (
-      <section class="lede">
-        <a href={`/articulo/${destacadaX.articulo.id}`} class="lede__media" aria-hidden="true" tabindex="-1">
-          <div class="ph"></div>
-        </a>
-        <div>
-          <p class="kicker">
-            {destacadaX.articulo.data.etiquetas[0]
-              ? `${nombreSeccion(destacadaX.articulo.data.seccion)} · ${destacadaX.articulo.data.etiquetas[0]}`
-              : nombreSeccion(destacadaX.articulo.data.seccion)}
-          </p>
-          <h1>
-            <a href={`/articulo/${destacadaX.articulo.id}`} style="text-decoration:none">
-              {destacadaX.articulo.data.titulo}
-            </a>
-          </h1>
-          <p class="dek">{destacadaX.articulo.data.bajada}</p>
-          <p class="byline">Por <strong>{destacadaX.autor.data.nombre}</strong></p>
-        </div>
-      </section>
-    )}
 
-    {secundariasX.length > 0 && (
-      <section class="rejilla">
-        {secundariasX.map(({ articulo, autor }) => (
-          <TarjetaArticulo articulo={articulo} autor={autor} />
+    <div class="portada">
+      <div class="col col--well pila">
+        {leadX && <TarjetaArticulo articulo={leadX.articulo} autor={leadX.autor} variante="lead" />}
+        {wellX.map(({ articulo, autor }) => (
+          <TarjetaArticulo articulo={articulo} autor={autor} variante="normal" />
         ))}
-      </section>
-    )}
+      </div>
 
-    <div class="doble">
-      <div class="riada">
-        <h2 class="rail__titulo">Lo último</h2>
-        {ultimasX.map(({ articulo, autor }) => (
-          <TarjetaArticulo articulo={articulo} autor={autor} variante="riada" />
+      <div class="col col--feature pila">
+        {featureX && <TarjetaArticulo articulo={featureX.articulo} autor={featureX.autor} variante="foto" />}
+        {featureSecX.map(({ articulo, autor }) => (
+          <TarjetaArticulo articulo={articulo} autor={autor} variante="mini" />
         ))}
       </div>
 
       {opinionesX.length > 0 && (
-        <aside class="doble__rail rail">
-          <h2 class="rail__titulo">Opinión</h2>
+        <aside class="col col--opinion">
+          <h2 class="col__titulo col__titulo--rojo">Opinión</h2>
           {opinionesX.map(({ articulo, autor }) => (
             <div class="op">
               <p class="firma">{autor.data.nombre}</p>
@@ -78,6 +61,23 @@ const opinionesX = await Promise.all(opiniones.slice(0, 5).map(conAutor));
         </aside>
       )}
     </div>
+
+    <nav class="tira" aria-label="Secciones">
+      <span class="tira__rotulo">Secciones</span>
+      {SECCION_SLUGS.map((slug) => <a href={`/${slug}`}>{SECCIONES[slug].nombre}</a>)}
+      <a href="/multimedia">Multimedia</a>
+    </nav>
+
+    {ultimasX.length > 0 && (
+      <section class="ultimo">
+        <h2 class="col__titulo">Lo último</h2>
+        <div class="ultimo__grid">
+          {ultimasX.map(({ articulo, autor }) => (
+            <TarjetaArticulo articulo={articulo} autor={autor} variante="mini" />
+          ))}
+        </div>
+      </section>
+    )}
   </main>
 
   <FranjaMultimedia />

@@ -1,27 +1,40 @@
 ---
 import type { CollectionEntry } from "astro:content";
-import { nombreSeccion } from "../consts";
+import { nombreSeccion, minutosLectura } from "../consts";
 
 interface Props {
   articulo: CollectionEntry<"articulos">;
   autor?: CollectionEntry<"autores">;
-  variante?: "grande" | "riada";
+  variante?: "lead" | "foto" | "normal" | "mini";
+  conDek?: boolean;
 }
-const { articulo, autor, variante = "grande" } = Astro.props;
-const { titulo, bajada, seccion, portada, etiquetas } = articulo.data;
+const { articulo, autor, variante = "normal", conDek = true } = Astro.props;
+const { titulo, bajada, seccion, portada, creditoPortada, etiquetas } = articulo.data;
 const url = `/articulo/${articulo.id}`;
+const min = minutosLectura(articulo.body);
 const kicker = etiquetas[0]
   ? `${nombreSeccion(seccion)} · ${etiquetas[0]}`
   : nombreSeccion(seccion);
+
+const claseVariante =
+  variante === "lead" ? "hist--lead" :
+  variante === "foto" ? "hist--foto" :
+  variante === "mini" ? "hist--mini" : "";
+const Titulo = variante === "lead" ? "h2" : "h3";
+const conFoto = variante === "foto";
 ---
-<article class:list={["tarjeta", variante === "riada" && "tarjeta--riada"]}>
-  <a href={url} class="tarjeta__media" aria-hidden="true" tabindex="-1">
-    {portada ? <img src={portada} alt="" loading="lazy" /> : <div class="ph"></div>}
-  </a>
-  <div>
-    <p class="kicker">{kicker}</p>
-    <h3><a href={url}>{titulo}</a></h3>
-    <p class="dek">{bajada}</p>
-    {autor && <p class="byline">Por <strong>{autor.data.nombre}</strong></p>}
+<article class:list={["hist", claseVariante]}>
+  {conFoto && (
+    <a href={url} class="hist__media" aria-hidden="true" tabindex="-1">
+      {portada ? <img src={portada} alt="" loading="lazy" /> : <div class="ph"></div>}
+      {creditoPortada && <span class="credito">{creditoPortada}</span>}
+    </a>
+  )}
+  <p class="kicker">{kicker}</p>
+  <Titulo><a href={url}>{titulo}</a></Titulo>
+  {conDek && <p class="dek">{bajada}</p>}
+  <div class="meta-linea">
+    {autor && <span class="byline">Por <strong>{autor.data.nombre}</strong></span>}
+    <span class="minutos">{min} min de lectura</span>
   </div>
 </article>

@@ -31,13 +31,13 @@ const conAutor = await Promise.all(
     </div>
 
     {conAutor.length > 0 ? (
-      <section class="rejilla">
+      <section class="rejilla-seccion">
         {conAutor.map(({ articulo, autor }) => (
-          <TarjetaArticulo articulo={articulo} autor={autor} />
+          <TarjetaArticulo articulo={articulo} autor={autor} variante="normal" />
         ))}
       </section>
     ) : (
-      <p style="padding:2rem 0;color:var(--gris)">
+      <p style="padding:2rem 0;color:var(--gris);font-family:var(--sans)">
         Todavía no hay notas publicadas en esta sección.
       </p>
     )}

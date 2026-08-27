@@ -16,11 +16,14 @@ const fecha = hoy.charAt(0).toUpperCase() + hoy.slice(1);
 ---
 <header class="masthead">
   <div class="contenedor">
-    <div class="masthead__top">
-      <span>{fecha} · Edición digital</span>
+    <div class="masthead__top masthead__top--izq">
+      <span>{fecha}</span>
       <span>
-        <a href="/quienes-somos">Quiénes somos</a> ·
+        <a href="/quienes-somos">Quiénes somos</a>
+        <span class="sep">·</span>
         <a href={SITIO.youtube} target="_blank" rel="noopener">YouTube</a>
+        <span class="sep">·</span>
+        <a href="/rss.xml">RSS</a>
       </span>
     </div>
     <div class="masthead__marca">
@@ -30,5 +33,6 @@ const fecha = hoy.charAt(0).toUpperCase() + hoy.slice(1);
       </a>
     </div>
   </div>
+  <div class="masthead__regla"></div>
   <Nav activa={activa} />
 </header>

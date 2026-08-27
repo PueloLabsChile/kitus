@@ -52,3 +52,9 @@ export const SECCION_SLUGS = Object.keys(SECCIONES) as SeccionSlug[];
 export function nombreSeccion(slug: string): string {
   return (SECCIONES as Record<string, { nombre: string }>)[slug]?.nombre ?? slug;
 }
+
+/** Minutos de lectura estimados a partir del texto de la nota (~200 palabras/min). */
+export function minutosLectura(texto: string | undefined): number {
+  const palabras = (texto ?? "").trim().split(/\s+/).filter(Boolean).length;
+  return Math.max(1, Math.round(palabras / 200));
+}
