@@ -6,6 +6,10 @@
    =========================================================== */
 
 :root {
+  /* El diseño es de diario: papel claro. Evita el "modo oscuro automático"
+     de Chrome en Android, que invertía el sitio y lo dejaba negro. */
+  color-scheme: only light;
+
   --rojo:        #C1272D;
   --rojo-osc:    #9b1c22;
   --tinta:       #121212;
@@ -26,7 +30,7 @@
 }
 
 * { box-sizing: border-box; }
-html { -webkit-text-size-adjust: 100%; }
+html { -webkit-text-size-adjust: 100%; background: var(--papel); }
 
 body {
   margin: 0;
