@@ -37,7 +37,7 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
     rel="stylesheet"
   />
 </head>
-<body>
+<body data-seccion={activa}>
   {SITIO.prototipo && (
     <div class="cinta-proto">
       Prototipo · <strong>contenido de demostración</strong> · Kitus aún no está publicado

@@ -25,7 +25,7 @@ const Titulo = variante === "lead" ? "h2" : "h3";
 // mostrar imagen: siempre en "foto"; en el resto si hay portada (salvo que se pida lo contrario)
 const mostrarFoto = portada && (conFoto ?? variante !== "lead");
 ---
-<article class:list={["hist", claseVariante]}>
+<article class:list={["hist", claseVariante]} data-seccion={seccion}>
   {mostrarFoto && (
     <a href={url} class="hist__media" aria-hidden="true" tabindex="-1">
       <img src={portada} alt="" loading="lazy" />

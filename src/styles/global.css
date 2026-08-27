@@ -12,6 +12,16 @@
 
   --rojo:        #C1272D;
   --rojo-osc:    #9b1c22;
+
+  /* acento por sección — tiñe volantas, menú activo, bordes de tarjeta y hovers */
+  --sec-politica:       #C1272D;
+  --sec-internacional:  #1f6f8b;
+  --sec-economia:       #1f7a4d;
+  --sec-derechos:       #a3268f;
+  --sec-opinion:        #1a1a1a;
+  --sec-cultura:        #c2560f;
+  --acento:             var(--rojo);
+
   --tinta:       #121212;
   --tinta-2:     #333333;
   --gris:        #5a5a5a;
@@ -154,8 +164,9 @@ a { color: inherit; }
   padding: .3rem 0;
   border-bottom: 3px solid transparent;
 }
-.nav a:hover { color: var(--rojo); }
-.nav a[aria-current="page"] { border-color: var(--rojo); }
+.nav a { transition: color .15s ease; }
+.nav a:hover { color: var(--acento); }
+.nav a[aria-current="page"] { border-color: var(--acento); color: var(--acento); }
 
 /* ---------- titulares ---------- */
 h1, h2, h3, h4 {
@@ -173,8 +184,16 @@ h1, h2, h3, h4 {
   font-weight: 700;
   letter-spacing: .07em;
   text-transform: uppercase;
-  color: var(--rojo);
+  color: var(--acento);
   margin-bottom: .4rem;
+}
+.kicker::before {
+  content: "";
+  display: inline-block;
+  width: .5rem; height: .5rem;
+  margin-right: .45rem;
+  background: var(--acento);
+  vertical-align: baseline;
 }
 .byline, .minutos {
   font-family: var(--sans);
@@ -200,7 +219,7 @@ h1, h2, h3, h4 {
   padding-bottom: .4rem;
   margin: 0 0 .9rem;
 }
-.col__titulo--rojo { color: var(--rojo); border-color: var(--rojo); }
+.col__titulo--rojo { color: var(--acento); border-color: var(--acento); }
 
 /* ---------- historia (bloque de nota) ---------- */
 main { padding: var(--gap) 0 3rem; }
@@ -208,7 +227,15 @@ main { padding: var(--gap) 0 3rem; }
 .hist { padding: 0; }
 .hist a { text-decoration: none; }
 .hist h3 { font-size: 1.15rem; }
-.hist h3 a:hover, .hist h2 a:hover { color: var(--rojo); }
+/* subrayado que crece al pasar el cursor */
+.hist h2 a, .hist h3 a {
+  background-image: linear-gradient(var(--acento), var(--acento));
+  background-repeat: no-repeat;
+  background-position: 0 100%;
+  background-size: 0% 2px;
+  transition: background-size .25s ease, color .15s ease;
+}
+.hist h3 a:hover, .hist h2 a:hover { color: var(--acento); background-size: 100% 2px; }
 .hist .dek {
   color: var(--tinta-2);
   font-size: .98rem;
@@ -218,8 +245,8 @@ main { padding: var(--gap) 0 3rem; }
 .hist__media { display: block; margin-bottom: .6rem; }
 .hist__media .ph, .hist__media img { width: 100%; aspect-ratio: 3/2; object-fit: cover; }
 
-.hist--lead h2 { font-size: clamp(1.6rem, 2.7vw, 2.05rem); }
-.hist--lead .dek { font-size: 1.02rem; margin-top: .4rem; }
+.hist--lead h2 { font-size: clamp(1.85rem, 3.3vw, 2.55rem); letter-spacing: -0.02em; }
+.hist--lead .dek { font-size: 1.06rem; margin-top: .5rem; }
 
 .hist--foto h3 { font-size: clamp(1.3rem, 2.2vw, 1.7rem); }
 .hist--foto .hist__media .ph, .hist--foto .hist__media img { aspect-ratio: 16/9; }
@@ -493,6 +520,98 @@ main { padding: var(--gap) 0 3rem; }
   .rejilla-seccion > .hist { border-left: 0 !important; padding: 1.1rem 0 !important; }
   .nav__inner { justify-content: flex-start; gap: 0 1.1rem; overflow-x: auto; flex-wrap: nowrap; }
   .masthead__top { flex-wrap: wrap; gap: .5rem 1rem; font-size: .66rem; }
+}
+
+/* ===========================================================
+   COLOR POR SECCIÓN + DINÁMICA
+   =========================================================== */
+
+/* acento según la sección activa de la página (lo pone <body data-seccion>) */
+body[data-seccion="politica"]      { --acento: var(--sec-politica); }
+body[data-seccion="internacional"] { --acento: var(--sec-internacional); }
+body[data-seccion="economia"]      { --acento: var(--sec-economia); }
+body[data-seccion="derechos"]      { --acento: var(--sec-derechos); }
+body[data-seccion="opinion"]       { --acento: var(--sec-opinion); }
+body[data-seccion="cultura"]       { --acento: var(--sec-cultura); }
+
+/* cada tarjeta lleva el color de SU sección, aunque esté en la portada */
+.hist[data-seccion="politica"]      { --acento: var(--sec-politica); }
+.hist[data-seccion="internacional"] { --acento: var(--sec-internacional); }
+.hist[data-seccion="economia"]      { --acento: var(--sec-economia); }
+.hist[data-seccion="derechos"]      { --acento: var(--sec-derechos); }
+.hist[data-seccion="opinion"]       { --acento: var(--sec-opinion); }
+.hist[data-seccion="cultura"]       { --acento: var(--sec-cultura); }
+
+/* barra multicolor bajo la cabecera: firma visual del sitio */
+.masthead__regla {
+  border: 0;
+  height: 4px;
+  background: linear-gradient(
+    to right,
+    var(--sec-politica) 0 16.66%,
+    var(--sec-internacional) 16.66% 33.33%,
+    var(--sec-economia) 33.33% 50%,
+    var(--sec-derechos) 50% 66.66%,
+    var(--sec-cultura) 66.66% 83.33%,
+    var(--sec-opinion) 83.33% 100%
+  );
+}
+
+/* tarjetas en grilla: borde de color arriba, se elevan al pasar el cursor */
+.ultimo__grid > .hist,
+.rejilla-seccion > .hist {
+  position: relative;
+  transition: transform .18s ease, box-shadow .18s ease;
+}
+.ultimo__grid > .hist::before,
+.rejilla-seccion > .hist::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 3px;
+  background: var(--acento);
+  opacity: .85;
+}
+.ultimo__grid > .hist:hover,
+.rejilla-seccion > .hist:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 24px -14px rgba(0, 0, 0, .35);
+}
+@media (max-width: 680px) {
+  .ultimo__grid > .hist::before,
+  .rejilla-seccion > .hist::before { display: none; }
+}
+
+/* cabecera de sección con el color de la sección */
+.seccion-cabecera { border-bottom: 2px solid var(--acento); }
+.seccion-cabecera h1 {
+  border-left: 6px solid var(--acento);
+  padding-left: .7rem;
+}
+
+/* nota: filete de color bajo el título */
+.articulo h1 {
+  border-bottom: 3px solid var(--acento);
+  padding-bottom: .5rem;
+}
+.etiquetas a:hover { color: var(--acento); border-color: var(--acento); }
+
+/* aparición suave al entrar en pantalla (sin JS; degrada a "visible" si no hay soporte) */
+@supports (animation-timeline: view()) {
+  @media (prefers-reduced-motion: no-preference) {
+    .ultimo__grid > .hist,
+    .rejilla-seccion > .hist,
+    .videos .video,
+    .agenda__lista li {
+      animation: aparecer linear both;
+      animation-timeline: view();
+      animation-range: entry 0% cover 22%;
+    }
+    @keyframes aparecer {
+      from { opacity: 0; transform: translateY(14px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+  }
 }
 
 @media (prefers-reduced-motion: reduce) {
