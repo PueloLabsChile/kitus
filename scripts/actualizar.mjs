@@ -1,22 +1,24 @@
 #!/usr/bin/env node
 /**
  * Actualiza el contenido automático de Kitus:
- *   - src/data/videos.json     : últimos videos del canal de YouTube
- *   - src/data/titulares.json  : agregado internacional (bloque "Hoy" y página /hoy/)
- *   - public/uploads/yt-*.jpg  : miniaturas de los videos nuevos
+ *   - src/data/videos.json            : últimos videos del canal de YouTube
+ *   - src/content/articulos/sind__*.md : notas republicadas de medios con licencia
+ *                                        Creative Commons (ver scripts/fuentes.json)
+ *   - public/uploads/yt-*.jpg          : miniaturas de los videos nuevos
  *
- * Sin dependencias. Sin API keys. Node 20+. Pensado para correr en GitHub Actions.
- * Si una fuente falla, conserva los datos anteriores (no rompe el build).
+ * Sin dependencias. Sin API keys. Node 20+. Pensado para GitHub Actions.
+ * Si una fuente falla, no rompe nada: sigue con las demás.
  *
  * Uso:  node scripts/actualizar.mjs
  */
-import { readFile, writeFile, mkdir, access } from "node:fs/promises";
+import { readFile, writeFile, mkdir, access, readdir, unlink } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 
 const RAIZ = join(dirname(fileURLToPath(import.meta.url)), "..");
 const UA =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122 Safari/537.36";
+const PREFIJO = "sind__"; // marca los .md generados automáticamente
 
 const log = (...a) => console.log("[actualizar]", ...a);
 
@@ -60,27 +62,14 @@ function limpiarTitulo(t) {
   if (t === t.toUpperCase() && t.length > 4) t = t.charAt(0) + t.slice(1).toLowerCase();
   return t;
 }
-/** Quita HTML, normaliza espacios y recorta en límite de palabra. */
-function resumir(html, limite = 240) {
-  // 1) desenvolver CDATA y entidades  2) quitar etiquetas reales  3) decodificar lo que quede
-  let s = decodeEntities(String(html || ""));
-  s = decodeEntities(s.replace(/<[^>]+>/g, " "))
-    .replace(/\s+/g, " ")
-    .replace(/\s*\[\s*…?\s*\]\s*$/, "")
-    .replace(/(Leer más|Seguir leyendo|Continue reading|Read more|The post .*? appeared first on .*)$/i, "")
-    .trim();
-  if (s.length <= limite) return s;
-  const corte = s.slice(0, limite);
-  const ultimoEspacio = corte.lastIndexOf(" ");
-  return (ultimoEspacio > 60 ? corte.slice(0, ultimoEspacio) : corte).replace(/[,;:.\s]+$/, "") + "…";
-}
-function normalizarTitulo(t) {
-  return t
+function slugify(s) {
+  return s
     .toLowerCase()
     .normalize("NFD")
     .replace(/[̀-ͯ]/g, "")
-    .replace(/[^a-z0-9]+/g, " ")
-    .trim();
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "")
+    .slice(0, 70);
 }
 
 /* ------------------------------------------------------------------ videos */
@@ -105,9 +94,7 @@ async function traerVideos(cfg, previos) {
     log("ytInitialData ilegible — se conservan los videos actuales");
     return previos;
   }
-  // títulos ya curados a mano: se respetan; los videos nuevos usan el título limpio de YouTube
   const tituloPrevio = new Map(previos.map((v) => [v.id, v.titulo]));
-
   const encontrados = [];
   const visto = new Set();
   (function walk(o) {
@@ -142,7 +129,7 @@ async function bajarMiniaturas(videos) {
     const destino = join(dir, `yt-${v.id}.jpg`);
     try {
       await access(destino);
-      continue; // ya existe
+      continue;
     } catch {}
     for (const variante of ["sddefault", "hqdefault"]) {
       try {
@@ -164,91 +151,191 @@ async function bajarMiniaturas(videos) {
   if (nuevas) log(`miniaturas nuevas: ${nuevas}`);
 }
 
-/* -------------------------------------------------------------- titulares */
-function parsearFeed(xml, fuente) {
-  const items = [];
-  const bloques = xml.match(/<(item|entry)\b[\s\S]*?<\/\1>/g) || [];
-  for (const b of bloques.slice(0, 8)) {
-    const titulo = decodeEntities((b.match(/<title\b[^>]*>([\s\S]*?)<\/title>/i) || [])[1] || "");
-    let link =
-      (b.match(/<link\b[^>]*rel=["']alternate["'][^>]*href=["']([^"']+)["']/i) || [])[1] ||
-      (b.match(/<link\b[^>]*href=["']([^"']+)["']/i) || [])[1] ||
-      decodeEntities((b.match(/<link\b[^>]*>([\s\S]*?)<\/link>/i) || [])[1] || "");
-    const fechaTxt =
-      (b.match(/<(pubDate|published|updated|dc:date)\b[^>]*>([\s\S]*?)<\/\1>/i) || [])[2] || "";
-    const fecha = fechaTxt && !Number.isNaN(+new Date(fechaTxt)) ? new Date(fechaTxt).toISOString() : null;
-    const crudo =
-      (b.match(/<description\b[^>]*>([\s\S]*?)<\/description>/i) || [])[1] ||
-      (b.match(/<summary\b[^>]*>([\s\S]*?)<\/summary>/i) || [])[1] ||
-      (b.match(/<content:encoded\b[^>]*>([\s\S]*?)<\/content:encoded>/i) || [])[1] ||
-      (b.match(/<content\b[^>]*>([\s\S]*?)<\/content>/i) || [])[1] ||
-      "";
-    if (!titulo || !link) continue;
-    let resumen = resumir(crudo);
-    // algunos feeds arrancan el resumen repitiendo el titular: lo sacamos
-    if (resumen.toLowerCase().startsWith(titulo.toLowerCase().slice(0, 60))) {
-      resumen = resumen.slice(titulo.length).replace(/^[\s.–—-]+/, "");
-    }
-    items.push({
-      titulo,
-      resumen,
-      url: link.trim(),
-      medio: fuente.medio,
-      pais: fuente.pais || "",
-      idioma: fuente.idioma || "es",
-      fecha,
-    });
+/* ------------------------------------------------------ HTML -> Markdown */
+function htmlAMarkdown(html) {
+  let s = decodeEntities(String(html || ""));
+  // fuera bloques que no queremos
+  s = s
+    .replace(/<(script|style|iframe|form|noscript|figure|figcaption)\b[\s\S]*?<\/\1>/gi, "")
+    .replace(/<img\b[^>]*>/gi, "") // sin imágenes: evita hotlinking y dudas de derechos
+    .replace(/<div class="[^"]*sharedaddy[\s\S]*?<\/div>/gi, "");
+  // encabezados
+  s = s.replace(/<h[1-2]\b[^>]*>([\s\S]*?)<\/h[1-2]>/gi, "\n\n## $1\n\n");
+  s = s.replace(/<h[3-6]\b[^>]*>([\s\S]*?)<\/h[3-6]>/gi, "\n\n### $1\n\n");
+  // citas
+  s = s.replace(/<blockquote\b[^>]*>([\s\S]*?)<\/blockquote>/gi, (_, c) =>
+    "\n\n" + c.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim().replace(/^/gm, "> ") + "\n\n",
+  );
+  // listas
+  s = s.replace(/<li\b[^>]*>([\s\S]*?)<\/li>/gi, (_, c) => "\n- " + c.replace(/<[^>]+>/g, " ").trim());
+  s = s.replace(/<\/(ul|ol)>/gi, "\n\n");
+  // énfasis
+  s = s.replace(/<(strong|b)\b[^>]*>([\s\S]*?)<\/\1>/gi, "**$2**");
+  s = s.replace(/<(em|i)\b[^>]*>([\s\S]*?)<\/\1>/gi, "*$2*");
+  // enlaces (solo si el destino es navegable; si no, dejamos el texto suelto)
+  s = s.replace(/<a\b[^>]*href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi, (_, href, txt) => {
+    const t = txt.replace(/<[^>]+>/g, "").trim();
+    if (!t) return "";
+    return /^(https?:\/\/|mailto:)/i.test(href) ? `[${t}](${href})` : t;
+  });
+  // párrafos y saltos
+  s = s.replace(/<br\s*\/?>/gi, "\n");
+  s = s.replace(/<\/p>/gi, "\n\n").replace(/<p\b[^>]*>/gi, "");
+  // lo que quede de HTML, fuera
+  s = s.replace(/<[^>]+>/g, "");
+  s = decodeEntities(s);
+  // limpieza de espacios
+  s = s
+    .split("\n")
+    .map((l) => l.replace(/[ \t]+/g, " ").trimEnd())
+    .join("\n")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
+  // sacar volantas decorativas al inicio ("### **Por X**", "### **Desde Y**", etc.)
+  while (/^#{1,6}\s*\*{0,2}\s*(Por|Desde|Texto|Fotos?|Imagen|Ilustraci|By)\b[^\n]*$/i.test(s)) {
+    s = s.slice(s.indexOf("\n") + 1).trimStart();
   }
-  return items;
+  return s;
+}
+function primerParrafo(md, limite = 240) {
+  const p = md.split(/\n{2,}/).find((x) => x.trim() && !x.startsWith("#") && !x.startsWith(">")) || "";
+  const t = p.replace(/[*_>#\[\]]/g, "").replace(/\]\([^)]*\)/g, "").replace(/\s+/g, " ").trim();
+  if (t.length <= limite) return t;
+  const corte = t.slice(0, limite);
+  return corte.slice(0, corte.lastIndexOf(" ")).replace(/[,;:.\s]+$/, "") + "…";
 }
 
-async function traerTitulares(fuentes, maxItems, previos) {
-  const todo = [];
-  let ok = 0;
+/* -------------------------------------------------- adivinar la sección */
+const CLAVES_SECCION = [
+  ["economia", /\beconom|\bdeuda\b|\bfmi\b|inflaci[óo]n|\bcomercio\b|arancel|\blitio\b|petr[óo]le|miner[íi]a|salari|\btrabajador|mercado laboral|banco central/i],
+  ["derechos", /derechos humanos|feminis|\bmujer|g[ée]nero|migrant|refugiad|ambient|clim[áa]tic|indí?gen|territorio|campesin|agrot[óo]x|agroecolog|agricultura|extractiv|\blgbt|aborto|\bpres[oa]s? polít/i],
+  ["cultura", /\bcine\b|pel[íi]cula|festival de cine|\blibro\b|literat|m[úu]sica|\bartist|documental|\bteatro\b|\bpoeta\b|\bpoes[íi]a\b/i],
+  ["politica", /elecci[óo]n|\bgobierno\b|president[ae]|congreso|parlament|golpe de estado|constituci[óo]n|corrupci[óo]n|\bpartido\b/i],
+];
+function adivinarSeccion(texto) {
+  for (const [slug, rx] of CLAVES_SECCION) if (rx.test(texto)) return slug;
+  return "internacional";
+}
+
+/* -------------------------------------------------- sindicar artículos */
+function itemsDeFeed(xml) {
+  return (xml.match(/<(item|entry)\b[\s\S]*?<\/\1>/g) || []).map((b) => {
+    const g = (re) => (b.match(re) || [])[1] || "";
+    const titulo = decodeEntities(g(/<title\b[^>]*>([\s\S]*?)<\/title>/i));
+    const link =
+      g(/<link\b[^>]*rel=["']alternate["'][^>]*href=["']([^"']+)["']/i) ||
+      g(/<link\b[^>]*href=["']([^"']+)["']/i) ||
+      decodeEntities(g(/<link\b[^>]*>([\s\S]*?)<\/link>/i));
+    const fechaTxt =
+      (b.match(/<(pubDate|published|updated|dc:date)\b[^>]*>([\s\S]*?)<\/\1>/i) || [])[2] || "";
+    const autor = decodeEntities(
+      g(/<dc:creator\b[^>]*>([\s\S]*?)<\/dc:creator>/i) ||
+        g(/<author\b[^>]*>[\s\S]*?<name\b[^>]*>([\s\S]*?)<\/name>[\s\S]*?<\/author>/i) ||
+        g(/<author\b[^>]*>([\s\S]*?)<\/author>/i),
+    );
+    const cuerpoHtml =
+      g(/<content:encoded\b[^>]*>([\s\S]*?)<\/content:encoded>/i) ||
+      g(/<content\b[^>]*>([\s\S]*?)<\/content>/i) ||
+      g(/<description\b[^>]*>([\s\S]*?)<\/description>/i);
+    return { titulo, link: link.trim(), fechaTxt, autor, cuerpoHtml };
+  });
+}
+
+async function sindicar(fuentes, cfg) {
+  const dir = join(RAIZ, "src", "content", "articulos");
+  await mkdir(dir, { recursive: true });
+  const existentes = (await readdir(dir)).filter((f) => f.startsWith(PREFIJO));
+  const limiteViejo = Date.now() - (cfg.diasQueSeConservan ?? 45) * 864e5;
+
+  let creados = 0;
+  const vigentes = new Set();
+
   for (const f of fuentes) {
+    let xml;
     try {
-      const xml = await bajar(f.url, { timeout: 15000 });
-      const items = parsearFeed(xml, f);
-      log(`${f.medio}: ${items.length} titulares`);
-      if (items.length) ok++;
-      todo.push(...items);
+      xml = await bajar(f.url, { timeout: 20000 });
     } catch (e) {
-      log(`${f.medio}: falló (${e.message})`);
+      log(`${f.medio}: falló (${e.message}) — se conservan sus notas`);
+      // marcar sus notas como vigentes para que no se borren
+      for (const n of existentes) if (n.startsWith(PREFIJO + slugify(f.medio))) vigentes.add(n);
+      continue;
     }
-  }
-  if (ok === 0) {
-    log("ningún feed respondió — se conservan los titulares actuales");
-    return previos;
-  }
+    const items = itemsDeFeed(xml).slice(0, f.maxPorFeed ?? 4);
+    let ok = 0;
+    for (const it of items) {
+      if (!it.titulo || !it.link || !it.cuerpoHtml) continue;
+      // saltear posts promocionales / de servicio
+      if (/\b(apoya|apoy[áa]|suscr[ií]b|newsletter|bolet[íi]n|campa[ñn]a spotlight|dona\b|donaci[óo]n)\b/i.test(it.titulo)) {
+        continue;
+      }
+      const fecha = new Date(it.fechaTxt);
+      if (Number.isNaN(+fecha) || +fecha < limiteViejo) continue;
 
-  // dedup por URL y por título normalizado
-  const porUrl = new Set();
-  const porTitulo = new Set();
-  const unicos = [];
-  for (const it of todo) {
-    const t = normalizarTitulo(it.titulo);
-    if (porUrl.has(it.url) || porTitulo.has(t)) continue;
-    porUrl.add(it.url);
-    porTitulo.add(t);
-    unicos.push(it);
-  }
+      const cuerpo = htmlAMarkdown(it.cuerpoHtml);
+      if (cuerpo.length < 400) continue; // demasiado corto: probablemente solo un resumen
 
-  unicos.sort((a, b) => (b.fecha || "").localeCompare(a.fecha || ""));
+      const slugPost = slugify(it.link.replace(/^https?:\/\/[^/]+\//, "").replace(/\/$/, "")) ||
+        slugify(it.titulo);
+      const nombre = `${PREFIJO}${slugify(f.medio)}__${slugPost}.md`.slice(0, 120);
+      vigentes.add(nombre);
+      const ruta = join(dir, nombre);
 
-  // primera vuelta: un titular por medio (para que ninguno acapare el arranque)
-  const usados = new Set();
-  const orden = [];
-  const vistoMedio = new Set();
-  for (const it of unicos) {
-    if (!vistoMedio.has(it.medio)) {
-      vistoMedio.add(it.medio);
-      usados.add(it);
-      orden.push(it);
+      try {
+        await access(ruta);
+        ok++;
+        continue; // ya existe: no lo pisamos (la redacción puede haberlo tocado)
+      } catch {}
+
+      const fechaISO = fecha.toISOString().slice(0, 10);
+      const bajada = primerParrafo(cuerpo);
+      const seccion = adivinarSeccion(`${it.titulo} ${bajada}`);
+      const firma = it.autor && it.autor.length < 80 ? it.autor : f.medio;
+      const fm = [
+        "---",
+        `titulo: ${JSON.stringify(it.titulo)}`,
+        `bajada: ${JSON.stringify(bajada)}`,
+        `seccion: ${seccion}`,
+        "autor: medios-aliados",
+        `fecha: ${fechaISO}`,
+        `etiquetas: [${JSON.stringify(f.medio)}]`,
+        "origen: sindicada",
+        `firma: ${JSON.stringify(firma)}`,
+        `fuente: ${JSON.stringify(f.medio)}`,
+        `fuenteUrl: ${JSON.stringify(f.home || "")}`,
+        `original: ${JSON.stringify(it.link)}`,
+        `licencia: ${JSON.stringify(f.licencia || "")}`,
+        `licenciaUrl: ${JSON.stringify(f.licenciaUrl || "")}`,
+        "---",
+        "",
+      ].join("\n");
+      const pie =
+        `\n\n---\n\n*Publicado originalmente en [${f.medio}](${it.link}) el ` +
+        `${fecha.toLocaleDateString("es-AR", { day: "numeric", month: "long", year: "numeric" })}. ` +
+        `Reproducido por Kitus bajo licencia [${f.licencia}](${f.licenciaUrl}). ` +
+        `El texto no fue modificado.*\n`;
+      await writeFile(ruta, fm + cuerpo + pie, "utf8");
+      creados++;
+      ok++;
     }
+    log(`${f.medio}: ${ok} nota(s) vigentes (${items.length} en el feed)`);
   }
-  for (const it of unicos) if (!usados.has(it)) orden.push(it);
 
-  return orden.slice(0, maxItems);
+  // podar: notas sindicadas que ya no están en ningún feed y superan la antigüedad
+  let podadas = 0;
+  for (const n of existentes) {
+    if (vigentes.has(n)) continue;
+    const ruta = join(dir, n);
+    try {
+      const txt = await readFile(ruta, "utf8");
+      const m = txt.match(/^fecha:\s*(\d{4}-\d{2}-\d{2})/m);
+      const vieja = m ? new Date(m[1]).getTime() < limiteViejo : true;
+      if (vieja) {
+        await unlink(ruta);
+        podadas++;
+      }
+    } catch {}
+  }
+  log(`sindicación: ${creados} nota(s) nueva(s), ${podadas} podada(s)`);
 }
 
 /* --------------------------------------------------------------------- run */
@@ -259,18 +346,10 @@ if (!cfg) {
 }
 
 const videosPrevios = await leerJSON("src/data/videos.json", []);
-const titularesPrevios = await leerJSON("src/data/titulares.json", []);
-
 const videos = await traerVideos(cfg.canalYoutube, videosPrevios);
 await bajarMiniaturas(videos);
 await guardarJSON("src/data/videos.json", videos);
 
-const titulares = await traerTitulares(
-  cfg.internacional || [],
-  cfg.maxTitulares ?? 60,
-  titularesPrevios,
-);
-await guardarJSON("src/data/titulares.json", titulares);
-log(`titulares: ${titulares.length} guardados`);
+await sindicar(cfg.sindicadas || [], cfg);
 
 log("listo.");

@@ -20,6 +20,17 @@ const articulos = defineCollection({
     opinion: z.boolean().default(false),
     // Borrador: no se publica.
     borrador: z.boolean().default(false),
+
+    // Origen de la nota: "propia" (redacción / canal) o "sindicada" (republicada
+    // de un medio aliado bajo licencia Creative Commons, la genera actualizar.mjs).
+    origen: z.enum(["propia", "sindicada"]).default("propia"),
+    // Solo para sindicadas: firma real, medio de origen, enlace al original y licencia.
+    firma: z.string().optional(),
+    fuente: z.string().optional(),
+    fuenteUrl: z.string().optional(),
+    original: z.string().optional(),
+    licencia: z.string().optional(),
+    licenciaUrl: z.string().optional(),
   }),
 });
 

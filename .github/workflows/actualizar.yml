@@ -1,8 +1,8 @@
 name: Actualizar contenido
 
-# Trae los últimos videos del canal y el agregado internacional (titulares) de los
-# feeds de scripts/fuentes.json. Si algo cambió, hace commit — y eso dispara el
-# redeploy del hosting (Netlify / Cloudflare).
+# Trae los últimos videos del canal y republica notas completas de los medios con
+# licencia Creative Commons listados en scripts/fuentes.json. Si algo cambió, hace
+# commit — y eso dispara el redeploy del hosting (Netlify).
 
 on:
   schedule:
@@ -26,16 +26,17 @@ jobs:
         with:
           node-version: 20
 
-      - name: Traer videos y titulares
+      - name: Traer videos y notas sindicadas
         run: node scripts/actualizar.mjs
 
       - name: Commit si hubo cambios
         run: |
-          if [[ -n "$(git status --porcelain src/data public/uploads)" ]]; then
+          rutas="src/data public/uploads src/content/articulos"
+          if [[ -n "$(git status --porcelain $rutas)" ]]; then
             git config user.name "kitus-bot"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add src/data public/uploads
-            git commit -m "Auto: actualiza videos y titulares [skip ci]"
+            git add $rutas
+            git commit -m "Auto: actualiza videos y notas de medios aliados [skip ci]"
             git push
           else
             echo "Sin cambios."

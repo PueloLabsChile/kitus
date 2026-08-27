@@ -13,7 +13,6 @@ const anio = new Date().getFullYear();
       <div>
         <h4>Secciones</h4>
         <ul>
-          <li><a href="/hoy/">Hoy</a></li>
           {SECCION_SLUGS.map((slug) => (
             <li><a href={`/${slug}/`}>{SECCIONES[slug].nombre}</a></li>
           ))}
@@ -39,6 +38,7 @@ const anio = new Date().getFullYear();
     </div>
     <div class="pie__legal">
       <span>© {anio} {SITIO.nombre} · {SITIO.lema}</span>
+      <span>Algunas notas se reproducen de medios aliados bajo licencia Creative Commons; el crédito y el enlace al original van al pie de cada una.</span>
       {SITIO.prototipo && <span>Prototipo — contenido de demostración</span>}
     </div>
   </div>

@@ -89,35 +89,36 @@ partir de las notas de `src/content/articulos/`. Solo hay que crear la nota.
 
 ## Contenido que se actualiza solo
 
-Además de las notas propias, dos bloques se refrescan automáticamente, **sin IA,
+Además de las notas propias, el sitio se llena solo de dos formas, **sin IA,
 sin API keys y sin costo**:
 
-| Bloque | De dónde sale | Archivo |
+| Qué | De dónde sale | Dónde queda |
 |---|---|---|
 | Franja **Multimedia** y página `/multimedia` | Últimos videos del canal de YouTube | `src/data/videos.json` |
-| Bloque **"Hoy · el mundo en análisis"** (portada) y página **`/hoy/`** | Feeds RSS de medios internacionales de análisis político y geopolítico | `src/data/titulares.json` |
+| **Notas completas republicadas** de medios con licencia Creative Commons | Feeds RSS de `scripts/fuentes.json` → `sindicadas` | `src/content/articulos/sind__*.md` |
 
-**Cómo funciona.** El script `scripts/actualizar.mjs` lee la página pública del
-canal y los feeds listados en `scripts/fuentes.json`, y reescribe esos dos JSON
-(y descarga las miniaturas nuevas a `public/uploads/`). El bloque "Hoy" muestra
-titular + extracto corto (el que trae el propio RSS) + medio + enlace a la nota
-original en su fuente; Kitus no reproduce ni edita esos textos.
+**Notas sindicadas.** El script `scripts/actualizar.mjs` baja las últimas notas de
+cada medio de la lista `sindicadas`, convierte el HTML a Markdown y las guarda como
+páginas normales de Kitus (prefijo `sind__`), con la sección adivinada por palabras
+clave. Cada una lleva la firma original, un recuadro con la licencia y el enlace a
+la nota original; **el texto no se modifica**. Entran en la portada y en su sección
+como cualquier nota. Solo se agregan medios cuya licencia permita la reproducción
+(por ahora: Global Voices, Pressenza, Agencia Tierra Viva).
 
-- **Probarlo a mano:** `npm run actualizar`
-- **Automático:** el workflow `.github/workflows/actualizar.yml` lo corre **cada
-  8 horas** en GitHub Actions (dentro del tramo gratuito). Si algo cambió, hace un
-  commit; ese commit dispara el redeploy del hosting. También se puede ejecutar a
-  mano desde la pestaña *Actions* del repo (*Run workflow*).
-- **Elegir las fuentes:** editar `scripts/fuentes.json` -> lista `internacional`
-  (medio + URL del feed + país + idioma `es`/`en`). Si un feed no responde, se
-  conservan los titulares anteriores; el sitio nunca queda vacío.
-- Los títulos de video ya cargados a mano en `videos.json` se respetan; los
-  videos nuevos toman el título de YouTube.
+- Si el `.md` ya existe, no se pisa (la redacción puede corregir sección, bajada, etc.).
+- Las que salen de todos los feeds y superan `diasQueSeConservan` (45) se borran solas.
+- Para editar la lista: `scripts/fuentes.json` → `sindicadas` (medio, url, home,
+  licencia, licenciaUrl, maxPorFeed).
 
-> **Notas redactadas automáticamente (con IA):** no están activadas —requieren una
-> API key de pago—. El enganche está pensado para sumarse encima de este agregador
-> cuando haya presupuesto o periodistas. Por ahora el contenido automático son
-> titulares enlazados, no artículos originales.
+**Cómo corre.** `npm run actualizar` a mano, o el workflow
+`.github/workflows/actualizar.yml` **cada 8 h** en GitHub Actions (tramo gratuito):
+si algo cambió, hace commit y eso dispara el redeploy. También desde la pestaña
+*Actions* → *Run workflow*.
+
+> **Notas redactadas por IA** (síntesis propias, "Panorama del día"): no están
+> activadas —requieren una API key de pago—. El enganche queda para cuando haya
+> presupuesto o periodistas. Hoy el contenido automático es: videos del canal +
+> notas republicadas con licencia.
 
 ---
 

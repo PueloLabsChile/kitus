@@ -15,6 +15,9 @@ export const getStaticPaths = (async () => {
 
 const { articulo } = Astro.props;
 const { titulo, bajada, seccion, fecha, etiquetas, portada, creditoPortada } = articulo.data;
+const { origen, firma, fuente, fuenteUrl, original, licencia, licenciaUrl } = articulo.data;
+const esSindicada = origen === "sindicada";
+
 const autor = await getEntry(articulo.data.autor);
 const { Content } = await render(articulo);
 const min = minutosLectura(articulo.body);
@@ -25,6 +28,7 @@ const fechaTxt = fecha.toLocaleDateString("es-AR", {
   year: "numeric",
 });
 const kicker = etiquetas[0] ? `${nombreSeccion(seccion)} · ${etiquetas[0]}` : nombreSeccion(seccion);
+const autoria = esSindicada ? firma || fuente || "Medios aliados" : autor.data.nombre;
 ---
 <Base titulo={titulo} descripcion={bajada} activa={seccion}>
   <main class="contenedor">
@@ -34,17 +38,30 @@ const kicker = etiquetas[0] ? `${nombreSeccion(seccion)} · ${etiquetas[0]}` : n
       <p class="dek">{bajada}</p>
 
       <div class="articulo__meta">
-        <span class="byline">Por <strong>{autor.data.nombre}</strong></span>
+        <span class="byline">Por <strong>{autoria}</strong></span>
+        {esSindicada && fuente && (
+          <span class="byline">vía {fuenteUrl ? <a href={fuenteUrl} target="_blank" rel="noopener">{fuente}</a> : fuente}</span>
+        )}
         <span class="byline">{fechaTxt}</span>
         <span class="minutos">{min} min de lectura</span>
       </div>
 
-      <figure class="articulo__hero">
-        {portada ? <img src={portada} alt={creditoPortada ?? ""} /> : <div class="ph"></div>}
-        {creditoPortada
-          ? <figcaption>{creditoPortada}</figcaption>
-          : <figcaption>Prototipo: aquí iría la foto de apertura con su epígrafe y crédito.</figcaption>}
-      </figure>
+      {esSindicada && (
+        <p class="sindicada-aviso">
+          Nota reproducida de <strong>{fuente}</strong> bajo licencia{" "}
+          {licenciaUrl ? <a href={licenciaUrl} target="_blank" rel="noopener">{licencia}</a> : licencia}.
+          Kitus no modifica el texto. {original && (<a href={original} target="_blank" rel="noopener">Ver original &rsaquo;</a>)}
+        </p>
+      )}
+
+      {!esSindicada && (
+        <figure class="articulo__hero">
+          {portada ? <img src={portada} alt={creditoPortada ?? ""} /> : <div class="ph"></div>}
+          {creditoPortada
+            ? <figcaption>{creditoPortada}</figcaption>
+            : <figcaption>Prototipo: aquí iría la foto de apertura con su epígrafe y crédito.</figcaption>}
+        </figure>
+      )}
 
       <div class="cuerpo">
         <Content />
@@ -56,13 +73,24 @@ const kicker = etiquetas[0] ? `${nombreSeccion(seccion)} · ${etiquetas[0]}` : n
         </div>
       )}
 
-      <div class="autor-bio">
-        <div class="avatar">{autor.data.iniciales}</div>
-        <div>
-          <h4>{autor.data.nombre}</h4>
-          <p>{autor.data.bio}</p>
+      {esSindicada ? (
+        <div class="credito-fuente">
+          <p>
+            Publicado originalmente en{" "}
+            {original ? <a href={original} target="_blank" rel="noopener">{fuente}</a> : fuente}.
+            Reproducido por Kitus bajo licencia{" "}
+            {licenciaUrl ? <a href={licenciaUrl} target="_blank" rel="noopener">{licencia}</a> : licencia}.
+          </p>
         </div>
-      </div>
+      ) : (
+        <div class="autor-bio">
+          <div class="avatar">{autor.data.iniciales}</div>
+          <div>
+            <h4>{autor.data.nombre}</h4>
+            <p>{autor.data.bio}</p>
+          </div>
+        </div>
+      )}
     </article>
   </main>
   <Boletin />
