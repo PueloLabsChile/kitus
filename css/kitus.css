@@ -345,7 +345,7 @@ main { padding: var(--gap) 0 3rem; }
   .lede, .rejilla, .doble, .videos, .boletin .contenedor, .pie__grid, .prosa .lista-equipo { grid-template-columns: 1fr; }
   .doble__rail { order: 2; }
   .riada .tarjeta { flex-direction: column; }
-  .riada .tarjeta img { width: 100%; }
+  .riada .tarjeta img, .riada .tarjeta .ph { width: 100%; }
 }
 
 @media (max-width: 680px) {
