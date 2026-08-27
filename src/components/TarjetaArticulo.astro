@@ -11,7 +11,7 @@ interface Props {
 }
 const { articulo, autor, variante = "normal", conDek = true, conFoto } = Astro.props;
 const { titulo, bajada, seccion, portada, creditoPortada, etiquetas } = articulo.data;
-const url = `/articulo/${articulo.id}`;
+const url = `/articulo/${articulo.id}/`;
 const min = minutosLectura(articulo.body);
 const kicker = etiquetas[0]
   ? `${nombreSeccion(seccion)} · ${etiquetas[0]}`

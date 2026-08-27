@@ -114,20 +114,56 @@ dependencias.
 
 ---
 
-## Publicar en Netlify (recomendado por el CMS)
+## Publicar en un hosting con cPanel
 
-1. Subir el repo a GitHub y conectar el sitio en Netlify (toma el `netlify.toml`:
-   build `npm run build`, salida `dist/`).
+El sitio es **HTML estático**: se compila en tu máquina y se sube la carpeta
+resultante. Con `build.format: 'directory'` en `astro.config.mjs` cada página es
+`carpeta/index.html`, así que Apache la sirve sin reglas de reescritura.
+
+1. **Compilar:** `npm run build` → todo queda en `dist/` (incluido `dist/.htaccess`,
+   que se copia desde `public/.htaccess`).
+2. **Empaquetar:** seleccionar **el contenido** de `dist/` (no la carpeta `dist`
+   en sí), click derecho → *Comprimir* → `kitus.zip`.
+3. **Subir:** en cPanel → *Administrador de archivos* → entrar a `public_html/`
+   (borrar lo que haya de una versión anterior) → *Cargar* `kitus.zip` →
+   *Extraer*. Verificar que `.htaccess` quedó en `public_html/` (activar "Mostrar
+   archivos ocultos" en Configuración del administrador de archivos).
+4. **Dominio:** apuntar el dominio a ese hosting y ponerlo en `astro.config.mjs`
+   (`site: 'https://tudominio.com'`) para que canonical, sitemap y RSS usen la URL
+   real. Recompilar y volver a subir.
+5. **HTTPS:** activar el certificado SSL gratis de cPanel (*SSL/TLS Status* →
+   *Run AutoSSL*). El `.htaccess` ya fuerza `https://`.
+
+Alternativa: subir por **FTP/SFTP** (FileZilla) el contenido de `dist/` a
+`public_html/`. Más lento pero no hace falta comprimir.
+
+### El panel de redacción (`/admin/`) en cPanel
+
+Decap CMS necesita un servicio de autenticación que cPanel no trae. Opciones:
+
+- **Editar en local** (lo más simple para empezar): `npm run cms` + `npm run dev`,
+  cargar las notas en `http://localhost:4321/admin/` sin login, `git push`,
+  recompilar y subir. Sirve mientras escriban una o dos personas.
+- **CMS en el sitio:** cambiar el backend de `public/admin/config.yml` a `github`
+  y crear una *OAuth App* + un pequeño proxy de autenticación (hay servicios
+  gratuitos que lo hostean). Documentar aparte cuando haga falta.
+- **Netlify solo para el CMS:** ver más abajo.
+
+> Nota: el workflow de autoactualización (`.github/workflows/actualizar.yml`) hace
+> commit en GitHub, pero **no** dispara un deploy en cPanel. Para que los bloques
+> de video/agenda se refresquen en el sitio hay que recompilar y volver a subir
+> (o automatizar la subida por FTP desde el propio workflow).
+
+## Alternativa: publicar en Netlify (deploy automático + CMS sin configurar)
+
+1. Conectar el repo de GitHub en Netlify (toma el `netlify.toml`: build
+   `npm run build`, salida `dist/`). Cada push redespliega solo.
 2. En Netlify: **Identity → Enable**, y **Identity → Services → Git Gateway → Enable**.
 3. En **Identity → Registration** poner "Invite only" e invitar a las dos personas
    que escriben.
-4. Entran a `https://kitus.org/admin/`, aceptan la invitación y ya pueden publicar.
-   Cada nota guardada es un commit y dispara un nuevo deploy automático.
-5. Conectar el dominio propio desde el panel de Netlify.
-
-> Alternativa sin Netlify: cambiar el backend de `public/admin/config.yml` a
-> `github` (requiere crear una OAuth App) y hostear en Cloudflare Pages o GitHub
-> Pages. El sitio en sí es estático y corre en cualquier lado.
+4. Entran a `/admin/`, aceptan la invitación y ya pueden publicar. Cada nota
+   guardada es un commit y dispara un nuevo deploy.
+5. Apuntar el dominio propio desde el panel de Netlify.
 
 ### Antes de publicar de verdad
 

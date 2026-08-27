@@ -15,7 +15,7 @@ export async function GET(context) {
       title: a.data.titulo,
       description: a.data.bajada,
       pubDate: a.data.fecha,
-      link: `/articulo/${a.id}`,
+      link: `/articulo/${a.id}/`,
       categories: [a.data.seccion, ...a.data.etiquetas],
     })),
     customData: `<language>es-ar</language>`,
