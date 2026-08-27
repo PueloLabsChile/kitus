@@ -12,3 +12,6 @@ node_modules/
 Thumbs.db
 *.log
 .vscode/
+
+# netlify cli
+.netlify/
