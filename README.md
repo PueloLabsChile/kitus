@@ -46,7 +46,7 @@ src/
 ├── content/
 │   ├── articulos/*.md        Una nota por archivo (frontmatter + texto)
 │   └── autores/*.md          Fichas de autor/a
-├── components/               Masthead, Nav, Pie, TarjetaArticulo, Boletin, FranjaMultimedia
+├── components/               Masthead, Nav, Pie, TarjetaArticulo, Agenda, Boletin, FranjaMultimedia
 ├── layouts/                  Base.astro (envoltura común)
 ├── pages/
 │   ├── index.astro           Portada (se arma sola con las notas)
@@ -55,11 +55,21 @@ src/
 │   ├── quienes-somos.astro
 │   ├── multimedia.astro
 │   └── rss.xml.js            Feed RSS
+├── data/
+│   ├── videos.json           Videos del canal (lo actualiza el script)
+│   └── agenda.json           Titulares de otros medios (lo actualiza el script)
 └── styles/global.css         Toda la hoja de estilo
+
+scripts/
+├── actualizar.mjs            Trae videos + agenda (sin dependencias)
+└── fuentes.json              Canal de YouTube y feeds RSS a seguir  ← EDITAR
+
+.github/workflows/
+└── actualizar.yml            Corre el script cada 8 h y hace commit si algo cambió
 
 public/
 ├── admin/                    Decap CMS (index.html + config.yml)
-├── uploads/                  Imágenes subidas desde el panel
+├── uploads/                  Miniaturas de video + imágenes subidas desde el panel
 ├── logo-kitus.svg
 └── favicon.svg
 
@@ -74,8 +84,33 @@ partir de las notas de `src/content/articulos/`. Solo hay que crear la nota.
 - `destacada: true` → va grande como nota de tapa.
 - `opinion: true` → va en la columna "Opinión" de la portada y en la sección Opinión.
 - `borrador: true` → no se publica.
-- La franja **Multimedia** trae los últimos videos del canal de YouTube en cada
-  build (si el feed no responde, muestra tarjetas que enlazan al canal).
+
+---
+
+## Contenido que se actualiza solo
+
+Además de las notas propias, dos bloques se refrescan automáticamente:
+
+| Bloque | De dónde sale | Archivo |
+|---|---|---|
+| Franja **Multimedia** y página `/multimedia` | Últimos videos del canal de YouTube | `src/data/videos.json` |
+| **"En la agenda · otras miradas"** (portada) | Feeds RSS de medios afines | `src/data/agenda.json` |
+
+**Cómo funciona.** El script `scripts/actualizar.mjs` lee la página pública del
+canal y los feeds listados en `scripts/fuentes.json`, y reescribe esos dos JSON
+(y descarga las miniaturas nuevas a `public/uploads/`). No usa API keys ni
+dependencias.
+
+- **Probarlo a mano:** `npm run actualizar`
+- **Automático:** el workflow `.github/workflows/actualizar.yml` lo corre **cada
+  8 horas** en GitHub Actions. Si algo cambió, hace un commit; ese commit dispara
+  el redeploy del hosting. También se puede ejecutar a mano desde la pestaña
+  *Actions* del repo (*Run workflow*).
+- **Elegir las fuentes:** editar `scripts/fuentes.json` (lista `agenda`: nombre
+  del medio + URL del feed). Si un feed no responde, se conservan los datos
+  anteriores; el sitio nunca queda vacío.
+- Los títulos de video ya cargados a mano en `videos.json` se respetan; los
+  videos nuevos toman el título de YouTube.
 
 ---
 

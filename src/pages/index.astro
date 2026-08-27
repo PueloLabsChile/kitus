@@ -3,6 +3,7 @@ import { getCollection, getEntry } from "astro:content";
 import Base from "../layouts/Base.astro";
 import TarjetaArticulo from "../components/TarjetaArticulo.astro";
 import FranjaMultimedia from "../components/FranjaMultimedia.astro";
+import Agenda from "../components/Agenda.astro";
 import Boletin from "../components/Boletin.astro";
 import { SITIO, SECCIONES, SECCION_SLUGS } from "../consts";
 
@@ -85,6 +86,8 @@ const opinionesX = await Promise.all(opiniones.slice(0, 6).map(conAutor));
         </div>
       </section>
     )}
+
+    <Agenda />
   </main>
 
   <FranjaMultimedia />

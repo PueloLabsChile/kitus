@@ -1,0 +1,15 @@
+{
+  "canalYoutube": {
+    "handle": "kitusonline6343",
+    "channelId": "UCqHkNvdvKoCJtpMZuNVlrtw"
+  },
+  "//": "Feeds RSS de medios afines para el bloque 'En la agenda'. Editá esta lista. Cada uno: nombre visible + url del feed.",
+  "agenda": [
+    { "medio": "Desinformémonos", "url": "https://desinformemonos.org/feed/" },
+    { "medio": "Agencia Tierra Viva", "url": "https://agenciatierraviva.com.ar/feed/" },
+    { "medio": "El Salto", "url": "https://www.elsaltodiario.com/general/feed" },
+    { "medio": "La tinta", "url": "https://latinta.com.ar/feed/" }
+  ],
+  "maxAgenda": 12,
+  "maxVideos": 24
+}
