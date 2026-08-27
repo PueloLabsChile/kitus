@@ -2,5 +2,5 @@
 nombre: Red de colaboración
 iniciales: RC
 rol: Colaboración internacional
-bio: Colaboradores y colaboradoras que aportan notas, traducciones y material audiovisual desde distintos países.
+bio: Colaboradoras y colaboradores que aportan entrevistas, traducciones, ensayos y material audiovisual desde distintos países.
 ---

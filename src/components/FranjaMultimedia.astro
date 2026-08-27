@@ -1,56 +1,41 @@
 ---
 import { SITIO } from "../consts";
+import videos from "../data/videos.json";
 
 /**
- * Trae los últimos videos del canal de YouTube desde su feed público (Atom).
- * Se resuelve en tiempo de build: cada vez que se publica el sitio, la franja
- * queda actualizada. Si el feed falla, muestra marcadores que enlazan al canal.
+ * Franja de multimedia con videos reales del canal de Kitus.
+ * La lista vive en src/data/videos.json (id de YouTube + título).
+ * Las miniaturas están descargadas en public/uploads/yt-<id>.jpg.
  */
-const CHANNEL_ID = "UCqHkNvdvKoCJtpMZuNVlrtw";
-const FEED = `https://www.youtube.com/feeds/videos.xml?channel_id=${CHANNEL_ID}`;
-
-interface Video { titulo: string; url: string; thumb: string | null; }
-let videos: Video[] = [];
-
-try {
-  const res = await fetch(FEED, { signal: AbortSignal.timeout(6000) });
-  if (res.ok) {
-    const xml = await res.text();
-    const entradas = xml.split("<entry>").slice(1, 4);
-    videos = entradas.map((e) => {
-      const titulo = e.match(/<title>([\s\S]*?)<\/title>/)?.[1]?.trim() ?? "Video de Kitus";
-      const url = e.match(/<link rel="alternate" href="([^"]+)"/)?.[1] ?? SITIO.youtube;
-      const thumb = e.match(/<media:thumbnail url="([^"]+)"/)?.[1] ?? null;
-      return { titulo, url, thumb };
-    });
-  }
-} catch {
-  // sin conexión al feed: se usa el fallback de abajo
+interface Props {
+  cantidad?: number;
+  desde?: number;
+  titulo?: string;
+  verTodos?: boolean;
 }
-
-const fallback: Video[] = [
-  { titulo: "Entrevista: economía popular y trabajo que no se ve", url: SITIO.youtube, thumb: null },
-  { titulo: "Informe: el agua como frontera del extractivismo", url: SITIO.youtube, thumb: null },
-  { titulo: "Debate: medios, poder y relato en campaña", url: SITIO.youtube, thumb: null },
-];
-const lista = videos.length ? videos : fallback;
+const { cantidad = 3, desde = 0, titulo = "Multimedia", verTodos = true } = Astro.props;
+const lista = videos.slice(desde, desde + cantidad);
+const url = (id: string) => `https://www.youtube.com/watch?v=${id}`;
 ---
 <section class="multimedia">
   <div class="contenedor">
-    <h2>Multimedia</h2>
-    <p class="sub">Los videos y entrevistas del canal de Kitus.</p>
+    <h2>{titulo}</h2>
+    <p class="sub">Entrevistas, informes y coberturas del canal de Kitus.</p>
     <div class="videos">
       {lista.map((v) => (
-        <a class="video" href={v.url} target="_blank" rel="noopener">
-          <div class="thumb" style={v.thumb ? `background-image:url(${v.thumb});background-size:cover;background-position:center` : undefined}>
-            <span></span>
+        <a class="video" href={url(v.id)} target="_blank" rel="noopener">
+          <div class="thumb">
+            <img src={`/uploads/yt-${v.id}.jpg`} alt="" loading="lazy" />
+            <span aria-hidden="true"></span>
           </div>
           <h4>{v.titulo}</h4>
         </a>
       ))}
     </div>
-    <p style="margin-top:1.6rem">
-      <a class="btn" href={SITIO.youtube} target="_blank" rel="noopener">Ver el canal en YouTube</a>
-    </p>
+    {verTodos && (
+      <p style="margin-top:1.6rem">
+        <a class="btn" href="/multimedia">Ver todo el archivo audiovisual</a>
+      </p>
+    )}
   </div>
 </section>

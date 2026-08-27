@@ -2,5 +2,5 @@
 nombre: Marina Kordon
 iniciales: MK
 rol: Redacción
-bio: Cubre política, trabajo y movimientos sociales. Antes trabajó en prensa gráfica y radio comunitaria.
+bio: Cubre pueblos originarios, feminismos y movimientos territoriales en el Cono Sur. Antes trabajó en radio comunitaria.
 ---

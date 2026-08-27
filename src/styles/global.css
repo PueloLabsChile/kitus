@@ -244,8 +244,11 @@ main { padding: var(--gap) 0 3rem; }
 .portada > .col + .col { border-left: 1px solid var(--linea-2); }
 
 .col--opinion { background: linear-gradient(var(--papel), var(--papel)); }
-.col--opinion .op { padding: .85rem 0; border-top: 1px solid var(--linea); }
+.col--opinion .op { display: flex; gap: .8rem; padding: .85rem 0; border-top: 1px solid var(--linea); }
 .col--opinion .op:first-of-type { border-top: 0; padding-top: 0; }
+.col--opinion .op > div { flex: 1; }
+.col--opinion .op__thumb { flex: none; width: 76px; }
+.col--opinion .op__thumb img { width: 76px; height: 76px; object-fit: cover; display: block; }
 .col--opinion .op .firma {
   font-family: var(--sans); font-size: .68rem; font-weight: 700;
   letter-spacing: .05em; text-transform: uppercase; color: var(--gris);
@@ -262,10 +265,10 @@ main { padding: var(--gap) 0 3rem; }
   grid-template-columns: repeat(3, 1fr);
   gap: 0;
 }
-.ultimo__grid > .hist { padding: 0 calc(var(--gap) * 0.9); }
-.ultimo__grid > .hist:first-child { padding-left: 0; }
-.ultimo__grid > .hist:last-child { padding-right: 0; }
-.ultimo__grid > .hist + .hist { border-left: 1px solid var(--linea-2); }
+.ultimo__grid > .hist { padding: 0 calc(var(--gap) * 0.9); border-left: 1px solid var(--linea-2); }
+.ultimo__grid > .hist:nth-child(3n+1) { border-left: 0; padding-left: 0; }
+.ultimo__grid > .hist:nth-child(3n) { padding-right: 0; }
+.ultimo__grid > .hist:nth-child(n+4) { border-top: 1px solid var(--linea); padding-top: 1.2rem; margin-top: 1.2rem; }
 
 /* ---------- tira de enlaces relacionados ---------- */
 .tira {
@@ -290,19 +293,42 @@ main { padding: var(--gap) 0 3rem; }
 .videos { display: grid; grid-template-columns: repeat(3, 1fr); gap: var(--gap); }
 .video { text-decoration: none; }
 .video .thumb {
-  aspect-ratio: 16/9; background: #dcdad6; display: grid; place-items: center;
-  margin-bottom: .55rem;
+  position: relative; aspect-ratio: 16/9; background: #dcdad6; overflow: hidden;
+  display: grid; place-items: center; margin-bottom: .55rem;
+}
+.video .thumb img {
+  position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover;
 }
 .video .thumb span {
+  position: relative; z-index: 1;
   width: 52px; height: 52px; border-radius: 50%; background: var(--rojo);
-  display: grid; place-items: center;
+  display: grid; place-items: center; box-shadow: 0 0 0 6px rgba(0,0,0,.12);
 }
 .video .thumb span::after {
   content: ""; border-left: 15px solid #fff;
   border-top: 9px solid transparent; border-bottom: 9px solid transparent; margin-left: 4px;
 }
+.video:hover .thumb span { background: var(--rojo-osc); }
 .video h4 { font-size: 1rem; }
 .video:hover h4 { color: var(--rojo); }
+
+/* página /multimedia */
+.mm-destacado { margin-bottom: 2.4rem; }
+.mm-embed {
+  position: relative; aspect-ratio: 16/9; background: #111; margin-bottom: .7rem;
+  border: 1px solid var(--linea);
+}
+.mm-embed iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+.mm-destacado h2 { font-size: clamp(1.4rem, 2.6vw, 1.9rem); margin: 0; }
+.mm-destacado h2 a { text-decoration: none; }
+.mm-destacado h2 a:hover { color: var(--rojo); }
+.mm-grid {
+  display: grid; grid-template-columns: repeat(3, 1fr);
+  gap: calc(var(--gap) * 1.2) var(--gap);
+  margin-top: 1rem;
+}
+@media (max-width: 900px) { .mm-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 600px) { .mm-grid { grid-template-columns: 1fr; } }
 
 /* ---------- boletín ---------- */
 .boletin { border-bottom: 1px solid var(--linea); padding: 2.6rem 0; }
@@ -420,8 +446,9 @@ main { padding: var(--gap) 0 3rem; }
   .portada { grid-template-columns: 1fr 1fr; }
   .portada > .col--opinion { grid-column: 1 / -1; border-left: 0; border-top: 1px solid var(--tinta); padding: 1.2rem 0 0; margin-top: 1.2rem; }
   .ultimo__grid { grid-template-columns: repeat(2, 1fr); }
-  .ultimo__grid > .hist:nth-child(3) { border-left: 0; }
-  .ultimo__grid > .hist:nth-child(n+3) { border-top: 1px solid var(--linea); padding-top: 1.1rem; margin-top: 1.1rem; }
+  .ultimo__grid > .hist { border-left: 1px solid var(--linea-2); padding-left: calc(var(--gap) * 0.9); }
+  .ultimo__grid > .hist:nth-child(odd) { border-left: 0; padding-left: 0; }
+  .ultimo__grid > .hist:nth-child(n+3) { border-top: 1px solid var(--linea); padding-top: 1.2rem; margin-top: 1.2rem; }
   .rejilla-seccion { grid-template-columns: 1fr 1fr; }
   .rejilla-seccion > .hist:nth-child(3n) { padding-right: calc(var(--gap) * 0.9); }
   .rejilla-seccion > .hist:nth-child(odd) { border-left: 0; padding-left: 0; }

@@ -1,19 +1,54 @@
 ---
 import Base from "../layouts/Base.astro";
-import FranjaMultimedia from "../components/FranjaMultimedia.astro";
 import Boletin from "../components/Boletin.astro";
+import { SITIO } from "../consts";
+import videos from "../data/videos.json";
+
+const destacado = videos[1] ?? videos[0]; // "Presos políticos de la Revuelta"
+const resto = videos.filter((v) => v.id !== destacado.id);
+const url = (id: string) => `https://www.youtube.com/watch?v=${id}`;
 ---
 <Base
   titulo="Multimedia"
-  descripcion="Videos, entrevistas e informes audiovisuales de Kitus y su red de colaboración."
+  descripcion="Archivo audiovisual de Kitus: entrevistas a pensadoras y pensadores, coberturas de protestas y luchas territoriales."
   activa="multimedia"
 >
   <main class="contenedor">
     <div class="seccion-cabecera">
       <h1>Multimedia</h1>
-      <p>Videos, entrevistas e informes del canal de Kitus. Se actualiza solo con el canal de YouTube.</p>
+      <p>Entrevistas, informes y coberturas producidas por Kitus y su red de colaboración. Se publican en el canal de YouTube.</p>
     </div>
+
+    <div class="mm-destacado">
+      <div class="mm-embed">
+        <iframe
+          src={`https://www.youtube-nocookie.com/embed/${destacado.id}`}
+          title={destacado.titulo}
+          loading="lazy"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe>
+      </div>
+      <p class="kicker">Video destacado</p>
+      <h2><a href={url(destacado.id)} target="_blank" rel="noopener">{destacado.titulo}</a></h2>
+    </div>
+
+    <h2 class="col__titulo">Archivo</h2>
+    <div class="mm-grid">
+      {resto.map((v) => (
+        <a class="video" href={url(v.id)} target="_blank" rel="noopener">
+          <div class="thumb">
+            <img src={`/uploads/yt-${v.id}.jpg`} alt="" loading="lazy" />
+            <span aria-hidden="true"></span>
+          </div>
+          <h4>{v.titulo}</h4>
+        </a>
+      ))}
+    </div>
+
+    <p style="margin-top:2rem">
+      <a class="btn" href={SITIO.youtube} target="_blank" rel="noopener">Ver el canal en YouTube</a>
+    </p>
   </main>
-  <FranjaMultimedia />
   <Boletin />
 </Base>

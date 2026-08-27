@@ -7,8 +7,9 @@ interface Props {
   autor?: CollectionEntry<"autores">;
   variante?: "lead" | "foto" | "normal" | "mini";
   conDek?: boolean;
+  conFoto?: boolean;
 }
-const { articulo, autor, variante = "normal", conDek = true } = Astro.props;
+const { articulo, autor, variante = "normal", conDek = true, conFoto } = Astro.props;
 const { titulo, bajada, seccion, portada, creditoPortada, etiquetas } = articulo.data;
 const url = `/articulo/${articulo.id}`;
 const min = minutosLectura(articulo.body);
@@ -21,13 +22,14 @@ const claseVariante =
   variante === "foto" ? "hist--foto" :
   variante === "mini" ? "hist--mini" : "";
 const Titulo = variante === "lead" ? "h2" : "h3";
-const conFoto = variante === "foto";
+// mostrar imagen: siempre en "foto"; en el resto si hay portada (salvo que se pida lo contrario)
+const mostrarFoto = portada && (conFoto ?? variante !== "lead");
 ---
 <article class:list={["hist", claseVariante]}>
-  {conFoto && (
+  {mostrarFoto && (
     <a href={url} class="hist__media" aria-hidden="true" tabindex="-1">
-      {portada ? <img src={portada} alt="" loading="lazy" /> : <div class="ph"></div>}
-      {creditoPortada && <span class="credito">{creditoPortada}</span>}
+      <img src={portada} alt="" loading="lazy" />
+      {creditoPortada && variante === "foto" && <span class="credito">{creditoPortada}</span>}
     </a>
   )}
   <p class="kicker">{kicker}</p>

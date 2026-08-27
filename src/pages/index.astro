@@ -38,7 +38,7 @@ const opinionesX = await Promise.all(opiniones.slice(0, 6).map(conAutor));
       <div class="col col--well pila">
         {leadX && <TarjetaArticulo articulo={leadX.articulo} autor={leadX.autor} variante="lead" />}
         {wellX.map(({ articulo, autor }) => (
-          <TarjetaArticulo articulo={articulo} autor={autor} variante="normal" />
+          <TarjetaArticulo articulo={articulo} autor={autor} variante="normal" conFoto={false} />
         ))}
       </div>
 
@@ -54,8 +54,15 @@ const opinionesX = await Promise.all(opiniones.slice(0, 6).map(conAutor));
           <h2 class="col__titulo col__titulo--rojo">Opinión</h2>
           {opinionesX.map(({ articulo, autor }) => (
             <div class="op">
-              <p class="firma">{autor.data.nombre}</p>
-              <h4><a href={`/articulo/${articulo.id}`}>{articulo.data.titulo}</a></h4>
+              {articulo.data.portada && (
+                <a href={`/articulo/${articulo.id}`} class="op__thumb" aria-hidden="true" tabindex="-1">
+                  <img src={articulo.data.portada} alt="" loading="lazy" />
+                </a>
+              )}
+              <div>
+                <p class="firma">{autor.data.nombre}</p>
+                <h4><a href={`/articulo/${articulo.id}`}>{articulo.data.titulo}</a></h4>
+              </div>
             </div>
           ))}
         </aside>
