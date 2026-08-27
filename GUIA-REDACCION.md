@@ -1,101 +1,72 @@
-# Cómo cargar una nota en Kitus (prototipo)
+# Cómo cargar una nota en Kitus
 
-Guía para las dos personas que escriben. Mientras el sitio sea el prototipo
-estático, una nota nueva es **copiar un archivo y cambiarle el texto**. No hace
-falta saber programar.
+Guía para las dos personas que escriben. Ahora las notas se cargan desde un
+**panel web**; no hace falta tocar código ni archivos.
 
 ---
 
-## 1. Copiar la plantilla
+## Entrar al panel
 
-En la carpeta `articulo/` ya hay una nota modelo: **`reforma-laboral.html`**.
+1. Ir a **`https://kitus.org/admin/`** (mientras no esté el dominio:
+   `https://<nombre-del-sitio>.netlify.app/admin/`).
+2. Iniciar sesión con el correo con el que te invitaron.
 
-1. Copiá ese archivo en la misma carpeta `articulo/`.
-2. Renombralo con un nombre corto, en minúsculas, sin espacios ni acentos, con
-   guiones. Ese nombre es la dirección de la nota.
-   - Ejemplo: `paro-docente-septiembre.html` →
-     `https://kitus.org/articulo/paro-docente-septiembre.html`
+> Para probar en la computadora de desarrollo: abrir dos terminales, en una
+> `npm run cms` y en otra `npm run dev`, y entrar a
+> `http://localhost:4321/admin/` (no pide contraseña).
 
-## 2. Cambiar los datos de arriba (en `<head>`)
+---
 
-Abrí el archivo con un editor de texto (Bloc de notas, VS Code, lo que uses) y
-reemplazá solo el texto, no las etiquetas:
+## Crear una nota
 
-```html
-<title>ACÁ EL TITULAR — Kitus</title>
-<meta name="description" content="ACÁ UN RESUMEN DE UNA O DOS ORACIONES.">
-```
+1. En el panel, **Notas → New Nota**.
+2. Completar los campos:
 
-## 3. Cambiar el cuerpo de la nota
-
-Buscá estos bloques y reemplazá el contenido:
-
-| Qué | Se ve así en el archivo |
+| Campo | Qué poner |
 |---|---|
-| Volanta (tema) | `<p class="kicker">Política · Trabajo</p>` |
-| Titular | `<h1>...</h1>` |
-| Bajada | `<p class="dek">...</p>` |
-| Firma y fecha | dentro de `<div class="articulo__meta">` |
-| Texto | los `<p>...</p>` dentro de `<div class="cuerpo">` |
-| Subtítulos | `<h2>...</h2>` |
-| Cita destacada | `<blockquote>...</blockquote>` |
-| Etiquetas | los `<a href="#">...</a>` dentro de `<div class="etiquetas">` |
-| Bio de autor/a | dentro de `<div class="autor-bio">` (iniciales + nombre + bio) |
+| **Titular** | El título de la nota. |
+| **Bajada** | Una o dos oraciones que resumen y enganchan. |
+| **Sección** | Política, Internacional, Economía, Derechos, Opinión o Cultura. |
+| **Autor/a** | Elegir de la lista. Si falta alguien, se crea en "Autores/as". |
+| **Fecha** | Día de publicación. |
+| **Etiquetas** | Palabras clave. La **primera** aparece en la volanta (arriba del título). |
+| **Foto de apertura** | Subir una imagen (hasta 3 MB). Es opcional: sin foto se muestra un recuadro gris. |
+| **Epígrafe y crédito** | Texto al pie de la foto (qué se ve y quién la tomó). |
+| **Nota de tapa** | Activar solo si querés que sea la nota grande de la portada. Una sola a la vez. |
+| **Es columna de opinión** | Activar para columnas y editoriales (van a la sección Opinión y a la columna lateral de la portada). |
+| **Borrador** | Activar mientras la estás escribiendo: no se publica. |
+| **Texto de la nota** | El cuerpo. Ver abajo. |
 
-Reglas simples:
+3. **Guardar**. Queda como borrador de trabajo.
+4. Cuando esté lista: mover a **"Ready"** y después **"Publish"**.
+   A los pocos minutos aparece en el sitio (portada, sección y RSS se actualizan solos).
 
-- Cada párrafo va entre `<p>` y `</p>`.
-- Un subtítulo intermedio va entre `<h2>` y `</h2>`.
-- Para un enlace: `<a href="https://...">texto del enlace</a>`.
-- No borres las comillas ni los `<` `>`. Si algo se rompe, volvé a copiar la
-  plantilla y empezá de nuevo.
+---
 
-## 4. La foto de apertura
+## Escribir el texto
 
-En el prototipo hay un recuadro gris que dice "IMAGEN · KITUS". Cuando haya foto
-real, se reemplaza este bloque:
+El editor tiene barra de formato (negrita, cursiva, enlaces, listas). Además:
 
-```html
-<div class="ph"></div>
-```
+- **Subtítulos**: usá el estilo "Heading 2" para los intertítulos.
+- **Cita destacada**: el estilo "Quote" para frases que van resaltadas con la
+  línea roja al costado.
+- **Enlaces**: seleccionar el texto y pegar la dirección.
+- La primera letra de la nota se muestra grande y en rojo automáticamente.
 
-por:
+---
 
-```html
-<img src="../assets/nombre-de-la-foto.jpg" alt="Descripción de la foto">
-```
+## Editar o despublicar
 
-y se copia la imagen dentro de la carpeta `assets/`.
-
-## 5. Poner la nota en la portada y en su sección
-
-La portada (`index.html`) y las páginas de sección **no se actualizan solas** en
-el prototipo. Para que la nota aparezca:
-
-1. Abrí `index.html`.
-2. Copiá uno de los bloques `<article class="tarjeta"> ... </article>`.
-3. Cambiale la volanta, el titular, la bajada, la firma y el enlace:
-   `<a href="articulo/tu-nota.html">`.
-4. Hacé lo mismo en la página de la sección que corresponda
-   (`politica.html`, `economia.html`, etc.).
-
-> En la Fase 2 (Astro + CMS) este paso 5 desaparece: la portada y las secciones
-> se arman solas a partir de las notas.
-
-## 6. Publicar
-
-- Si el sitio está en **Netlify Drop**: volver a arrastrar la carpeta `kitus/`.
-- Si está en **GitHub Pages / Cloudflare**: subir los cambios al repositorio
-  (`git add`, `git commit`, `git push`) y en un minuto queda online.
+- **Corregir**: abrir la nota en el panel, cambiar y volver a publicar.
+- **Bajar una nota**: activar **Borrador** y publicar; deja de aparecer.
 
 ---
 
 ## Checklist antes de publicar
 
 - [ ] Titular y bajada sin errores
-- [ ] Firma y fecha correctas
+- [ ] Sección y autor/a correctos
+- [ ] Etiquetas cargadas (la primera es la volanta)
+- [ ] Foto con epígrafe y crédito, si hay
 - [ ] Enlaces que abren bien
-- [ ] La nota se ve en la portada y en su sección
-- [ ] Si es contenido real: sacar el texto de demostración y, si se puede, la
-      cinta "PROTOTIPO" (está en cada archivo como
-      `<div class="cinta-proto">...</div>`)
+- [ ] "Borrador" desactivado

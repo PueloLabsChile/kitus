@@ -1,0 +1,48 @@
+---
+import "../styles/global.css";
+import { SITIO } from "../consts";
+import Masthead from "../components/Masthead.astro";
+import Pie from "../components/Pie.astro";
+
+interface Props {
+  titulo: string;
+  descripcion?: string;
+  activa?: string;
+}
+const { titulo, descripcion = SITIO.descripcion, activa } = Astro.props;
+const tituloCompleto =
+  titulo === SITIO.nombre ? titulo : `${titulo} — ${SITIO.nombre}`;
+const canonical = new URL(Astro.url.pathname, Astro.site);
+---
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{tituloCompleto}</title>
+  <meta name="description" content={descripcion} />
+  <link rel="canonical" href={canonical} />
+  <link rel="icon" href="/favicon.svg" />
+  <link rel="alternate" type="application/rss+xml" title={SITIO.nombre} href="/rss.xml" />
+  <meta property="og:site_name" content={SITIO.nombre} />
+  <meta property="og:title" content={tituloCompleto} />
+  <meta property="og:description" content={descripcion} />
+  <meta property="og:type" content="website" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;0,800;1,600&display=swap"
+    rel="stylesheet"
+  />
+</head>
+<body>
+  {SITIO.prototipo && (
+    <div class="cinta-proto">
+      Prototipo · <strong>contenido de demostración</strong> · Kitus aún no está publicado
+    </div>
+  )}
+  <Masthead activa={activa} />
+  <slot />
+  <Pie />
+</body>
+</html>

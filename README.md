@@ -1,87 +1,108 @@
-# Kitus — prototipo web
+# Kitus
 
 Periódico político digital. Medio de "ideas de cambio" que da visibilidad a los
-sectores minorizados por los grandes medios. Este repositorio es el **prototipo
-navegable** hecho el 26/08/2026.
+sectores minorizados por los grandes medios.
 
-- Canal de YouTube de referencia: <https://www.youtube.com/@kitusonline6343>
+- Canal de YouTube: <https://www.youtube.com/@kitusonline6343>
 - Identidad tomada del canal: "K" roja dentro de un círculo + "ITUS" en negro,
-  lema *ideas de cambio*, paleta rojo / tinta / papel, tipografía serif editorial.
+  lema *ideas de cambio*, paleta rojo `#C1272D` / tinta / papel, serif editorial
+  (Playfair Display + Inter).
+
+Sitio hecho con **Astro** (genera HTML estático) + **Decap CMS** para que la
+redacción cargue notas desde un panel web sin tocar código.
 
 ---
 
-## Qué es esto
+## Puesta en marcha
 
-Un sitio **estático puro**: solo HTML y CSS, sin framework, sin `node_modules`,
-sin paso de compilación. Se abre con doble clic o se sube tal cual a cualquier
-hosting. Elegido así a propósito: "funciona solo", es gratis de alojar y no se
-rompe con el tiempo.
-
-```
-kitus/
-├── index.html              Portada
-├── politica.html           Sección (+ internacional, economia, derechos, opinion, cultura)
-├── multimedia.html         Hub de videos del canal
-├── quienes-somos.html      Institucional + equipo + contacto
-├── articulo/
-│   ├── reforma-laboral.html Nota de ejemplo (plantilla completa)
-│   ├── deuda-fmi.html
-│   └── agua-litio.html
-├── css/kitus.css           Toda la hoja de estilo
-├── js/kitus.js             Año dinámico, nav activa, alta al boletín (demo)
-├── assets/logo-kitus.svg   Logo reconstruido en vector
-├── branding/               Logo y banner originales bajados de YouTube
-├── _gen-secciones.sh       Regenera las páginas de sección desde una plantilla
-└── GUIA-REDACCION.md       Cómo cargar una nota (para las dos personas que escriben)
+```bash
+npm install
+npm run dev        # http://localhost:4321
 ```
 
-> Todas las páginas llevan una cinta "PROTOTIPO · contenido de demostración".
-> Los textos de las notas son de muestra, escritos para ver el diseño con
-> contenido realista. Hay que reemplazarlos antes de cualquier publicación.
+Otros comandos:
+
+| Comando | Qué hace |
+|---|---|
+| `npm run dev` | Servidor de desarrollo con recarga en vivo |
+| `npm run build` | Genera el sitio estático en `dist/` |
+| `npm run preview` | Sirve `dist/` para revisar el resultado final |
+| `npm run cms` | Proxy local del CMS (para editar en `/admin/` sin login) |
+
+### Editar notas en local
+
+En una terminal `npm run cms` y en otra `npm run dev`, después abrir
+<http://localhost:4321/admin/>. No pide usuario ni contraseña: los cambios se
+escriben directo en los archivos de `src/content/`.
 
 ---
 
-## Verlo en local
+## Estructura
 
-Cualquiera de estas opciones:
+```
+src/
+├── consts.ts                 Nombre del sitio, secciones, YouTube, flag "prototipo"
+├── content.config.ts         Esquema de las notas y de los autores
+├── content/
+│   ├── articulos/*.md        Una nota por archivo (frontmatter + texto)
+│   └── autores/*.md          Fichas de autor/a
+├── components/               Masthead, Nav, Pie, TarjetaArticulo, Boletin, FranjaMultimedia
+├── layouts/                  Base.astro (envoltura común)
+├── pages/
+│   ├── index.astro           Portada (se arma sola con las notas)
+│   ├── [seccion].astro       /politica, /economia, ... (una por sección)
+│   ├── articulo/[slug].astro  Página de nota
+│   ├── quienes-somos.astro
+│   ├── multimedia.astro
+│   └── rss.xml.js            Feed RSS
+└── styles/global.css         Toda la hoja de estilo
 
-- **Doble clic** en `index.html` (funciona, aunque el menú "sección activa" y el
-  alta al boletín se ven mejor con un servidor).
-- **Con un servidor** (recomendado), desde la carpeta del proyecto:
+public/
+├── admin/                    Decap CMS (index.html + config.yml)
+├── uploads/                  Imágenes subidas desde el panel
+├── logo-kitus.svg
+└── favicon.svg
 
-  ```bash
-  # con Python
-  python -m http.server 8787
-  # luego abrir http://127.0.0.1:8787
-  ```
+_prototipo-estatico/          Primer prototipo en HTML plano (referencia, no se usa)
+```
+
+### Cómo se arma la portada
+
+La portada, las secciones, el RSS y el listado de "Lo último" se generan solos a
+partir de las notas de `src/content/articulos/`. Solo hay que crear la nota.
+
+- `destacada: true` → va grande como nota de tapa.
+- `opinion: true` → va en la columna "Opinión" de la portada y en la sección Opinión.
+- `borrador: true` → no se publica.
+- La franja **Multimedia** trae los últimos videos del canal de YouTube en cada
+  build (si el feed no responde, muestra tarjetas que enlazan al canal).
 
 ---
 
-## Publicarlo (gratis)
+## Publicar en Netlify (recomendado por el CMS)
 
-El sitio es 100% estático, así que sirve cualquiera de estos:
+1. Subir el repo a GitHub y conectar el sitio en Netlify (toma el `netlify.toml`:
+   build `npm run build`, salida `dist/`).
+2. En Netlify: **Identity → Enable**, y **Identity → Services → Git Gateway → Enable**.
+3. En **Identity → Registration** poner "Invite only" e invitar a las dos personas
+   que escriben.
+4. Entran a `https://kitus.org/admin/`, aceptan la invitación y ya pueden publicar.
+   Cada nota guardada es un commit y dispara un nuevo deploy automático.
+5. Conectar el dominio propio desde el panel de Netlify.
 
-| Opción | Cómo | Costo |
-|---|---|---|
-| **Netlify Drop** | Arrastrar la carpeta `kitus/` a <https://app.netlify.com/drop> | Gratis |
-| **GitHub Pages** | Subir el repo, activar Pages sobre la rama `main` (carpeta raíz) | Gratis |
-| **Cloudflare Pages** | Conectar el repo, sin comando de build, directorio de salida `/` | Gratis |
+> Alternativa sin Netlify: cambiar el backend de `public/admin/config.yml` a
+> `github` (requiere crear una OAuth App) y hostear en Cloudflare Pages o GitHub
+> Pages. El sitio en sí es estático y corre en cualquier lado.
 
-Después se conecta el dominio propio (`kitus.org` / `.com` / `.ar`) desde el
-panel del hosting elegido.
+### Antes de publicar de verdad
+
+En `src/consts.ts` poner `prototipo: false`. Eso saca la cinta "PROTOTIPO" y las
+notas al pie de contenido de demostración. Después reemplazar las notas de
+ejemplo de `src/content/articulos/` por contenido real.
 
 ---
 
-## Fase 2 — cuando haya que cargar notas seguido
+## Para la redacción
 
-El prototipo está pensado para migrar sin rehacer el diseño. Plan sugerido:
-
-1. **Liberar espacio en disco** (hoy `C:` está al 100%; hace falta ~1 GB para las
-   herramientas).
-2. Pasar el mismo HTML/CSS a **Astro** (contenido en Markdown, genera el sitio
-   estático). El diseño actual se reutiliza casi sin cambios.
-3. Sumar **Decap CMS** (`/admin`): las dos personas que escriben editan las notas
-   desde un panel web, sin tocar código; cada cambio queda versionado en Git.
-4. Automatizar el **boletín** (Buttondown o Listmonk) y el **RSS**.
-
-Mientras tanto, para cargar notas en el prototipo: ver `GUIA-REDACCION.md`.
+Ver **[GUIA-REDACCION.md](GUIA-REDACCION.md)**: cómo cargar una nota desde el
+panel, paso a paso, sin tecnicismos.

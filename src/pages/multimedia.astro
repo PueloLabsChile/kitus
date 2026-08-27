@@ -1,0 +1,19 @@
+---
+import Base from "../layouts/Base.astro";
+import FranjaMultimedia from "../components/FranjaMultimedia.astro";
+import Boletin from "../components/Boletin.astro";
+---
+<Base
+  titulo="Multimedia"
+  descripcion="Videos, entrevistas e informes audiovisuales de Kitus y su red de colaboración."
+  activa="multimedia"
+>
+  <main class="contenedor">
+    <div class="seccion-cabecera">
+      <h1>Multimedia</h1>
+      <p>Videos, entrevistas e informes del canal de Kitus. Se actualiza solo con el canal de YouTube.</p>
+    </div>
+  </main>
+  <FranjaMultimedia />
+  <Boletin />
+</Base>

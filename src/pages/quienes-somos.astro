@@ -1,0 +1,62 @@
+---
+import { getCollection } from "astro:content";
+import Base from "../layouts/Base.astro";
+import { SITIO } from "../consts";
+
+const autores = (await getCollection("autores")).sort((a, b) =>
+  a.data.nombre.localeCompare(b.data.nombre, "es"),
+);
+---
+<Base titulo="Quiénes somos" activa="quienes-somos">
+  <main class="contenedor">
+    <article class="prosa">
+      <p class="kicker">El medio</p>
+      <h1>Quiénes somos</h1>
+
+      <p>
+        Kitus es un medio digital que reúne y difunde <strong>ideas de cambio</strong> sobre
+        las problemáticas sociales surgidas de las contradicciones de los actuales modelos
+        económicos, políticos, sociales y culturales.
+      </p>
+      <p>
+        Contamos con una red internacional de colaboradores y colaboradoras que aporta
+        escritos, traducciones, imágenes, arte y producciones audiovisuales sobre temas que
+        inciden en su entorno social y que dan visibilidad a los sectores minorizados por los
+        grandes medios de comunicación.
+      </p>
+
+      <h2>Cómo trabajamos</h2>
+      <p>
+        Publicamos periodismo político con contexto antes que primicia. No tenemos muro de
+        pago: el acceso a la información es abierto. La redacción es pequeña y se apoya en la
+        red de colaboración para ampliar miradas y territorios.
+      </p>
+
+      <h2 id="equipo">Equipo</h2>
+      <ul class="lista-equipo">
+        {autores.map((a) => (
+          <li>
+            <strong>{a.data.nombre}</strong>
+            {a.data.rol} · {a.data.bio}
+          </li>
+        ))}
+        <li>
+          <strong>Sumate</strong>
+          ¿Querés colaborar con una nota, una traducción o una pieza audiovisual? Escribinos.
+        </li>
+      </ul>
+
+      <h2 id="contacto">Contacto</h2>
+      <p>
+        Redacción: <a href={`mailto:${SITIO.correoRedaccion}`}>{SITIO.correoRedaccion}</a><br />
+        Colaboraciones: <a href={`mailto:${SITIO.correoColabora}`}>{SITIO.correoColabora}</a><br />
+        Canal de YouTube: <a href={SITIO.youtube} target="_blank" rel="noopener">@kitusonline6343</a>
+      </p>
+      {SITIO.prototipo && (
+        <p style="font-size:.9rem;color:var(--gris)">
+          Los correos son de ejemplo para el prototipo. Se definen al registrar el dominio.
+        </p>
+      )}
+    </article>
+  </main>
+</Base>

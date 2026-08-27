@@ -1,0 +1,16 @@
+---
+import { SECCIONES, SECCION_SLUGS } from "../consts";
+interface Props { activa?: string; }
+const { activa } = Astro.props;
+---
+<nav class="nav" aria-label="Secciones">
+  <div class="nav__inner">
+    <a href="/" aria-current={activa === "portada" ? "page" : undefined}>Portada</a>
+    {SECCION_SLUGS.map((slug) => (
+      <a href={`/${slug}`} aria-current={activa === slug ? "page" : undefined}>
+        {SECCIONES[slug].nombre}
+      </a>
+    ))}
+    <a href="/multimedia" aria-current={activa === "multimedia" ? "page" : undefined}>Multimedia</a>
+  </div>
+</nav>

@@ -1,0 +1,32 @@
+---
+// Alta al boletín. En el prototipo no envía nada; se conecta a Buttondown /
+// Listmonk / Mailchimp cambiando el `action` del formulario y quitando el script.
+---
+<section class="boletin">
+  <div class="contenedor">
+    <div>
+      <h2>El resumen de Kitus, cada viernes</h2>
+      <p>Una síntesis con lo que importa de la semana política, sin ruido y sin clickbait.</p>
+    </div>
+    <form data-boletin method="post" action="#">
+      <input type="email" name="email" placeholder="tu@correo.com" required aria-label="Tu correo electrónico" />
+      <button class="btn" type="submit">Suscribirme</button>
+      <p data-boletin-ok hidden style="flex-basis:100%;margin:.4rem 0 0;font-size:.9rem;color:var(--rojo-osc)"></p>
+    </form>
+  </div>
+</section>
+
+<script>
+  document.querySelectorAll<HTMLFormElement>("form[data-boletin]").forEach((form) => {
+    form.addEventListener("submit", (e) => {
+      e.preventDefault();
+      const campo = form.querySelector<HTMLInputElement>("input[type=email]");
+      const ok = form.querySelector<HTMLElement>("[data-boletin-ok]");
+      if (campo && campo.value && ok) {
+        ok.hidden = false;
+        ok.textContent = `Listo, ${campo.value} quedó anotada. (Demo — todavía no hay envío real.)`;
+        form.reset();
+      }
+    });
+  });
+</script>

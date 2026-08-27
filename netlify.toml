@@ -1,10 +1,20 @@
-# Sitio estático: no hay build.
-[build]
-  publish = "."
-  command = ""
+# Despliegue de Kitus en Netlify (Astro + Decap CMS)
 
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# El panel de redacción vive en /admin (Decap CMS + Netlify Identity + Git Gateway).
 [[headers]]
   for = "/*"
   [headers.values]
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "strict-origin-when-cross-origin"
+
+[[headers]]
+  for = "/admin/*"
+  [headers.values]
+    X-Robots-Tag = "noindex"

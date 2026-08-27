@@ -1,0 +1,46 @@
+---
+import type { GetStaticPaths } from "astro";
+import { getCollection, getEntry } from "astro:content";
+import Base from "../layouts/Base.astro";
+import TarjetaArticulo from "../components/TarjetaArticulo.astro";
+import Boletin from "../components/Boletin.astro";
+import { SECCIONES, SECCION_SLUGS } from "../consts";
+
+export const getStaticPaths = (() =>
+  SECCION_SLUGS.map((slug) => ({ params: { seccion: slug } }))) satisfies GetStaticPaths;
+
+const { seccion } = Astro.params;
+const info = SECCIONES[seccion as keyof typeof SECCIONES];
+
+const articulos = (
+  await getCollection(
+    "articulos",
+    ({ data }) => !data.borrador && data.seccion === seccion,
+  )
+).sort((a, b) => b.data.fecha.getTime() - a.data.fecha.getTime());
+
+const conAutor = await Promise.all(
+  articulos.map(async (a) => ({ articulo: a, autor: await getEntry(a.data.autor) })),
+);
+---
+<Base titulo={info.nombre} descripcion={info.descripcion} activa={seccion}>
+  <main class="contenedor">
+    <div class="seccion-cabecera">
+      <h1>{info.nombre}</h1>
+      <p>{info.descripcion}</p>
+    </div>
+
+    {conAutor.length > 0 ? (
+      <section class="rejilla">
+        {conAutor.map(({ articulo, autor }) => (
+          <TarjetaArticulo articulo={articulo} autor={autor} />
+        ))}
+      </section>
+    ) : (
+      <p style="padding:2rem 0;color:var(--gris)">
+        Todavía no hay notas publicadas en esta sección.
+      </p>
+    )}
+  </main>
+  <Boletin />
+</Base>
