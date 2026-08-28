@@ -32,7 +32,7 @@ export const SECCIONES = {
   derechos: {
     nombre: "Derechos",
     descripcion:
-      "Derechos humanos, territorios, género y ambiente. Los movimientos que empujan el cambio.",
+      "Derechos humanos, territorios y ambiente. Los movimientos que empujan el cambio.",
   },
   opinion: {
     nombre: "Opinión",

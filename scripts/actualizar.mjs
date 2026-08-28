@@ -20,6 +20,12 @@ const UA =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122 Safari/537.36";
 const PREFIJO = "sind__"; // marca los .md generados automáticamente
 
+// Discurso que el medio decidió no cubrir: se excluye del agregado y de la franja de videos.
+// (No filtra la mención factual de un delito —p. ej. "feminicidio" como cargo penal— en una nota
+//  que no es sobre feminismo; para eso ampliar la lista.)
+const RE_EXCLUIR =
+  /feminis|patriarcad|sororidad|abort(o|os|ar|ista)|violencia de género|violencia machista|brecha de género|paridad de género|feminismos? campesin|movimiento de mujeres/i;
+
 const log = (...a) => console.log("[actualizar]", ...a);
 
 async function leerJSON(rel, porDefecto) {
@@ -105,7 +111,10 @@ async function traerVideos(cfg, previos) {
       const titulo = lm?.metadata?.lockupMetadataViewModel?.title?.content;
       if (id && titulo && !visto.has(id)) {
         visto.add(id);
-        encontrados.push({ id, titulo: tituloPrevio.get(id) || limpiarTitulo(titulo) });
+        const display = tituloPrevio.get(id) || limpiarTitulo(titulo);
+        if (!RE_EXCLUIR.test(titulo) && !RE_EXCLUIR.test(display)) {
+          encontrados.push({ id, titulo: display });
+        }
       }
     }
     for (const v of Object.values(o)) walk(v);
@@ -273,6 +282,10 @@ async function sindicar(fuentes, cfg) {
 
       const cuerpo = htmlAMarkdown(it.cuerpoHtml);
       if (cuerpo.length < 400) continue; // demasiado corto: probablemente solo un resumen
+      // temas que el medio no cubre
+      if (RE_EXCLUIR.test(`${it.titulo} ${cuerpo}`)) {
+        continue;
+      }
 
       const slugPost = slugify(it.link.replace(/^https?:\/\/[^/]+\//, "").replace(/\/$/, "")) ||
         slugify(it.titulo);
