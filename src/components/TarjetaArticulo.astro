@@ -10,11 +10,12 @@ interface Props {
   conFoto?: boolean;
 }
 const { articulo, autor, variante = "normal", conDek = true, conFoto } = Astro.props;
-const { titulo, bajada, seccion, portada, creditoPortada, etiquetas } = articulo.data;
+const { titulo, bajada, seccion, portada, creditoPortada, etiquetas, formato } = articulo.data;
 const url = `/articulo/${articulo.id}/`;
 const min = minutosLectura(articulo.body);
-const kicker = etiquetas[0]
-  ? `${nombreSeccion(seccion)} · ${etiquetas[0]}`
+const detalleKicker = formato || etiquetas[0];
+const kicker = detalleKicker
+  ? `${nombreSeccion(seccion)} · ${detalleKicker}`
   : nombreSeccion(seccion);
 
 const claseVariante =

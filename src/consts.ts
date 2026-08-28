@@ -44,7 +44,22 @@ export const SECCIONES = {
     descripcion:
       "Ideas, relatos y producción cultural que disputan el sentido común.",
   },
+  musica: {
+    nombre: "Música",
+    descripcion:
+      "Historia de la música para conocerla mejor: corrientes, discos y canciones explicados y con qué escuchar cada uno.",
+  },
 } as const;
+
+/** Formatos de la sección Música (aparecen en la volanta). */
+export const FORMATOS_MUSICA = [
+  "Un disco",
+  "Una canción",
+  "Una corriente",
+  "Un artista",
+  "Un instrumento",
+  "Una época",
+] as const;
 
 export type SeccionSlug = keyof typeof SECCIONES;
 export const SECCION_SLUGS = Object.keys(SECCIONES) as SeccionSlug[];

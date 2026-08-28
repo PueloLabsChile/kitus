@@ -16,7 +16,22 @@ export const getStaticPaths = (async () => {
 const { articulo } = Astro.props;
 const { titulo, bajada, seccion, fecha, etiquetas, portada, creditoPortada } = articulo.data;
 const { origen, firma, fuente, fuenteUrl, original, licencia, licenciaUrl } = articulo.data;
+const { formato, escuchar } = articulo.data;
 const esSindicada = origen === "sindicada";
+
+function etiquetaEscucha(url: string) {
+  try {
+    const h = new URL(url).hostname.replace(/^www\./, "");
+    if (/youtube|youtu\.be/.test(h)) return "Escuchar en YouTube";
+    if (/spotify/.test(h)) return "Escuchar en Spotify";
+    if (/bandcamp/.test(h)) return "Escuchar en Bandcamp";
+    if (/soundcloud/.test(h)) return "Escuchar en SoundCloud";
+    if (/wikipedia/.test(h)) return "Contexto en Wikipedia";
+    return h;
+  } catch {
+    return url;
+  }
+}
 
 const autor = await getEntry(articulo.data.autor);
 const { Content } = await render(articulo);
@@ -27,7 +42,8 @@ const fechaTxt = fecha.toLocaleDateString("es-AR", {
   month: "long",
   year: "numeric",
 });
-const kicker = etiquetas[0] ? `${nombreSeccion(seccion)} · ${etiquetas[0]}` : nombreSeccion(seccion);
+const detalleKicker = formato || etiquetas[0];
+const kicker = detalleKicker ? `${nombreSeccion(seccion)} · ${detalleKicker}` : nombreSeccion(seccion);
 const autoria = esSindicada ? firma || fuente || "Medios aliados" : autor.data.nombre;
 ---
 <Base titulo={titulo} descripcion={bajada} activa={seccion}>
@@ -61,6 +77,17 @@ const autoria = esSindicada ? firma || fuente || "Medios aliados" : autor.data.n
             ? <figcaption>{creditoPortada}</figcaption>
             : <figcaption>Prototipo: aquí iría la foto de apertura con su epígrafe y crédito.</figcaption>}
         </figure>
+      )}
+
+      {escuchar.length > 0 && (
+        <aside class="escuchar">
+          <p class="escuchar__rotulo">Lo que suena en esta nota</p>
+          <ul>
+            {escuchar.map((u) => (
+              <li><a href={u} target="_blank" rel="noopener">{etiquetaEscucha(u)} &rsaquo;</a></li>
+            ))}
+          </ul>
+        </aside>
       )}
 
       <div class="cuerpo">

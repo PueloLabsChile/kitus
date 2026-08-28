@@ -31,6 +31,10 @@ const articulos = defineCollection({
     original: z.string().optional(),
     licencia: z.string().optional(),
     licenciaUrl: z.string().optional(),
+
+    // Solo sección "musica": formato (va en la volanta) y enlaces para escuchar.
+    formato: z.string().optional(),
+    escuchar: z.array(z.string()).default([]),
   }),
 });
 

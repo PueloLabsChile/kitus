@@ -3,6 +3,7 @@ import { getCollection, getEntry } from "astro:content";
 import Base from "../layouts/Base.astro";
 import TarjetaArticulo from "../components/TarjetaArticulo.astro";
 import FranjaMultimedia from "../components/FranjaMultimedia.astro";
+import FranjaMusica from "../components/FranjaMusica.astro";
 import Boletin from "../components/Boletin.astro";
 import { SITIO, SECCIONES, SECCION_SLUGS } from "../consts";
 
@@ -10,8 +11,10 @@ const todos = (await getCollection("articulos", ({ data }) => !data.borrador)).s
   (a, b) => b.data.fecha.getTime() - a.data.fecha.getTime(),
 );
 
-const opiniones = todos.filter((a) => a.data.opinion);
-const notas = todos.filter((a) => !a.data.opinion);
+// "Música" es evergreen: tiene su propio bloque, no compite en la tapa de noticias.
+const noticiosos = todos.filter((a) => a.data.seccion !== "musica");
+const opiniones = noticiosos.filter((a) => a.data.opinion);
+const notas = noticiosos.filter((a) => !a.data.opinion);
 
 const lead = notas.find((a) => a.data.destacada) ?? notas[0];
 const resto = notas.filter((a) => a.id !== lead?.id);
@@ -85,6 +88,8 @@ const opinionesX = await Promise.all(opiniones.slice(0, 6).map(conAutor));
         </div>
       </section>
     )}
+
+    <FranjaMusica />
 
   </main>
 

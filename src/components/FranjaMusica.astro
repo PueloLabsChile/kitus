@@ -1,0 +1,28 @@
+---
+import { getCollection, getEntry } from "astro:content";
+import TarjetaArticulo from "./TarjetaArticulo.astro";
+
+const piezas = (
+  await getCollection(
+    "articulos",
+    ({ data }) => !data.borrador && data.seccion === "musica",
+  )
+).sort((a, b) => b.data.fecha.getTime() - a.data.fecha.getTime());
+
+const conAutor = await Promise.all(
+  piezas.slice(0, 3).map(async (a) => ({ articulo: a, autor: await getEntry(a.data.autor) })),
+);
+---
+{conAutor.length > 0 && (
+  <section class="franja-musica contenedor">
+    <h2 class="col__titulo">Para conocer música</h2>
+    <div class="franja-musica__grid">
+      {conAutor.map(({ articulo, autor }) => (
+        <TarjetaArticulo articulo={articulo} autor={autor} variante="mini" />
+      ))}
+    </div>
+    <p class="franja-musica__nota">
+      Historia de la música para escucharla mejor. <a href="/musica/">Ver toda la sección &rsaquo;</a>
+    </p>
+  </section>
+)}

@@ -20,6 +20,7 @@
   --sec-derechos:       #a3268f;
   --sec-opinion:        #1a1a1a;
   --sec-cultura:        #c2560f;
+  --sec-musica:         #3f3d9e;
   --acento:             var(--rojo);
 
   --tinta:       #121212;
@@ -533,6 +534,7 @@ body[data-seccion="economia"]      { --acento: var(--sec-economia); }
 body[data-seccion="derechos"]      { --acento: var(--sec-derechos); }
 body[data-seccion="opinion"]       { --acento: var(--sec-opinion); }
 body[data-seccion="cultura"]       { --acento: var(--sec-cultura); }
+body[data-seccion="musica"]        { --acento: var(--sec-musica); }
 
 /* cada tarjeta lleva el color de SU sección, aunque esté en la portada */
 .hist[data-seccion="politica"]      { --acento: var(--sec-politica); }
@@ -541,6 +543,7 @@ body[data-seccion="cultura"]       { --acento: var(--sec-cultura); }
 .hist[data-seccion="derechos"]      { --acento: var(--sec-derechos); }
 .hist[data-seccion="opinion"]       { --acento: var(--sec-opinion); }
 .hist[data-seccion="cultura"]       { --acento: var(--sec-cultura); }
+.hist[data-seccion="musica"]        { --acento: var(--sec-musica); }
 
 /* barra multicolor bajo la cabecera: firma visual del sitio */
 .masthead__regla {
@@ -548,12 +551,13 @@ body[data-seccion="cultura"]       { --acento: var(--sec-cultura); }
   height: 4px;
   background: linear-gradient(
     to right,
-    var(--sec-politica) 0 16.66%,
-    var(--sec-internacional) 16.66% 33.33%,
-    var(--sec-economia) 33.33% 50%,
-    var(--sec-derechos) 50% 66.66%,
-    var(--sec-cultura) 66.66% 83.33%,
-    var(--sec-opinion) 83.33% 100%
+    var(--sec-politica) 0 14.28%,
+    var(--sec-internacional) 14.28% 28.57%,
+    var(--sec-economia) 28.57% 42.85%,
+    var(--sec-derechos) 42.85% 57.14%,
+    var(--sec-opinion) 57.14% 71.42%,
+    var(--sec-cultura) 71.42% 85.71%,
+    var(--sec-musica) 85.71% 100%
   );
 }
 
@@ -595,6 +599,48 @@ body[data-seccion="cultura"]       { --acento: var(--sec-cultura); }
   padding-bottom: .5rem;
 }
 .etiquetas a:hover { color: var(--acento); border-color: var(--acento); }
+
+/* Música: "lo que suena en esta nota" */
+.escuchar {
+  margin: 1.4rem 0;
+  padding: .9rem 1rem;
+  border: 1px solid var(--linea);
+  border-left: 4px solid var(--acento);
+  background: var(--papel-2);
+}
+.escuchar__rotulo {
+  margin: 0 0 .4rem;
+  font-family: var(--sans);
+  font-size: .68rem; font-weight: 700;
+  letter-spacing: .08em; text-transform: uppercase;
+  color: var(--acento);
+}
+.escuchar ul { margin: 0; padding: 0; list-style: none; display: flex; flex-wrap: wrap; gap: .3rem 1.4rem; }
+.escuchar a {
+  font-family: var(--sans); font-size: .86rem; font-weight: 600;
+  text-decoration: none; color: var(--tinta);
+}
+.escuchar a:hover { color: var(--acento); }
+
+/* bloque "Para conocer música" en la portada */
+.franja-musica {
+  margin-top: calc(var(--gap) * 1.5);
+  padding-top: calc(var(--gap) * 1.2);
+  border-top: 3px solid var(--sec-musica);
+}
+.franja-musica > .col__titulo { color: var(--sec-musica); border-color: var(--sec-musica); }
+.franja-musica__grid {
+  display: grid; grid-template-columns: repeat(3, 1fr); gap: 0;
+}
+.franja-musica__grid > .hist { padding: 0 calc(var(--gap) * 0.9); border-left: 1px solid var(--linea-2); }
+.franja-musica__grid > .hist:first-child { border-left: 0; padding-left: 0; }
+.franja-musica__grid > .hist:last-child { padding-right: 0; }
+.franja-musica__nota { margin: .9rem 0 0; font-family: var(--sans); font-size: .72rem; color: var(--gris-2); }
+@media (max-width: 680px) {
+  .franja-musica__grid { grid-template-columns: 1fr; }
+  .franja-musica__grid > .hist { border-left: 0 !important; padding: 1rem 0 !important; border-top: 1px solid var(--linea); }
+  .franja-musica__grid > .hist:first-child { border-top: 0; }
+}
 
 /* aparición suave al entrar en pantalla (sin JS; degrada a "visible" si no hay soporte) */
 @supports (animation-timeline: view()) {
