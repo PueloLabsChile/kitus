@@ -6,7 +6,9 @@ name: Actualizar contenido
 
 on:
   schedule:
-    - cron: "0 */8 * * *" # cada 8 horas
+    # Cada 10 minutos. GitHub corre los cron "cuando puede": en horas de carga
+    # puede demorar 10-20 min o saltarse una vuelta. No es un reloj exacto.
+    - cron: "*/10 * * * *"
   workflow_dispatch: {} # botón para ejecutarlo a mano desde la pestaña Actions
 
 permissions:
@@ -36,7 +38,7 @@ jobs:
             git config user.name "kitus-bot"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add $rutas
-            git commit -m "Auto: actualiza videos y notas de medios aliados [skip ci]"
+            git commit -m "Auto: actualiza videos y notas de medios aliados"
             git push
           else
             echo "Sin cambios."
