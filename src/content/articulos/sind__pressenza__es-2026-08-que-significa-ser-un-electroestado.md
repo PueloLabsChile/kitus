@@ -12,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/08/que-significa-ser-un-electroestado/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-fzc8uf.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 **Cuarta y última columna de la serie ¿Petroestado o electroestado?**
 

@@ -12,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/08/premier-islandesa-dice-que-gobierno-no-continuara-las-conversaciones-sobre-adhesion-a-ue/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-1jwb1zh.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 La primera ministra de Islandia, Kristrun Frostadottir, dijo hoy domingo que el actual Gobierno no seguiría adelante con las conversaciones sobre la reanudación de la adhesión de Islandia a la Unión Europea (UE), luego de que el referéndum del sábado mostrara que más votantes se oponen a las negociaciones de adhesión.
 

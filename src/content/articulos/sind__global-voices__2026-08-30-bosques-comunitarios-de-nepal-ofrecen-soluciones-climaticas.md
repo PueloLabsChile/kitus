@@ -12,6 +12,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/08/30/bosques-comunitarios-de-nepal-ofrecen-soluciones-climaticas-hoja-a-hoja/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-tebsl4.webp"
+creditoPortada: "Foto: Global Voices"
 ---
 *La fabricación de platos de hoja de sal requiere procesamiento y consumo energético mínimos, y tiene una huella de carbono reducida*
 

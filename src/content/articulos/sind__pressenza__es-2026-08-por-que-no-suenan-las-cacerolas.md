@@ -12,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/08/por-que-no-suenan-las-cacerolas/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-1w8fuvl.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 > Notas sobre el robo tangible y el robo de la subjetividad. Crónica de una clase media que se cree elite y olvidó de dónde viene
 

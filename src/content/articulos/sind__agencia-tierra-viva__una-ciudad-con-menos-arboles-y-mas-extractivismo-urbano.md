@@ -12,6 +12,8 @@ fuenteUrl: "https://agenciatierraviva.com.ar/"
 original: "https://agenciatierraviva.com.ar/una-ciudad-con-menos-arboles-y-mas-extractivismo-urbano/"
 licencia: "CC BY 2.5 AR"
 licenciaUrl: "https://creativecommons.org/licenses/by/2.5/ar/"
+portada: "/uploads/sind-agencia-tierra-viva-b3osus.jpg"
+creditoPortada: "Foto: Agencia Tierra Viva"
 ---
 ### **Por Natalia Concina**
 

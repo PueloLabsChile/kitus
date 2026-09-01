@@ -12,6 +12,8 @@ fuenteUrl: "https://agenciatierraviva.com.ar/"
 original: "https://agenciatierraviva.com.ar/desalojar-a-una-comunidad-indigena-no-es-un-problema-entre-privados/"
 licencia: "CC BY 2.5 AR"
 licenciaUrl: "https://creativecommons.org/licenses/by/2.5/ar/"
+portada: "/uploads/sind-agencia-tierra-viva-1a3qgcg.jpg"
+creditoPortada: "Foto: Agencia Tierra Viva"
 ---
 ### OPINIÓN
 

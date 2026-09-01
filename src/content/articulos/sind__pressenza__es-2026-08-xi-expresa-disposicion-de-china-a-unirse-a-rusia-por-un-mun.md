@@ -12,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/08/xi-expresa-disposicion-de-china-a-unirse-a-rusia-por-un-mundo-multipolar/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-1efixr5.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 El presidente chino, Xi Jinping, dijo hoy lunes que China está dispuesta a trabajar con Rusia y otras naciones para fortalecer el impulso de la reforma de la gobernanza global y el avance de un mundo multipolar igualitario y ordenado.
 

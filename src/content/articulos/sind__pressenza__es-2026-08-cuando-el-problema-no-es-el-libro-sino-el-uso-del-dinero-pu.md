@@ -12,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/08/cuando-el-problema-no-es-el-libro-sino-el-uso-del-dinero-publico/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-167faos.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 **En una democracia, la libertad de expresión protege incluso aquellas publicaciones que generan controversia, rechazo o burla. Un libro puede ser elogiado, criticado o ignorado por la ciudadanía, y ninguna autoridad debería censurarlo por su contenido. Sin embargo, el debate cambia completamente cuando esa publicación ha sido financiada con recursos del Estado. En ese momento, la discusión deja de ser política o literaria para convertirse en un asunto de legalidad, responsabilidad y correcto uso de los fondos públicos.**
 

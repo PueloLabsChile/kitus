@@ -12,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/08/que-es-una-granja-de-bots-y-como-funciona/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-12yr9ul.webp"
+creditoPortada: "Foto: Pressenza"
 ---
 Este es un tema súper complicado pero muy importante. Porque hay unos tipos llamados Fernando Cerimedo y Javier Negre, que han logrado manejar las elecciones  de varios países de América Latina que estaban gobernados por la izquierda y voltearlos para la derecha: Argentina, Chile, Colombia, Bolivia, Perú, Honduras y quizás  Ecuador, aunque  este ya estaba desde antes.
 

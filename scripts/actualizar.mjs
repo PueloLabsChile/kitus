@@ -77,6 +77,54 @@ function slugify(s) {
     .replace(/^-+|-+$/g, "")
     .slice(0, 70);
 }
+function hash(s = "") {
+  let h = 5381;
+  for (let i = 0; i < s.length; i++) h = ((h << 5) + h + s.charCodeAt(i)) >>> 0;
+  return h.toString(36);
+}
+
+/* ------------------------------------------------------------------ imágenes */
+// Saca la URL de la foto principal de un item de feed: primero las etiquetas
+// media:*/enclosure (WordPress las trae casi siempre), si no el primer <img>.
+function extraerImagen(bloque = "", cuerpoHtml = "") {
+  const b = String(bloque);
+  const m =
+    b.match(/<media:content\b[^>]*\bmedium=["']image["'][^>]*\burl=["']([^"']+)["']/i) ||
+    b.match(/<media:content\b[^>]*\burl=["']([^"']+\.(?:jpe?g|png|webp)[^"']*)["']/i) ||
+    b.match(/<media:thumbnail\b[^>]*\burl=["']([^"']+)["']/i) ||
+    b.match(/<enclosure\b[^>]*\btype=["']image\/[^"']*["'][^>]*\burl=["']([^"']+)["']/i) ||
+    b.match(/<enclosure\b[^>]*\burl=["']([^"']+)["'][^>]*\btype=["']image\//i);
+  if (m) return decodeEntities(m[1]);
+  const m2 = String(cuerpoHtml).match(/<img\b[^>]*\bsrc=["']([^"']+)["']/i);
+  return m2 ? decodeEntities(m2[1]) : "";
+}
+// Descarga la foto a public/uploads/sind-<base>.<ext> y devuelve su ruta pública
+// ("/uploads/…"). Si algo falla devuelve "" y la nota queda sin portada.
+async function descargarImagen(url, base) {
+  if (!url || !/^https?:\/\//i.test(url)) return "";
+  const dir = join(RAIZ, "public", "uploads");
+  await mkdir(dir, { recursive: true });
+  const ext = ((url.split(/[?#]/)[0].match(/\.(jpe?g|png|webp)$/i) || [])[1] || "jpg")
+    .toLowerCase()
+    .replace("jpeg", "jpg");
+  const archivo = `sind-${base}.${ext}`;
+  const destino = join(dir, archivo);
+  try {
+    await access(destino);
+    return `/uploads/${archivo}`;
+  } catch {}
+  try {
+    const r = await fetch(url, { headers: { "user-agent": UA }, signal: AbortSignal.timeout(20000) });
+    if (!r.ok) return "";
+    const buf = Buffer.from(await r.arrayBuffer());
+    if (buf.length < 2000) return ""; // pixel de tracking o error disfrazado
+    await writeFile(destino, buf);
+    log(`  foto: ${archivo} (${Math.round(buf.length / 1024)} kB)`);
+    return `/uploads/${archivo}`;
+  } catch {
+    return "";
+  }
+}
 
 /* ------------------------------------------------------------------ videos */
 async function traerVideos(cfg, previos) {
@@ -246,8 +294,55 @@ function itemsDeFeed(xml) {
       g(/<content:encoded\b[^>]*>([\s\S]*?)<\/content:encoded>/i) ||
       g(/<content\b[^>]*>([\s\S]*?)<\/content>/i) ||
       g(/<description\b[^>]*>([\s\S]*?)<\/description>/i);
-    return { titulo, link: link.trim(), fechaTxt, autor, cuerpoHtml };
+    const imagen = extraerImagen(b, cuerpoHtml);
+    return { titulo, link: link.trim(), fechaTxt, autor, cuerpoHtml, imagen };
   });
+}
+
+// Notas sindicadas viejas que se guardaron sin foto: intenta recuperarla del
+// og:image de la nota original. Acotado por corrida para no golpear las fuentes.
+async function backfillImagenes(dir, limite = 10) {
+  const files = (await readdir(dir)).filter((f) => f.startsWith(PREFIJO));
+  let hechos = 0;
+  for (const f of files) {
+    if (hechos >= limite) break;
+    const ruta = join(dir, f);
+    let txt;
+    try {
+      txt = (await readFile(ruta, "utf8")).replace(/\r\n/g, "\n");
+    } catch {
+      continue;
+    }
+    const fmEnd = txt.indexOf("\n---\n", 4);
+    if (fmEnd === -1 || /^portada:/m.test(txt.slice(0, fmEnd))) continue;
+    const orig = (txt.match(/^original:\s*"?([^"\n]+?)"?\s*$/m) || [])[1];
+    const medio = (txt.match(/^fuente:\s*"?([^"\n]+?)"?\s*$/m) || [])[1] || "medio aliado";
+    if (!orig) continue;
+    let html;
+    try {
+      html = await bajar(orig);
+    } catch {
+      continue;
+    }
+    const og = (html.match(
+      /<meta[^>]+(?:property|name)=["']og:image(?::url)?["'][^>]+content=["']([^"']+)["']/i,
+    ) ||
+      html.match(
+        /<meta[^>]+content=["']([^"']+)["'][^>]+(?:property|name)=["']og:image(?::url)?["']/i,
+      ) ||
+      [])[1];
+    if (!og) continue;
+    const portada = await descargarImagen(og, `${slugify(medio)}-${hash(orig)}`);
+    if (!portada) continue;
+    const nuevo =
+      txt.slice(0, fmEnd) +
+      `\nportada: ${JSON.stringify(portada)}` +
+      `\ncreditoPortada: ${JSON.stringify("Foto: " + medio)}` +
+      txt.slice(fmEnd);
+    await writeFile(ruta, nuevo, "utf8");
+    hechos++;
+  }
+  if (hechos) log(`backfill de imágenes: ${hechos} nota(s) recuperaron su foto`);
 }
 
 async function sindicar(fuentes, cfg) {
@@ -303,6 +398,9 @@ async function sindicar(fuentes, cfg) {
       const bajada = primerParrafo(cuerpo);
       const seccion = adivinarSeccion(`${it.titulo} ${bajada}`);
       const firma = it.autor && it.autor.length < 80 ? it.autor : f.medio;
+      const portada = it.imagen
+        ? await descargarImagen(it.imagen, `${slugify(f.medio)}-${hash(it.link)}`)
+        : "";
       const fm = [
         "---",
         `titulo: ${JSON.stringify(it.titulo)}`,
@@ -311,6 +409,12 @@ async function sindicar(fuentes, cfg) {
         "autor: medios-aliados",
         `fecha: ${fechaISO}`,
         `etiquetas: [${JSON.stringify(f.medio)}]`,
+        ...(portada
+          ? [
+              `portada: ${JSON.stringify(portada)}`,
+              `creditoPortada: ${JSON.stringify("Foto: " + f.medio)}`,
+            ]
+          : []),
         "origen: sindicada",
         `firma: ${JSON.stringify(firma)}`,
         `fuente: ${JSON.stringify(f.medio)}`,
@@ -333,6 +437,8 @@ async function sindicar(fuentes, cfg) {
     log(`${f.medio}: ${ok} nota(s) vigentes (${items.length} en el feed)`);
   }
 
+  await backfillImagenes(dir);
+
   // podar: notas sindicadas que ya no están en ningún feed y superan la antigüedad
   let podadas = 0;
   for (const n of existentes) {
@@ -343,6 +449,9 @@ async function sindicar(fuentes, cfg) {
       const m = txt.match(/^fecha:\s*(\d{4}-\d{2}-\d{2})/m);
       const vieja = m ? new Date(m[1]).getTime() < limiteViejo : true;
       if (vieja) {
+        // borra también su foto para que public/uploads no crezca sin fin
+        const img = (txt.match(/^portada:\s*"?(\/uploads\/[^"\n]+?)"?\s*$/m) || [])[1];
+        if (img) await unlink(join(RAIZ, "public", img)).catch(() => {});
         await unlink(ruta);
         podadas++;
       }

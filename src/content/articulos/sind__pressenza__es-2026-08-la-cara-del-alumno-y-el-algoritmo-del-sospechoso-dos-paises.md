@@ -12,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/08/la-cara-del-alumno-y-el-algoritmo-del-sospechoso-dos-paises-un-mismo-dilema/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-gr6v28.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 El 4 de agosto de 2026, el grupo de técnicos de la Autoridade Nacional de Proteção de Dados firmó una resolución que interrumpió, de un plumazo, una rutina que un millón de chicos y chicas venían repitiendo cada mañana desde 2021: pararse frente a un celular, dejarse fotografiar por el propio maestro y confiar en que un algoritmo, en algún servidor de la estatal Celepar, decidiera si esa cara coincidía con la registrada en la base de datos. Ese día terminó el «Escola Paraná Biometria». Y con él, empezó a resquebrajarse la ilusión de que en América Latina la vigilancia biométrica del Estado avanza siempre en la misma dirección.
 

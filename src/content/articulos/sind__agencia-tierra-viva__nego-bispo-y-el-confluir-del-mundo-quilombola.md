@@ -12,6 +12,8 @@ fuenteUrl: "https://agenciatierraviva.com.ar/"
 original: "https://agenciatierraviva.com.ar/nego-bispo-y-el-confluir-del-mundo-quilombola/"
 licencia: "CC BY 2.5 AR"
 licenciaUrl: "https://creativecommons.org/licenses/by/2.5/ar/"
+portada: "/uploads/sind-agencia-tierra-viva-11er4uz.jpg"
+creditoPortada: "Foto: Agencia Tierra Viva"
 ---
 ### Por Antônio Bispo dos Santos*
 

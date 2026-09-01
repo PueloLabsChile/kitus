@@ -12,6 +12,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/08/31/generacion-perdida-la-educacion-inconclusa-de-los-jovenes-rohinya-en-los-campamentos-de-refugiados-de-bangladesh/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-1g7xw4t.webp"
+creditoPortada: "Foto: Global Voices"
 ---
 *En el campamento de refugiados de Cox’s Bazar, en Bangladesh, muchos niños y jóvenes no tienen acceso a una educación continua y de calidad*
 

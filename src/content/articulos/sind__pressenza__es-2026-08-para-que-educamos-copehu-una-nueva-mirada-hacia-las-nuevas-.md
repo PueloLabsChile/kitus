@@ -12,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/08/para-que-educamos-copehu-una-nueva-mirada-hacia-las-nuevas-generaciones/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-t20xiq.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 **¿Para qué educamos?** La pregunta no es nueva, pero vuelve a interpelarnos frente a un mundo que cambia aceleradamente y a unas Nuevas Generaciones que llegan con otras sensibilidades, búsquedas y formas de relacionarse con una realidad cada vez más interconectada.
 

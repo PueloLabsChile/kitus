@@ -12,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/08/que-hacemos-cuando-lo-posible-cambia/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-cw2gp8.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 > Con la inteligencia artificial estamos modificando las condiciones antes de saber qué haremos desde ellas.
 

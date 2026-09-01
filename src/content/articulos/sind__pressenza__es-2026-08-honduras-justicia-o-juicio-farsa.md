@@ -12,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/08/honduras-justicia-o-juicio-farsa/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-nejbxv.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 Expresidente Hernández volvió al país supuestamente para enfrentarse a la justicia
 

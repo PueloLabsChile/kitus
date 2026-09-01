@@ -12,6 +12,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/08/28/el-dia-despues-de-la-inundacion-en-el-centro-de-nepal/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-1dh4nkd.jpg"
+creditoPortada: "Foto: Global Voices"
 ---
 *Las imágenes satelitales muestran que el colapso del glacial en la cara norte del Langtang fue en el propio Nepal.*
 

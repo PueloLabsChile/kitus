@@ -12,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/08/aportes-para-el-rediseno-del-campo-de-marte-en-lima-ii/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-swnhj1.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 “Aportes para el rediseño del Campo de Marte en Lima” en su primera entrega sostiene la importancia de las relaciones entre sociedad y naturaleza, que no constituyen entidades separadas, sino como parte de sistemas socioecológicos en los que las distintas formas de vida mantienen relaciones de interdependencia.
 

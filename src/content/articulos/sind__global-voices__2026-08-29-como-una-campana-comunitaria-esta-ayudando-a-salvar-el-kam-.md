@@ -12,6 +12,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/08/29/como-una-campana-comunitaria-esta-ayudando-a-salvar-el-kam-de-nigeria/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-1r6ebcq.jpg"
+creditoPortada: "Foto: Global Voices"
 ---
 *El kam es una lengua hablada en 29 aldeas de Bali, Nigeria*
 

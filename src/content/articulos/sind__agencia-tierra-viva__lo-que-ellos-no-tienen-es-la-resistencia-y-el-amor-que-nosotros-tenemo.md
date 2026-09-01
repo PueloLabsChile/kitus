@@ -12,6 +12,8 @@ fuenteUrl: "https://agenciatierraviva.com.ar/"
 original: "https://agenciatierraviva.com.ar/lo-que-ellos-no-tienen-es-la-resistencia-y-el-amor-que-nosotros-tenemos-por-estos-territorios/"
 licencia: "CC BY 2.5 AR"
 licenciaUrl: "https://creativecommons.org/licenses/by/2.5/ar/"
+portada: "/uploads/sind-agencia-tierra-viva-y3daqo.jpg"
+creditoPortada: "Foto: Agencia Tierra Viva"
 ---
 ### Por Amancay Quinquitreo*
 

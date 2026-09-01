@@ -12,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/08/miles-de-personas-participan-en-washington-en-la-marcha-defend-the-vote/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-1e5rii6.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 El viernes pasado 28 de agosto, en el 63.º aniversario de la Marcha sobre Washington «por el trabajo y la libertad» de 1963, ocasión en la que **Martin Luther King** pronunció su histórico discurso «I have a dream», miles de personas se reunieron en el Lincoln Memorial para la **marcha «Defend the Vote»**.
 

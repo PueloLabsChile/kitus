@@ -12,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/08/los-libertarios-y-el-manejo-de-la-informacion-de-la-red-atlas-a-cerimedo/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-ttv9th.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 El escándalo del «asesor comunicacional» argentino Fenando Cerimedo puso en tapete la existencia de la internacional capitalista, que moviliza el movimiento libertario de extrema derecha y, obviamente, está muy bien financiada: funciona a través de un inmenso conglomerado de gobiernos, fundaciones, institutos, ONG, centros y sociedades unidos entre sí por hilos poco detectables, entre los que se destaca la Atlas Economic Research Foundation, o la Red Atlas de Estados Unidos.
 

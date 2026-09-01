@@ -70,6 +70,13 @@ const autoria = esSindicada ? firma || fuente || "Medios aliados" : autor.data.n
         </p>
       )}
 
+      {esSindicada && portada && (
+        <figure class="articulo__hero">
+          <img src={portada} alt={creditoPortada ?? ""} />
+          <figcaption>{creditoPortada ?? `Foto: ${fuente}`}</figcaption>
+        </figure>
+      )}
+
       {!esSindicada && (
         <figure class="articulo__hero">
           {portada ? <img src={portada} alt={creditoPortada ?? ""} /> : <div class="ph"></div>}

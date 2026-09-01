@@ -12,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/08/el-ser-humano-es-un-dios-encadenado-que-necesita-liberarse/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-1fi7jx0.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 Después de mis profundas experiencias durante mi investigación sobre la posibilidad de viajar en el tiempo, mi visión y comprensión de la historia humana cambiaron profundamente. Descubrí que todo en la historia humana está totalmente interconectado y circular en una espiral siempre ascendente en la que el pasado, el presente y el futuro se tocan de una manera que no es visible para la mente cotidiana. Hay una Fuerza invisible que siempre está ahí, esperando ser descubierta por la mente humana. Esta Fuerza invisible no tiene nombre, es silenciosa y al mismo tiempo poderosa en un inmenso espacio vacío desde donde se envían señales que la conciencia solo puede traducir de la manera que es capaz de hacer. Veo a esta Fuerza como el motor de la evolución de todas las cosas en el universo. Una poderosa intención que algunos llaman Dios (lo que de hecho significa sin nombre). Una poderosa Fuerza que está en todo lo que nos rodea y también dentro de nosotros, pero que solo se siente y reconoce cuando la mente está dispuesta a abrirse a ella.
 

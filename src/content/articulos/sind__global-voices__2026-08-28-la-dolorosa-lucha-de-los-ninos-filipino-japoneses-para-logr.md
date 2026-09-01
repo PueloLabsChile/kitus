@@ -12,6 +12,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/08/28/la-dolorosa-lucha-de-los-ninos-filipino-japoneses-para-lograr-el-reconocimiento-filial-y-la-ciudadania/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-a9a529.webp"
+creditoPortada: "Foto: Global Voices"
 ---
 *Nacieron fuera del matrimonio, sin reconocimiento de un padre japonés, y algunos niños filipino-japoneses quedan como apátridas.   *
 

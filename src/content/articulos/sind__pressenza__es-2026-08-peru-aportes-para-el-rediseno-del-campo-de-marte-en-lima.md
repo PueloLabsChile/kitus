@@ -12,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/08/peru-aportes-para-el-rediseno-del-campo-de-marte-en-lima/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-1jvkwpz.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 **Entiendo que a partir de hoy se inicia el plazo para la elaboración del nuevo expediente técnico para la “mejora” del Campo de Marte, uno de los parques urbanos más emblemáticos de Lima Metropolitana. Coloco “mejora” entre comillas porque convendría comenzar por preguntarnos qué entendemos realmente por mejorar un parque urbano y cuáles deberían ser los criterios que orienten dicha mejora.**
 

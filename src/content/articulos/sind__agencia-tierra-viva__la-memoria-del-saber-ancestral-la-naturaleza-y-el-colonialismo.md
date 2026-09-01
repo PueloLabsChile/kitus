@@ -12,6 +12,8 @@ fuenteUrl: "https://agenciatierraviva.com.ar/"
 original: "https://agenciatierraviva.com.ar/la-memoria-del-saber-ancestral-la-naturaleza-y-el-colonialismo/"
 licencia: "CC BY 2.5 AR"
 licenciaUrl: "https://creativecommons.org/licenses/by/2.5/ar/"
+portada: "/uploads/sind-agencia-tierra-viva-1nuem4j.jpg"
+creditoPortada: "Foto: Agencia Tierra Viva"
 ---
 ### Por Antônio Bispo dos Santos*
 

@@ -12,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/08/caracter-social-de-la-elite-politica-planetaria/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-ae5azx.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 **GENERALIDADES**
 

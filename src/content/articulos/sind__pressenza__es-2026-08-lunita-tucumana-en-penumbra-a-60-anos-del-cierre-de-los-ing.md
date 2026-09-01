@@ -12,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/08/lunita-tucumana-en-penumbra-a-60-anos-del-cierre-de-los-ingenios-de-tucuman/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-18qgbxd.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 Por Maxine Lowy
 

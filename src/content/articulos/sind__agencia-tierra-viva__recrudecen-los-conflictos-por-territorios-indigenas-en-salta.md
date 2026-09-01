@@ -12,6 +12,8 @@ fuenteUrl: "https://agenciatierraviva.com.ar/"
 original: "https://agenciatierraviva.com.ar/recrudecen-los-conflictos-por-territorios-indigenas-en-salta/"
 licencia: "CC BY 2.5 AR"
 licenciaUrl: "https://creativecommons.org/licenses/by/2.5/ar/"
+portada: "/uploads/sind-agencia-tierra-viva-jaagfj.jpg"
+creditoPortada: "Foto: Agencia Tierra Viva"
 ---
 ### **Por Julián Pilatti**
 

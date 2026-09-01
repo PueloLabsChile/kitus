@@ -12,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/08/porta-portese-lugar-de-encuentro-de-italia-y-el-mundo/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-1gb7xtq.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 *Con sus bondades y urgencias, el mundo cabe hoy en el Mercado de Porta Portese, entre los espacios más atractivos de la llamada Ciudad Eterna, tan concurrido los domingos como el Coliseo en los tiempos del imperio romano.*
 

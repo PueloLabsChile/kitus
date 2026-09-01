@@ -12,6 +12,8 @@ fuenteUrl: "https://agenciatierraviva.com.ar/"
 original: "https://agenciatierraviva.com.ar/de-japon-a-grecia-y-tandil-la-revolucion-de-la-agricultura-natural/"
 licencia: "CC BY 2.5 AR"
 licenciaUrl: "https://creativecommons.org/licenses/by/2.5/ar/"
+portada: "/uploads/sind-agencia-tierra-viva-qwed1x.jpg"
+creditoPortada: "Foto: Agencia Tierra Viva"
 ---
 ### **Por Ivonne Guevara**
 

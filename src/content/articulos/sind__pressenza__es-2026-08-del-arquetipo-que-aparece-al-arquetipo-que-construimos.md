@@ -12,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/08/del-arquetipo-que-aparece-al-arquetipo-que-construimos/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-4tmroe.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 Hay un fenómeno que la psicología conoce hace más de cien años: a veces una imagen interna se nos independiza. Una idea, un miedo, una figura que vuelve una y otra vez y que parece tener vida propia, con una intención que no es la nuestra.
 

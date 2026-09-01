@@ -12,6 +12,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/08/27/antillano-por-conviccion-el-caribe-se-despide-del-poeta-y-escritor-ian-mcdonald/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-11u7xa7.jpg"
+creditoPortada: "Foto: Global Voices"
 ---
 *«Que su alma encuentre la paz que sus palabras dieron con tanta generosidad»*
 

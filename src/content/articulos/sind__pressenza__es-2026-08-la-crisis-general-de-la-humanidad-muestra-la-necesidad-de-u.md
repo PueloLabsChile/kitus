@@ -12,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/08/la-crisis-general-de-la-humanidad-muestra-la-necesidad-de-un-cambio-profundo-y-esencial/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-1qxwgvy.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 Para entender la crisis general que atraviesa la humanidad hoy tenemos que remontarnos al momento en que la dirección evolutiva de la humanidad se rompió y se desvió hacia un camino oscuro de antihumanismo generalizado y deshumanizado. Ese momento ocurrió en Europa y fue el comienzo de lo que se convirtió en la colonización del mundo por parte de las naciones europeas. Comenzó con la conquista y colonización de un nuevo continente que recibió el nombre de América, seguido de la conquista y colonización de África, India, China y el resto de Asia, todo realizado por unos pocos países europeos, a saber, España, Portugal, Inglaterra, los Países Bajos, Bélgica, Francia, Alemania e Italia y durante un período de varios siglos hasta la Segunda Guerra Mundial. No hay espacio suficiente aquí para entrar en detalles, pero el interés general y la actitud de esos países era conquistar y someter, incluso luchando entre ellos por la supremacía sobre los demás.
 

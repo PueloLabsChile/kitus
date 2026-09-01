@@ -12,6 +12,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/08/26/identidad-y-ciudadania-que-queda-cuando-el-estado-se-niega-a-reconocernos/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-l98b8v.webp"
+creditoPortada: "Foto: Global Voices"
 ---
 *El valor de nuestra identidad no debe definirse por nuestra ciudadanía o nacionalidad*
 

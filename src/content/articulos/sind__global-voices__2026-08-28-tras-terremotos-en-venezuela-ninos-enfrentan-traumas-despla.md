@@ -12,6 +12,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/08/28/tras-terremotos-en-venezuela-ninos-enfrentan-traumas-desplazamiento-e-inseguridad-alimentaria/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-bs583j.webp"
+creditoPortada: "Foto: Global Voices"
 ---
 *Para los sobrevivientes más pequeños, las secuelas de los terremotos son físicas y emocionales*
 

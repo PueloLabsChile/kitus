@@ -12,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/08/onu-moviliza-ayuda-ante-la-tragica-avalancha-en-nepal-y-tibet/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-1gp32s6.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 Las agencias humanitarias de las Naciones Unidas se sumaron a las tareas de auxilio a las víctimas de la avalancha de lodo en las montañas de Nepal y Tíbet, que arrasó poblados, edificios, instalaciones turísticas, transportes, puentes y represas, y dejó más de 360 personas muertas y unas 1400 desaparecidas.
 

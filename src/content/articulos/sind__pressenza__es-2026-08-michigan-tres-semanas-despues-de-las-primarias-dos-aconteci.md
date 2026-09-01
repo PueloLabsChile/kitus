@@ -12,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/08/michigan-tres-semanas-despues-de-las-primarias-dos-acontecimientos-que-cambian-el-panorama/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-1e8z7kd.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 El 19 de agosto, dos semanas después de las primarias demócratas de Michigan, [escribíamos](https://www.pressenza.com/es/2026/08/michigan-dos-semanas-despues-que-dice-realmente-la-victoria-de-abdul-el-sayed/) que la victoria de Abdul El-Sayed todavía no demostraba que «los progresistas hubieran ganado», sino que «había comenzado un experimento político en uno de los estados decisivos de Estados Unidos». La situación seguía abierta y el desenlace estaba aún por decidir. Porque, El-Sayed había ganado, por un margen estrecho, y la contienda contra el republicano Mike Rogers seguía clasificada como “Toss Up”, en la jerga electoral estadounidense. Es decir, sin un favorito claro. Por otra parte, el tema de Gaza había entrado ya directamente en la política interna estadounidense. Sin embargo, su empuje electoral no se limita a Gaza sino que la campaña también ha logrado focalizar su apoyo en torno a cuestiones cotidianas como la Sanidad, el coste de la vida y la sobredimensionada influencia de los grandes intereses económicos en la política. Apenas unos días después, dos nuevos acontecimientos hacen que ese experimento resulte ahora aún más interesante.¹
 

@@ -12,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/08/cuando-la-utopia-entro-al-seminario/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-bn00ja.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 **Una memoria personal sobre la Teología de la Liberación**
 

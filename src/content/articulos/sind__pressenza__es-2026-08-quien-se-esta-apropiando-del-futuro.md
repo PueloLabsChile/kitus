@@ -12,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/08/quien-se-esta-apropiando-del-futuro/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-106wlfz.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 Hay algo extraño en discutir quién será dueño del futuro cuando ese futuro todavía no existe. O quizás ése sea precisamente el problema: mientras la mayoría seguimos tratando de sobrevivir al presente, hay quienes ya comenzaron a escriturarlo.
 

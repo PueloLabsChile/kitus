@@ -12,6 +12,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/08/31/en-japon-bases-militares-estadounidenses-en-okinawa-obstaculizan-derechos-de-pueblos-indigenas-ryukyu/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-ih8cvv.webp"
+creditoPortada: "Foto: Global Voices"
 ---
 *Más de un siglo de políticas de asimilación forzada han frenado el movimiento por los derechos indígenas ryūkyū*
 

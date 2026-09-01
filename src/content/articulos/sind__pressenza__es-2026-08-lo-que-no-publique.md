@@ -12,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/08/lo-que-no-publique/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-j6fxgx.png"
+creditoPortada: "Foto: Pressenza"
 ---
 *Pensar con Zahavy y mirar un poco más allá*
 

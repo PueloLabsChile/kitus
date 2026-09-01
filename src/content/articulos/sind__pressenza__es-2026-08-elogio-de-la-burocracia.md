@@ -12,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/08/elogio-de-la-burocracia/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-gvbywn.png"
+creditoPortada: "Foto: Pressenza"
 ---
 (…) Ante la burocracia somos todos extranjeros, (…) la burocracia es, en esencia (y en eso radica su utilidad), un código ajeno.” César Aira (1949)
 
