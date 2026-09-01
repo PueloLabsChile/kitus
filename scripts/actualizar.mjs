@@ -374,9 +374,19 @@ async function sindicar(fuentes, cfg) {
       }
       const fecha = new Date(it.fechaTxt);
       if (Number.isNaN(+fecha) || +fecha < limiteViejo) continue;
+      // algunos medios (p. ej. Dialogue Earth) exigen esperar N días desde el original
+      if (f.demoraDias && Date.now() - +fecha < f.demoraDias * 864e5) continue;
 
       const cuerpo = htmlAMarkdown(it.cuerpoHtml);
       if (cuerpo.length < 400) continue; // demasiado corto: probablemente solo un resumen
+      // descartar boletines / columnas-resumen del editor (openDemocracy y otros los
+      // publican en el feed): "En la edición de esta semana…", "hasta la semana que viene".
+      if (
+        /^#{1,4}\s*(en (la )?edici[oó]n de esta semana|en esta edici[oó]n|esta semana en)\b/im.test(cuerpo) ||
+        /(gracias por leernos|hasta la semana que viene|suscr[ií]b(ite|ete|ase) a (nuestra )?newsletter)/i.test(cuerpo)
+      ) {
+        continue;
+      }
       // temas que el medio no cubre
       if (RE_EXCLUIR.test(`${it.titulo} ${cuerpo}`)) {
         continue;

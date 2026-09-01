@@ -3,7 +3,8 @@
     "handle": "kitusonline6343",
     "channelId": "UCqHkNvdvKoCJtpMZuNVlrtw"
   },
-  "//": "sindicadas: medios que publican bajo licencia Creative Commons. actualizar.mjs republica sus últimas notas completas como páginas de Kitus (src/content/articulos/sind__*.md), con crédito, licencia y enlace al original. Solo agregar medios cuya licencia permita reproducción. Campos opcionales por medio: maxPorFeed (nº de notas a mirar), temas (regex: solo entran las notas cuyo título+cuerpo hacen match; útil para medios generalistas), sinImagen (true = no bajar la foto; usar cuando las imágenes del medio suelen ser de terceros y no están cubiertas por su licencia CC).",
+  "//": "sindicadas: medios que publican bajo licencia Creative Commons. actualizar.mjs republica sus últimas notas completas como páginas de Kitus (src/content/articulos/sind__*.md), con crédito, licencia y enlace al original. Solo agregar medios cuya licencia permita reproducción. Campos opcionales por medio: maxPorFeed (nº de notas a mirar), temas (regex: solo entran las notas cuyo título+cuerpo hacen match; útil para medios generalistas), sinImagen (true = no bajar la foto; usar cuando las imágenes del medio suelen ser de terceros o su licencia no las cubre), demoraDias (no republicar hasta N días después de la publicación original; algunos medios lo exigen).",
+  "//nc": "Global Voices, Pressenza y Tierra Viva son CC BY / BY-SA (permiten uso comercial). Dialogue Earth y democraciaAbierta son CC BY-NC-ND (NO comercial y SIN obra derivada): sirven mientras Kitus no tenga publicidad ni cobre. Si eso cambia, hay que quitarlas o pedir permiso de sindicación. democraciaAbierta: openDemocracy aclara que algún artículo puntual puede tener otra licencia; conviene una mirada humana antes de dejar publicada una nota suya.",
   "sindicadas": [
     {
       "medio": "Global Voices",
@@ -31,6 +32,27 @@
       "licencia": "CC BY 2.5 AR",
       "licenciaUrl": "https://creativecommons.org/licenses/by/2.5/ar/",
       "maxPorFeed": 4
+    },
+    {
+      "medio": "Dialogue Earth",
+      "url": "https://dialogue.earth/es/feed/",
+      "home": "https://dialogue.earth/es/",
+      "idioma": "es",
+      "licencia": "CC BY-NC-ND 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es",
+      "maxPorFeed": 4,
+      "sinImagen": true,
+      "demoraDias": 2
+    },
+    {
+      "medio": "democraciaAbierta",
+      "url": "https://www.opendemocracy.net/democraciaabierta/rss/",
+      "home": "https://www.opendemocracy.net/democraciaabierta/",
+      "idioma": "es",
+      "licencia": "CC BY-NC-ND 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es",
+      "maxPorFeed": 3,
+      "sinImagen": true
     }
   ],
   "diasQueSeConservan": 45,
