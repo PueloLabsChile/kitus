@@ -301,7 +301,7 @@ function itemsDeFeed(xml) {
 
 // Notas sindicadas viejas que se guardaron sin foto: intenta recuperarla del
 // og:image de la nota original. Acotado por corrida para no golpear las fuentes.
-async function backfillImagenes(dir, limite = 10) {
+async function backfillImagenes(dir, sinImagen = new Set(), limite = 10) {
   const files = (await readdir(dir)).filter((f) => f.startsWith(PREFIJO));
   let hechos = 0;
   for (const f of files) {
@@ -317,7 +317,7 @@ async function backfillImagenes(dir, limite = 10) {
     if (fmEnd === -1 || /^portada:/m.test(txt.slice(0, fmEnd))) continue;
     const orig = (txt.match(/^original:\s*"?([^"\n]+?)"?\s*$/m) || [])[1];
     const medio = (txt.match(/^fuente:\s*"?([^"\n]+?)"?\s*$/m) || [])[1] || "medio aliado";
-    if (!orig) continue;
+    if (!orig || sinImagen.has(medio)) continue;
     let html;
     try {
       html = await bajar(orig);
@@ -381,6 +381,9 @@ async function sindicar(fuentes, cfg) {
       if (RE_EXCLUIR.test(`${it.titulo} ${cuerpo}`)) {
         continue;
       }
+      // filtro temático por fuente: para medios generalistas (p. ej. The Conversation),
+      // solo entran las notas que hacen match con "temas" en fuentes.json.
+      if (f.temas && !new RegExp(f.temas, "i").test(`${it.titulo}\n${cuerpo}`)) continue;
 
       const slugPost = slugify(it.link.replace(/^https?:\/\/[^/]+\//, "").replace(/\/$/, "")) ||
         slugify(it.titulo);
@@ -398,9 +401,10 @@ async function sindicar(fuentes, cfg) {
       const bajada = primerParrafo(cuerpo);
       const seccion = adivinarSeccion(`${it.titulo} ${bajada}`);
       const firma = it.autor && it.autor.length < 80 ? it.autor : f.medio;
-      const portada = it.imagen
-        ? await descargarImagen(it.imagen, `${slugify(f.medio)}-${hash(it.link)}`)
-        : "";
+      const portada =
+        it.imagen && !f.sinImagen
+          ? await descargarImagen(it.imagen, `${slugify(f.medio)}-${hash(it.link)}`)
+          : "";
       const fm = [
         "---",
         `titulo: ${JSON.stringify(it.titulo)}`,
@@ -437,7 +441,8 @@ async function sindicar(fuentes, cfg) {
     log(`${f.medio}: ${ok} nota(s) vigentes (${items.length} en el feed)`);
   }
 
-  await backfillImagenes(dir);
+  const sinImagen = new Set(fuentes.filter((f) => f.sinImagen).map((f) => f.medio));
+  await backfillImagenes(dir, sinImagen);
 
   // podar: notas sindicadas que ya no están en ningún feed y superan la antigüedad
   let podadas = 0;

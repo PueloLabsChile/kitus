@@ -3,7 +3,7 @@
     "handle": "kitusonline6343",
     "channelId": "UCqHkNvdvKoCJtpMZuNVlrtw"
   },
-  "//": "sindicadas: medios que publican bajo licencia Creative Commons. actualizar.mjs republica sus últimas notas completas como páginas de Kitus (src/content/articulos/sind__*.md), con crédito, licencia y enlace al original. Solo agregar medios cuya licencia permita reproducción.",
+  "//": "sindicadas: medios que publican bajo licencia Creative Commons. actualizar.mjs republica sus últimas notas completas como páginas de Kitus (src/content/articulos/sind__*.md), con crédito, licencia y enlace al original. Solo agregar medios cuya licencia permita reproducción. Campos opcionales por medio: maxPorFeed (nº de notas a mirar), temas (regex: solo entran las notas cuyo título+cuerpo hacen match; útil para medios generalistas), sinImagen (true = no bajar la foto; usar cuando las imágenes del medio suelen ser de terceros y no están cubiertas por su licencia CC).",
   "sindicadas": [
     {
       "medio": "Global Voices",
