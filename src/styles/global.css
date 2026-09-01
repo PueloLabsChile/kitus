@@ -266,6 +266,7 @@ main { padding: var(--gap) 0 3rem; }
 .portada {
   display: grid;
   grid-template-columns: 1.05fr 1.5fr 0.95fr;
+  align-items: start;
   gap: 0;
   border-bottom: 1px solid var(--tinta);
   padding-bottom: var(--gap);
@@ -288,7 +289,49 @@ main { padding: var(--gap) 0 3rem; }
 }
 .col--opinion .op h4 { font-size: 1.05rem; margin: 0; }
 .col--opinion .op a { text-decoration: none; }
-.col--opinion .op a:hover { color: var(--rojo); }
+.col--opinion .op a:hover { color: var(--acento); }
+.col--opinion .op .firma { color: var(--acento); }
+.col--opinion .op__dek {
+  margin: .25rem 0 0;
+  font-size: .86rem;
+  line-height: 1.4;
+  color: var(--tinta-2);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* ---------- bloques por sección al pie de la portada ---------- */
+.bloques {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0;
+  margin-top: calc(var(--gap) * 1.4);
+  border-top: 1px solid var(--tinta);
+  padding-top: var(--gap);
+}
+.bloque { padding: 0 calc(var(--gap) * 0.9); }
+.bloque:first-child { padding-left: 0; }
+.bloque:last-child { padding-right: 0; }
+.bloque + .bloque { border-left: 1px solid var(--linea-2); }
+.bloque__titulo {
+  font-family: var(--sans);
+  font-size: .82rem;
+  font-weight: 800;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+  margin: 0 0 .8rem;
+  padding-bottom: .4rem;
+  border-bottom: 2px solid var(--acento);
+}
+.bloque__titulo a { text-decoration: none; color: inherit; }
+.bloque__titulo a:hover { color: var(--acento); }
+.bloque > .hist + .hist {
+  margin-top: .8rem;
+  padding-top: .8rem;
+  border-top: 1px solid var(--linea);
+}
 
 /* ---------- "lo último": tira de columnas con filetes ---------- */
 .ultimo { padding: calc(var(--gap) * 1.3) 0 0; }
@@ -508,6 +551,11 @@ main { padding: var(--gap) 0 3rem; }
   .rejilla-seccion > .hist:nth-child(3n) { padding-right: calc(var(--gap) * 0.9); }
   .rejilla-seccion > .hist:nth-child(odd) { border-left: 0; padding-left: 0; }
   .rejilla-seccion > .hist:nth-child(2) { border-top: 0; }
+  .bloques { grid-template-columns: 1fr 1fr; }
+  .bloque:nth-child(odd) { padding-left: 0; }
+  .bloque:nth-child(even) { padding-right: 0; }
+  .bloque:nth-child(2n+1) { border-left: 0; }
+  .bloque:nth-child(n+3) { border-top: 1px solid var(--linea); padding-top: 1.2rem; margin-top: 1.2rem; }
 }
 
 @media (max-width: 680px) {
@@ -515,7 +563,9 @@ main { padding: var(--gap) 0 3rem; }
   .portada { grid-template-columns: 1fr; }
   .portada > .col { padding: 0 !important; border-left: 0 !important; }
   .portada > .col + .col { border-top: 1px solid var(--linea); padding-top: 1.2rem; margin-top: 1.2rem; }
-  .ultimo__grid, .videos, .boletin .contenedor, .pie__grid, .prosa .lista-equipo, .rejilla-seccion { grid-template-columns: 1fr; }
+  .ultimo__grid, .videos, .boletin .contenedor, .pie__grid, .prosa .lista-equipo, .rejilla-seccion, .bloques { grid-template-columns: 1fr; }
+  .bloque { padding: 0 !important; border-left: 0 !important; }
+  .bloque + .bloque { border-top: 1px solid var(--linea); padding-top: 1.2rem !important; margin-top: 1.2rem; }
   .ultimo__grid > .hist { border-left: 0 !important; padding: 0 !important; }
   .ultimo__grid > .hist + .hist { border-top: 1px solid var(--linea); padding-top: 1.1rem !important; margin-top: 1.1rem; }
   .rejilla-seccion > .hist { border-left: 0 !important; padding: 1.1rem 0 !important; }
@@ -536,14 +586,14 @@ body[data-seccion="opinion"]       { --acento: var(--sec-opinion); }
 body[data-seccion="cultura"]       { --acento: var(--sec-cultura); }
 body[data-seccion="musica"]        { --acento: var(--sec-musica); }
 
-/* cada tarjeta lleva el color de SU sección, aunque esté en la portada */
-.hist[data-seccion="politica"]      { --acento: var(--sec-politica); }
-.hist[data-seccion="internacional"] { --acento: var(--sec-internacional); }
-.hist[data-seccion="economia"]      { --acento: var(--sec-economia); }
-.hist[data-seccion="derechos"]      { --acento: var(--sec-derechos); }
-.hist[data-seccion="opinion"]       { --acento: var(--sec-opinion); }
-.hist[data-seccion="cultura"]       { --acento: var(--sec-cultura); }
-.hist[data-seccion="musica"]        { --acento: var(--sec-musica); }
+/* cada tarjeta/bloque lleva el color de SU sección, aunque esté en la portada */
+[data-seccion="politica"]      { --acento: var(--sec-politica); }
+[data-seccion="internacional"] { --acento: var(--sec-internacional); }
+[data-seccion="economia"]      { --acento: var(--sec-economia); }
+[data-seccion="derechos"]      { --acento: var(--sec-derechos); }
+[data-seccion="opinion"]       { --acento: var(--sec-opinion); }
+[data-seccion="cultura"]       { --acento: var(--sec-cultura); }
+[data-seccion="musica"]        { --acento: var(--sec-musica); }
 
 /* barra multicolor bajo la cabecera: firma visual del sitio */
 .masthead__regla {

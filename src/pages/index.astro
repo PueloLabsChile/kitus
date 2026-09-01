@@ -5,7 +5,7 @@ import TarjetaArticulo from "../components/TarjetaArticulo.astro";
 import FranjaMultimedia from "../components/FranjaMultimedia.astro";
 import FranjaMusica from "../components/FranjaMusica.astro";
 import Boletin from "../components/Boletin.astro";
-import { SITIO, SECCIONES, SECCION_SLUGS } from "../consts";
+import { SITIO, SECCIONES, SECCION_SLUGS, nombreSeccion } from "../consts";
 
 const todos = (await getCollection("articulos", ({ data }) => !data.borrador)).sort(
   (a, b) => b.data.fecha.getTime() - a.data.fecha.getTime(),
@@ -19,10 +19,33 @@ const notas = noticiosos.filter((a) => !a.data.opinion);
 const lead = notas.find((a) => a.data.destacada) ?? notas[0];
 const resto = notas.filter((a) => a.id !== lead?.id);
 
-const wellSecundarias = resto.slice(0, 2); // debajo del lead, sin foto
-const feature = resto[2];                  // columna central, con foto
-const featureSecundarias = resto.slice(3, 5);
-const ultimas = resto.slice(5, 9);
+// ---- Portada de tres columnas, equilibradas en alto ----
+const wellSecundarias = resto.slice(0, 3); // col. 1, bajo el lead, sin foto
+const feature = resto[3]; // col. 2, única con foto grande
+const featureSecundarias = resto.slice(4, 8); // col. 2, texto con bajada
+
+// col. 3: opinión y, si no alcanza, análisis reciente para que no quede vacía.
+const usadosPortada = new Set([lead?.id, ...resto.slice(0, 8).map((a) => a.id)]);
+const relleno = resto
+  .filter((a) => !usadosPortada.has(a.id))
+  .slice(0, Math.max(0, 9 - opiniones.length));
+const columnaLateral = [...opiniones.slice(0, 9), ...relleno];
+const tituloLateral = opiniones.length >= 3 ? "Opinión" : "Análisis";
+
+// ---- "Lo último": lo más nuevo que no entró arriba ----
+const enPortada = new Set([...usadosPortada, ...columnaLateral.map((a) => a.id)]);
+const ultimas = resto.filter((a) => !enPortada.has(a.id)).slice(0, 9);
+
+// ---- Bloques por sección: aprovechan el resto del material ----
+const yaVisto = new Set([...enPortada, ...ultimas.map((a) => a.id)]);
+const bloquesSeccion = SECCION_SLUGS.filter((s) => s !== "musica" && s !== "opinion")
+  .map((slug) => ({
+    slug,
+    articulos: noticiosos
+      .filter((a) => a.data.seccion === slug && !yaVisto.has(a.id))
+      .slice(0, 4),
+  }))
+  .filter((b) => b.articulos.length >= 2);
 
 async function conAutor(a: (typeof todos)[number]) {
   return { articulo: a, autor: await getEntry(a.data.autor) };
@@ -31,8 +54,14 @@ const leadX = lead ? await conAutor(lead) : null;
 const wellX = await Promise.all(wellSecundarias.map(conAutor));
 const featureX = feature ? await conAutor(feature) : null;
 const featureSecX = await Promise.all(featureSecundarias.map(conAutor));
+const lateralX = await Promise.all(columnaLateral.map(conAutor));
 const ultimasX = await Promise.all(ultimas.map(conAutor));
-const opinionesX = await Promise.all(opiniones.slice(0, 6).map(conAutor));
+const bloquesX = await Promise.all(
+  bloquesSeccion.map(async (b) => ({
+    slug: b.slug,
+    articulos: await Promise.all(b.articulos.map(conAutor)),
+  })),
+);
 ---
 <Base titulo={SITIO.nombre} activa="portada">
   <main class="contenedor">
@@ -48,23 +77,24 @@ const opinionesX = await Promise.all(opiniones.slice(0, 6).map(conAutor));
       <div class="col col--feature pila">
         {featureX && <TarjetaArticulo articulo={featureX.articulo} autor={featureX.autor} variante="foto" />}
         {featureSecX.map(({ articulo, autor }) => (
-          <TarjetaArticulo articulo={articulo} autor={autor} variante="mini" />
+          <TarjetaArticulo articulo={articulo} autor={autor} variante="normal" conFoto={false} />
         ))}
       </div>
 
-      {opinionesX.length > 0 && (
+      {lateralX.length > 0 && (
         <aside class="col col--opinion">
-          <h2 class="col__titulo col__titulo--rojo">Opinión</h2>
-          {opinionesX.map(({ articulo, autor }) => (
-            <div class="op">
+          <h2 class="col__titulo col__titulo--rojo">{tituloLateral}</h2>
+          {lateralX.map(({ articulo, autor }) => (
+            <div class="op" data-seccion={articulo.data.seccion}>
               {articulo.data.portada && (
                 <a href={`/articulo/${articulo.id}/`} class="op__thumb" aria-hidden="true" tabindex="-1">
                   <img src={articulo.data.portada} alt="" loading="lazy" />
                 </a>
               )}
               <div>
-                <p class="firma">{autor.data.nombre}</p>
+                <p class="firma">{articulo.data.opinion ? autor.data.nombre : nombreSeccion(articulo.data.seccion)}</p>
                 <h4><a href={`/articulo/${articulo.id}/`}>{articulo.data.titulo}</a></h4>
+                <p class="op__dek">{articulo.data.bajada}</p>
               </div>
             </div>
           ))}
@@ -86,6 +116,19 @@ const opinionesX = await Promise.all(opiniones.slice(0, 6).map(conAutor));
             <TarjetaArticulo articulo={articulo} autor={autor} variante="mini" />
           ))}
         </div>
+      </section>
+    )}
+
+    {bloquesX.length > 0 && (
+      <section class="bloques">
+        {bloquesX.map((b) => (
+          <div class="bloque" data-seccion={b.slug}>
+            <h3 class="bloque__titulo"><a href={`/${b.slug}/`}>{nombreSeccion(b.slug)}</a></h3>
+            {b.articulos.map(({ articulo, autor }) => (
+              <TarjetaArticulo articulo={articulo} autor={autor} variante="mini" conFoto={false} conDek={false} />
+            ))}
+          </div>
+        ))}
       </section>
     )}
 
