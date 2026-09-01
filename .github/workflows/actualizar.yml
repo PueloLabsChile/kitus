@@ -3,6 +3,14 @@ name: Actualizar contenido
 # Trae los últimos videos del canal y republica notas completas de los medios con
 # licencia Creative Commons listados en scripts/fuentes.json. Si algo cambió, hace
 # commit — y eso dispara el redeploy del hosting (Netlify).
+#
+# Además, si aparecieron notas nuevas, manda un correo con sus títulos. Para que
+# el correo funcione hay que cargar 3 secrets en el repo
+# (Settings › Secrets and variables › Actions):
+#   MAIL_USERNAME  → una dirección de Gmail (la que envía)
+#   MAIL_PASSWORD  → "contraseña de aplicación" de esa cuenta de Gmail (16 letras)
+#   MAIL_TO        → a dónde llega el aviso
+# Si no están cargados, el resto (traer notas + publicar) sigue funcionando igual.
 
 on:
   schedule:
@@ -21,6 +29,9 @@ concurrency:
 jobs:
   actualizar:
     runs-on: ubuntu-latest
+    env:
+      # Se expone a nivel job para poder saltar el paso del correo si no hay secret.
+      MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
     steps:
       - uses: actions/checkout@v4
 
@@ -31,15 +42,69 @@ jobs:
       - name: Traer videos y notas sindicadas
         run: node scripts/actualizar.mjs
 
-      - name: Commit si hubo cambios
+      - name: Ver qué cambió
+        id: cambios
         run: |
           rutas="src/data public/uploads src/content/articulos"
-          if [[ -n "$(git status --porcelain $rutas)" ]]; then
-            git config user.name "kitus-bot"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add $rutas
-            git commit -m "Auto: actualiza videos y notas de medios aliados"
-            git push
-          else
+          if [[ -z "$(git status --porcelain $rutas)" ]]; then
+            echo "hay_cambios=false" >> "$GITHUB_OUTPUT"
             echo "Sin cambios."
+            exit 0
           fi
+          echo "hay_cambios=true" >> "$GITHUB_OUTPUT"
+
+          # Títulos de las notas sindicadas nuevas (archivos aún sin rastrear).
+          titulos=""
+          while read -r f; do
+            [[ -z "$f" ]] && continue
+            t=$(sed -n 's/^titulo: *"\(.*\)"$/\1/p' "$f" | head -1)
+            titulos+="- ${t:-$f}"$'\n'
+          done < <(git status --porcelain src/content/articulos \
+                     | awk '$1=="??" && $2 ~ /sind__.*\.md$/ {print $2}')
+
+          if [[ -n "$titulos" ]]; then
+            n=$(printf '%s' "$titulos" | grep -c '^- ')
+            echo "hay_notas=true" >> "$GITHUB_OUTPUT"
+            echo "asunto=Kitus: $n nota(s) nueva(s)" >> "$GITHUB_OUTPUT"
+            {
+              echo "cuerpo<<FIN"
+              echo "Se publicaron $n nota(s) nueva(s) en Kitus:"
+              echo
+              printf '%s' "$titulos"
+              echo
+              echo "Ver el sitio: https://kitus.netlify.app/"
+              echo "FIN"
+            } >> "$GITHUB_OUTPUT"
+          else
+            echo "hay_notas=false" >> "$GITHUB_OUTPUT"
+          fi
+
+          # Resumen visible en la pestaña Actions de esta corrida.
+          {
+            echo "### Actualización de contenido"
+            git status --porcelain $rutas
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit y push
+        if: steps.cambios.outputs.hay_cambios == 'true'
+        run: |
+          rutas="src/data public/uploads src/content/articulos"
+          git config user.name "kitus-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add $rutas
+          git commit -m "Auto: actualiza videos y notas de medios aliados"
+          git push
+
+      - name: Avisar por correo si hay notas nuevas
+        if: steps.cambios.outputs.hay_notas == 'true' && env.MAIL_USERNAME != ''
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          from: Kitus bot <${{ secrets.MAIL_USERNAME }}>
+          to: ${{ secrets.MAIL_TO }}
+          subject: ${{ steps.cambios.outputs.asunto }}
+          body: ${{ steps.cambios.outputs.cuerpo }}
