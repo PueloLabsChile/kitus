@@ -13,6 +13,6 @@ Brasil tiene uno de los mercados de medios más concentrados de América Latina:
 
 Esa concentración, señalan quienes la estudian, no solo limita la diversidad de voces: define qué temas entran en la conversación pública y cuáles quedan afuera, con efectos directos sobre los procesos electorales.
 
-El debate sobre regulación democrática de los medios lleva décadas sin avanzar, frenado por los propios actores a los que buscaría regular.
+El debate sobre la regulación de la propiedad de los medios lleva décadas sin avanzar, frenado —señalan los especialistas— por los propios grupos a los que alcanzaría.
 
 [Entrevista completa en el canal de Kitus](https://www.youtube.com/watch?v=bZcvfxgyfdQ).

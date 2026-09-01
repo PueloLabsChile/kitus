@@ -14,6 +14,6 @@ Enrique Dussel dedicó su vida a construir una filosofía de la liberación: un 
 
 Su crítica a la "invención" de América Latina como periferia de Europa, y su relectura de la historia mundial desde 1492, siguen siendo herramientas para discutir cualquier relato que se presente como neutral o universal.
 
-Para un medio como Kitus, esa apuesta es también un método: mirar los procesos desde quienes cargan con sus costos, no desde quienes los administran.
+Discutir esas ideas —se compartan o no— ayuda a entender por qué ciertos relatos históricos llegan a presentarse como los únicos posibles.
 
 [Ver la entrevista en el canal de Kitus](https://www.youtube.com/watch?v=jaQi9QH15GM).

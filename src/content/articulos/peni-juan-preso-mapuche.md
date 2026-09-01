@@ -1,10 +1,10 @@
 ---
-titulo: "Peñi Juan: el rostro de la prisión política mapuche"
+titulo: "Peñi Juan: prisión preventiva y conflicto mapuche en el sur de Chile"
 bajada: Detrás de las estadísticas de comuneros procesados hay historias concretas. La de Juan es una de ellas.
 seccion: derechos
 autor: marina-kordon
 fecha: 2026-08-16
-etiquetas: [Pueblo mapuche, Prisión política]
+etiquetas: [Pueblo mapuche, Prisión preventiva, Chile]
 portada: /uploads/yt-afczCS32qsQ.jpg
 creditoPortada: Captura del video / Kitus
 ---

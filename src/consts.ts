@@ -2,9 +2,9 @@ export const SITIO = {
   nombre: "Kitus",
   lema: "Ideas de cambio",
   descripcion:
-    "Kitus es un medio digital que reúne y difunde ideas de cambio sobre las problemáticas sociales surgidas de las contradicciones de los actuales modelos económicos, políticos, sociales y culturales.",
+    "Kitus es un medio digital de periodismo político y análisis internacional. Cubre economía, poder institucional, derechos y cultura con contexto, datos y fuentes verificables.",
   descripcionCorta:
-    "Medio digital de ideas de cambio. Damos visibilidad a los sectores minorizados por los grandes medios de comunicación.",
+    "Medio digital de periodismo político y análisis internacional. Contexto y fuentes, sin muro de pago.",
   youtube: "https://www.youtube.com/@kitusonline6343",
   correoRedaccion: "redaccion@kitus.example",
   correoColabora: "colabora@kitus.example",
@@ -17,32 +17,32 @@ export const SECCIONES = {
   politica: {
     nombre: "Política",
     descripcion:
-      "Poder, Estados y disputa institucional: cómo se gobierna y quién decide, dentro y fuera de la región.",
+      "Poder, instituciones y decisiones públicas: quién gobierna, cómo y con qué controles, dentro y fuera de la región.",
   },
   internacional: {
     nombre: "Internacional",
     descripcion:
-      "Geopolítica, conflictos y alineamientos. El tablero mundial mirado desde el Sur global.",
+      "Geopolítica, conflictos y alineamientos, con foco en América Latina y su lugar en el mundo.",
   },
   economia: {
     nombre: "Economía",
     descripcion:
-      "Comercio, deuda, recursos y trabajo: la economía política del sistema mundial y sus efectos concretos.",
+      "Comercio, deuda, recursos naturales y trabajo: cómo funcionan y a quién afectan.",
   },
   derechos: {
     nombre: "Derechos",
     descripcion:
-      "Derechos humanos y de la niñez, debido proceso y garantías, territorios y ambiente. Casos concretos y los movimientos que empujan el cambio.",
+      "Derechos humanos y de la niñez, debido proceso y garantías, territorios y ambiente. Casos concretos, con expediente y fuentes.",
   },
   opinion: {
     nombre: "Opinión",
     descripcion:
-      "Análisis y columnas de Kitus y su red de colaboradores y colaboradoras.",
+      "Análisis y columnas firmadas de Kitus y sus colaboradores.",
   },
   cultura: {
     nombre: "Cultura",
     descripcion:
-      "Ideas, relatos y producción cultural que disputan el sentido común.",
+      "Ideas, relatos y producción cultural, y los debates que abren.",
   },
   musica: {
     nombre: "Música",

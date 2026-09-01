@@ -1,5 +1,5 @@
 ---
-titulo: "Presos políticos de la Revuelta: las condenas que siguen en pie"
+titulo: "Las condenas de la revuelta chilena que siguen en pie"
 bajada: A años del estallido social chileno, organizaciones denuncian que decenas de personas continúan procesadas o condenadas por hechos ocurridos durante las protestas.
 seccion: politica
 autor: marina-kordon

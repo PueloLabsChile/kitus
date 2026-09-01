@@ -1,10 +1,10 @@
 ---
-titulo: "Paine, zona de sacrificio: la lucha contra los agrotóxicos"
+titulo: "Paine: vecinos denuncian los efectos de los plaguicidas de la agroindustria"
 bajada: Habitantes de la comuna chilena denuncian desde hace años los efectos del uso intensivo de plaguicidas de la agroindustria sobre la salud y el agua.
 seccion: economia
 autor: diego-salazar
 fecha: 2026-08-20
-etiquetas: [Extractivismo, Agrotóxicos, Salud]
+etiquetas: [Agroindustria, Plaguicidas, Salud]
 portada: /uploads/yt-MIGgbY4gGWw.jpg
 creditoPortada: Captura del video / Kitus
 ---
@@ -13,6 +13,6 @@ Paine es una comuna agrícola al sur de Santiago. Su economía gira en torno a l
 
 El nombre de Bayer-Monsanto aparece con frecuencia en el reclamo, por su peso en el mercado de semillas transgénicas y agroquímicos.
 
-La disputa es la de tantos territorios de la región: empleo y divisas de un lado, salud y agua del otro, sin una política que ponga esos términos en equilibrio.
+La disputa es la de tantos territorios de la región: empleo y divisas de un lado, salud y agua del otro, sin una política pública que concilie esos términos.
 
 [Ver el informe en el canal de Kitus](https://www.youtube.com/watch?v=MIGgbY4gGWw).
