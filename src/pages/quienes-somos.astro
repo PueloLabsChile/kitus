@@ -1,11 +1,14 @@
 ---
-import { getCollection } from "astro:content";
 import Base from "../layouts/Base.astro";
 import { SITIO } from "../consts";
 
-const autores = (await getCollection("autores")).sort((a, b) =>
-  a.data.nombre.localeCompare(b.data.nombre, "es"),
-);
+const equipo = [
+  { nombre: "Gonzalo Escobar Arévalo", iniciales: "GE" },
+  { nombre: "Astrid Velázquez", iniciales: "AV" },
+  { nombre: "Emilia Guzmán", iniciales: "EG" },
+  { nombre: "Pedro Santander", iniciales: "PS" },
+  { nombre: "Camila Ferreira Valdez", iniciales: "CF" },
+];
 ---
 <Base titulo="Quiénes somos" activa="quienes-somos">
   <main class="contenedor">
@@ -30,21 +33,30 @@ const autores = (await getCollection("autores")).sort((a, b) =>
         pago: el acceso a la información es abierto. La redacción es pequeña y se apoya en la
         red de colaboración para ampliar temas y territorios.
       </p>
+    </article>
 
-      <h2 id="equipo">Equipo</h2>
-      <ul class="lista-equipo">
-        {autores.map((a) => (
-          <li>
-            <strong>{a.data.nombre}</strong>
-            {a.data.rol} · {a.data.bio}
-          </li>
+    <section class="equipo-editorial" id="equipo" aria-labelledby="equipo-titulo">
+      <div class="equipo-editorial__cab">
+        <p class="kicker">La redacción</p>
+        <h2 id="equipo-titulo">Quienes hacen Kitus</h2>
+        <p>Una mesa de trabajo abierta: cinco miradas para contar la política, la cultura y los territorios desde América Latina.</p>
+      </div>
+
+      <div class="equipo-editorial__grid">
+        {equipo.map((persona, indice) => (
+          <article class="equipo-ficha">
+            <div class="equipo-ficha__retrato" aria-hidden="true">
+              <span>{persona.iniciales}</span>
+            </div>
+            <p class="equipo-ficha__indice">{String(indice + 1).padStart(2, "0")}</p>
+            <h3>{persona.nombre}</h3>
+            <p class="equipo-ficha__rol">Equipo Kitus</p>
+          </article>
         ))}
-        <li>
-          <strong>Sumate</strong>
-          ¿Querés colaborar con una nota, una traducción o una pieza audiovisual? Escribinos.
-        </li>
-      </ul>
+      </div>
+    </section>
 
+    <article class="prosa">
       <h2 id="contacto">Contacto</h2>
       <p>
         Redacción: <a href={`mailto:${SITIO.correoRedaccion}`}>{SITIO.correoRedaccion}</a><br />
