@@ -1,0 +1,50 @@
+---
+titulo: "Milei y el mito de Circe: cuando el discurso de odio se aplaude de pie"
+bajada: "En el canto décimo de la Odisea, los hombres de Ulises llegan hambrientos y exhaustos a una isla gobernada por una hechicera llamada Circe. Ella los recibe casi como a una familia: los sienta a su mesa, les sirve vino, queso y miel, y…"
+seccion: internacional
+autor: medios-aliados
+fecha: 2026-09-08
+etiquetas: ["Pressenza"]
+portada: "/uploads/sind-pressenza-1241opr.webp"
+creditoPortada: "Foto: Pressenza"
+origen: sindicada
+firma: "Efren Osorio"
+fuente: "Pressenza"
+fuenteUrl: "https://www.pressenza.com/es/"
+original: "https://www.pressenza.com/es/2026/09/milei-y-el-mito-de-circe-cuando-el-discurso-de-odio-se-aplaude-de-pie/"
+licencia: "CC BY 4.0"
+licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+---
+En el canto décimo de la Odisea, los hombres de Ulises llegan hambrientos y exhaustos a una isla gobernada por una hechicera llamada Circe. Ella los recibe casi como a una familia: los sienta a su mesa, les sirve vino, queso y miel, y espera con paciencia a que coman hasta hartarse. Y ahí, cuando ya están relajados, con la guardia baja y agradecidos por el recibimiento, los toca con su vara. Nada más. Ni espada ni veneno, ese único gesto basta para que un gruñido bajo les suba por la garganta, se les encorve la espalda, les crezcan hocicos y colas, y terminen encerrados en una pocilga de cerdos. Pero lo verdaderamente perturbador del relato no está en la transformación del cuerpo, eso es apenas el efecto especial de una mitología de hace tres mil años, sino en un detalle que Homero se toma el trabajo de aclarar: adentro de esos cuerpos de cerdo siguen encerradas mentes enteramente humanas, que lloran, que recuerdan quiénes eran, que saben perfectamente lo que les han hecho. Circe no tuvo que levantar un ejército ni salir a cazarlos uno por uno: le bastó con decidir que ya no eran sus semejantes, y dejar que la vara hiciera, en un segundo, el resto del trabajo.
+
+Guardemos ese detalle, porque hace pocos días volvimos a ver el mismo hechizo, solo que esta vez no hizo falta ninguna poción mágica.
+
+En un escenario de Santiago de Chile, ante cientos de personas que llevaban horas esperándolo, el presidente argentino Javier Milei llamó «mugrosos» a quienes piensan distinto de él, y de paso los definió como un «cáncer». El auditorio completo se puso de pie, lo ovacionó y coreó consignas, y entre el público estaba una parte de la derecha chilena. Horas más tarde, en el discurso de cierre del mismo encuentro, le tocó el turno al Presidente José Antonio Kast, anfitrión del foro. Varios parlamentarios de oposición le habían pedido, ese mismo día, que condenara los dichos de Milei desde ese mismo escenario. Kast no lo hizo: cerró el encuentro sin dedicarles una sola palabra, como si «mugrosos» y «cáncer» jamás se hubieran pronunciado ahí. El que calla otorga, no hizo falta un desmentido explícito para que el silencio se entendiera como lo que fue. Y ese silencio, precisamente, es la otra cara del mismo hechizo: nadie necesitó vara mágica esta vez, bastó con el micrófono, porque el mecanismo es exactamente el mismo que el de Circe. No se ataca primero el cuerpo del otro. Se cambia la palabra con que se lo nombra, y el cuerpo, tarde o temprano, termina siguiendo a la palabra.
+
+Y conviene decirlo sin adornos, porque suele pasarse por alto: esto no es una simple coincidencia de estilo entre políticos con temperamentos parecidos. Es un diseño retórico deliberado de la ultraderecha global, ensayado, repetido y compartido de un continente a otro precisamente porque funciona. Funciona porque cohesiona a la propia base contra un enemigo al que ya no hace falta tratar con ningún tipo de consideración, y funciona porque cada barbaridad nueva deja a la anterior pareciendo casi moderada en comparación.
+
+**La misma vara, en otras manos**
+
+Donald Trump llevó el hechizo a un lugar al que ni la propia Circe se atrevió a llegar del todo, porque ella, al menos, dejaba la mente humana intacta adentro del cuerpo transformado en cerdo. Sobre los inmigrantes ha llegado a decir, textualmente, que «no son personas… son animales». Cuando le pidieron que retirara esas palabras, no retrocedió: las repitió, más categórico todavía: «no son humanos, no son humanos. Son animales». Y más de una vez ha insistido, además, en que esas mismas personas «envenenan la sangre» de su país. La misma imagen, casi calcada, de un libro que Adolf Hitler escribió hace casi un siglo, Mi Lucha, el texto que sirvió de base ideológica para justificar después el asesinato de millones de personas. Setenta años después de Núremberg, alguien volvió a agitar esa misma vara desde un escenario, con aplausos de fondo, y casi nadie se sobresaltó.
+
+**El hechizo que ya conocíamos en Chile**
+
+No hace falta cruzar ningún mar, lamentablemente, para encontrar la variante más extrema de este mismo sortilegio, porque la construyó la propia dictadura militar chilena hace apenas cuarenta y tantos años. El almirante José Toribio Merino tenía una palabra fija para nombrar a quienes no compartían su visión del mundo: «humanoides». La explicaba, además, invocando a Dios y al demonio con la misma soltura de quien recita un catecismo, le faltó persignarse antes de semejante brutalidad: «Dios nos hizo a todos con alma, pero el demonio se las sacó a algunos, a los humanoides». Ni sucios, ni animales siquiera: ni humanos completos. Bajo esa palabra, miles de compatriotas fueron torturados, exiliados o hechos desaparecer. La vara de Merino no transformaba cuerpos en pocilgas: los mandaba directo a la tortura o a la muerte.
+
+**Un hechizo que se lanza en tiempo real**
+
+Para quien todavía piense que esto es apenas una discusión de vocabulario, vale la pena mirar lo que ocurre ahora mismo: en agosto de este año, en medio de una guerra que sigue en curso mientras escribo estas líneas, el primer ministro israelí Benjamin Netanyahu descartó públicamente cualquier acuerdo diplomático con Irán, calificando a los iraníes de «salvajes». Dijo, textual: «dudo que con ese grupo allí, con esos salvajes, pueda lograrse un acuerdo». No dijo enemigos. No dijo peligrosos, ni siquiera irracionales. Dijo salvajes, la misma palabra exacta con que durante siglos se justificó someter, colonizar y exterminar pueblos enteros. Ya lo advertía Silo en un documento del Movimiento Humanista: «cada vez que un individuo o un grupo humano se impone violentamente a otros, logra detener la historia convirtiendo a sus víctimas en objetos «naturales»». La naturaleza, decía, no tiene intenciones, así que negarle a alguien su libertad y sus intenciones es exactamente eso: convertirlo en un objeto natural, en un objeto de uso. «Salvaje» no es más que la versión moderna de esa misma operación, y mientras esa palabra circulaba por la prensa mundial, los misiles seguían cruzándose de un lado a otro de esa guerra.
+
+**El silencio cómplice de la prensa hegemónica**
+
+Y hay algo más que conviene decir con todas sus letras: la prensa hegemónica de este país suele tratar estos episodios como la excentricidad de un personaje pintoresco, un desliz sin mayor importancia que se comenta con una sonrisa y se olvida al día siguiente, en lugar de nombrarlos por lo que efectivamente son. Ese gesto, aparentemente inofensivo, es el que permite que algo genuinamente peligroso, la deshumanización pública de un grupo de personas, quede rebajado a anécdota simpática, a la rareza folclórica de alguien excéntrico, cuando en realidad es la misma vara que ya vimos operar antes de las peores tragedias del siglo pasado. Lo excéntrico se tolera, incluso se celebra; lo peligroso se debe rechazar. Confundir una cosa con la otra no es un descuido menor: es, directamente, una forma de normalizar la deshumanización del lenguaje, y eso, tratándose de medios que entienden de comunicación mejor que nadie, que saben exactamente qué hace una palabra cuando se repite mil veces, resulta particularmente grave. No es ingenuidad. Es, como mínimo, negligencia informada. No he visto, hasta ahora, una condena editorial clara y sostenida en ninguno de los grandes medios de este país.
+
+Así, poco a poco, sin que nadie fije el momento exacto en que ocurrió, se va normalizando la cosificación de quienes piensan, hablan, visten o huelen distinto. Y ese mismo camino, seguido hasta el final, es el que llevó a millones de personas a los hornos crematorios de la Alemania nazi. No empezó en Dachau ni en Auschwitz: empezó exactamente con esto, con una palabra que le quitaba a alguien la categoría de persona.
+
+Ulises tuvo su hierba mágica para no caer en el hechizo. Nosotros tenemos algo mucho más simple, aunque no por eso más fácil de sostener: prestar atención a la violencia verbal, condenar el discurso de odio antes de que haga su trabajo, porque antes de matar con la mano, casi siempre se mata primero con la palabra. Nadie golpea, tortura o fusila a quien todavía considera su semejante o prójimo. El discurso de odio, por eso, casi nunca es el punto final: es apenas la primera gota de la misma poción. Hace algunas décadas, en este mismo país, frente a cada detenido, cada torturado, cada desaparecido, circulaba una frase que servía para no mirar de frente lo que estaba ocurriendo: «algo habrán hecho para estar presos». Así, exactamente así, es como una sociedad entera termina bebiendo la misma copa, sin darse cuenta, y aplaudiendo de pie a quien se las sirve. Si seguimos ovacionando a quienes hablan de mugrosos, de animales, de humanoides, no hace falta ser adivino para saber en qué terminaremos convertidos. Ya probamos esa copa una vez.
+
+[Efren Osorio](https://www.pressenza.com/es/author/efren-osorio/)
+
+---
+
+*Publicado originalmente en [Pressenza](https://www.pressenza.com/es/2026/09/milei-y-el-mito-de-circe-cuando-el-discurso-de-odio-se-aplaude-de-pie/) el 8 de septiembre de 2026. Reproducido por Kitus bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es). El texto no fue modificado.*
