@@ -95,6 +95,34 @@ jobs:
           git commit -m "Auto: actualiza videos y notas de medios aliados"
           git push
 
+
+      - name: Compilar y publicar en cPanel
+        if: steps.cambios.outputs.hay_cambios == 'true'
+        env:
+          CPANEL_HOST: ${{ secrets.CPANEL_HOST }}
+          CPANEL_USERNAME: ${{ secrets.CPANEL_USERNAME }}
+          CPANEL_PASSWORD: ${{ secrets.CPANEL_PASSWORD }}
+          CPANEL_DESTINATION: ${{ secrets.CPANEL_DESTINATION }}
+        run: |
+          set -euo pipefail
+          : "${CPANEL_HOST:?Falta CPANEL_HOST}"
+          : "${CPANEL_USERNAME:?Falta CPANEL_USERNAME}"
+          : "${CPANEL_PASSWORD:?Falta CPANEL_PASSWORD}"
+          : "${CPANEL_DESTINATION:?Falta CPANEL_DESTINATION}"
+          npm ci
+          npm run build
+          release="kitus-release-${GITHUB_RUN_ID}.zip"
+          (cd dist && zip -qr "../$release" .)
+          cookies="$(mktemp)"
+          headers="$(mktemp)"
+          trap 'rm -f "$cookies" "$headers" "$release"' EXIT
+          curl -ksS -D "$headers" -c "$cookies" -d "user=$CPANEL_USERNAME" --data-urlencode "pass=$CPANEL_PASSWORD" -d 'login_submit=Log+in' "https://$CPANEL_HOST:2083/login/" -o /dev/null
+          token="$(sed -n 's#^[Ll]ocation: /\([^/]*\)/.*#\1#p' "$headers" | tr -d '\r' | head -1)"
+          test -n "$token"
+          base="https://$CPANEL_HOST:2083/$token"
+          curl -ksS -b "$cookies" -F "dir=$CPANEL_DESTINATION" -F "file-1=@$release" "$base/execute/Fileman/upload_files" | grep -q '"status":1'
+          curl -ksS -b "$cookies" -d 'cpanel_jsonapi_apiversion=2' -d 'cpanel_jsonapi_module=Fileman' -d 'cpanel_jsonapi_func=fileop' --data-urlencode 'op=extract' --data-urlencode "sourcefiles=$CPANEL_DESTINATION/$release" --data-urlencode "destfiles=$CPANEL_DESTINATION" --data-urlencode 'doubledecode=0' --data-urlencode 'metadata={"fileop":"extract"}' "$base/json-api/cpanel" | grep -q 'result.*1'
+
       - name: Avisar por correo si hay notas nuevas
         if: steps.cambios.outputs.hay_notas == 'true' && env.MAIL_USERNAME != ''
         uses: dawidd6/action-send-mail@v3
