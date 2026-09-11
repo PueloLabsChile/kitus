@@ -97,7 +97,7 @@ jobs:
 
 
       - name: Compilar y publicar en cPanel
-        if: steps.cambios.outputs.hay_cambios == 'true'
+        if: steps.cambios.outputs.hay_cambios == 'true' || github.event_name == 'workflow_dispatch'
         env:
           CPANEL_HOST: ${{ secrets.CPANEL_HOST }}
           CPANEL_USERNAME: ${{ secrets.CPANEL_USERNAME }}
