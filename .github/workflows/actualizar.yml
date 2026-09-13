@@ -2,7 +2,7 @@ name: Actualizar contenido
 
 # Trae los últimos videos del canal y republica notas completas de los medios con
 # licencia Creative Commons listados en scripts/fuentes.json. Si algo cambió, hace
-# commit — y eso dispara el redeploy del hosting (Netlify).
+# commit. La publicación al hosting se realiza separadamente por FTPS.
 #
 # Además, si aparecieron notas nuevas, manda un correo con sus títulos. Para que
 # el correo funcione hay que cargar 3 secrets en el repo
@@ -37,7 +37,7 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 24
 
       - name: Traer videos y notas sindicadas
         run: node scripts/actualizar.mjs
@@ -72,7 +72,7 @@ jobs:
               echo
               printf '%s' "$titulos"
               echo
-              echo "Ver el sitio: https://kitus.netlify.app/"
+              echo "Ver el sitio: https://kitus.cl/"
               echo "FIN"
             } >> "$GITHUB_OUTPUT"
           else
