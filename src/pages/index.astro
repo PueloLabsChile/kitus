@@ -16,7 +16,7 @@ const noticiosos = todos.filter((a) => a.data.seccion !== "musica");
 const opiniones = noticiosos.filter((a) => a.data.opinion);
 const notas = noticiosos.filter((a) => !a.data.opinion);
 
-const lead = notas.find((a) => a.data.portada) ?? notas[0];
+const lead = notas.find((a) => a.data.destacada && a.data.portada) ?? notas.find((a) => a.data.portada) ?? notas[0];
 const resto = notas.filter((a) => a.id !== lead?.id);
 
 // ---- Portada de tres columnas, equilibradas en alto ----
