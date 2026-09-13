@@ -1,6 +1,6 @@
 ---
 import Base from "../../layouts/Base.astro";
-import cola from "../../data/cola-rss.json";
+const cola = [];
 const fecha = (valor) => new Intl.DateTimeFormat("es-CL", { dateStyle: "medium", timeStyle: "short" }).format(new Date(valor));
 ---
 <Base titulo="Cola de revision" activa="redaccion">
