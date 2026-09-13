@@ -16,7 +16,7 @@ const noticiosos = todos.filter((a) => a.data.seccion !== "musica");
 const opiniones = noticiosos.filter((a) => a.data.opinion);
 const notas = noticiosos.filter((a) => !a.data.opinion);
 
-const lead = notas.find((a) => a.data.destacada) ?? notas[0];
+const lead = notas[0];
 const resto = notas.filter((a) => a.id !== lead?.id);
 
 // ---- Portada de tres columnas, equilibradas en alto ----
@@ -65,43 +65,21 @@ const bloquesX = await Promise.all(
 ---
 <Base titulo={SITIO.nombre} activa="portada">
   <main class="contenedor">
-
-    <div class="portada">
-      <div class="col col--well pila">
+    <section class="portada-principal" aria-label="Noticias destacadas">
+      <aside class="portada-principal__ultimo">
+        <p class="portada-principal__etiqueta">Actualidad</p>
+        <h2>Últimas noticias</h2>
+        {wellX.map(({ articulo, autor }) => <TarjetaArticulo articulo={articulo} autor={autor} variante="normal" conFoto={false} conDek={false} />)}
+      </aside>
+      <div class="portada-principal__titular">
         {leadX && <TarjetaArticulo articulo={leadX.articulo} autor={leadX.autor} variante="lead" />}
-        {wellX.map(({ articulo, autor }) => (
-          <TarjetaArticulo articulo={articulo} autor={autor} variante="normal" conFoto={false} />
-        ))}
+        <div class="portada-principal__apoyos">{featureSecX.slice(0, 2).map(({ articulo, autor }) => <TarjetaArticulo articulo={articulo} autor={autor} variante="mini" conFoto={false} conDek={false} />)}</div>
       </div>
-
-      <div class="col col--feature pila">
+      <aside class="portada-principal__lateral">
         {featureX && <TarjetaArticulo articulo={featureX.articulo} autor={featureX.autor} variante="foto" />}
-        {featureSecX.map(({ articulo, autor }) => (
-          <TarjetaArticulo articulo={articulo} autor={autor} variante="normal" conFoto={false} />
-        ))}
-      </div>
-
-      {lateralX.length > 0 && (
-        <aside class="col col--opinion">
-          <h2 class="col__titulo col__titulo--rojo">{tituloLateral}</h2>
-          {lateralX.map(({ articulo, autor }) => (
-            <div class="op" data-seccion={articulo.data.seccion}>
-              {articulo.data.portada && (
-                <a href={`/articulo/${articulo.id}/`} class="op__thumb" aria-hidden="true" tabindex="-1">
-                  <img src={articulo.data.portada} alt="" loading="lazy" />
-                </a>
-              )}
-              <div>
-                <p class="firma">{articulo.data.opinion ? autor.data.nombre : nombreSeccion(articulo.data.seccion)}</p>
-                <h4><a href={`/articulo/${articulo.id}/`}>{articulo.data.titulo}</a></h4>
-                <p class="op__dek">{articulo.data.bajada}</p>
-              </div>
-            </div>
-          ))}
-        </aside>
-      )}
-    </div>
-
+        {lateralX.slice(0, 2).map(({ articulo, autor }) => <TarjetaArticulo articulo={articulo} autor={autor} variante="mini" conFoto={false} conDek={false} />)}
+      </aside>
+    </section>
     <nav class="tira" aria-label="Secciones">
       <span class="tira__rotulo">Secciones</span>
       {SECCION_SLUGS.map((slug) => <a href={`/${slug}/`}>{SECCIONES[slug].nombre}</a>)}
@@ -121,14 +99,14 @@ const bloquesX = await Promise.all(
 
     {bloquesX.length > 0 && (
       <section class="bloques">
-        {bloquesX.map((b) => (
+        {bloquesX.map((b) => (<>
           <div class="bloque" data-seccion={b.slug}>
             <h3 class="bloque__titulo"><a href={`/${b.slug}/`}>{nombreSeccion(b.slug)}</a></h3>
             {b.articulos.map(({ articulo, autor }) => (
-              <TarjetaArticulo articulo={articulo} autor={autor} variante="mini" conFoto={false} conDek={false} />
+              <TarjetaArticulo articulo={articulo} autor={autor} variante="mini" conFoto={true} conDek={false} />
             ))}
           </div>
-        ))}
+          </>))}
       </section>
     )}
 

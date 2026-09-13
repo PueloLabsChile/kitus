@@ -38,11 +38,6 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
   />
 </head>
 <body data-seccion={activa}>
-  {SITIO.prototipo && (
-    <div class="cinta-proto">
-      Prototipo · <strong>contenido de demostración</strong> · Kitus aún no está publicado
-    </div>
-  )}
   <Masthead activa={activa} />
   <slot />
   <Pie />
