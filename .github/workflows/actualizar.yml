@@ -113,7 +113,7 @@ jobs:
           npm run build
           # Reemplazo completo del sitio en la ruta confirmada por la administración.
           # Se envía la versión anterior a la papelera de cPanel antes de extraer dist.
-          curl -ksS -b "$cookies" -d 'cpanel_jsonapi_apiversion=2' -d 'cpanel_jsonapi_module=Fileman' -d 'cpanel_jsonapi_func=fileop' --data-urlencode 'op=trash' --data-urlencode "sourcefiles=$CPANEL_DESTINATION/*" --data-urlencode "destfiles=$CPANEL_DESTINATION" --data-urlencode 'doubledecode=0' --data-urlencode 'metadata={"fileop":"trash"}' "$base/json-api/cpanel" | grep -q 'result.*1' || true
+          curl -ksS -b "$cookies" -d 'cpanel_jsonapi_apiversion=2' -d 'cpanel_jsonapi_module=Fileman' -d 'cpanel_jsonapi_func=fileop' --data-urlencode 'op=trash' --data-urlencode "sourcefiles=$CPANEL_DESTINATION/index.html" --data-urlencode "destfiles=$CPANEL_DESTINATION" --data-urlencode 'doubledecode=0' --data-urlencode 'metadata={"fileop":"trash"}' "$base/json-api/cpanel" | grep -q 'result.*1' || true
           release="kitus-release-${GITHUB_RUN_ID}.zip"
           (cd dist && zip -qr "../$release" .)
           cookies="$(mktemp)"
