@@ -1,0 +1,9 @@
+<?php
+declare(strict_types=1); session_name('kitus_editor'); session_start(); header('Content-Type: application/json; charset=utf-8'); header('Cache-Control: no-store');
+$user=$_SESSION['kitus_editor']??null; if(!$user){http_response_code(401);echo json_encode(['error'=>'Sesión requerida']);exit;}
+$file='/home/geogescl/.kitus-revision.json'; $items=is_file($file)?json_decode(file_get_contents($file),true):[]; if(!is_array($items))$items=[];
+$input=$_POST?:json_decode(file_get_contents('php://input'),true)?:[]; $action=$input['action']??$_GET['action']??'list';
+if($action==='list'){if($user['role']!=='jefatura'){$items=array_values(array_filter($items,fn($x)=>$x['author']['email']===$user['email']));} echo json_encode(['items'=>$items],JSON_UNESCAPED_UNICODE);exit;}
+if($action==='submit'){ $title=trim((string)($input['titulo']??'')); if(!$title){http_response_code(422);echo json_encode(['error'=>'El titular es obligatorio']);exit;} $items[]= ['id'=>bin2hex(random_bytes(8)),'titulo'=>$title,'seccion'=>trim((string)($input['seccion']??'')),'bajada'=>trim((string)($input['bajada']??'')),'texto'=>trim((string)($input['texto']??'')),'fuentes'=>trim((string)($input['fuentes']??'')),'estado'=>'En revisión','created_at'=>gmdate('c'),'author'=>['email'=>$user['email'],'name'=>$user['name']]]; file_put_contents($file,json_encode($items,JSON_UNESCAPED_UNICODE|JSON_PRETTY_PRINT),LOCK_EX); echo json_encode(['ok'=>true]);exit;}
+if($action==='approve'&&$user['role']==='jefatura'){foreach($items as &$item){if($item['id']===($input['id']??''))$item['estado']='Aprobada';}file_put_contents($file,json_encode($items,JSON_UNESCAPED_UNICODE|JSON_PRETTY_PRINT),LOCK_EX);echo json_encode(['ok'=>true]);exit;}
+http_response_code(403);echo json_encode(['error'=>'Acción no permitida']);
