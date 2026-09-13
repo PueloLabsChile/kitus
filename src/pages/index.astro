@@ -72,7 +72,12 @@ const bloquesX = await Promise.all(
         {wellX.map(({ articulo, autor }) => <TarjetaArticulo articulo={articulo} autor={autor} variante="normal" conFoto={false} conDek={false} />)}
       </aside>
       <div class="portada-principal__titular">
-        {leadX && <TarjetaArticulo articulo={leadX.articulo} autor={leadX.autor} variante="lead" />}
+        {leadX && leadX.articulo.data.portada && (
+          <a href={`/articulo/${leadX.articulo.id}/`} class="hist__media portada-principal__imagen" aria-hidden="true" tabindex="-1">
+            <img src={leadX.articulo.data.portada} alt="" />
+          </a>
+        )}
+        {leadX && <TarjetaArticulo articulo={leadX.articulo} autor={leadX.autor} variante="lead" conFoto={false} />}
         <div class="portada-principal__apoyos">{featureSecX.slice(0, 2).map(({ articulo, autor }) => <TarjetaArticulo articulo={articulo} autor={autor} variante="mini" conFoto={false} conDek={false} />)}</div>
       </div>
       <aside class="portada-principal__lateral">
