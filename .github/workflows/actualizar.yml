@@ -97,35 +97,35 @@ jobs:
 
 
       - name: Compilar y publicar en cPanel
-        if: false # La publicación se realiza por FTPS hasta corregir el despliegue de cPanel.
+        if: steps.cambios.outputs.hay_cambios == 'true' || github.event_name == 'workflow_dispatch'
         env:
           CPANEL_HOST: ${{ secrets.CPANEL_HOST }}
           CPANEL_USERNAME: ${{ secrets.CPANEL_USERNAME }}
-          CPANEL_PASSWORD: ${{ secrets.CPANEL_PASSWORD }}
+          CPANEL_API_TOKEN: ${{ secrets.CPANEL_API_TOKEN }}
           CPANEL_DESTINATION: public_html/kitus.cl
         run: |
           set -euo pipefail
           : "${CPANEL_HOST:?Falta CPANEL_HOST}"
           : "${CPANEL_USERNAME:?Falta CPANEL_USERNAME}"
-          : "${CPANEL_PASSWORD:?Falta CPANEL_PASSWORD}"
-          : "${CPANEL_DESTINATION:?Falta CPANEL_DESTINATION}"
+          : "${CPANEL_API_TOKEN:?Falta CPANEL_API_TOKEN}"
           npm ci
           npm run build
-          # Reemplazo completo del sitio en la ruta confirmada por la administración.
-          # Se envía la versión anterior a la papelera de cPanel antes de extraer dist.
-          curl -ksS -b "$cookies" -d 'cpanel_jsonapi_apiversion=2' -d 'cpanel_jsonapi_module=Fileman' -d 'cpanel_jsonapi_func=fileop' --data-urlencode 'op=trash' --data-urlencode "sourcefiles=$CPANEL_DESTINATION/index.html" --data-urlencode "destfiles=$CPANEL_DESTINATION" --data-urlencode 'doubledecode=0' --data-urlencode 'metadata={"fileop":"trash"}' "$base/json-api/cpanel" | grep -q 'result.*1' || true
           release="kitus-release-${GITHUB_RUN_ID}.zip"
           (cd dist && zip -qr "../$release" .)
-          cookies="$(mktemp)"
-          headers="$(mktemp)"
-          trap 'rm -f "$cookies" "$headers" "$release"' EXIT
-          curl -ksS -D "$headers" -c "$cookies" -d "user=$CPANEL_USERNAME" --data-urlencode "pass=$CPANEL_PASSWORD" -d 'login_submit=Log+in' "https://$CPANEL_HOST:2083/login/" -o /dev/null
-          token="$(sed -n 's#^[Ll]ocation: /\([^/]*\)/.*#\1#p' "$headers" | tr -d '\r' | head -1)"
-          test -n "$token"
-          base="https://$CPANEL_HOST:2083/$token"
-          curl -ksS -b "$cookies" -F "dir=$CPANEL_DESTINATION" -F "file-1=@$release" "$base/execute/Fileman/upload_files" | grep -q '"status":1'
-          curl -ksS -b "$cookies" -d 'cpanel_jsonapi_apiversion=2' -d 'cpanel_jsonapi_module=Fileman' -d 'cpanel_jsonapi_func=fileop' --data-urlencode 'op=extract' --data-urlencode "sourcefiles=$CPANEL_DESTINATION/$release" --data-urlencode "destfiles=$CPANEL_DESTINATION" --data-urlencode 'doubledecode=0' --data-urlencode 'metadata={"fileop":"extract"}' "$base/json-api/cpanel" | grep -q 'result.*1'
-
+          base="https://${CPANEL_HOST}:2083"
+          auth="Authorization: cpanel ${CPANEL_USERNAME}:${CPANEL_API_TOKEN}"
+          curl -fsS -H "$auth" -F "dir=$CPANEL_DESTINATION" -F "file-1=@$release" "$base/execute/Fileman/upload_files" | grep -q '"status":1'
+          curl -fsS -G -H "$auth" \
+            --data-urlencode "cpanel_jsonapi_user=$CPANEL_USERNAME" \
+            --data-urlencode 'cpanel_jsonapi_apiversion=2' \
+            --data-urlencode 'cpanel_jsonapi_module=Fileman' \
+            --data-urlencode 'cpanel_jsonapi_func=fileop' \
+            --data-urlencode 'op=extract' \
+            --data-urlencode "sourcefiles=$CPANEL_DESTINATION/$release" \
+            --data-urlencode "destfiles=$CPANEL_DESTINATION" \
+            --data-urlencode 'doubledecode=0' \
+            --data-urlencode 'metadata={"fileop":"extract"}' \
+            "$base/json-api/cpanel" | grep -Eq '"result"[[:space:]]*:[[:space:]]*1'
       - name: Avisar por correo si hay notas nuevas
         if: steps.cambios.outputs.hay_notas == 'true' && env.MAIL_USERNAME != ''
         uses: dawidd6/action-send-mail@v3
