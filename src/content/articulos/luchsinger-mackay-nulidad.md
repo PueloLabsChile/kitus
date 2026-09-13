@@ -7,7 +7,6 @@ fecha: 2026-08-26
 etiquetas: [Pueblo mapuche, Justicia, Chile]
 portada: /uploads/yt-UqtDLeP-fC8.jpg
 creditoPortada: Captura del video / Kitus
-destacada: true
 ---
 
 El caso Luchsinger-MacKay volvió a la conversación pública en el sur de Chile. Comunidades mapuche y organizaciones de derechos humanos reclaman la nulidad del juicio que terminó con condenas a comuneros, un proceso que —sostienen— estuvo marcado por irregularidades en la obtención de pruebas y por el uso de testigos con identidad reservada.

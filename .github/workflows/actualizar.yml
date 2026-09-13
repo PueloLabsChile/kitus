@@ -123,6 +123,17 @@ jobs:
           curl -ksS -b "$cookies" -F "dir=$CPANEL_DESTINATION" -F "file-1=@$release" "$base/execute/Fileman/upload_files" | grep -q '"status":1'
           curl -ksS -b "$cookies" -d 'cpanel_jsonapi_apiversion=2' -d 'cpanel_jsonapi_module=Fileman' -d 'cpanel_jsonapi_func=fileop' --data-urlencode 'op=extract' --data-urlencode "sourcefiles=$CPANEL_DESTINATION/$release" --data-urlencode "destfiles=$CPANEL_DESTINATION" --data-urlencode 'doubledecode=0' --data-urlencode 'metadata={"fileop":"extract"}' "$base/json-api/cpanel" | grep -q 'result.*1'
 
+      - name: Publicar también en Netlify
+        if: steps.cambios.outputs.hay_cambios == 'true' || github.event_name == 'workflow_dispatch'
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: e2ab4af7-f8d2-42cd-916c-014b381a8f85
+        run: |
+          if [ -z "$NETLIFY_AUTH_TOKEN" ]; then
+            echo "NETLIFY_AUTH_TOKEN no está configurado; se omite Netlify."
+            exit 0
+          fi
+          npx --yes netlify-cli deploy --dir=dist --prod --site="$NETLIFY_SITE_ID"
       - name: Avisar por correo si hay notas nuevas
         if: steps.cambios.outputs.hay_notas == 'true' && env.MAIL_USERNAME != ''
         uses: dawidd6/action-send-mail@v3
