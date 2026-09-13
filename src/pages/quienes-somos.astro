@@ -3,11 +3,41 @@ import Base from "../layouts/Base.astro";
 import { SITIO } from "../consts";
 
 const equipo = [
-  { nombre: "Gonzalo Escobar Arévalo", iniciales: "GE" },
-  { nombre: "Astrid Velázquez", iniciales: "AV" },
-  { nombre: "Emilia Guzmán", iniciales: "EG" },
-  { nombre: "Pedro Santander", iniciales: "PS" },
-  { nombre: "Camila Ferreira Valdez", iniciales: "CF" },
+  {
+    nombre: "Astrid Velázquez",
+    iniciales: "AV",
+    rol: "Análisis geopolítico internacional",
+    foto: "/images/equipo/astrid-velazquez.jpeg",
+    perfil: "Estudiante del Liceo Carmela Carvajal A-44. Fue vocera del Centro de Estudiantes y encargada de Acción y Contingencia entre 2024 y 2025. Su formación en debate y su trabajo actual en la Comisión de Cultura articulan una mirada situada sobre participación juvenil, asuntos públicos y escenario internacional.",
+  },
+  {
+    nombre: "Emilia Guzmán",
+    iniciales: "EG",
+    rol: "Conducta humana y ley",
+    foto: "/images/equipo/emilia-guzman.jpeg",
+    perfil: "Egresada de enseñanza media y estudiante de preparación universitaria. Su trabajo se orienta al análisis de los problemas sociales, el comportamiento humano y los marcos que regulan la vida colectiva. Aporta experiencia de liderazgo y organización adquirida como presidenta del centro estudiantil de su colegio, junto con una sólida formación en literatura y redacción.",
+  },
+  {
+    nombre: "Gonzalo Escobar Arévalo",
+    iniciales: "GE",
+    rol: "Tecnología, ciencia y geointeligencia",
+    foto: "/images/equipo/gonzalo-escobar.jpeg",
+    perfil: "Licenciado en Historia, Magíster en Geomática y doctorando. Especialista en teledetección satelital y Sistemas de Información Geográfica, investiga tecnología y monitoreo de conflictos armados mediante análisis espacial, cartografía y datos territoriales. Es CTO de PueloLabs SpA y director del proyecto GeoGes Analytics. Reúne más de una década de experiencia en innovación tecnológica, educación superior y asesoría técnica, con foco en calidad institucional y desarrollo de capacidades profesionales.",
+  },
+  {
+    nombre: "Pedro Santander",
+    iniciales: "PS",
+    rol: "Análisis literario",
+    foto: "/images/equipo/pedro-santander.jpeg",
+    perfil: "Docente de Lenguaje especializado en análisis literario comparativo, con trabajo en las relaciones entre Hispania y las culturas locales. Su enfoque examina los relatos, imaginarios y lenguajes que configuran la discusión pública, aportando lectura crítica y perspectiva histórica a la producción editorial.",
+  },
+  {
+    nombre: "Camila Ferreira Valdez",
+    iniciales: "CF",
+    foto: "/images/equipo/camila-ferreira-valdez.jpg",
+    rol: "Corresponsal en Madrid · Política europea",
+    perfil: "Corresponsal de Kitus en Madrid, especializada en conflictos políticos y cobertura de la coyuntura europea. Sigue las disputas institucionales, los cambios de gobierno y las tensiones sociales que atraviesan el continente, conectando sus efectos locales con los debates políticos internacionales. Su trabajo aporta observación directa y contexto para comprender una Europa en transformación.",
+  },
 ];
 ---
 <Base titulo="Quiénes somos" activa="quienes-somos">
@@ -29,9 +59,16 @@ const equipo = [
 
       <h2>Cómo trabajamos</h2>
       <p>
-        Publicamos periodismo con contexto y fuentes antes que primicia. No tenemos muro de
-        pago: el acceso a la información es abierto. La redacción es pequeña y se apoya en la
-        red de colaboración para ampliar temas y territorios.
+        La inteligencia colectiva es nuestro método: la capacidad de producir conocimiento riguroso
+        a partir del encuentro entre experiencias, disciplinas, fuentes y territorios. No se trata de
+        sumar opiniones, sino de contrastarlas, situarlas y convertirlas en preguntas capaces de leer
+        mejor la complejidad del presente.
+      </p>
+      <p>
+        Por eso trabajamos como una redacción conectada con corresponsales, especialistas y
+        colaboradores que ponen en común investigación, observación directa y lectura crítica.
+        Priorizamos el contexto y la conversación entre saberes para ampliar los temas, los
+        territorios y las historias que decidimos contar.
       </p>
     </article>
 
@@ -39,20 +76,82 @@ const equipo = [
       <div class="equipo-editorial__cab">
         <p class="kicker">La redacción</p>
         <h2 id="equipo-titulo">Quienes hacen Kitus</h2>
-        <p>Una mesa de trabajo abierta: cinco miradas para contar la política, la cultura y los territorios desde América Latina.</p>
+        <p>Una redacción interdisciplinaria que combina análisis político, lectura cultural, investigación y tecnología para comprender las transformaciones de nuestro tiempo.</p>
       </div>
 
       <div class="equipo-editorial__grid">
         {equipo.map((persona, indice) => (
           <article class="equipo-ficha">
             <div class="equipo-ficha__retrato" aria-hidden="true">
-              <span>{persona.iniciales}</span>
+              {persona.foto ? (
+                <img src={persona.foto} alt="" loading="lazy" />
+              ) : (
+                <span>{persona.iniciales}</span>
+              )}
             </div>
             <p class="equipo-ficha__indice">{String(indice + 1).padStart(2, "0")}</p>
             <h3>{persona.nombre}</h3>
-            <p class="equipo-ficha__rol">Equipo Kitus</p>
+            <p class="equipo-ficha__rol">{persona.rol}</p>
+            <p class="equipo-ficha__perfil">{persona.perfil}</p>
           </article>
         ))}
+      </div>
+    </section>
+
+    <section class="asesoria" aria-labelledby="asesoria-titulo">
+      <div class="asesoria__cab">
+        <p class="kicker">Pensamiento y tecnología</p>
+        <h2 id="asesoria-titulo">Asesores</h2>
+      </div>
+      <div class="asesoria__lista">
+        <article class="asesor-circular">
+          <div class="asesor-circular__retrato">
+            <img src="/images/equipo/david-valenzuela.jpeg" alt="Retrato de David Valenzuela" loading="lazy" />
+            <small>01</small>
+          </div>
+          <div class="asesor-circular__texto">
+            <p class="asesor-circular__tipo">Tecnología y pensamiento crítico</p>
+            <h3>David Valenzuela</h3>
+            <p>Licenciado en Historia y programador. Su trabajo se sitúa en el cruce entre tecnología, cultura y pensamiento filosófico, con especial atención a los cambios que introducen los sistemas algorítmicos y los agentes de inteligencia artificial en la producción de conocimiento y la vida institucional.</p>
+            <p>Desde una aproximación vinculada a la filosofía hegeliana, acompaña a Kitus en la reflexión sobre técnica, automatización y transformación histórica, conectando los debates tecnológicos contemporáneos con sus implicancias políticas y culturales.</p>
+          </div>
+        </article>
+        <article class="asesor-circular">
+          <div class="asesor-circular__retrato">
+            <img src="/images/equipo/franco-bulnes.png" alt="Retrato de Franco Bulnes" loading="lazy" />
+            <small>02</small>
+          </div>
+          <div class="asesor-circular__texto">
+            <p class="asesor-circular__tipo">Geomática y análisis criminal</p>
+            <h3>Franco Bulnes</h3>
+            <p>Licenciado en Historia y Magíster en Geomática por la Universidad Católica. Actualmente es doctorando en Geograf&iacute;a, Pol&iacute;tica y Econom&iacute;a en la Universidad Estatal de San Petersburgo, profundizando en el uso de informaci&oacute;n espacial para comprender fen&oacute;menos complejos y din&aacute;micas territoriales.</p>
+            <p>Especialista en análisis criminal mediante Sistemas de Información Geográfica, integra datos territoriales, patrones de movilidad y herramientas de visualización para identificar relaciones y transformaciones en contextos de seguridad. Aporta a Kitus una lectura del territorio como evidencia, conectando cartografía, investigación y análisis crítico de los problemas públicos.</p>
+          </div>
+        </article>
+        <article class="asesor-circular">
+          <div class="asesor-circular__retrato">
+            <img src="/images/equipo/fernando-castro-riveros.png" alt="Retrato de Fernando Castro Riveros" loading="lazy" />
+            <small>03</small>
+          </div>
+          <div class="asesor-circular__texto">
+            <p class="asesor-circular__tipo">Archivo, memoria y mundo del trabajo</p>
+            <h3>Fernando Castro Riveros</h3>
+            <p>Bibliotec&oacute;logo y documentalista audiovisual, especializado en investigaci&oacute;n, verificaci&oacute;n de fuentes, archivos, metadatos y preservaci&oacute;n digital. Su trayectoria re&uacute;ne cerca de dos d&eacute;cadas de experiencia en gesti&oacute;n de informaci&oacute;n y contenidos audiovisuales.</p>
+            <p>Asesora a Kitus en investigaci&oacute;n documental, archivo y memoria del medio, con una mirada situada sobre derechos laborales, organizaci&oacute;n sindical e industria televisiva.</p>
+          </div>
+        </article>
+        <article class="asesor-circular">
+          <div class="asesor-circular__retrato">
+            <img src="/images/equipo/patricio-rivera.jpeg" alt="Retrato de Patricio Rivera" loading="lazy" />
+            <small>04</small>
+          </div>
+          <div class="asesor-circular__texto">
+            <p class="asesor-circular__tipo">Filosof&iacute;a y ciencia pol&iacute;tica</p>
+            <h3>Patricio Rivera</h3>
+            <p>Docente de filosof&iacute;a y mag&iacute;ster en Ciencia Pol&iacute;tica. Su trabajo se orienta al pensamiento pol&iacute;tico, la deliberaci&oacute;n democr&aacute;tica y el an&aacute;lisis de las instituciones que organizan la vida colectiva.</p>
+            <p>Su investigaci&oacute;n de posgrado abord&oacute; el proceso de Asamblea Constituyente, aportando a Kitus una lectura filos&oacute;fica y pol&iacute;tica de los debates constitucionales, la representaci&oacute;n y la democracia.</p>
+          </div>
+        </article>
       </div>
     </section>
 
