@@ -8,7 +8,7 @@ header('Cache-Control: no-store');
 $config = '/home/geogescl/.kitus-editor-users.php';
 if (!is_file($config)) { http_response_code(503); echo json_encode(['ok' => false, 'error' => 'La sala editorial aún no está configurada.']); exit; }
 $users = require $config;
-$input = json_decode(file_get_contents('php://input'), true) ?: [];
+$input = $_POST ?: (json_decode(file_get_contents('php://input'), true) ?: []);
 $action = $input['action'] ?? $_GET['action'] ?? 'me';
 function current_user(): ?array { return $_SESSION['kitus_editor'] ?? null; }
 if ($action === 'me') { echo json_encode(['ok' => true, 'user' => current_user()]); exit; }
