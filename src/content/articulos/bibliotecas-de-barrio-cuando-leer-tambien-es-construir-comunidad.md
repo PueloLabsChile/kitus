@@ -1,7 +1,7 @@
 ---
 titulo: "Bibliotecas de barrio: cuando leer también es construir comunidad"
 bajada: "Una nota de muestra de Astrid para revisar el flujo editorial completo de Kitus."
-seccion: "Cultura"
+seccion: "cultura"
 autor: astrid-velazquez
 fecha: "2026-09-13"
 borrador: false
