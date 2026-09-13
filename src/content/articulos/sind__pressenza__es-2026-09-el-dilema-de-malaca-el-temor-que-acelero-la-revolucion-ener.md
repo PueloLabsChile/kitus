@@ -8,7 +8,6 @@ etiquetas: ["Pressenza"]
 portada: "/uploads/sind-pressenza-o6ppli.webp"
 destacada: true
 creditoPortada: "Foto: Pressenza"
-destacada: true
 origen: sindicada
 firma: "Redacción Chile"
 fuente: "Pressenza"
