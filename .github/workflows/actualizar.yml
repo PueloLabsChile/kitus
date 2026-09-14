@@ -96,48 +96,31 @@ jobs:
           git push
 
 
-      - name: Compilar y publicar en cPanel
+      - name: Compilar y publicar por FTPS
         if: steps.cambios.outputs.hay_cambios == 'true' || github.event_name == 'workflow_dispatch'
         env:
-          CPANEL_HOST: ${{ secrets.CPANEL_HOST }}
-          CPANEL_USERNAME: ${{ secrets.CPANEL_USERNAME }}
-          CPANEL_API_TOKEN: ${{ secrets.CPANEL_API_TOKEN }}
-          CPANEL_DESTINATION: public_html/kitus.cl
+          FTP_HOST: ${{ secrets.FTP_HOST }}
+          FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
+          FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
         run: |
           set -euo pipefail
-          : "${CPANEL_HOST:?Falta CPANEL_HOST}"
-          : "${CPANEL_USERNAME:?Falta CPANEL_USERNAME}"
-          : "${CPANEL_API_TOKEN:?Falta CPANEL_API_TOKEN}"
+          : "${FTP_HOST:?Falta FTP_HOST}"
+          : "${FTP_USERNAME:?Falta FTP_USERNAME}"
+          : "${FTP_PASSWORD:?Falta FTP_PASSWORD}"
           npm ci
           npm run build
-          release="kitus-release-${GITHUB_RUN_ID}.zip"
-          (cd dist && zip -qr "../$release" .)
-          base="https://${CPANEL_HOST}:2083"
-          auth="Authorization: cpanel ${CPANEL_USERNAME}:${CPANEL_API_TOKEN}"
-          curl -fsS -H "$auth" -F "dir=$CPANEL_DESTINATION" -F "file-1=@$release" "$base/execute/Fileman/upload_files" | grep -q '"status":1'
-          # cPanel no sobrescribe carpetas existentes al extraer un ZIP. Se reemplazan
-          # solo las rutas estáticas regeneradas, conservando las APIs y configuraciones.
-          for route in articulo cultura redaccion acceso admin; do
-            curl -fsS -G -H "$auth" \
-              --data-urlencode "cpanel_jsonapi_user=$CPANEL_USERNAME" \
-              --data-urlencode 'cpanel_jsonapi_apiversion=2' \
-              --data-urlencode 'cpanel_jsonapi_module=Fileman' \
-              --data-urlencode 'cpanel_jsonapi_func=fileop' \
-              --data-urlencode 'op=trash' \
-              --data-urlencode "sourcefiles=$CPANEL_DESTINATION/$route" \
-              "$base/json-api/cpanel" >/dev/null || true
-          done
-          curl -fsS -G -H "$auth" \
-            --data-urlencode "cpanel_jsonapi_user=$CPANEL_USERNAME" \
-            --data-urlencode 'cpanel_jsonapi_apiversion=2' \
-            --data-urlencode 'cpanel_jsonapi_module=Fileman' \
-            --data-urlencode 'cpanel_jsonapi_func=fileop' \
-            --data-urlencode 'op=extract' \
-            --data-urlencode "sourcefiles=$CPANEL_DESTINATION/$release" \
-            --data-urlencode "destfiles=$CPANEL_DESTINATION" \
-            --data-urlencode 'doubledecode=0' \
-            --data-urlencode 'metadata={"fileop":"extract"}' \
-            "$base/json-api/cpanel" | grep -Eq '"result"[[:space:]]*:[[:space:]]*1'
+          # Una sola sincronización FTPS conserva las imágenes y sobrescribe los
+          # archivos actualizados sin borrar archivos ajenos del hosting.
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq lftp
+          lftp -u "$FTP_USERNAME","$FTP_PASSWORD" "ftp://$FTP_HOST" -e '
+            set ftp:ssl-force true
+            set ftp:ssl-protect-data false
+            set ssl:verify-certificate no
+            mirror --reverse --only-newer --parallel=4 dist/ ./
+            bye
+          '
+
       - name: Avisar por correo si hay notas nuevas
         if: steps.cambios.outputs.hay_notas == 'true' && env.MAIL_USERNAME != ''
         uses: dawidd6/action-send-mail@v3
