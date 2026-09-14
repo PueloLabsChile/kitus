@@ -115,6 +115,18 @@ jobs:
           base="https://${CPANEL_HOST}:2083"
           auth="Authorization: cpanel ${CPANEL_USERNAME}:${CPANEL_API_TOKEN}"
           curl -fsS -H "$auth" -F "dir=$CPANEL_DESTINATION" -F "file-1=@$release" "$base/execute/Fileman/upload_files" | grep -q '"status":1'
+          # cPanel no sobrescribe carpetas existentes al extraer un ZIP. Se reemplazan
+          # solo las rutas estáticas regeneradas, conservando las APIs y configuraciones.
+          for route in articulo cultura redaccion acceso admin; do
+            curl -fsS -G -H "$auth" \
+              --data-urlencode "cpanel_jsonapi_user=$CPANEL_USERNAME" \
+              --data-urlencode 'cpanel_jsonapi_apiversion=2' \
+              --data-urlencode 'cpanel_jsonapi_module=Fileman' \
+              --data-urlencode 'cpanel_jsonapi_func=fileop' \
+              --data-urlencode 'op=trash' \
+              --data-urlencode "sourcefiles=$CPANEL_DESTINATION/$route" \
+              "$base/json-api/cpanel" >/dev/null || true
+          done
           curl -fsS -G -H "$auth" \
             --data-urlencode "cpanel_jsonapi_user=$CPANEL_USERNAME" \
             --data-urlencode 'cpanel_jsonapi_apiversion=2' \
