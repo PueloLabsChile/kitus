@@ -1,0 +1,58 @@
+---
+titulo: "Análisis del proceso del movimiento estudiantil noviolento en Serbia (2024-2026), de la mano del profesor José Á. Ruiz Jiménez"
+bajada: "Éxito y límites de la mayor movilización por la justicia y la democracia de su historia."
+seccion: internacional
+autor: medios-aliados
+fecha: 2026-09-17
+etiquetas: ["Pressenza"]
+portada: "/uploads/sind-pressenza-b2c5a2.webp"
+creditoPortada: "Foto: Pressenza"
+origen: sindicada
+firma: "Gabriela Amaya"
+fuente: "Pressenza"
+fuenteUrl: "https://www.pressenza.com/es/"
+original: "https://www.pressenza.com/es/2026/09/analisis-del-proceso-del-movimiento-estudiantil-noviolento-en-serbia-2024-2026-de-la-mano-del-profesor-jose-a-ruiz-jimenez/"
+licencia: "CC BY 4.0"
+licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+---
+**Éxito y límites de la mayor movilización por la justicia y la democracia de su historia.**
+
+*José Ángel Ruiz Jiménez, historiador y profesor de la Universidad de Granada (España), durante la 4ª Universidad de Verano del Humanismo Universalista (UVPT2026), ha dado un clase magistral sobre el movimiento estudiantil noviolento, que comenzó en Serbia en 2024 y que llega hasta nuestros días, transformado en formación política, la Lista de los Estudiantes. Habló, entre otros aspectos, de su desarrollo, condicionantes y posibilidades de llegar al poder en las próximas elecciones que tendrá lugar en octubre. *
+
+*Transcribimos la presentación, a la que siguió un intercambio con los asistentes. *
+
+«Esta presentación tiene como objetivo principal analizar el desarrollo de las protestas que estallaron a raíz del desplome de una marquesina en la estación de tren de Novi Sad, en noviembre de 2024, y cómo se han ido transformando en un movimiento
+
+Podemos identificar tres factores estructurales clave que impulsaron las protestas sociales:
+
+- El deterioro democrático e institucional: El régimen político del SNS (Partido Progresista Serbio), que gobierna en Serbia desde el año 2012, se caracteriza por la falta de democracia y de respeto hacia los derechos humanos. Apenas existe una oposición política eficiente y hay una percepción generalizada de fraude electoral, pues durante la celebración de elecciones, no se ofrecen datos precisos y se cometen prácticas como pagar a los ciudadanos para que voten a un partido en concreto. Además, cabe destacar la falta de medios de comunicación independientes, ya que gran parte de ellos están bajo el control del gobierno.
+
+- La desigualdad económica y la corrupción: Serbia es un país que en lo últimos años ha experimentado un crecimiento económico sustancial, el problema es que la mayor parte de los beneficios derivados de este desarrollo han quedado concentrados en la élite política cercana al régimen, generando un sentimiento de injusticia social entre la población, que consideran que el esfuerzo y el trabajo cotidiano no se traducen en una mejora real de sus condiciones de vida. A ello se suma una corrupción profundamente arraigada, afectando incluso a los centros médicos, donde el acceso rápido y eficiente a la atención médica suele depender de la capacidad económica y de las conexiones de la
+
+- La falta de perspectivas futuras para los jóvenes: El fenómeno “fuga de cerebros” constituye uno de los principales problemas, pues la mayoría de los jóvenes no ven ningún futuro personal ni laboral en el país, por lo que deciden continuar sus estudios o trabajar en el extranjero. En numerosos casos, incluso las propias familias animan a sus hijos a emigrar en busca de una vida mejor, ante la falta de confianza en que el país pueda ofrecerles estabilidad, progreso y oportunidades reales de futuro.
+
+En relación con el trágico incidente en la estación de tren de Novi Sad el 1 de noviembre de 2024, en el que fallecieron 16 personas, y todas las circunstancias que lo rodean como la falta de responsabilidad del gobierno, este acontecimiento sólo actúo como detonante y acelerador de las movilizaciones. Lo que realmente impulsó a las personas a protestar fue la acumulación previa de los tres problemas estructurales ya mencionados, que llevaban años generando un gran malestar social.
+
+Cabe señalar que los estudiantes fueron los principales propulsores de las protestas y rápidamente se ganaron la simpatía del resto de los ciudadanos gracias a la combinación de una serie de aspectos, que hacían único al movimiento estudiantil, como la desvinculación con cualquier partido político de la oposición o la falta de un único líder. Su modo de actuación se caracteriza por un amplio repertorio de acciones como el bloqueo de carreteras y universidades, las marchas entre ciudades y los minutos de silencio en memoria de las víctimas de Novi Sad.
+
+Las demandas se volvieron más exigentes a medida que el movimiento se hacía más fuerte, exigiendo no solo responsabilidad penal ante el accidente de Novi Sad, sino otras demandas con un carácter más transformador como el aumento de la inversión en educación o la liberación de los manifestantes detenidos. Asimismo, el movimiento comenzó a recibir el apoyo de otros estudiantes del mundo. Sin embargo, la Unión Europea fue ampliamente cuestionada al no mostrar ningún tipo de simpatía con los ciudadanos serbios. No obstante, esta percepción contrasta con la existencia de cobertura por parte de diversos medios occidentales, como The Guardian, Le Monde o RNE, que sí informaron sobre las protestas y sus reivindicaciones, aunque posiblemente con una intensidad menor a la percibida como necesaria por los manifestantes.
+
+En relación con el impacto y las posibles consecuencias de las protestas, lo primero que debemos señalar es la lamentable respuesta del gobierno, negando cualquier tipo de responsabilidad ante los hechos y desacreditando la causa de los manifestantes. Esta reacción puede interpretarse como un reflejo de la percepción de falta de control sobre la situación por parte del presidente. Ante este escenario, el gobierno se vio obligado a hacer ciertas concesiones a favor del movimiento, como la destitución de altos cargos institucionales o la publicación de la investigación sobre el derrumbe de la marquesina en Novi Sad. Probablemente, el gobierno pudo pensar que con estas concesiones las movilizaciones disminuirían su intensidad. Sin embargo, lejos de debilitarse, el movimiento de protesta se intensificó, ya que los manifestantes consideraron estas medidas insuficientes, buscando un cambio mucho más profundo.
+
+El deseo de los manifestantes de una transformación profunda de las bases del régimen político, vio sus frutos en la creación de un partido político, formado por estudiantes y profesores, conocido como la “Lista de los estudiantes”. Su aparición, junto con la posibilidad de que pueda desempeñar un papel relevante en el escenario político, supone un punto de inflexión en la política de Serbia. Por lo tanto, aunque las movilizaciones han podido perder parte de su intensidad inicial, hay que comprender que el movimiento se ha transformado por completo, orientándose progresivamente hacia el ámbito político.
+
+No obstante, sigue sin estar claro si este proceso podrá traducirse en un cambio tangible dentro del gobierno. Está claro que si las elecciones fuesen justas y democráticas, este partido obtendría un apoyo electoral significativo, aunque no necesariamente mayoritario, sí lo suficientemente amplio como para reflejar un respaldo social relevante. El problema principal reside en que Serbia es un país muy cuestionable en cuanto a la calidad democrática del proceso electoral, lo que dificulta que las nuevas fuerzas políticas puedan competir en condiciones de igualdad con el gobierno actual. A ello se suma otras limitaciones más superficiales como la falta de un programa político sólido o la negativa a cooperar con otros partidos políticos, aspectos que podrían ampliar su base de apoyo. Aparte de esto, se añade el hecho de que si el movimiento lograse ganar y cambiar el régimen, todavía tendría que enfrentarse a unas presiones políticas y económicas externas durísimas para poder mantener en pie su modelo político. En cualquier caso, el régimen, encontrándose al fin en una posición de comodidad tras la zozobra en que le sumieron las protestas a lo largo de 2025, decidió en agosto de 2026 adelantar a octubre de este mismo año las elecciones inicialmente previstas para noviembre de 2027.
+
+Respecto a la cultura de protesta de la sociedad serbia, cabe destacar que encontramos ciertas similitudes entre las protestas actuales y otras protestas masivas de la historia reciente del país. Entre estas semejanzas, resaltan dos principalmente: la capacidad de unión de todos los sectores de la sociedad, a pesar de sus diferencias, en torno a un objetivo común y la existencia de motivos personales detrás de cada individuo para involucrarse. Al igual que encontramos aspectos compartidos en todos los movimientos, hay aspectos que hacen único al movimiento de protesta actual, concretamente la utilización de las redes sociales como principal estrategia de comunicación y la negativa a vincularse con los partidos políticos de la oposición.
+
+Por otro lado, existe una cultura de protesta Serbia bastante arraigada, y a menudo, protagonizada por estudiantes. Esta cultura de protesta se vio más intensificada a partir de los años 90, con las protestas que acabaron con el régimen de Slobodan Milošević, y continuó desde la instauración del régimen democrático en 2000. Sin embargo, puede haberse creado la percepción de que no hay una sólida cultura de protesta en Serbia, debido principalmente a que, aunque siempre ha habido muchas protestas, son pocas las ocasiones en las que realmente se ha conseguido un cambio sustancial. Por lo que se ha creado una especie de atmósfera de impunidad, en la que la población se ha visto desmotivada ante la falta de resultados.
+
+Finalmente, abordando el papel de la noviolencia en las protestas, cabe señalar que la noviolencia ha constituido, desde un principio, uno de los principales pilares del movimiento. La población se basó en acciones como las protestas o las manifestaciones, pues constituyen formas de reivindicación que creen en la noviolencia como base del cambio social. Pero, a pesar de que la noviolencia es parte de la naturaleza y la estrategia de las movilizaciones, es muy difícil que en protestas donde se reúnen unas 100.000 o 200.000 personas, esperemos que todas estas personas actúen de la misma manera, pudiendo producirse ciertos incidentes violentos puntuales y más si tenemos en cuenta que el propio gobierno habría llegado a contratar a personas para incitar la violencia durante las protestas y, sobre todo, ha orquestado una enorme maquinaria mediática y para desacreditar las movilizaciones.
+
+Al visibilizar las dinámicas que permiten a la sociedad civil organizarse y movilizarse pacíficamente frente a una crisis institucional, estas movilizaciones nos invitan a ver la cultura de protesta no solo como un fenómeno disruptivo, sino como una demanda legítima de paz positiva y justicia social».
+
+[Gabriela Amaya](https://www.pressenza.com/es/author/gabriela-amaya/)
+
+---
+
+*Publicado originalmente en [Pressenza](https://www.pressenza.com/es/2026/09/analisis-del-proceso-del-movimiento-estudiantil-noviolento-en-serbia-2024-2026-de-la-mano-del-profesor-jose-a-ruiz-jimenez/) el 17 de septiembre de 2026. Reproducido por Kitus bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es). El texto no fue modificado.*
