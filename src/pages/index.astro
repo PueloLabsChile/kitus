@@ -7,8 +7,11 @@ import FranjaMusica from "../components/FranjaMusica.astro";
 import Boletin from "../components/Boletin.astro";
 import { SITIO, SECCIONES, SECCION_SLUGS, nombreSeccion } from "../consts";
 
+const ahora = new Date();
+const fechaPortada = (articulo: { data: { fecha: Date; fechaIncorporacion?: Date } }) =>
+  articulo.data.fechaIncorporacion ?? articulo.data.fecha;
 const todos = (await getCollection("articulos", ({ data }) => !data.borrador)).sort(
-  (a, b) => b.data.fecha.getTime() - a.data.fecha.getTime(),
+  (a, b) => fechaPortada(b).getTime() - fechaPortada(a).getTime(),
 );
 
 // "Música" es evergreen: tiene su propio bloque, no compite en la tapa de noticias.
@@ -16,7 +19,10 @@ const noticiosos = todos.filter((a) => a.data.seccion !== "musica");
 const opiniones = noticiosos.filter((a) => a.data.opinion);
 const notas = noticiosos.filter((a) => !a.data.opinion);
 
-const lead = notas.find((a) => a.data.destacada && a.data.portada) ?? notas.find((a) => a.data.portada) ?? notas[0];
+const lead =
+  notas.find((a) => a.data.destacada && a.data.destacadaHasta && a.data.destacadaHasta >= ahora && a.data.portada) ??
+  notas.find((a) => a.data.portada) ??
+  notas[0];
 const resto = notas.filter((a) => a.id !== lead?.id);
 
 // ---- Portada de tres columnas, equilibradas en alto ----

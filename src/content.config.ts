@@ -10,12 +10,15 @@ const articulos = defineCollection({
     seccion: z.enum(SECCION_SLUGS as [string, ...string[]]),
     autor: reference("autores"),
     fecha: z.coerce.date(),
+    // Fecha en que la nota entra a Kitus. La portada la usa para priorizar novedades.
+    fechaIncorporacion: z.coerce.date().optional(),
     etiquetas: z.array(z.string()).default([]),
     // Ruta pública de la imagen, p. ej. "/uploads/foto.jpg" (subida desde el panel).
     portada: z.string().optional(),
     creditoPortada: z.string().optional(),
-    // Nota de tapa: aparece grande en la portada.
+    // Nota de tapa: aparece grande mientras no venza su prioridad editorial.
     destacada: z.boolean().default(false),
+    destacadaHasta: z.coerce.date().optional(),
     // Es columna de opinión (va en la columna lateral de la portada).
     opinion: z.boolean().default(false),
     // Borrador: no se publica.

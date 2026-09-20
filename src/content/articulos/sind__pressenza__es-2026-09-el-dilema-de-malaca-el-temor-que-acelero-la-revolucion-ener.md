@@ -6,7 +6,6 @@ autor: medios-aliados
 fecha: 2026-09-12
 etiquetas: ["Pressenza"]
 portada: "/uploads/sind-pressenza-o6ppli.webp"
-destacada: true
 creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Redacción Chile"
