@@ -122,7 +122,7 @@ jobs:
             set ssl:verify-certificate no
             pwd
             cls -la
-            mirror --reverse --transfer-all --parallel=4 dist/ public_html/
+            mirror --reverse --transfer-all --parallel=4 dist/ kitus.cl/
             bye
           '
 
