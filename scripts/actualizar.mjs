@@ -514,7 +514,7 @@ const videos = await traerVideos(cfg.canalYoutube, videosPrevios);
 await bajarMiniaturas(videos);
 await guardarJSON("src/data/videos.json", videos);
 
-// Las fuentes ingresan a revision: no se publican solo por aparecer en un RSS.
+await sindicar(cfg.sindicadas || [], cfg);
 await vigilar(cfg.vigiladas || cfg.sindicadas || [], cfg);
 
 log("listo.");
