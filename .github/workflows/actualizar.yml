@@ -117,6 +117,8 @@ jobs:
             set ftp:ssl-force true
             set ftp:ssl-protect-data false
             set ssl:verify-certificate no
+            pwd
+            cls -la
             mirror --reverse --transfer-all --parallel=4 dist/ ./
             bye
           '
