@@ -4,6 +4,8 @@ bajada: "Es el tratado de derechos humanos más ratificado del mundo y en la Arg
 seccion: derechos
 autor: red-colaboracion
 fecha: 2026-08-19
+portada: /uploads/derechos-ninez.png
+creditoPortada: "Ilustracion editorial / Kitus"
 etiquetas: [Infancia, Derechos del niño, Tratados]
 ---
 

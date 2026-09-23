@@ -1,0 +1,39 @@
+---
+---
+<section class="indicadores" aria-label="Indicadores econ&oacute;micos de Chile">
+  <div class="contenedor indicadores__inner">
+    <span class="indicadores__titulo">Indicadores</span>
+    <div class="indicadores__ventana"><div class="indicadores__lista" data-indicadores aria-live="polite">
+      <span><b>UF</b><em data-indicador="uf">Cargando&hellip;</em></span>
+      <span><b>D&oacute;lar</b><em data-indicador="dolar">Cargando&hellip;</em></span>
+      <span><b>Euro</b><em data-indicador="euro">Cargando&hellip;</em></span>
+      <span><b>UTM</b><em data-indicador="utm">Cargando&hellip;</em></span>
+      <span><b>IPC</b><em data-indicador="ipc">Cargando&hellip;</em></span>
+      <span aria-hidden="true"><b>UF</b><em data-indicador="uf-dup">Cargando&hellip;</em></span>
+      <span aria-hidden="true"><b>D&oacute;lar</b><em data-indicador="dolar-dup">Cargando&hellip;</em></span>
+      <span aria-hidden="true"><b>Euro</b><em data-indicador="euro-dup">Cargando&hellip;</em></span>
+      <span aria-hidden="true"><b>UTM</b><em data-indicador="utm-dup">Cargando&hellip;</em></span>
+      <span aria-hidden="true"><b>IPC</b><em data-indicador="ipc-dup">Cargando&hellip;</em></span>
+    </div></div>
+    <a class="indicadores__fuente" href="https://mindicador.cl/" target="_blank" rel="noopener">Fuente de datos &nearr;</a>
+  </div>
+</section>
+<script>
+  const formatoMoneda = (valor) => new Intl.NumberFormat('es-CL', { style: 'currency', currency: 'CLP', maximumFractionDigits: 0 }).format(valor);
+  const formatoPorcentaje = (valor) => new Intl.NumberFormat('es-CL', { style: 'percent', minimumFractionDigits: 1, maximumFractionDigits: 1 }).format(valor / 100);
+  const mostrar = (clave, valor, tipo = 'moneda') => {
+    const numero = Number(valor);
+    const texto = Number.isFinite(numero) ? (tipo === 'porcentaje' ? formatoPorcentaje(numero) : formatoMoneda(numero)) : 'Sin datos';
+    document.querySelectorAll('[data-indicador="' + clave + '"], [data-indicador="' + clave + '-dup"]').forEach((destino) => { destino.textContent = texto; });
+  };
+  fetch('https://mindicador.cl/api', { headers: { Accept: 'application/json' } })
+    .then((respuesta) => { if (!respuesta.ok) throw new Error('Indicadores no disponibles'); return respuesta.json(); })
+    .then((datos) => {
+      mostrar('uf', datos.uf?.valor);
+      mostrar('dolar', datos.dolar?.valor);
+      mostrar('euro', datos.euro?.valor);
+      mostrar('utm', datos.utm?.valor);
+      mostrar('ipc', datos.ipc?.valor, 'porcentaje');
+    })
+    .catch(() => document.querySelectorAll('[data-indicador]').forEach((elemento) => { elemento.textContent = 'Sin datos'; }));
+</script>

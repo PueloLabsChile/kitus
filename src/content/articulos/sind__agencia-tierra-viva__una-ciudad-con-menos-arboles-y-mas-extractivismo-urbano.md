@@ -1,7 +1,7 @@
 ---
 titulo: "Una ciudad con menos árboles y más extractivismo urbano"
 bajada: "La docente y química María Angélica Di Giacomo comenzó en 2010 a enviar notas al Gobierno de la Ciudad de Buenos Aires denunciando que observaba podas indiscriminadas. También contactó a periodistas que cubrían temáticas porteñas, pero…"
-seccion: derechos
+seccion: economia
 autor: medios-aliados
 fecha: 2026-08-31
 etiquetas: ["Agencia Tierra Viva"]

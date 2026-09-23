@@ -43,7 +43,7 @@ collections:
         widget: "select"
         options:
           - { label: "Política", value: "politica" }
-          - { label: "Internacional", value: "internacional" }
+          - { label: "Internacional", value: "internacional" }\n          - { label: "Africa y Sur Global", value: "africa" }
           - { label: "Economía", value: "economia" }
           - { label: "Derechos", value: "derechos" }
           - { label: "Opinión", value: "opinion" }
@@ -57,8 +57,8 @@ collections:
         display_fields: ["nombre"]
       - { name: "fecha", label: "Fecha", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD" }
       - { name: "etiquetas", label: "Etiquetas", widget: "list", required: false, hint: "Palabras clave; la primera aparece en la volanta." }
-      - { name: "portada", label: "Foto de apertura", widget: "image", required: false, choose_url: false, media_library: { config: { max_file_size: 3000000 } } }
-      - { name: "creditoPortada", label: "Epígrafe y crédito de la foto", widget: "string", required: false }
+      - { name: "portada", label: "Foto de apertura", widget: "image", required: true, choose_url: false, media_library: { config: { max_file_size: 3000000 } } }
+      - { name: "creditoPortada", label: "Epígrafe y crédito de la foto", widget: "string", required: true }
       - { name: "destacada", label: "Nota de tapa (va grande en la portada)", widget: "boolean", default: false }
       - { name: "opinion", label: "Es columna de opinión", widget: "boolean", default: false }
       - { name: "borrador", label: "Borrador (no se publica)", widget: "boolean", default: false }

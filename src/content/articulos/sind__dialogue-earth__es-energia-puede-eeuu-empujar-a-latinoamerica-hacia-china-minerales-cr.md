@@ -1,9 +1,11 @@
 ---
 titulo: "¿Puede EE. UU. empujar a Latinoamérica hacia China en la carrera por los minerales críticos?"
 bajada: "A principios de agosto, el Departamento de Estado de Donald Trump publicó(https://x.com/StateDept/status/2087172343969771810) un vídeo de cinco minutos en las redes sociales. El clip detalla lo que la oficina de política exterior de…"
-seccion: internacional
+seccion: economia
 autor: medios-aliados
 fecha: 2026-08-27
+portada: /uploads/minerales-criticos.png
+creditoPortada: "Ilustracion editorial / Kitus"
 etiquetas: ["Dialogue Earth"]
 origen: sindicada
 firma: "Sam Meadows"

@@ -6,10 +6,10 @@ export const SITIO = {
   descripcionCorta:
     "Medio digital de periodismo político y análisis internacional. Contexto y fuentes, sin muro de pago.",
   youtube: "https://www.youtube.com/@kitusonline6343",
-  correoRedaccion: "redaccion@kitus.example",
-  correoColabora: "colabora@kitus.example",
+  correoRedaccion: "contacto@kitus.cl",
+  correoColabora: "contacto@kitus.cl",
   // Poner en false cuando el sitio se publique de verdad.
-  prototipo: true,
+  prototipo: false,
 } as const;
 
 /** Secciones del periódico: slug -> etiqueta y descripción. */
@@ -23,6 +23,11 @@ export const SECCIONES = {
     nombre: "Internacional",
     descripcion:
       "Geopolítica, conflictos y alineamientos, con foco en América Latina y su lugar en el mundo.",
+  },
+  africa: {
+    nombre: "\u00c1frica y Sur Global",
+    descripcion:
+      "Pol\u00edtica, econom\u00eda, culturas y movimientos sociales de \u00c1frica en di\u00e1logo con Am\u00e9rica Latina y el Sur Global.",
   },
   economia: {
     nombre: "Economía",

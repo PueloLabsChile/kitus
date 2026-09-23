@@ -8,6 +8,9 @@ node_modules/
 # entorno
 .env
 .env.production
+# Credenciales locales de despliegue: nunca versionar.
+credenciales.txt
+.sftp-credenciales.txt
 .DS_Store
 Thumbs.db
 *.log

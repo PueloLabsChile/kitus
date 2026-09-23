@@ -408,6 +408,7 @@ async function sindicar(fuentes, cfg) {
       } catch {}
 
       const fechaISO = fecha.toISOString().slice(0, 10);
+      const fechaIncorporacion = new Date().toISOString();
       const bajada = primerParrafo(cuerpo);
       const seccion = adivinarSeccion(`${it.titulo} ${bajada}`);
       const firma = it.autor && it.autor.length < 80 ? it.autor : f.medio;
@@ -422,6 +423,7 @@ async function sindicar(fuentes, cfg) {
         `seccion: ${seccion}`,
         "autor: medios-aliados",
         `fecha: ${fechaISO}`,
+        `fechaIncorporacion: ${fechaIncorporacion}`,
         `etiquetas: [${JSON.stringify(f.medio)}]`,
         ...(portada
           ? [
@@ -475,6 +477,31 @@ async function sindicar(fuentes, cfg) {
   log(`sindicación: ${creados} nota(s) nueva(s), ${podadas} podada(s)`);
 }
 
+/* ---------------------------------------------------- cola de revision */
+async function vigilar(fuentes, cfg) {
+  const anteriores = await leerJSON("src/data/cola-rss.json", []);
+  const porLink = new Map(anteriores.map((nota) => [nota.enlace, nota]));
+  const limiteViejo = Date.now() - (cfg.diasColaRevision ?? 14) * 864e5;
+  let nuevas = 0;
+  for (const f of fuentes) {
+    let xml;
+    try { xml = await bajar(f.url, { timeout: 20000 }); }
+    catch (e) { log(`${f.medio}: fallo la cola de revision (${e.message})`); continue; }
+    for (const it of itemsDeFeed(xml).slice(0, f.maxPorFeed ?? 8)) {
+      if (!it.titulo || !it.link || porLink.has(it.link)) continue;
+      if (/\b(apoya|apoy[áa]|suscr[ií]b|newsletter|bolet[ií]n|donaci[oó]n)\b/i.test(it.titulo)) continue;
+      const fecha = new Date(it.fechaTxt);
+      if (Number.isNaN(+fecha) || +fecha < limiteViejo) continue;
+      const resumen = primerParrafo(htmlAMarkdown(it.cuerpoHtml || "")).slice(0, 520);
+      porLink.set(it.link, { id: `${slugify(f.medio)}-${hash(it.link)}`, titulo: limpiarTitulo(it.titulo), resumen, seccion: adivinarSeccion(`${it.titulo} ${resumen}`), medio: f.medio, enlace: it.link, fecha: fecha.toISOString(), estado: "pendiente" });
+      nuevas++;
+    }
+  }
+  const cola = [...porLink.values()].filter((nota) => new Date(nota.fecha).getTime() >= limiteViejo).sort((a,b) => new Date(b.fecha)-new Date(a.fecha)).slice(0, cfg.maxColaRevision ?? 120);
+  await guardarJSON("src/data/cola-rss.json", cola);
+  log(`cola de revision: ${nuevas} hallazgo(s) nuevo(s), ${cola.length} disponibles`);
+}
+
 /* --------------------------------------------------------------------- run */
 const cfg = await leerJSON("scripts/fuentes.json", null);
 if (!cfg) {
@@ -487,6 +514,7 @@ const videos = await traerVideos(cfg.canalYoutube, videosPrevios);
 await bajarMiniaturas(videos);
 await guardarJSON("src/data/videos.json", videos);
 
-await sindicar(cfg.sindicadas || [], cfg);
+// Las fuentes ingresan a revision: no se publican solo por aparecer en un RSS.
+await vigilar(cfg.vigiladas || cfg.sindicadas || [], cfg);
 
 log("listo.");

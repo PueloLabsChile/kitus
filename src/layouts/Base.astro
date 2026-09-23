@@ -41,5 +41,5 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
   <Masthead activa={activa} />
   <slot />
   <Pie />
-</body>
+<script>fetch("/api/visitas.php", { credentials: "same-origin" }).catch(() => {});</script></body>
 </html>

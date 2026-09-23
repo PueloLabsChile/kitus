@@ -1099,13 +1099,13 @@ body[data-seccion="africa"],
 #enviar-revision{background:var(--rojo);border-color:var(--rojo)}#publicacion-mensaje{margin:0;color:var(--rojo);font:.78rem var(--sans);align-self:center}
 #publicar-directo{background:#3d6d49;border-color:#3d6d49}#eliminar-borrador{background:transparent;color:var(--rojo);border-color:var(--rojo)}#eliminar-borrador:hover{background:var(--rojo);color:#fff}.publicado{max-width:48rem;padding-block:4rem}.publicado h1{margin:.25rem 0 .5rem}.publicado #meta-publicado{color:var(--gris);font:700 .72rem var(--sans);text-transform:uppercase;letter-spacing:.05em}.publicado__bajada{font:1.15rem/1.55 var(--sans);color:var(--gris);border-top:1px solid var(--linea);border-bottom:1px solid var(--linea);padding:1.1rem 0}.publicado article{white-space:pre-wrap;font-size:1.1rem;line-height:1.75;margin:2rem 0}.publicado a{font:700 .72rem var(--sans);color:var(--tinta);text-underline-offset:.25rem}
 /* Composicion editorial: lectura continua en columnas. */
-.cuerpo p { text-align: justify; text-justify: inter-word; hyphens: auto; }
+.cuerpo p { text-align: justify; text-justify: inter-word; -webkit-hyphens: none; hyphens: none; }
 .cuerpo p:not(:first-of-type) { text-indent: 1.5em; }
 .camila-borrador__texto > p:not(.kicker):not(.camila-borrador__bajada), .publicado article { text-align: justify; text-justify: inter-word; hyphens: auto; }
 @media (max-width: 620px) { .cuerpo p:not(:first-of-type) { text-indent: 1em; } }
 
 /* Parrafos de las noticias: justificados y con sangria editorial. */
-.articulo .cuerpo p { text-align: justify !important; text-align-last: left; text-justify: inter-word; hyphens: auto; }
+.articulo .cuerpo p { text-align: justify !important; text-align-last: left; text-justify: inter-word; -webkit-hyphens: none; hyphens: none; }
 .articulo .cuerpo p:not(:first-of-type) { text-indent: 1.5em; }
 
 /* Presentacion del equipo: composicion de lectura editorial. */
@@ -1129,3 +1129,7 @@ body[data-seccion="africa"],
 .bloques > .kitus-promo{margin-top:0;min-height:100%;align-self:stretch}.bloque + .kitus-promo{border-left:1px solid var(--linea-2)}@media(max-width:760px){.bloques > .kitus-promo{min-height:18rem;margin-top:0}}
 
 @media (max-width: 900px) and (min-width: 621px) { .bloques { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+
+/* Imágenes dentro de artículos: separadas del texto y legibles. */
+.articulo .cuerpo > img { display:block; width:100%; max-width:920px; height:auto; margin:2.25rem auto .65rem; }
+.articulo .cuerpo > img + p { margin-top:0; font-size:.9rem; color:var(--gris); text-align:center !important; }

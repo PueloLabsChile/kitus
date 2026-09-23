@@ -4,6 +4,8 @@ bajada: "Cuando Sônia Guajajara fue nombrada ministra del primer Ministerio de 
 seccion: derechos
 autor: medios-aliados
 fecha: 2026-08-13
+portada: /uploads/clima-pueblos-indigenas.png
+creditoPortada: "Ilustracion editorial / Kitus"
 etiquetas: ["Dialogue Earth"]
 origen: sindicada
 firma: "Kevin Damasio"

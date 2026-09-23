@@ -4,7 +4,7 @@ import sitemap from '@astrojs/sitemap';
 
 // Cambiar por el dominio propio cuando se registre (afecta canonical, sitemap y RSS).
 export default defineConfig({
-  site: 'https://kitus.netlify.app',
+  site: 'https://kitus.cl',
 
   // Hosting en cPanel/Apache: generamos una carpeta por página
   // (/politica/ -> politica/index.html) para que el servidor la sirva

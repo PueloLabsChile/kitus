@@ -4,6 +4,8 @@ bajada: "La ciudad de Volta Redonda, en el sur del estado de Río de Janeiro, se
 seccion: internacional
 autor: medios-aliados
 fecha: 2026-08-14
+portada: /uploads/contaminacion-urbana.png
+creditoPortada: "Ilustracion editorial / Kitus"
 etiquetas: ["Dialogue Earth"]
 origen: sindicada
 firma: "Matheus Andrade"

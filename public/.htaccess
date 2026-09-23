@@ -1,10 +1,10 @@
-# Kitus — configuración para hosting Apache / cPanel
+# Kitus Ã¢â‚¬â€ configuraciÃƒÂ³n para hosting Apache / cPanel
 # Este archivo se copia tal cual a dist/ en cada build.
 
-# --- Codificación por defecto ---
+# --- CodificaciÃƒÂ³n por defecto ---
 AddDefaultCharset UTF-8
 
-# --- Página de error 404 propia ---
+# --- PÃƒÂ¡gina de error 404 propia ---
 ErrorDocument 404 /404.html
 
 # --- Forzar HTTPS ---
@@ -15,12 +15,12 @@ ErrorDocument 404 /404.html
   RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 </IfModule>
 
-# --- Compresión ---
+# --- CompresiÃƒÂ³n ---
 <IfModule mod_deflate.c>
   AddOutputFilterByType DEFLATE text/html text/css text/javascript application/javascript application/json image/svg+xml application/xml application/rss+xml
 </IfModule>
 
-# --- Caché del navegador ---
+# --- CachÃƒÂ© del navegador ---
 <IfModule mod_expires.c>
   ExpiresActive On
   # Assets con hash en el nombre (/_astro/...): se pueden cachear para siempre.
@@ -38,13 +38,13 @@ ErrorDocument 404 /404.html
   </FilesMatch>
 </IfModule>
 
-# --- Endurecimiento básico ---
+# --- Endurecimiento bÃƒÂ¡sico ---
 <IfModule mod_headers.c>
   Header set X-Content-Type-Options "nosniff"
   Header set Referrer-Policy "strict-origin-when-cross-origin"
 </IfModule>
 
-# El panel de redacción (/admin/) no debe indexarse.
+# El panel de redacciÃƒÂ³n (/admin/) no debe indexarse.
 <IfModule mod_setenvif.c>
   SetEnvIf Request_URI "^/admin/" NOINDEX=1
 </IfModule>

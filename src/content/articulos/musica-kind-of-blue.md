@@ -4,6 +4,8 @@ bajada: "En 1959 Miles Davis grabó un disco casi sin ensayo, con instrucciones 
 seccion: musica
 autor: taller-de-escucha
 fecha: 2026-08-16
+portada: /uploads/musica-kind-blue.png
+creditoPortada: "Ilustracion editorial / Kitus"
 formato: Un disco
 etiquetas: [Jazz, Miles Davis, "1959"]
 escuchar:

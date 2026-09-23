@@ -4,6 +4,8 @@ bajada: "Una investigación penal bien hecha sostiene dos cosas al mismo tiempo:
 seccion: derechos
 autor: red-colaboracion
 fecha: 2026-08-14
+portada: /uploads/derechos-justicia.png
+creditoPortada: "Ilustracion editorial / Kitus"
 etiquetas: [Debido proceso, Justicia, Garantías]
 ---
 

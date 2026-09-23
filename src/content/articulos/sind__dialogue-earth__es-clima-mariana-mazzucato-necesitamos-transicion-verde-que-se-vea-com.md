@@ -1,9 +1,11 @@
 ---
 titulo: "Mariana Mazzucato: ‘Necesitamos una transición verde que se vea como parte de una buena vida’"
 bajada: "Mariana Mazzucato lleva mucho tiempo defendiendo que los gobiernos no deberían limitarse a corregir las fallas del mercado, sino que deberían impulsar activamente el crecimiento económico."
-seccion: internacional
+seccion: economia
 autor: medios-aliados
 fecha: 2026-08-20
+portada: /uploads/transicion-verde.png
+creditoPortada: "Ilustracion editorial / Kitus"
 etiquetas: ["Dialogue Earth"]
 origen: sindicada
 firma: "Fermín Koop"

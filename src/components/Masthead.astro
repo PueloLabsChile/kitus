@@ -2,6 +2,7 @@
 import { SITIO } from "../consts";
 import Logo from "./Logo.astro";
 import Nav from "./Nav.astro";
+import Indicadores from "./Indicadores.astro";
 
 interface Props { activa?: string; }
 const { activa } = Astro.props;
@@ -15,15 +16,27 @@ const hoy = new Date().toLocaleDateString("es-AR", {
 const fecha = hoy.charAt(0).toUpperCase() + hoy.slice(1);
 ---
 <header class="masthead">
+  <div class="masthead__tendencias" aria-label="Temas destacados">
+    <div class="contenedor masthead__tendencias-inner">
+      <strong>EN FOCO</strong>
+      <a href="/politica/">Pol&iacute;tica</a>
+      <a href="/economia/">Econom&iacute;a</a>
+      <a href="/internacional/">Internacional</a>
+      <a href="/derechos/">Derechos</a>
+      <a href="/multimedia/">Multimedia</a>
+    </div>
+  </div>
   <div class="contenedor">
     <div class="masthead__top masthead__top--izq">
       <span>{fecha}</span>
       <span>
         <a href="/quienes-somos/">Quiénes somos</a>
         <span class="sep">·</span>
+        
+        <span class="sep">·</span>
         <a href={SITIO.youtube} target="_blank" rel="noopener">YouTube</a>
         <span class="sep">·</span>
-        <a href="/rss.xml">RSS</a>
+        <a href="/rss.xml">RSS</a><label class="selector-idioma" for="idioma-sitio"><span class="sr-only">Idioma</span><select id="idioma-sitio" aria-label="Seleccionar idioma"><option value="es">ES</option><option value="en">EN</option><option value="pt">PT</option><option value="fr">FR</option><option value="de">DE</option><option value="it">IT</option><option value="nl">NL</option><option value="pl">PL</option><option value="uk">UK</option><option value="ru">RU</option><option value="tr">TR</option><option value="el">EL</option><option value="sv">SV</option><option value="da">DA</option><option value="no">NO</option><option value="fi">FI</option><option value="ro">RO</option><option value="cs">CS</option><option value="hu">HU</option><option value="zh-CN">中文</option></select></label>
       </span>
     </div>
     <div class="masthead__marca">
@@ -35,4 +48,5 @@ const fecha = hoy.charAt(0).toUpperCase() + hoy.slice(1);
   </div>
   <div class="masthead__regla"></div>
   <Nav activa={activa} />
-</header>
+  <Indicadores />
+<script src="/idioma.js" defer></script></header>

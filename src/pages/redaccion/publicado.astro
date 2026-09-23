@@ -1,0 +1,24 @@
+---
+import Base from "../../layouts/Base.astro";
+---
+<Base titulo="Publicacion de prueba" activa="redaccion">
+  <main class="contenedor publicado">
+    <p class="kicker">Publicacion directa &middot; demostracion local</p>
+    <h1 id="titulo-publicado">Nota publicada</h1>
+    <p id="meta-publicado"></p>
+    <p class="publicado__bajada" id="bajada-publicado"></p>
+    <article id="texto-publicado"></article>
+    <a href="/redaccion/mis-articulos/">Volver a mis articulos</a>
+  </main>
+  <script>
+    const nota = JSON.parse(localStorage.getItem("kitus-publicacion-prueba") || "null");
+    if (!nota) {
+      window.location.href = "/redaccion/nuevo-articulo/";
+    } else {
+      document.getElementById("titulo-publicado").textContent = nota.titulo;
+      document.getElementById("meta-publicado").textContent = nota.seccion + " - " + nota.fecha;
+      document.getElementById("bajada-publicado").textContent = nota.bajada;
+      document.getElementById("texto-publicado").textContent = nota.texto;
+    }
+  </script>
+</Base>

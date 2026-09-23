@@ -1,0 +1,111 @@
+---
+import Base from "../layouts/Base.astro";
+
+const actividad = [
+  { hora: "09:12", tipo: "Borrador", texto: "Camila Ferreira abrio una nota diaria sobre politica europea.", estado: "En edicion" },
+  { hora: "10:05", tipo: "Fuentes", texto: "Se incorporaron tres fuentes y una solicitud de contraparte.", estado: "En revision" },
+  { hora: "11:26", tipo: "Imagen", texto: "Portada asignada y credito editorial registrado.", estado: "Listo" },
+  { hora: "12:40", tipo: "Agenda", texto: "Se asigno cobertura para la proxima jornada.", estado: "Programado" },
+];
+
+const periodistasIA = [
+  ["Mapa politico", "Contexto internacional y relaciones de poder"],
+  ["Datos y territorio", "Estructura, datos publicos y lectura espacial"],
+  ["Economia cotidiana", "Trabajo, precios y politicas publicas"],
+];
+---
+<Base titulo="Sala de redaccion" activa="redaccion">
+  <main class="contenedor sala">
+    <header class="sala__cabecera">
+      <div>
+        <p class="kicker">Espacio editorial privado</p>
+        <h1>Sala de redaccion</h1>
+        <p>Una mesa de trabajo para corresponsales, edicion y asistencia IA. Cada publicacion conserva autoria, fuentes y una revision humana antes de salir al sitio.</p>
+      </div>
+      <div class="sala__turno">
+        <span class="sala__pulso" aria-hidden="true"></span>
+        <div><strong>Redaccion activa</strong><small>Actualizacion continua</small></div>
+      </div>
+    </header>
+
+    <section class="sala__resumen" aria-label="Resumen editorial">
+      <div><strong>06</strong><span>piezas en curso</span></div>
+      <div><strong>02</strong><span>en revision</span></div>
+      <div><strong>01</strong><span>programada hoy</span></div>
+      <div><strong>04</strong><span>corresponsales activos</span></div>
+    </section>
+
+    <div class="sala__grid">
+      <section class="sala__principal" aria-labelledby="turno-titulo">
+        <div class="sala__titulo">
+          <div><p class="kicker">Turno de hoy</p><h2 id="turno-titulo">Camila Ferreira Valdez</h2></div>
+          <span class="sala__estado">Corresponsal en Madrid</span>
+        </div>
+        <article class="sala__camila">
+          <img src="/images/equipo/camila-ferreira-valdez.jpg" alt="Camila Ferreira Valdez" />
+          <div>
+            <p class="sala__nota">Nota diaria en preparacion</p>
+            <h3>Europa en movimiento: claves para leer la jornada desde Madrid</h3>
+            <p>Despacho breve, fuentes en contraste y un enfoque que conecta las decisiones europeas con sus consecuencias sociales y geopoliticas.</p>
+            <div class="sala__metas"><span>3 fuentes registradas</span><span>Portada pendiente</span><span>Revision editorial 16:00</span></div>
+            <div class="sala__acciones">
+              <a class="sala__crear-link" href="/redaccion/camila/hoy/">Abrir borrador</a>
+              <button type="button" class="sala__boton-sec">Ver bitacora</button>
+            </div>
+          </div>
+        </article>
+        <p class="sala__nota-pie">Ritmo editorial: una nota o reportaje de Camila cada dia, con seguimiento visible de su estado y revision.</p>
+      </section>
+
+      <aside class="sala__actividad" aria-labelledby="actividad-titulo">
+        <div class="sala__titulo"><div><p class="kicker">En vivo</p><h2 id="actividad-titulo">Bitacora</h2></div></div>
+        <ol>
+          {actividad.map((item) => (
+            <li>
+              <time>{item.hora}</time>
+              <div><strong>{item.tipo}</strong><p>{item.texto}</p></div>
+              <span>{item.estado}</span>
+            </li>
+          ))}
+        </ol>
+      </aside>
+    </div>
+
+    <section class="sala__herramientas" aria-labelledby="herramientas-titulo">
+      <div class="sala__titulo">
+        <div><p class="kicker">Asistencia editorial</p><h2 id="herramientas-titulo">Escribir con IA, firmar como humano</h2></div>
+        <p>La IA ayuda a estructurar, resumir, traducir y proponer preguntas. No publica, no inventa fuentes y no reemplaza la firma del corresponsal.</p>
+      </div>
+      <div class="sala__herramientas-grid">
+        <article class="sala__crear">
+          <span>01</span><h3>Nuevo articulo</h3>
+          <p>Abre un borrador, elige seccion, agrega fuentes y define la imagen de portada.</p>
+          <a class="sala__crear-link" href="/redaccion/nuevo-articulo/">Crear borrador</a>
+        </article>
+        <article class="sala__crear">
+          <span>02</span><h3>Asistente de escritura</h3>
+          <p>Trabaja sobre el texto del corresponsal: titulos, estructura, resumen y preguntas de verificacion.</p>
+          <button type="button">Abrir asistente</button>
+        </article>
+        <article class="sala__crear">
+          <span>03</span><h3>Revision editorial</h3>
+          <p>Comprueba autoria, fuentes, imagen, creditos y estado de publicacion antes de enviar al sitio.</p>
+          <button type="button">Ir a revision</button>
+        </article>
+      </div>
+    </section>
+
+    <section class="sala__ia" aria-labelledby="ia-titulo">
+      <div class="sala__titulo">
+        <div><p class="kicker">Mesa de analisis</p><h2 id="ia-titulo">Periodistas IA</h2></div>
+        <p>Perfiles especializados para elaborar primeros borradores bajo encargo humano.</p>
+      </div>
+      <div class="sala__ia-grid">
+        {periodistasIA.map(([nombre, descripcion], indice) => (
+          <article><p>{String(indice + 1).padStart(2, "0")}</p><h3>{nombre}</h3><span>{descripcion}</span><button type="button">Crear encargo</button></article>
+        ))}
+      </div>
+    </section>
+  </main>
+<script>const s=JSON.parse(localStorage.getItem("kitus-sesion-prueba")||"null");if(!s||s.rol!=="jefatura")window.location.href="/acceso/";</script>
+</Base>

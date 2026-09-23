@@ -4,6 +4,8 @@ bajada: "Una empresa británica de inteligencia corporativa cortejó a uno de lo
 seccion: internacional
 autor: medios-aliados
 fecha: 2026-08-21
+portada: /uploads/ia-politica-publica.png
+creditoPortada: "Ilustracion editorial / Kitus"
 etiquetas: ["democraciaAbierta"]
 origen: sindicada
 firma: "Ethan Shone"

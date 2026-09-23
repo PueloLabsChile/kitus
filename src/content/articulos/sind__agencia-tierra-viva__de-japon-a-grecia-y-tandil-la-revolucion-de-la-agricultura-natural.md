@@ -1,7 +1,7 @@
 ---
 titulo: "De Japón a Grecia y Tandil: la revolución de la agricultura natural"
 bajada: "Viajó a Japón con algo del idioma en su haber y la certeza inquebrantable de encontrar a Masanobu Fukuoka, el referente en agricultura natural. Pasó por Grecia, se hermanó con Panos Manikis (otro gran impulsor de la producción de alimentos…"
-seccion: derechos
+seccion: economia
 autor: medios-aliados
 fecha: 2026-08-21
 etiquetas: ["Agencia Tierra Viva"]

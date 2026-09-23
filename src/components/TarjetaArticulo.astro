@@ -24,7 +24,7 @@ const claseVariante =
   variante === "mini" ? "hist--mini" : "";
 const Titulo = variante === "lead" ? "h2" : "h3";
 // mostrar imagen: siempre en "foto"; en el resto si hay portada (salvo que se pida lo contrario)
-const mostrarFoto = portada && (conFoto ?? variante !== "lead");
+const mostrarFoto = portada && (conFoto ?? true);
 ---
 <article class:list={["hist", claseVariante]} data-seccion={seccion}>
   {mostrarFoto && (

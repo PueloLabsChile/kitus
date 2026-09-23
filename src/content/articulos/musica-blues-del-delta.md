@@ -4,6 +4,8 @@ bajada: "Antes del rock, del soul y de buena parte del pop, hubo una guitarra, u
 seccion: musica
 autor: taller-de-escucha
 fecha: 2026-08-20
+portada: /uploads/musica-blues.png
+creditoPortada: "Ilustracion editorial / Kitus"
 formato: Una corriente
 etiquetas: [Blues, Estados Unidos, Raíces]
 escuchar:

@@ -4,6 +4,8 @@ bajada: "Nació del cruce entre tambores africanos, gaitas indígenas y melodía
 seccion: musica
 autor: taller-de-escucha
 fecha: 2026-08-12
+portada: /uploads/musica-cumbia.png
+creditoPortada: "Ilustracion editorial / Kitus"
 formato: Una corriente
 etiquetas: [Cumbia, América Latina, Mestizaje]
 escuchar:
