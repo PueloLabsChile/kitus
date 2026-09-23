@@ -93,6 +93,9 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add $rutas
           git commit -m "Auto: actualiza videos y notas de medios aliados"
+          # Si hubo un cambio de configuración mientras corría esta tarea,
+          # reubicamos el commit automático encima del remoto antes del push.
+          git pull --rebase origin main
           git push
 
 
