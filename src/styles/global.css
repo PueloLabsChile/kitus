@@ -998,8 +998,6 @@ body[data-seccion="musica"]        { --acento: var(--sec-musica); }
     padding: 1rem;
   }
   .equipo-ficha__perfil { grid-column: 1 / -1; margin-top: 1rem; }
-  .equipo-ficha:nth-child(1) .equipo-ficha__retrato img { transform: scale(.72); }
-  .equipo-ficha:nth-child(5) .equipo-ficha__retrato img { transform: scale(.78); }
 }
 
 
