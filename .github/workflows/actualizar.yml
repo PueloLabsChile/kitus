@@ -121,11 +121,7 @@ jobs:
             set ftp:ssl-protect-data false
             set ssl:verify-certificate no
             pwd
-            cls -la
-            cls -la public_html/
-            cls -la public_html/kitus.cl/
-            cls -la kitus.cl/
-            mirror --reverse --transfer-all --parallel=4 dist/ kitus.cl/
+            mirror --reverse --transfer-all --parallel=4 dist/ public_html/kitus.cl/
             bye
           '
 
