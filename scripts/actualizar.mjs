@@ -317,52 +317,42 @@ function itemsDeFeed(xml) {
   });
 }
 
-// Notas sindicadas viejas que se guardaron sin foto: intenta recuperarla del
-// og:image de la nota original. Acotado por corrida para no golpear las fuentes.
-async function backfillImagenes(dir, sinImagen = new Set(), limite = 10) {
+// Revisa también las portadas antiguas: sustituye miniaturas por el original y
+// elimina una portada si la fuente no ofrece una versión que cumpla el estándar.
+async function backfillImagenes(dir, sinImagen = new Set(), limite = 8) {
   const files = (await readdir(dir)).filter((f) => f.startsWith(PREFIJO));
   let hechos = 0;
   for (const f of files) {
     if (hechos >= limite) break;
     const ruta = join(dir, f);
     let txt;
-    try {
-      txt = (await readFile(ruta, "utf8")).replace(/\r\n/g, "\n");
-    } catch {
-      continue;
-    }
+    try { txt = (await readFile(ruta, "utf8")).replace(/\r\n/g, "\n"); } catch { continue; }
     const fmEnd = txt.indexOf("\n---\n", 4);
-    if (fmEnd === -1 || /^portada:/m.test(txt.slice(0, fmEnd))) continue;
+    if (fmEnd === -1) continue;
+    const frente = txt.slice(0, fmEnd);
+    const portadaActual = (frente.match(/^portada:\s*"?([^"\n]+?)"?\s*$/m) || [])[1] || "";
+    let yaEsAlta = false;
+    if (portadaActual.startsWith("/uploads/")) {
+      try { yaEsAlta = esPortadaAltaResolucion(await readFile(join(RAIZ, "public", portadaActual.slice(1)))); } catch {}
+    }
+    if (yaEsAlta) continue;
     const orig = (txt.match(/^original:\s*"?([^"\n]+?)"?\s*$/m) || [])[1];
     const medio = (txt.match(/^fuente:\s*"?([^"\n]+?)"?\s*$/m) || [])[1] || "medio aliado";
     if (!orig || sinImagen.has(medio)) continue;
     let html;
-    try {
-      html = await bajar(orig);
-    } catch {
+    try { html = await bajar(orig); } catch { continue; }
+    const og = (html.match(/<meta[^>]+(?:property|name)=["']og:image(?::url)?["'][^>]+content=["']([^"']+)["']/i) || html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+(?:property|name)=["']og:image(?::url)?["']/i) || [])[1];
+    const portada = og && await descargarImagen(og, `${slugify(medio)}-${hash(orig)}`);
+    const sinPortada = frente.replace(/^portada:.*\n?/m, "").replace(/^creditoPortada:.*\n?/m, "");
+    if (!portada) {
+      if (portadaActual) { await writeFile(ruta, sinPortada + txt.slice(fmEnd), "utf8"); hechos++; }
       continue;
     }
-    const og = (html.match(
-      /<meta[^>]+(?:property|name)=["']og:image(?::url)?["'][^>]+content=["']([^"']+)["']/i,
-    ) ||
-      html.match(
-        /<meta[^>]+content=["']([^"']+)["'][^>]+(?:property|name)=["']og:image(?::url)?["']/i,
-      ) ||
-      [])[1];
-    if (!og) continue;
-    const portada = await descargarImagen(og, `${slugify(medio)}-${hash(orig)}`);
-    if (!portada) continue;
-    const nuevo =
-      txt.slice(0, fmEnd) +
-      `\nportada: ${JSON.stringify(portada)}` +
-      `\ncreditoPortada: ${JSON.stringify("Foto: " + medio)}` +
-      txt.slice(fmEnd);
-    await writeFile(ruta, nuevo, "utf8");
+    await writeFile(ruta, sinPortada + `\nportada: ${JSON.stringify(portada)}\ncreditoPortada: ${JSON.stringify("Foto: " + medio)}` + txt.slice(fmEnd), "utf8");
     hechos++;
   }
-  if (hechos) log(`backfill de imágenes: ${hechos} nota(s) recuperaron su foto`);
+  if (hechos) log(`portadas renovadas: ${hechos} nota(s) procesadas`);
 }
-
 async function sindicar(fuentes, cfg) {
   const dir = join(RAIZ, "src", "content", "articulos");
   await mkdir(dir, { recursive: true });
