@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-10
 etiquetas: ["Agencia Tierra Viva"]
-portada: "/uploads/sind-agencia-tierra-viva-r226cg.jpg"
-creditoPortada: "Foto: Agencia Tierra Viva"
 origen: sindicada
 firma: "Nahuel Lag"
 fuente: "Agencia Tierra Viva"
@@ -14,6 +12,8 @@ fuenteUrl: "https://agenciatierraviva.com.ar/"
 original: "https://agenciatierraviva.com.ar/el-modelo-arauco-en-misiones-amenazas-detenciones-y-casas-quemadas-con-complicidad-estatal/"
 licencia: "CC BY 2.5 AR"
 licenciaUrl: "https://creativecommons.org/licenses/by/2.5/ar/"
+portada: "/uploads/sind-agencia-tierra-viva-r226cg.jpg"
+creditoPortada: "Foto: Agencia Tierra Viva"
 ---
 ### Por Clarisa Néztor
 

@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-07
 etiquetas: ["Agencia Tierra Viva"]
-portada: "/uploads/sind-agencia-tierra-viva-1pgr6ys.jpg"
-creditoPortada: "Foto: Agencia Tierra Viva"
 origen: sindicada
 firma: "Darío Aranda"
 fuente: "Agencia Tierra Viva"
@@ -14,6 +12,8 @@ fuenteUrl: "https://agenciatierraviva.com.ar/"
 original: "https://agenciatierraviva.com.ar/historia-de-un-hombre-reflejo-de-un-pueblo-no-son-simples-desalojos-es-la-continuidad-de-la-conquista-del-desierto/"
 licencia: "CC BY 2.5 AR"
 licenciaUrl: "https://creativecommons.org/licenses/by/2.5/ar/"
+portada: "/uploads/sind-agencia-tierra-viva-1pgr6ys.jpg"
+creditoPortada: "Foto: Agencia Tierra Viva"
 ---
 ### **Por Darío Aranda**
 

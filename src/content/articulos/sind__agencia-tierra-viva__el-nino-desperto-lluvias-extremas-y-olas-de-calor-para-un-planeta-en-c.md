@@ -5,8 +5,6 @@ seccion: derechos
 autor: medios-aliados
 fecha: 2026-09-03
 etiquetas: ["Agencia Tierra Viva"]
-portada: "/uploads/sind-agencia-tierra-viva-1gbnehs.jpg"
-creditoPortada: "Foto: Agencia Tierra Viva"
 origen: sindicada
 firma: "Darío Aranda"
 fuente: "Agencia Tierra Viva"
@@ -14,6 +12,8 @@ fuenteUrl: "https://agenciatierraviva.com.ar/"
 original: "https://agenciatierraviva.com.ar/el-nino-desperto-lluvias-extremas-y-olas-de-calor-para-un-planeta-en-crisis-climatica/"
 licencia: "CC BY 2.5 AR"
 licenciaUrl: "https://creativecommons.org/licenses/by/2.5/ar/"
+portada: "/uploads/sind-agencia-tierra-viva-1gbnehs.jpg"
+creditoPortada: "Foto: Agencia Tierra Viva"
 ---
 ### **Por Silvia Oliviero Ghietto***
 
