@@ -1,5 +1,25 @@
 [
   {
+    "id": "agencia-tierra-viva-zi0ibg",
+    "titulo": "Perseguir y censurar a la ciencia: el INTA echa y exonera a su mayor investigadora en agrotóxicos",
+    "resumen": "El INTA tiene un largo historial de persecuciones, censuras, precarización y maltrato laboral, pero dio un paso extremo y está a punto de cometer el hecho más grave desde la vuelta a la democracia: el despido y exoneración de Virginia…",
+    "seccion": "derechos",
+    "medio": "Agencia Tierra Viva",
+    "enlace": "https://agenciatierraviva.com.ar/perseguir-y-censurar-a-la-ciencia-el-inta-echa-y-exonera-a-su-mayor-investigadora-en-agrotoxicos/",
+    "fecha": "2026-09-24T14:39:50.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-eb7fj1",
+    "titulo": "¡llega el 18º festival internacional de cine lgbtiq+ en santiago!",
+    "resumen": "36 películas, cortometrajes y documentales serán parte de una nueva edición del Festival Internacional de Cine LGBTIQ+ (Cine Movilh), el más antiguo de su tipo realizado en Chile.",
+    "seccion": "derechos",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/09/llega-el-18o-festival-internacional-de-cine-lgbtiq-en-santiago/",
+    "fecha": "2026-09-24T13:16:59.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "global-voices-1upwk9z",
     "titulo": "Aguas envenenadas: Comunidades indígenas luchan para proteger el río Kok de Tailandia",
     "resumen": "Los manifestantes organizaron una caminata por la paz para exigir que se asuman la responsabilidad por las actividades mineras que afectan a los ríos y a las comunidades rurales",
@@ -287,16 +307,6 @@
     "medio": "Dialogue Earth",
     "enlace": "https://dialogue.earth/es/clima/podra-sur-global-armonizar-mercados-carbono/",
     "fecha": "2026-09-15T16:14:20.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "dialogue-earth-6qsop",
-    "titulo": "La ciudad que capturó el sol: calor extremo y energía solar subsidiada en Mexicali",
-    "resumen": "Mexicali, en México, es conocida popularmente como “la ciudad que capturó el sol”. Esta ciudad desértica, en la frontera con Estados Unidos, es el hogar de Yolanda Hernández. Su familia se encuentra actualmente en la disyuntiva entre pagar…",
-    "seccion": "internacional",
-    "medio": "Dialogue Earth",
-    "enlace": "https://dialogue.earth/es/clima/calor-extremo-energia-solar-mexicali-mexico/",
-    "fecha": "2026-09-10T16:55:33.000Z",
     "estado": "pendiente"
   }
 ]
