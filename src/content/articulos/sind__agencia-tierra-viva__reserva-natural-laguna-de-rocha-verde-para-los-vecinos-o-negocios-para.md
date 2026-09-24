@@ -6,8 +6,6 @@ autor: medios-aliados
 fecha: 2026-09-23
 fechaIncorporacion: 2026-09-23T18:33:25.187Z
 etiquetas: ["Agencia Tierra Viva"]
-portada: "/uploads/sind-agencia-tierra-viva-1yglm1h.jpg"
-creditoPortada: "Foto: Agencia Tierra Viva"
 origen: sindicada
 firma: "Darío Aranda"
 fuente: "Agencia Tierra Viva"
@@ -15,6 +13,8 @@ fuenteUrl: "https://agenciatierraviva.com.ar/"
 original: "https://agenciatierraviva.com.ar/reserva-natural-laguna-de-rocha-verde-para-los-vecinos-o-negocios-para-la-especulacion-inmobiliaria/"
 licencia: "CC BY 2.5 AR"
 licenciaUrl: "https://creativecommons.org/licenses/by/2.5/ar/"
+portada: "/uploads/sind-agencia-tierra-viva-1yglm1h.jpg"
+creditoPortada: "Foto: Agencia Tierra Viva"
 ---
 ### **Por Noelia Leiva**
 

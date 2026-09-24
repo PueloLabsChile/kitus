@@ -5,8 +5,6 @@ seccion: derechos
 autor: medios-aliados
 fecha: 2026-09-10
 etiquetas: ["Agencia Tierra Viva"]
-portada: "/uploads/sind-agencia-tierra-viva-1f4f0hb.jpg"
-creditoPortada: "Foto: Agencia Tierra Viva"
 origen: sindicada
 firma: "Darío Aranda"
 fuente: "Agencia Tierra Viva"
@@ -14,6 +12,8 @@ fuenteUrl: "https://agenciatierraviva.com.ar/"
 original: "https://agenciatierraviva.com.ar/san-juan-como-potosi-del-siglo-xxi-el-proyecto-minero-vicuna-y-la-entrega-sin-limites/"
 licencia: "CC BY 2.5 AR"
 licenciaUrl: "https://creativecommons.org/licenses/by/2.5/ar/"
+portada: "/uploads/sind-agencia-tierra-viva-1f4f0hb.jpg"
+creditoPortada: "Foto: Agencia Tierra Viva"
 ---
 ### **Por Anabel Pomar**
 

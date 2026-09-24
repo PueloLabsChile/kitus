@@ -6,8 +6,6 @@ autor: medios-aliados
 fecha: 2026-09-24
 fechaIncorporacion: 2026-09-24T17:03:40.116Z
 etiquetas: ["Agencia Tierra Viva"]
-portada: "/uploads/sind-agencia-tierra-viva-zi0ibg.jpg"
-creditoPortada: "Foto: Agencia Tierra Viva"
 origen: sindicada
 firma: "Darío Aranda"
 fuente: "Agencia Tierra Viva"
@@ -15,6 +13,8 @@ fuenteUrl: "https://agenciatierraviva.com.ar/"
 original: "https://agenciatierraviva.com.ar/perseguir-y-censurar-a-la-ciencia-el-inta-echa-y-exonera-a-su-mayor-investigadora-en-agrotoxicos/"
 licencia: "CC BY 2.5 AR"
 licenciaUrl: "https://creativecommons.org/licenses/by/2.5/ar/"
+portada: "/uploads/sind-agencia-tierra-viva-zi0ibg.jpg"
+creditoPortada: "Foto: Agencia Tierra Viva"
 ---
 ### **Por Darío Aranda**
 

@@ -5,8 +5,6 @@ seccion: economia
 autor: medios-aliados
 fecha: 2026-09-18
 etiquetas: ["Agencia Tierra Viva"]
-portada: "/uploads/sind-agencia-tierra-viva-jexi0o.jpg"
-creditoPortada: "Foto: Agencia Tierra Viva"
 origen: sindicada
 firma: "Nahuel Lag"
 fuente: "Agencia Tierra Viva"
@@ -14,6 +12,8 @@ fuenteUrl: "https://agenciatierraviva.com.ar/"
 original: "https://agenciatierraviva.com.ar/quien-financia-el-rigi-los-bancos-hablan-de-transicion-energetica-pero-apuestan-a-la-explotacion-petrolera/"
 licencia: "CC BY 2.5 AR"
 licenciaUrl: "https://creativecommons.org/licenses/by/2.5/ar/"
+portada: "/uploads/sind-agencia-tierra-viva-jexi0o.jpg"
+creditoPortada: "Foto: Agencia Tierra Viva"
 ---
 ### Por Colectivo Ceppas*
 
