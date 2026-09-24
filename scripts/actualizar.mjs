@@ -19,6 +19,26 @@ const RAIZ = join(dirname(fileURLToPath(import.meta.url)), "..");
 const UA =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122 Safari/537.36";
 const PREFIJO = "sind__"; // marca los .md generados automáticamente
+// Estándar editorial para portadas: nunca se publica una miniatura ampliada.
+const MIN_ANCHO_PORTADA = 1200;
+const MIN_ALTO_PORTADA = 675;
+
+function dimensionesImagen(buf) {
+  if (buf.length >= 24 && buf.subarray(0, 8).equals(Buffer.from([137, 80, 78, 71, 13, 10, 26, 10]))) return { ancho: buf.readUInt32BE(16), alto: buf.readUInt32BE(20) };
+  if (buf.length >= 12 && buf.toString("ascii", 0, 4) === "RIFF" && buf.toString("ascii", 8, 12) === "WEBP") {
+    const tipo = buf.toString("ascii", 12, 16);
+    if (tipo === "VP8X" && buf.length >= 30) return { ancho: 1 + buf.readUIntLE(24, 3), alto: 1 + buf.readUIntLE(27, 3) };
+    if (tipo === "VP8 " && buf.length >= 30) return { ancho: buf.readUInt16LE(26) & 0x3fff, alto: buf.readUInt16LE(28) & 0x3fff };
+    if (tipo === "VP8L" && buf.length >= 25) { const bits = buf.readUInt32LE(21); return { ancho: (bits & 0x3fff) + 1, alto: ((bits >> 14) & 0x3fff) + 1 }; }
+  }
+  if (buf.length >= 4 && buf[0] === 0xff && buf[1] === 0xd8) {
+    let i = 2;
+    while (i + 9 < buf.length) { if (buf[i] !== 0xff) { i++; continue; } const marca = buf[i + 1]; i += 2; if (marca === 0xd8 || marca === 0xd9) continue; const largo = buf.readUInt16BE(i); if (largo < 2 || i + largo > buf.length) break; if (marca >= 0xc0 && marca <= 0xc3) return { alto: buf.readUInt16BE(i + 3), ancho: buf.readUInt16BE(i + 5) }; i += largo; }
+  }
+  return null;
+}
+function esPortadaAltaResolucion(buf) { const d = dimensionesImagen(buf); return d && d.ancho >= MIN_ANCHO_PORTADA && d.alto >= MIN_ALTO_PORTADA; }
+function variantesOriginales(url) { const limpia = url.replace(/([_-])\d{2,4}x\d{2,4}(?=\.(?:jpe?g|png|webp)(?:[?#]|$))/i, ""); return [...new Set([limpia, url])]; }
 
 // Discurso que el medio decidió no cubrir: se excluye del agregado y de la franja de videos.
 // (No filtra la mención factual de un delito —p. ej. "feminicidio" como cargo penal— en una nota
@@ -104,26 +124,24 @@ async function descargarImagen(url, base) {
   if (!url || !/^https?:\/\//i.test(url)) return "";
   const dir = join(RAIZ, "public", "uploads");
   await mkdir(dir, { recursive: true });
-  const ext = ((url.split(/[?#]/)[0].match(/\.(jpe?g|png|webp)$/i) || [])[1] || "jpg")
-    .toLowerCase()
-    .replace("jpeg", "jpg");
+  const ext = ((url.split(/[?#]/)[0].match(/\.(jpe?g|png|webp)$/i) || [])[1] || "jpg").toLowerCase().replace("jpeg", "jpg");
   const archivo = `sind-${base}.${ext}`;
   const destino = join(dir, archivo);
-  try {
-    await access(destino);
-    return `/uploads/${archivo}`;
-  } catch {}
-  try {
-    const r = await fetch(url, { headers: { "user-agent": UA }, signal: AbortSignal.timeout(20000) });
-    if (!r.ok) return "";
-    const buf = Buffer.from(await r.arrayBuffer());
-    if (buf.length < 2000) return ""; // pixel de tracking o error disfrazado
-    await writeFile(destino, buf);
-    log(`  foto: ${archivo} (${Math.round(buf.length / 1024)} kB)`);
-    return `/uploads/${archivo}`;
-  } catch {
-    return "";
+  try { const existente = await readFile(destino); if (esPortadaAltaResolucion(existente)) return `/uploads/${archivo}`; } catch {}
+  for (const candidata of variantesOriginales(url)) {
+    try {
+      const r = await fetch(candidata, { headers: { "user-agent": UA }, signal: AbortSignal.timeout(20000) });
+      if (!r.ok) continue;
+      const buf = Buffer.from(await r.arrayBuffer());
+      if (buf.length < 2000 || !esPortadaAltaResolucion(buf)) continue;
+      await writeFile(destino, buf);
+      const d = dimensionesImagen(buf);
+      log(`  foto alta resolución: ${archivo} (${d.ancho}×${d.alto})`);
+      return `/uploads/${archivo}`;
+    } catch {}
   }
+  log(`  foto descartada por resolución insuficiente: ${base}`);
+  return "";
 }
 
 /* ------------------------------------------------------------------ videos */
