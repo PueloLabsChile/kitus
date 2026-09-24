@@ -993,15 +993,21 @@ body[data-seccion="musica"]        { --acento: var(--sec-musica); }
   .equipo-ficha,
   .equipo-ficha:first-child,
   .equipo-ficha:last-child {
-    grid-template-columns: 6.8rem minmax(0, 1fr);
+    grid-template-columns: 1fr;
+    row-gap: .4rem;
     min-height: 0;
     padding: 1rem;
   }
-  .equipo-ficha__retrato { width: 6.8rem; height: 6.8rem; aspect-ratio: auto; }
+  .equipo-ficha__retrato {
+    grid-column: 1;
+    grid-row: auto;
+    width: 6.8rem;
+    height: 6.8rem;
+    aspect-ratio: auto;
+  }
   .equipo-ficha__indice,
   .equipo-ficha h3,
-  .equipo-ficha__rol { grid-column: 2; min-width: 0; }
-  .equipo-ficha h3 { overflow-wrap: anywhere; }
+  .equipo-ficha__rol { grid-column: 1; min-width: 0; }
   .equipo-ficha__perfil { grid-column: 1 / -1; margin-top: 1rem; }
 }
 
