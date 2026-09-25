@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-13
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1slpgyr.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "COPEHU"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/copehu-invita-al-taller-virtual-educacion-para-la-noviolencia/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-1slpgyr.webp"
+creditoPortada: "Foto: Pressenza"
 ---
 **La actividad se realizará el 17 de septiembre en el marco de la 4.ª Marcha Mundial por la Paz y la Noviolencia**
 

@@ -5,8 +5,6 @@ seccion: economia
 autor: medios-aliados
 fecha: 2026-09-14
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-y97b59.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Xinhua"
 fuente: "Pressenza"

@@ -5,8 +5,6 @@ seccion: politica
 autor: medios-aliados
 fecha: 2026-09-08
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-r2ikot.jpg"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Redacción Colombia"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/colombia-el-gobierno-cierra-tres-mesas-de-dialogo/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-r2ikot.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 En una avanzada más de sus decisiones en contra de la paz, el presidente de Colombia, Abelardo de la Espriella, cerró oficialmente tres mesas de diálogo que habían sido instaladas durante el Gobierno de Gustavo Petro como parte de su política de “paz total”. La decisión afecta las conversaciones con el Estado Mayor de los Bloques y Frentes (EMBF), los Comandos de la Frontera y las Autodefensas Conquistadoras de la Sierra Nevada (ACSN). Además, retiró el reconocimiento jurídico a los representantes y negociadores de estas organizaciones. El presidente colombiano argumentó que no había encontrado voluntad «“real y verificable” de abandonar las armas, reincorporarse a la vida civil o someterse a la justicia.
 

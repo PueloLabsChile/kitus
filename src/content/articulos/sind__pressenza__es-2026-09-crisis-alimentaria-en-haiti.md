@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-22
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1lm3mvy.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Pressenza IPA"
 fuente: "Pressenza"

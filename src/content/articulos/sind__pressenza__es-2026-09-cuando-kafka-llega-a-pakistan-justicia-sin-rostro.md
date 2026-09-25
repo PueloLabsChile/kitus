@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-06
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1iw64k.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Pressenza IPA"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/cuando-kafka-llega-a-pakistan-justicia-sin-rostro/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-1iw64k.webp"
+creditoPortada: "Foto: Pressenza"
 ---
 ***Por Dimitra Staikou***
 

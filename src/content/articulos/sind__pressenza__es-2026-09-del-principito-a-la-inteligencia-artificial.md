@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-15
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1y2086i.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Redacción Costa Rica"
 fuente: "Pressenza"
