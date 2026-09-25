@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-10
 etiquetas: ["Global Voices"]
-portada: "/uploads/sind-global-voices-1mv72zb.jpg"
-creditoPortada: "Foto: Global Voices"
 origen: sindicada
 firma: "Valeria Malavolta"
 fuente: "Global Voices"

@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-07
 etiquetas: ["Global Voices"]
-portada: "/uploads/sind-global-voices-od8xf7.webp"
-creditoPortada: "Foto: Global Voices"
 origen: sindicada
 firma: "Mariela Sosa"
 fuente: "Global Voices"

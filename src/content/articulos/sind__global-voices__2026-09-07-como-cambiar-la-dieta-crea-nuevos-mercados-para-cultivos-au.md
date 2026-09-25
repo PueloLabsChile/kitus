@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-07
 etiquetas: ["Global Voices"]
-portada: "/uploads/sind-global-voices-1bifbyn.webp"
-creditoPortada: "Foto: Global Voices"
 origen: sindicada
 firma: "Cindy Motta"
 fuente: "Global Voices"
@@ -14,6 +12,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/09/07/como-cambiar-la-dieta-crea-nuevos-mercados-para-cultivos-autoctonos-de-africa/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-1bifbyn.webp"
+creditoPortada: "Foto: Global Voices"
 ---
 *Ahora que los consumidores buscan alternativas al trigo, los cultivos autóctonos africanos adquieren nuevo valor comercial.*
 

@@ -1,5 +1,35 @@
 [
   {
+    "id": "global-voices-1n20ikv",
+    "titulo": "Cuando se apagan las luces en Cirenaica, Libia",
+    "resumen": "Los cortes de luz en Cirenaica paralizan los pozos y las bombas, lo que convierte un corte de electricidad en una crisis hídrica.",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/09/25/cuando-se-apagan-las-luces-en-cirenaica-libia/",
+    "fecha": "2026-09-25T06:00:40.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-omr15w",
+    "titulo": "¿Se va a acabar la humanidad?",
+    "resumen": "Hasta hace muy poco tiempo las Naciones Unidas pronosticaban un crecimiento poblacional alarmante. El año 2026 la tierra superó los 8,300 millones de habitantes, y llegará a los diez mil millones en 2057.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/09/se-va-a-acabar-la-humanidad/",
+    "fecha": "2026-09-25T04:36:00.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-18xhifw",
+    "titulo": "Estados Unidos nunca ha sido aliado de Chile (I)",
+    "resumen": "Ningún país con vocación imperial ha tenido verdaderos aliados, salvo circunstancialmente frente a “enemigos” comunes. Sólo tienen países competidores, resistentes o subordinados. Está en el ADN de aquellos estar siempre luchando por el…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/09/estados-unidos-nunca-ha-sido-aliado-de-chile-i/",
+    "fecha": "2026-09-25T04:13:39.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-ams0vt",
     "titulo": "Continentes y Contenidos #34 24/09/26 Especial Rusia: elecciones y guerra de la OTAN",
     "resumen": "Desde Moscú conversamos con Oleg Yasinsky sobre los ataques sufridos en los últimos días por parte de drones ucranianos.",

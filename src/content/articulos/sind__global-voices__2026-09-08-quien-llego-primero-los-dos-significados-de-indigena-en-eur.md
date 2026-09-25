@@ -5,8 +5,6 @@ seccion: derechos
 autor: medios-aliados
 fecha: 2026-09-08
 etiquetas: ["Global Voices"]
-portada: "/uploads/sind-global-voices-1dqaa6a.webp"
-creditoPortada: "Foto: Global Voices"
 origen: sindicada
 firma: "Juan Alejandro Acosta"
 fuente: "Global Voices"

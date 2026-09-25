@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-15
 etiquetas: ["Global Voices"]
-portada: "/uploads/sind-global-voices-1herw88.webp"
-creditoPortada: "Foto: Global Voices"
 origen: sindicada
 firma: "Paola Benitez"
 fuente: "Global Voices"
@@ -14,6 +12,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/09/15/cuando-los-padres-chinos-delegan-el-control-sobre-sus-hijos-adultos/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-1herw88.webp"
+creditoPortada: "Foto: Global Voices"
 ---
 *Padres con hijos ya adultos delegan la coerción a instituciones privadas.*
 

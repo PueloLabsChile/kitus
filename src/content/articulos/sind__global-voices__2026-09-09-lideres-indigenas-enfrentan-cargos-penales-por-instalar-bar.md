@@ -5,8 +5,6 @@ seccion: derechos
 autor: medios-aliados
 fecha: 2026-09-09
 etiquetas: ["Global Voices"]
-portada: "/uploads/sind-global-voices-1lvve49.jpg"
-creditoPortada: "Foto: Global Voices"
 origen: sindicada
 firma: "Paola Benitez"
 fuente: "Global Voices"
@@ -14,6 +12,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/09/09/lideres-indigenas-enfrentan-cargos-penales-por-instalar-barricadas-antimineras-en-filipinas/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-1lvve49.jpg"
+creditoPortada: "Foto: Global Voices"
 ---
 *Se han presentado más de 30 denuncias contra líderes antimineros*
 

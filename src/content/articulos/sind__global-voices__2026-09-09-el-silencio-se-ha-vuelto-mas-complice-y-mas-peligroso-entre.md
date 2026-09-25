@@ -5,8 +5,6 @@ seccion: cultura
 autor: medios-aliados
 fecha: 2026-09-09
 etiquetas: ["Global Voices"]
-portada: "/uploads/sind-global-voices-cnnyyd.webp"
-creditoPortada: "Foto: Global Voices"
 origen: sindicada
 firma: "Alejandra Dramis"
 fuente: "Global Voices"

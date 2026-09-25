@@ -5,8 +5,6 @@ seccion: politica
 autor: medios-aliados
 fecha: 2026-09-02
 etiquetas: ["Global Voices"]
-portada: "/uploads/sind-global-voices-13scko8.webp"
-creditoPortada: "Foto: Global Voices"
 origen: sindicada
 firma: "Gabriela García Calderón Orbe"
 fuente: "Global Voices"
@@ -14,6 +12,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/09/02/ciudania-en-el-limbo-por-que-fue-tan-dificil-impulsar-la-ley-de-reforma-de-la-ciudadania-de-assam/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-13scko8.webp"
+creditoPortada: "Foto: Global Voices"
 ---
 *A pesar de las iniciativas del Gobierno por promover la nueva ley de ciudadanía, pocas familias de Assam que cumplen con los requisitos han presentado su solicitud.*
 
