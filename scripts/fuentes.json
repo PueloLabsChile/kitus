@@ -53,8 +53,29 @@
       "licenciaUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es",
       "maxPorFeed": 3,
       "sinImagen": true
+    },
+    {
+      "medio": "The Conversation España",
+      "url": "https://theconversation.com/es/articles.atom",
+      "home": "https://theconversation.com/es/",
+      "idioma": "es",
+      "licencia": "CC BY-ND 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-nd/4.0/deed.es",
+      "maxPorFeed": 3,
+      "sinImagen": true,
+      "temas": "geopolit|internacional|democra|elecci|econom|clim|ambient|ciencia|tecnolog|energia|migr|derechos"
+    },
+    {
+      "medio": "Servindi",
+      "url": "https://www.servindi.org/rss.xml",
+      "home": "https://www.servindi.org/",
+      "idioma": "es",
+      "licencia": "CC BY-NC-SA 4.0",
+      "licenciaUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
+      "maxPorFeed": 3,
+      "sinImagen": true,
+      "temas": "indigen|pueblo|territorio|ambient|clim|extractiv|mineri|derechos|amazoni|agua"
     }
-  ],
-  "diasQueSeConservan": 45,
+  ],  "diasQueSeConservan": 45,
   "maxVideos": 24
 }
