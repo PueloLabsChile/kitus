@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-06
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-17jxbnx.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Alexandra Vega-Rivera"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/el-sol/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-17jxbnx.webp"
+creditoPortada: "Foto: Pressenza"
 ---
 Una de las más imponentes y paradojales características de esta ciudad es la del cielo despejado en el invierno. En Buenos Aires puede hacer mucho frío a la vez que un sol radiante mitiga los efectos de la baja temperatura. La luz es distinta, las formas de la ciudad se ven honestas y a cara lavada. Bajo un típico cielo celeste de invierno, Buenos Aires juega de local y su río marrón brilla plateado, me conmuevo y entonces entiendo la promesa que guarda su nombre. Durante más de un mes la ciudad estuvo tapada con una densa capa de nubes grises hasta que dejó de ser algo anecdótico para convertirse en noticia. El gris se impuso en el cielo de un modo tan contundente que empezó a atravesar los pensamientos y las conversaciones en todos los ámbitos y entre todas las personas. Bajo ese escenario sombrío y como sucede
 

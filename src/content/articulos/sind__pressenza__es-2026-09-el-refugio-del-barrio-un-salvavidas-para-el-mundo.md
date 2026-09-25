@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-06
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1bthtoo.jpg"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Redacción Chile"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/el-refugio-del-barrio-un-salvavidas-para-el-mundo/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-1bthtoo.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 “El objetivo del Refugio del Barrio es hacer una revolución desde el afecto, vincularnos, salir de la soledad, de la competencia, del día a día, del fragor de esta lucha por vivir en un mundo difícil que nos separa. Es una apuesta por unirnos, transformarnos, aprender en conjunto, abrir espacios donde nos podamos expresar libremente, sin esperar nada a cambio, sin tener que producir nada y así vamos recomponiendo este tejido social que necesitamos”.
 

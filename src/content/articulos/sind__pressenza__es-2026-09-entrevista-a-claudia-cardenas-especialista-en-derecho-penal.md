@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-09
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1kwoyv.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Félix Madariaga Leiva"
 fuente: "Pressenza"

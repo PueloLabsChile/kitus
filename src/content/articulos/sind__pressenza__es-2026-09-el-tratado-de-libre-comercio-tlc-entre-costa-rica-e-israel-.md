@@ -5,8 +5,6 @@ seccion: economia
 autor: medios-aliados
 fecha: 2026-09-06
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-11i322u.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Nicolas Boeglin"
 fuente: "Pressenza"
