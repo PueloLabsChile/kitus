@@ -1110,7 +1110,7 @@ body[data-seccion="africa"],
 /* Composicion editorial: lectura continua en columnas. */
 .cuerpo p { text-align: justify; text-justify: inter-word; -webkit-hyphens: none; hyphens: none; }
 .cuerpo p:not(:first-of-type) { text-indent: 1.5em; }
-.camila-borrador__texto > p:not(.kicker):not(.camila-borrador__bajada), .publicado article { text-align: justify; text-justify: inter-word; hyphens: auto; }
+.camila-borrador__texto > p:not(.kicker):not(.camila-borrador__bajada), .publicado article { text-align: justify; text-justify: inter-word; -webkit-hyphens: none; hyphens: none; }
 @media (max-width: 620px) { .cuerpo p:not(:first-of-type) { text-indent: 1em; } }
 
 /* Parrafos de las noticias: justificados y con sangria editorial. */
@@ -1118,7 +1118,7 @@ body[data-seccion="africa"],
 .articulo .cuerpo p:not(:first-of-type) { text-indent: 1.5em; }
 
 /* Presentacion del equipo: composicion de lectura editorial. */
-.prosa > p:not(.kicker), .equipo-ficha__perfil, .asesor-circular__texto > p:not(.asesor-circular__tipo) { text-align: justify; text-justify: inter-word; hyphens: auto; }
+.prosa > p:not(.kicker), .equipo-ficha__perfil, .asesor-circular__texto > p:not(.asesor-circular__tipo) { text-align: justify; text-justify: inter-word; -webkit-hyphens: none; hyphens: none; }
 .prosa > p:not(.kicker), .asesor-circular__texto > p:not(.asesor-circular__tipo):not(:first-child) { text-indent: 1.5em; }
 .equipo-ficha__perfil { text-indent: 1.2em; }
 
