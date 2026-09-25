@@ -5,8 +5,6 @@ seccion: derechos
 autor: medios-aliados
 fecha: 2026-09-10
 etiquetas: ["Global Voices"]
-portada: "/uploads/sind-global-voices-1bjhzi6.webp"
-creditoPortada: "Foto: Global Voices"
 origen: sindicada
 firma: "Bárbara Silva Rubio"
 fuente: "Global Voices"
@@ -14,6 +12,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/09/10/como-es-para-una-mujer-tener-un-negocio-en-el-afganistan-bajo-control-del-taliban/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-1bjhzi6.webp"
+creditoPortada: "Foto: Global Voices"
 ---
 *Nada en la vida de las mujeres está a salvo de las restricciones del Talibán*
 

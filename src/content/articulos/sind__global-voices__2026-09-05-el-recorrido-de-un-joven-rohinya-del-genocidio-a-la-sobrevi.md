@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-05
 etiquetas: ["Global Voices"]
-portada: "/uploads/sind-global-voices-ee775z.jpg"
-creditoPortada: "Foto: Global Voices"
 origen: sindicada
 firma: "Valeria Malavolta"
 fuente: "Global Voices"
@@ -14,6 +12,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/09/05/el-recorrido-de-un-joven-rohinya-del-genocidio-a-la-sobrevivencia-y-la-esperanza/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-ee775z.jpg"
+creditoPortada: "Foto: Global Voices"
 ---
 *El recorrido de un rohinyá de Myanmar a Bangladesh, y la búsqueda de una mejor vida.*
 

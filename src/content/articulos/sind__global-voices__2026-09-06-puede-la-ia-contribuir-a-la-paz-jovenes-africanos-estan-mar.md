@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-06
 etiquetas: ["Global Voices"]
-portada: "/uploads/sind-global-voices-19s71vv.webp"
-creditoPortada: "Foto: Global Voices"
 origen: sindicada
 firma: "Antonella Clara Difalco"
 fuente: "Global Voices"

@@ -12,6 +12,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/09/08/quien-llego-primero-los-dos-significados-de-indigena-en-europa/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-1dqaa6a.webp"
+creditoPortada: "Foto: Global Voices"
 ---
 *La cultura popular enseñó a varias generaciones a admirar la resistencia al colonialismo; el nacionalismo convirtió la «primacía» en reclamos de propiedad exclusiva*
 

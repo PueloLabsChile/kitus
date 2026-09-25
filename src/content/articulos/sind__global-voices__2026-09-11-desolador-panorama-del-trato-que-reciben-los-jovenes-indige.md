@@ -5,8 +5,6 @@ seccion: derechos
 autor: medios-aliados
 fecha: 2026-09-11
 etiquetas: ["Global Voices"]
-portada: "/uploads/sind-global-voices-1qz0epy.webp"
-creditoPortada: "Foto: Global Voices"
 origen: sindicada
 firma: "Valeria Malavolta"
 fuente: "Global Voices"

@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-04
 etiquetas: ["Global Voices"]
-portada: "/uploads/sind-global-voices-m5bqbs.png"
-creditoPortada: "Foto: Global Voices"
 origen: sindicada
 firma: "Juan Alejandro Acosta"
 fuente: "Global Voices"
@@ -14,6 +12,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/09/04/muy-parecido-a-una-insurreccion-recordamos-el-primer-dia-de-la-emancipacion-en-trinidad/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-m5bqbs.png"
+creditoPortada: "Foto: Global Voices"
 ---
 *Lo que querían eran sus «papeles de libertad», que el rey les había enviado.*
 

@@ -5,8 +5,6 @@ seccion: derechos
 autor: medios-aliados
 fecha: 2026-09-03
 etiquetas: ["Global Voices"]
-portada: "/uploads/sind-global-voices-bxfmwn.webp"
-creditoPortada: "Foto: Global Voices"
 origen: sindicada
 firma: "Mauro Catalán"
 fuente: "Global Voices"
@@ -14,6 +12,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/09/03/que-es-el-hogar-para-personas-sin-territorio-que-los-una/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-bxfmwn.webp"
+creditoPortada: "Foto: Global Voices"
 ---
 *Para algunos grupos étnicos sin patria, el hogar puede ser un concepto abstracto*
 
