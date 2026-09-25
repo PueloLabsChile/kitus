@@ -5,8 +5,6 @@ seccion: economia
 autor: medios-aliados
 fecha: 2026-09-15
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1ioujhz.jpg"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Andrés Figueroa Cornejo"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/chile-en-el-colegio-paulo-freire-caben-todos-menos-los-excluyentes/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-1ioujhz.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 El educador y filósofo brasileño Paulo Freire luce como estandarte en el frontis del colegio para jóvenes, trabajadores y adultos mayores que lleva su nombre, y que está ubicado a dos cuadras del Metro estación Lo Vial, en la comuna de San Miguel, en Santiago.
 

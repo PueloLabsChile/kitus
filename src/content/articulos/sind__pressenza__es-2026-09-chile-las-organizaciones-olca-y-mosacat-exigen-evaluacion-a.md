@@ -5,8 +5,6 @@ seccion: derechos
 autor: medios-aliados
 fecha: 2026-09-08
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-10qp4zq.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Redacción Chile"
 fuente: "Pressenza"

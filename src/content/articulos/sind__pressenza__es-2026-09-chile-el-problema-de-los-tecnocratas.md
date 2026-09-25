@@ -5,8 +5,6 @@ seccion: economia
 autor: medios-aliados
 fecha: 2026-09-05
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1xpk2bc.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Marcelo Trivelli"
 fuente: "Pressenza"

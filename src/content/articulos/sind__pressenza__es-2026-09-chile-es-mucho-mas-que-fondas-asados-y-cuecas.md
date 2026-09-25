@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-18
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-b3hutt.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Marcelo Trivelli"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/chile-es-mucho-mas-que-fondas-asados-y-cuecas/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-b3hutt.webp"
+creditoPortada: "Foto: Pressenza"
 ---
 ### ¿Qué celebramos realmente los chilenos el 18 de septiembre?
 

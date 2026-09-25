@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-10
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-9vaynv.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Rodolfo Schmal"
 fuente: "Pressenza"

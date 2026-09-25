@@ -5,8 +5,6 @@ seccion: economia
 autor: medios-aliados
 fecha: 2026-09-07
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-10zpgog.jpg"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Eva Débia"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/chile-celebra-por-primera-vez-el-dia-mundial-del-packaging-junto-a-la-wpo-cenem-destaca-el-rol-del-envase-en-la-salud-la-economia-y-la-circularidad/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-10zpgog.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 En el marco de la declaración del 6 de septiembre como el Día Mundial del Packaging por la World Packaging Organisation (WPO), el Centro de Envases y Embalajes de Chile (CENEM) convoca a un debate nacional sobre el valor estratégico de la industria como agente de primera necesidad para el país.
 

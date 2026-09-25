@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-02
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-juc5m2.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Luis Mesina Marín"
 fuente: "Pressenza"
