@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-16
 etiquetas: ["Global Voices"]
-portada: "/uploads/sind-global-voices-1lslq91.webp"
-creditoPortada: "Foto: Global Voices"
 origen: sindicada
 firma: "Elvira López"
 fuente: "Global Voices"
@@ -14,6 +12,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/09/16/crisis-de-fecundidad-en-china-es-prueba-del-exito-de-su-modernizacion/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-1lslq91.webp"
+creditoPortada: "Foto: Global Voices"
 ---
 *Las hijas únicas del país se convirtieron exactamente en aquello para lo que fueron educadas*
 

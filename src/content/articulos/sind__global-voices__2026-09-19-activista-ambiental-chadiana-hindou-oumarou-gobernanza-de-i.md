@@ -5,8 +5,6 @@ seccion: derechos
 autor: medios-aliados
 fecha: 2026-09-19
 etiquetas: ["Global Voices"]
-portada: "/uploads/sind-global-voices-bmwa6n.jpg"
-creditoPortada: "Foto: Global Voices"
 origen: sindicada
 firma: "Juan Alejandro Acosta"
 fuente: "Global Voices"
@@ -14,6 +12,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/09/19/activista-ambiental-chadiana-hindou-oumarou-gobernanza-de-ia-debe-respetar-a-los-pueblos-indigenas/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-bmwa6n.jpg"
+creditoPortada: "Foto: Global Voices"
 ---
 *Los Gobiernos africanos pueden liderar este proceso al exigir evaluaciones de impacto ambiental y social para las infraestructuras de IA*
 

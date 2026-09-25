@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-12
 etiquetas: ["Global Voices"]
-portada: "/uploads/sind-global-voices-1irqrxt.webp"
-creditoPortada: "Foto: Global Voices"
 origen: sindicada
 firma: "Antonella Clara Difalco"
 fuente: "Global Voices"
@@ -14,6 +12,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/09/12/vivir-al-dia-en-pereira-sobrevivientes-olvidados-del-terremoto-de-colombia/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-1irqrxt.webp"
+creditoPortada: "Foto: Global Voices"
 ---
 *Pueden haber sobrevivido al terremoto, pero muchos se han quedado sin hogar, sin ayuda ni reconocimiento*
 

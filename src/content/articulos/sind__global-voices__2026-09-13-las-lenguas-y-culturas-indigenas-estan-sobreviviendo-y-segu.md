@@ -5,8 +5,6 @@ seccion: derechos
 autor: medios-aliados
 fecha: 2026-09-13
 etiquetas: ["Global Voices"]
-portada: "/uploads/sind-global-voices-xpbfgd.webp"
-creditoPortada: "Foto: Global Voices"
 origen: sindicada
 firma: "Celia E. Luna"
 fuente: "Global Voices"
@@ -14,6 +12,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/09/13/las-lenguas-y-culturas-indigenas-estan-sobreviviendo-y-seguiran-sobreviviendo-entrevista-con-kshetrabasi-juanga-escritor-en-lengua-juang/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-xpbfgd.webp"
+creditoPortada: "Foto: Global Voices"
 ---
 *Un educador de la India está documentando su lengua indígena en peligro de extinción en YouTube, video cultural por video*
 

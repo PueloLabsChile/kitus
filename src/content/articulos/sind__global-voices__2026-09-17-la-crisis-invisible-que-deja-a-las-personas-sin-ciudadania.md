@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-17
 etiquetas: ["Global Voices"]
-portada: "/uploads/sind-global-voices-1kcfnq0.webp"
-creditoPortada: "Foto: Global Voices"
 origen: sindicada
 firma: "Antonella Clara Difalco"
 fuente: "Global Voices"
@@ -14,6 +12,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/09/17/la-crisis-invisible-que-deja-a-las-personas-sin-ciudadania/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-1kcfnq0.webp"
+creditoPortada: "Foto: Global Voices"
 ---
 *Es fácil dar por sentada la ciudadanía cuando la recibes automáticamente y nunca tienes que defenderla*
 

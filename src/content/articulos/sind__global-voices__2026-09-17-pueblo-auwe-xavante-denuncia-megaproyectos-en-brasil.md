@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-17
 etiquetas: ["Global Voices"]
-portada: "/uploads/sind-global-voices-e4lqxv.webp"
-creditoPortada: "Foto: Global Voices"
 origen: sindicada
 firma: "Gabriela García Calderón Orbe"
 fuente: "Global Voices"

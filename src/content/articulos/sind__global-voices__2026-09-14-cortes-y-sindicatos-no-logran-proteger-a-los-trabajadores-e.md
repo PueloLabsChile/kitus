@@ -5,8 +5,6 @@ seccion: economia
 autor: medios-aliados
 fecha: 2026-09-14
 etiquetas: ["Global Voices"]
-portada: "/uploads/sind-global-voices-g3n7e9.jpg"
-creditoPortada: "Foto: Global Voices"
 origen: sindicada
 firma: "Gabriela García Calderón Orbe"
 fuente: "Global Voices"
@@ -14,6 +12,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/09/14/cortes-y-sindicatos-no-logran-proteger-a-los-trabajadores-en-kazajistan/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-g3n7e9.jpg"
+creditoPortada: "Foto: Global Voices"
 ---
 *Reformas y modificaciones del Código Laboral han dado siempre prioridad a los empresarios*
 

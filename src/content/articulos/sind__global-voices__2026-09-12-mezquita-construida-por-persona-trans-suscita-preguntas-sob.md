@@ -5,8 +5,6 @@ seccion: derechos
 autor: medios-aliados
 fecha: 2026-09-12
 etiquetas: ["Global Voices"]
-portada: "/uploads/sind-global-voices-o5i51s.webp"
-creditoPortada: "Foto: Global Voices"
 origen: sindicada
 firma: "Cindy Motta"
 fuente: "Global Voices"
@@ -14,6 +12,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/09/12/mezquita-construida-por-persona-trans-suscita-preguntas-sobre-fe-y-pertenencia-en-pakistan/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-o5i51s.webp"
+creditoPortada: "Foto: Global Voices"
 ---
 *Las personas transgénero en Pakistán enfrentan un futuro incierto, algunos derechos están en una zona legal gris.*
 
