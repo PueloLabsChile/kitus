@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-01
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1i04rvs.jpg"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Pressenza IPA"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/ginebra-continua-el-debate-en-torno-al-protocolo-facultativo-de-la-convencion-de-los-derechos-de-la-ninez/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-1i04rvs.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 Durante los días 31 de agosto a 2 de septiembre, en Ginebra, se está llevando adelante un nuevo espacio de debate en torno a la propuesta de aprobación de un nuevo** Protocolo Facultativo de la Convención sobre los Derechos del Niño **que busca, particularmente, fortalecer y ampliar el derecho a la educación.  La sesión reune a Estados, especialistas, sociedad civil y representantes de niños, niñas y adolescentes y parte de un documento borrador en torno a los principios claves que han surgido de amplias consultas desarrolladas durante el 2026 y  busca determinar si existen bases para avanzar hacia la elaboración formal de un nuevo instrumento internacional.
 

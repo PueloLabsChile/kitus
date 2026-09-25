@@ -6,8 +6,6 @@ autor: medios-aliados
 fecha: 2026-09-23
 fechaIncorporacion: 2026-09-23T18:33:24.027Z
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-u33pe5.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Redacción España"
 fuente: "Pressenza"

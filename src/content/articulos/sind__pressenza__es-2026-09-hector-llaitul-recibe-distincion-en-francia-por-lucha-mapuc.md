@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-17
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-j6jk8s.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Andrés Figueroa Cornejo"
 fuente: "Pressenza"

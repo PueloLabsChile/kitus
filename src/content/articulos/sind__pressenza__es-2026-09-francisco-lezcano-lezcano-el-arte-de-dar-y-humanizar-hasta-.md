@@ -5,8 +5,6 @@ seccion: cultura
 autor: medios-aliados
 fecha: 2026-09-02
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1o8yo7w.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Tino Prieto Aguilar"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/francisco-lezcano-lezcano-el-arte-de-dar-y-humanizar-hasta-el-ultimo-dia/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-1o8yo7w.webp"
+creditoPortada: "Foto: Pressenza"
 ---
 Hace apenas unas horas, a través del historiador y escritor Juan Francisco Santana Domínguez, recibíamos la triste noticia de la partida de Francisco Lezcano Lezcano, nuestro querido Paco Lezcano. El artista y activista por la paz falleció el 1 de septiembre de 2026, a los 92 años. La noticia ha sido confirmada también por la revista cultural Trasdemar.
 

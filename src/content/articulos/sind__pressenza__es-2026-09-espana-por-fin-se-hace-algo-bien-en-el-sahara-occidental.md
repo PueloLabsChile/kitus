@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-10
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1gicyv1.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Ángel Sanz Montes"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/espana-por-fin-se-hace-algo-bien-en-el-sahara-occidental/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-1gicyv1.webp"
+creditoPortada: "Foto: Pressenza"
 ---
 > Cincuenta años después de abandonar el Sáhara español a toda prisa, y dejar a sus habitantes a merced de una disputa que la Comunidad Internacional todavía no ha sabido resolver, España empieza a saldar una deuda que nunca quiso reconocer. El Congreso ha dado luz verde a una ley para que los saharauis nacidos antes del 29 de septiembre de 1977 recuperen la nacionalidad. Una iniciativa impulsada por Sumar y pactada con el PSOE que ha salido adelante con 168 votos a favor, la significativa abstención del PP y el ruidoso rechazo de Vox.
 

@@ -6,8 +6,6 @@ autor: medios-aliados
 fecha: 2026-09-24
 fechaIncorporacion: 2026-09-24T20:07:15.379Z
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1t6owi.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Redacción Barcelona"
 fuente: "Pressenza"

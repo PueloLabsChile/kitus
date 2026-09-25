@@ -5,8 +5,6 @@ seccion: derechos
 autor: medios-aliados
 fecha: 2026-09-09
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-gfxy21.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Pedro Pozas Terrados"
 fuente: "Pressenza"
