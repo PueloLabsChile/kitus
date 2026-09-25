@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-03
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-o0sh9l.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Fioralba Duma"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/albania-septiembre-arranca-con-represion-14-detenidos-en-la-protesta-de-los-flamencos/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-o0sh9l.webp"
+creditoPortada: "Foto: Pressenza"
 ---
 Tras un agosto en el que el movimiento de los Flamencos demostró ser capaz de resistir al calor, a las vacaciones y al silencio de una parte de los Medios de comunicación. Un mes de piquetes diarios, iniciativas de la diáspora y la sorpresa de nuevas formas de solidaridad internacional. Agosto había visto a la diáspora regresar simbólica y materialmente a Albania, incluso a través de la travesía de la *Global Sumud Flotilla* —la flotilla de resistencia— desde Brindisi hasta Vlorë. Sin embargo, septiembre arranca de forma diferente: con las puertas de las comisarías, las imágenes de manifestantes arrastrados y 14 personas privadas de libertad.
 

@@ -5,8 +5,6 @@ seccion: politica
 autor: medios-aliados
 fecha: 2026-09-07
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1czmko3.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "David Andersson"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/algo-notable-ocurrio-en-alemania-este-domingo/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-1czmko3.webp"
+creditoPortada: "Foto: Pressenza"
 ---
 En las elecciones regionales de Sajonia-Anhalt, el partido de extrema derecha Alternativa para Alemania (AfD) obtuvo alrededor del 44 % de los votos, más del doble que la Unión Demócrata Cristiana (CDU) del canciller Friedrich Merz, que recibió alrededor del 18 %.
 

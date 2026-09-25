@@ -5,8 +5,6 @@ seccion: economia
 autor: medios-aliados
 fecha: 2026-09-15
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1c9p245.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Aram Aharonian"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/argentina-milei-trump-y-el-redescubrimiento-de-las-islas-malvinas/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-1c9p245.webp"
+creditoPortada: "Foto: Pressenza"
 ---
 Javier Milei encontró en la causa Malvinas el eje discursivo que necesitaba para recuperar el manejo del debate público, descolocar a la oposición y relegar de la agenda mediática tópicos relacionados a la economía.  Pero este giro dejó expuestas contradicciones que le restan credibilidad, un activo muy difícil de recuperar. La injerencia que podría tener Estados Unidos y más puntualmente Donald Trump a partir de este descubrimiento libertario de la causa Malvinas -una causa nacional, arraigada en el pueblo argentino- también despierta suspicacias.
 

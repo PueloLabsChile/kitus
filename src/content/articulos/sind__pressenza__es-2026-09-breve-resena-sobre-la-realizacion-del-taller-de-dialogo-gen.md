@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-04
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-3hopi0.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Marcelo Castillo Duvauchelle"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/breve-resena-sobre-la-realizacion-del-taller-de-dialogo-generacional-con-docentes-en-arica-chile/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-3hopi0.webp"
+creditoPortada: "Foto: Pressenza"
 ---
 En la senda de llevar temas del humanismo en nuevos espacios, tuve la oportunidad y privilegio de realizar un taller de «**Diálogo generacional con docentes encargados de la convivencia escolar**«. En mi calidad de profesor y funcionario municipal en Arica, Chile, pude hacer el taller dentro de un encuentro comunal de dicho grupo de docentes. Durante 90 minutos estuvimos abordando el tema de la brecha generacional que naturalmente existe entre profesores y estudiantes. Decir que, para quienes conocen el Humanismo Universalista, es una adaptación del antiguo, querido y siempre vigente tema del “Paisaje de Formación”.
 

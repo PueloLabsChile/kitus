@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-11
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1e53nma.jpg"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Rodrigo Infante Varas"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/america-latina-una-promesa-en-desarrollo/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-1e53nma.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 Pensando en el desarrollo y evolución del diseño político y económico que nuestro continente, Latinoamérica, ha tenido en el tiempo me han surgido dudas y preguntas.
 

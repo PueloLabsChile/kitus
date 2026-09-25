@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-11
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-xaybhp.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Redacción Madrid"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/charla-inaugural-de-tomas-hirsch-en-apertura-universidad-de-verano-del-movimiento-humanista/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-xaybhp.webp"
+creditoPortada: "Foto: Pressenza"
 ---
 > Transformación personal y social para una Revolución No Violenta y la necesidad del trabajo en la base social
 

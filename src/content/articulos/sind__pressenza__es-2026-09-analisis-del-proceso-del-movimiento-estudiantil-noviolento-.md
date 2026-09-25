@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-17
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-b2c5a2.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Gabriela Amaya"
 fuente: "Pressenza"
