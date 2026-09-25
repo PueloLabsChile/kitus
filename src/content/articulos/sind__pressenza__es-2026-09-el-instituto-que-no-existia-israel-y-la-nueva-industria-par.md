@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-11
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-73h924.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Claudia Aranda"
 fuente: "Pressenza"

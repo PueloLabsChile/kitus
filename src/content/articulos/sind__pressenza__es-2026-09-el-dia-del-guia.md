@@ -5,8 +5,6 @@ seccion: cultura
 autor: medios-aliados
 fecha: 2026-09-13
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-l5aa2q.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Javier Tolcachier"
 fuente: "Pressenza"

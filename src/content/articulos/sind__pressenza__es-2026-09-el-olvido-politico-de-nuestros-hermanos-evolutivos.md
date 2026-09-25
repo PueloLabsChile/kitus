@@ -5,8 +5,6 @@ seccion: economia
 autor: medios-aliados
 fecha: 2026-09-17
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-gt006x.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Pedro Pozas Terrados"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/el-olvido-politico-de-nuestros-hermanos-evolutivos/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-gt006x.webp"
+creditoPortada: "Foto: Pressenza"
 ---
 *** ******El Gobierno tiene una deuda pendiente con los grandes simios***
 

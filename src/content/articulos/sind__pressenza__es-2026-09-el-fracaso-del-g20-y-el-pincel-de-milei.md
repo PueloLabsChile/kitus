@@ -5,8 +5,6 @@ seccion: politica
 autor: medios-aliados
 fecha: 2026-09-06
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1401vf9.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Redacción Argentina"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/el-fracaso-del-g20-y-el-pincel-de-milei/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-1401vf9.webp"
+creditoPortada: "Foto: Pressenza"
 ---
 La reunión de ministros de finanzas y presidentes de bancos centrales del G20, realizada la última semana en Asheville, Carolina del Norte, expuso la impotencia de la Casa Blanca para encolumnar a sus socios atlantistas y volvió a poner en evidencia su incapacidad para intimidar a la República Popular China. El cónclave fue planificado como una puesta en escena del mando estadounidense sobre la economía global. El evento, coordinado por Scot Bessent, exhibió un Occidente fragmentado que aún ostenta su señorío mediático, digital y bélico, sin que dichos bagajes puedan ser reconvertidos en obediencia global. Como otras tantas veces, el lenguaje de la “coordinación internacional” de Washington operó como un barniz diplomático para imponer el disciplinamiento. Para el Secretario de Tesoro no se trataba de una convocatoria para deliberar. Era una cita para obedecer.
 

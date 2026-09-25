@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-10
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1fto1su.png"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Redacción Chile"
 fuente: "Pressenza"

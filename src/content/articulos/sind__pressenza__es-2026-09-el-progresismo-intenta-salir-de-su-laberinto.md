@@ -5,8 +5,6 @@ seccion: politica
 autor: medios-aliados
 fecha: 2026-09-08
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-7sabnd.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Aram Aharonian"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/el-progresismo-intenta-salir-de-su-laberinto/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-7sabnd.webp"
+creditoPortada: "Foto: Pressenza"
 ---
 A finales de agosto, Montevideo se convirtió en el epicentro del debate político progresista en el tercer Congreso Panamericano, un foro parlamentario que reunió a más de un centenar de legisladores, expresidentes, ministros y referentes de 15 países de la región, en la necesidad de construir alternativas al auge de las recetas ultraderechistas y de un populismo punitivo y por demás autoritario.
 
