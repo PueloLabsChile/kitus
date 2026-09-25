@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-06
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-ed9wka.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Prensa Latina"
 fuente: "Pressenza"

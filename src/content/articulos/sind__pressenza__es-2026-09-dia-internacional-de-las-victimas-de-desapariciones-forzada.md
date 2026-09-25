@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-01
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-r7m0y7.jpg"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Redacción México"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/dia-internacional-de-las-victimas-de-desapariciones-forzadas-memoria-verdad-y-accion-frente-a-un-crimen-que-persiste/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-r7m0y7.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 Cada 30 de agosto el mundo conmemora el Día Internacional de las Víctimas de Desapariciones Forzadas, una fecha que nació de la lucha de las familias que durante décadas se negaron a aceptar el silencio sobre el destino de sus seres queridos.
 

@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-08
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-l2zl2a.jpg"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Redacción Ecuador"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/ecuador-sarayacu-demuestras-que-los-saberes-ancestrales-protegen-la-amazoni/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-l2zl2a.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 El pueblo kichwa de Sarayaku, en la Amazonía ecuatoriana y la organización científica Society for the Protection of Underground Networks (SPUN), desarrollaron conjuntamente una investigación que aporta nuevas evidencias sobre la importancia y valor de las prácticas agrícolas tradicionales. El estudio analizó 60 muestras de suelo tomadas durante distintos ciclos de cultivo y permitió identificar más de 1.200 especies de hongos micorrícicos, organismos que viven asociados a las raíces de las plantas y cumplen funciones esenciales en la absorción de nutrientes, la protección frente a enfermedades y la resistencia al estrés. Los resultados indican que el sistema agrícola tradicional de Sarayaku no perturba estas complejas redes de micelio que se extienden bajo el suelo.
 

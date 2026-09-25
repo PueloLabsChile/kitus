@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-16
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-hr9rj.jpg"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Redacción España"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/eduardo-gozalo-sobre-reconciliacion-y-despertar-de-la-conciencia-humana-durante-la-uvpt-2026/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-hr9rj.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 En esta 4ª Universidad de Verano del Humanismo Universalista del Parque de Toledo (UVPT2026), Eduardo Gozalo ha disertado sobre la necesidad de reconciliarse, como uno de los elementos que permitirán contar con mayor energía para elevar el nivel de conciencia del ser humano actual. Y considera que la espiritualidad, el sentido trascendente de la vida, pone el plano mayor para abordar una revolución noviolenta en una dirección humanizadora.
 

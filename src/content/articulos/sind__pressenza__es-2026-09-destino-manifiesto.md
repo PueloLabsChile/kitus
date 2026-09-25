@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-18
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-yrldeb.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Javier Belda"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/destino-manifiesto/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-yrldeb.webp"
+creditoPortada: "Foto: Pressenza"
 ---
 ### **Diccionario Geopolítico Esencial.**
 
