@@ -6,8 +6,6 @@ autor: medios-aliados
 fecha: 2026-09-23
 fechaIncorporacion: 2026-09-23T18:33:22.774Z
 etiquetas: ["Global Voices"]
-portada: "/uploads/sind-global-voices-fp39p3.webp"
-creditoPortada: "Foto: Global Voices"
 origen: sindicada
 firma: "Melissa Peñaloza"
 fuente: "Global Voices"
@@ -15,6 +13,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/09/23/sin-educacion-para-las-ninas-afganistan-pierde-la-oportunidad-de-un-manana-mejor/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-fp39p3.webp"
+creditoPortada: "Foto: Global Voices"
 ---
 *Las niñas no pueden continuar sus estudios ni sus sueños profesionales después del sexto grado escolar.*
 

@@ -6,8 +6,6 @@ autor: medios-aliados
 fecha: 2026-09-24
 fechaIncorporacion: 2026-09-24T06:19:00.647Z
 etiquetas: ["Global Voices"]
-portada: "/uploads/sind-global-voices-1upwk9z.webp"
-creditoPortada: "Foto: Global Voices"
 origen: sindicada
 firma: "Melissa Peñaloza"
 fuente: "Global Voices"
@@ -15,6 +13,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/09/24/aguas-envenenadas-comunidades-indigenas-luchan-para-proteger-el-rio-kok-de-tailandia/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-1upwk9z.webp"
+creditoPortada: "Foto: Global Voices"
 ---
 *Los manifestantes organizaron una caminata por la paz para exigir que se asuman la responsabilidad por las actividades mineras que afectan a los ríos y a las comunidades rurales*
 
