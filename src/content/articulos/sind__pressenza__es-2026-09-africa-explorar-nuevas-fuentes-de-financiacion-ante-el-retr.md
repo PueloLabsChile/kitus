@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-15
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-uq2w93.jpg"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Pressenza IPA"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/africa-explorar-nuevas-fuentes-de-financiacion-ante-el-retroceso-de-la-ayuda-internacional/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-uq2w93.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 Como el conjunto de las regiones del Sur Global, también África enfrenta un escenario financiero cada vez más complejo: mientras aumentan las necesidades de inversión en infraestructura, energía, alimentación y servicios sociales, la ayuda oficial al desarrollo procedente de los países occidentales se encuentra en retroceso. Tras la reciente cumbre de los BRICS, celebrada en Nueva Delhi,  este debate cobró fuerza y dio prioridad a la idea de fortalecer las instituciones demandando, al mismo tiempo, la reforma total de organismos como el FMI y el Banco Mundial.
 

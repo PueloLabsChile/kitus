@@ -5,8 +5,6 @@ seccion: politica
 autor: medios-aliados
 fecha: 2026-09-12
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-17nalal.jpg"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Fioralba Duma"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/101-dias-de-revolucion-de-los-flamencos-albania-no-esta-en-venta-el-gobierno-si/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-17nalal.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 El 8 de septiembre la ‘Revolución de los Flamencos’ **alcanzó su 101.º día consecutivo de lucha**. El número, por sí solo, apenas logra abarcar todo lo que está sucediendo en Albania.
 
