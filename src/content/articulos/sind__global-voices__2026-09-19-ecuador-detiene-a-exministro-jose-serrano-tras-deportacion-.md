@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-19
 etiquetas: ["Global Voices"]
-portada: "/uploads/sind-global-voices-1ckge33.webp"
-creditoPortada: "Foto: Global Voices"
 origen: sindicada
 firma: "Gabriela García Calderón Orbe"
 fuente: "Global Voices"
@@ -14,6 +12,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/09/19/ecuador-detiene-a-exministro-jose-serrano-tras-deportacion-de-estados-unidos/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-1ckge33.webp"
+creditoPortada: "Foto: Global Voices"
 ---
 *El regreso de Serrano vuelve a destacar el sistema judicial y el estado de derecho de Ecuador*
 

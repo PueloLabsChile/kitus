@@ -6,8 +6,6 @@ autor: medios-aliados
 fecha: 2026-09-23
 fechaIncorporacion: 2026-09-23T18:33:22.020Z
 etiquetas: ["Global Voices"]
-portada: "/uploads/sind-global-voices-j0gu6v.webp"
-creditoPortada: "Foto: Global Voices"
 origen: sindicada
 firma: "Mauro Catalán"
 fuente: "Global Voices"
@@ -15,6 +13,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/09/23/reformas-en-la-draconiana-ley-de-reunion-pacifica-de-malasia-enfrenta-mas-demoras/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-j0gu6v.webp"
+creditoPortada: "Foto: Global Voices"
 ---
 *Grupos civiles demandan un plan a futuro sobre cuándo el Gobierno reformará las legislaciones restrictivas.*
 

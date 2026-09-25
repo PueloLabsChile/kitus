@@ -5,8 +5,6 @@ seccion: derechos
 autor: medios-aliados
 fecha: 2026-09-22
 etiquetas: ["Global Voices"]
-portada: "/uploads/sind-global-voices-1l3fa17.jpg"
-creditoPortada: "Foto: Global Voices"
 origen: sindicada
 firma: "Elvira López"
 fuente: "Global Voices"
@@ -14,6 +12,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/09/22/la-mercantilizacion-de-culturas-y-tradiciones-indigenas/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-1l3fa17.jpg"
+creditoPortada: "Foto: Global Voices"
 ---
 *Las tradiciones indígenas se extraen, transforman y las explotan para beneficio de terceros.*
 

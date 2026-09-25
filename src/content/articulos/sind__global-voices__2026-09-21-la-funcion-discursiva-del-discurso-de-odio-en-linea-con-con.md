@@ -5,8 +5,6 @@ seccion: derechos
 autor: medios-aliados
 fecha: 2026-09-21
 etiquetas: ["Global Voices"]
-portada: "/uploads/sind-global-voices-jh6wgq.webp"
-creditoPortada: "Foto: Global Voices"
 origen: sindicada
 firma: "Antonella Clara Difalco"
 fuente: "Global Voices"
@@ -14,6 +12,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/09/21/la-funcion-discursiva-del-discurso-de-odio-en-linea-con-connotaciones-de-genero-en-kosovo/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-jh6wgq.webp"
+creditoPortada: "Foto: Global Voices"
 ---
 *Durante un mes, dimos seguimiento a los comentarios de redes sociales publicados en las 22 páginas principales de Facebook y YouTube de Kosovo.*
 

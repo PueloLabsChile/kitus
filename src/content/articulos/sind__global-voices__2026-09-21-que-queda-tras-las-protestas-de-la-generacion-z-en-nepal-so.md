@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-21
 etiquetas: ["Global Voices"]
-portada: "/uploads/sind-global-voices-1ulkgf3.webp"
-creditoPortada: "Foto: Global Voices"
 origen: sindicada
 firma: "Estefania Agudelo Bernal"
 fuente: "Global Voices"
@@ -14,6 +12,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/09/21/que-queda-tras-las-protestas-de-la-generacion-z-en-nepal-sobrevivientes-reflexionan-un-ano-despues/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-1ulkgf3.webp"
+creditoPortada: "Foto: Global Voices"
 ---
 *Las protestas nepalíes de septiembre de 2025 dejaron cicatrices físicas, emocionales y financieras en muchos jóvenes*
 

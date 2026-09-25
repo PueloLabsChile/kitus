@@ -5,8 +5,6 @@ seccion: derechos
 autor: medios-aliados
 fecha: 2026-09-20
 etiquetas: ["Global Voices"]
-portada: "/uploads/sind-global-voices-1fidij6.webp"
-creditoPortada: "Foto: Global Voices"
 origen: sindicada
 firma: "Gabriela García Calderón Orbe"
 fuente: "Global Voices"
@@ -14,6 +12,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/09/20/mozambique-mujeres-vestidos-capulana-y-violencia-policial-destacan-en-protestas-de-nampula/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-1fidij6.webp"
+creditoPortada: "Foto: Global Voices"
 ---
 *Capulanas, protestas y redes sociales revelan nuevas formas de resistencia femenina y activismo digital en Mozambique*
 

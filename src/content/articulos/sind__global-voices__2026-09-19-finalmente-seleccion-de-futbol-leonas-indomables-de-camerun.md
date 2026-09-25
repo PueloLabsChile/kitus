@@ -5,8 +5,6 @@ seccion: politica
 autor: medios-aliados
 fecha: 2026-09-19
 etiquetas: ["Global Voices"]
-portada: "/uploads/sind-global-voices-1thi799.webp"
-creditoPortada: "Foto: Global Voices"
 origen: sindicada
 firma: "Priscila Bogado"
 fuente: "Global Voices"
@@ -14,6 +12,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/09/19/finalmente-seleccion-de-futbol-leonas-indomables-de-camerun-rompe-techos-de-cristal-de-la-wafcon/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-1thi799.webp"
+creditoPortada: "Foto: Global Voices"
 ---
 *Camerún se posiciona en el grupo de ganadoras de la WAFCON: Nigeria (10), Guinea Ecuatorial (2) y Sudáfrica (1).*
 

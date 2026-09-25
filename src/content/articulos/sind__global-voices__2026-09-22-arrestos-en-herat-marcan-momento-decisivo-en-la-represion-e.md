@@ -5,8 +5,6 @@ seccion: derechos
 autor: medios-aliados
 fecha: 2026-09-22
 etiquetas: ["Global Voices"]
-portada: "/uploads/sind-global-voices-g6m6y9.webp"
-creditoPortada: "Foto: Global Voices"
 origen: sindicada
 firma: "Mauro Catalán"
 fuente: "Global Voices"
@@ -14,6 +12,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/09/22/arrestos-en-herat-marcan-momento-decisivo-en-la-represion-en-afganistan/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-g6m6y9.webp"
+creditoPortada: "Foto: Global Voices"
 ---
 *Tras cinco años del régimen talibán, a las mujeres las han borrado de la esfera pública. *
 
