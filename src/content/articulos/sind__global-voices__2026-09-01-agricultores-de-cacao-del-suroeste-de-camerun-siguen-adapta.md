@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-01
 etiquetas: ["Global Voices"]
-portada: "/uploads/sind-global-voices-mdlolv.webp"
-creditoPortada: "Foto: Global Voices"
 origen: sindicada
 firma: "Mar García"
 fuente: "Global Voices"
@@ -14,6 +12,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/09/01/agricultores-de-cacao-del-suroeste-de-camerun-siguen-adaptandose-a-reglamentos-de-la-union-europea-pero-quieren-precios-justos/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-mdlolv.webp"
+creditoPortada: "Foto: Global Voices"
 ---
 *El reglamento de la Unión Europea sobre cacao sin deforestación entrará en vigencia próximo año*
 

@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-01
 etiquetas: ["Global Voices"]
-portada: "/uploads/sind-global-voices-dddvsf.webp"
-creditoPortada: "Foto: Global Voices"
 origen: sindicada
 firma: "Mariela Sosa"
 fuente: "Global Voices"
@@ -14,6 +12,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/09/01/a-quien-le-corresponde-la-conservacion-y-el-desarrollo-la-lucha-de-los-masais-por-las-tierras-del-norte-de-tanzania/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-dddvsf.webp"
+creditoPortada: "Foto: Global Voices"
 ---
 *Para lograr un desarrollo sostenible y pacífico, las personas deben estar en el centro de la conservación.*
 

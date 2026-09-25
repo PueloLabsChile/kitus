@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-01
 etiquetas: ["Global Voices"]
-portada: "/uploads/sind-global-voices-1ud2o4v.webp"
-creditoPortada: "Foto: Global Voices"
 origen: sindicada
 firma: "Valeria Malavolta"
 fuente: "Global Voices"
@@ -14,6 +12,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/09/01/inundaciones-en-nepal-diario-de-un-reportero-27-de-agosto-de-2026/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-1ud2o4v.webp"
+creditoPortada: "Foto: Global Voices"
 ---
 *Fotógrafo de Nepali Times considera que su cámara es inadecuada para capturar la escala real de la tragedia*
 
