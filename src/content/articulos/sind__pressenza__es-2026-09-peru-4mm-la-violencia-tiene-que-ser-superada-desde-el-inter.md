@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-15
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-qu0i8z.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Redacción Perú"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/peru-4mm-la-violencia-tiene-que-ser-superada-desde-el-interior-del-ser-humano/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-qu0i8z.webp"
+creditoPortada: "Foto: Pressenza"
 ---
 **En el marco de la 4ta. Marcha Mundial por la Paz y la No violencia (4MM), el pasado jueves 10 de setiembre, miembros de Mundo sin Guerras y sin violencia (MsG) se unieron en una vigilia junto a los familiares de las víctimas del caso La Cantuta, quienes recordaron a sus seres queridos y exigieron justicia por la trágica desaparición de nueve estudiantes y un profesor de la Universidad Nacional de Educación Enrique Guzmán y Valle, ocurrida en 1992, en plena década de la violencia política (1980-2000), en el gobierno de Alberto Fujimori.**
 

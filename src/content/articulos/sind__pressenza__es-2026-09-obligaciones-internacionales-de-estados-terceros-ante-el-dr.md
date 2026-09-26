@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-14
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-7e4n4k.jpg"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Nicolas Boeglin"
 fuente: "Pressenza"

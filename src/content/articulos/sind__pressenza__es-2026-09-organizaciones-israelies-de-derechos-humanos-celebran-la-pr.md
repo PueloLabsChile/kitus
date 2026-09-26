@@ -5,8 +5,6 @@ seccion: derechos
 autor: medios-aliados
 fecha: 2026-09-10
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1gojyz0.jpg"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Combatants for Peace"
 fuente: "Pressenza"

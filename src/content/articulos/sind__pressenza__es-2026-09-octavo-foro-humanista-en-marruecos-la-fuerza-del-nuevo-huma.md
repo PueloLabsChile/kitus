@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-16
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-2wpky8.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Mohamed El Kodadi"
 fuente: "Pressenza"

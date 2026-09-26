@@ -6,8 +6,6 @@ autor: medios-aliados
 fecha: 2026-09-23
 fechaIncorporacion: 2026-09-23T18:33:23.658Z
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-7nkosk.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Tino Prieto Aguilar"
 fuente: "Pressenza"

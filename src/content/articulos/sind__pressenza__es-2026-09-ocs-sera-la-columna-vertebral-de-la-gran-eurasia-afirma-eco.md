@@ -5,8 +5,6 @@ seccion: economia
 autor: medios-aliados
 fecha: 2026-09-09
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1803ksi.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Redacción Rusia"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/ocs-sera-la-columna-vertebral-de-la-gran-eurasia-afirma-economista-ruso-idealizador-de-moneda-comun-de-los-brics/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-1803ksi.webp"
+creditoPortada: "Foto: Pressenza"
 ---
 Por Marco Fernándes
 
