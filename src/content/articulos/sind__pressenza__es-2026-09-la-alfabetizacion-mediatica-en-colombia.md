@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-09
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-143yf5k.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "J. Ignacio ´Iñaki` Chaves G."
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/la-alfabetizacion-mediatica-en-colombia/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-143yf5k.webp"
+creditoPortada: "Foto: Pressenza"
 ---
 **Una propuesta para la creación de conciencia crítica en los estudios formales y no formales de Comunicación**
 

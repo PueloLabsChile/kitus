@@ -5,8 +5,6 @@ seccion: derechos
 autor: medios-aliados
 fecha: 2026-09-17
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1gh6y6d.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Greenpeace International"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/juicio-historico-contra-11-activistas-de-greenpeace-hasta-5-anos-de-carcel-por-defender-el-planeta/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-1gh6y6d.webp"
+creditoPortada: "Foto: Pressenza"
 ---
 El mundo está a punto de presenciar uno de los juicios más insólitos y preocupantes que se recuerdan en la historia reciente de los movimientos sociales que defendemos el medio ambiente; **11 activistas de Greenpeace, procedentes de varios países, se enfrentan en España a una petición de condena nunca antes vista en Europa contra activistas climáticos: hasta 5 años de cárcel por una acción de protesta pacífica** contra uno de los combustibles fósiles más nocivos para el planeta, el gas fósil.
 

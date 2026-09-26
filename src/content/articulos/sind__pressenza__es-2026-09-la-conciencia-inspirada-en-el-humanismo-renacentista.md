@@ -6,8 +6,6 @@ autor: medios-aliados
 fecha: 2026-09-23
 fechaIncorporacion: 2026-09-23T20:13:12.277Z
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1i4pjeh.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Pressenza Praha"
 fuente: "Pressenza"
@@ -15,6 +13,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/la-conciencia-inspirada-en-el-humanismo-renacentista/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-1i4pjeh.webp"
+creditoPortada: "Foto: Pressenza"
 ---
 La [monografía](https://www.parclabelleidee.fr/docs/parcsprods/ElHumanismocomoexpresiondeloSagrado.pdf) de Javier Tolcachier aborda la relación entre el humanismo y la experiencia espiritual profunda.
 

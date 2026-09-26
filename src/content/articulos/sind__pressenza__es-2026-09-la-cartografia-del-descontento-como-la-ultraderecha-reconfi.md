@@ -5,8 +5,6 @@ seccion: politica
 autor: medios-aliados
 fecha: 2026-09-07
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-14s6jvo.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Ángel Sanz Montes"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/la-cartografia-del-descontento-como-la-ultraderecha-reconfigura-europa/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-14s6jvo.webp"
+creditoPortada: "Foto: Pressenza"
 ---
 **El partido ultraderechista Alternativa para Alemania (AfD) ha logrado una victoria histórica** en las elecciones regionales de **Sajonia-Anhalt**. Con un **44-44,5% de los votos** y una **participación récord cercana al 76,5%**, la formación radical liderada por **Ulrich Siegmund** ha arrasado, duplicando su resultado de 2021 (20,8%) y quedando a las puertas de la mayoría absoluta. Este resultado no es solo una victoria electoral, sino la constatación del **fracaso del cordón sanitario** (*Brandmauer*) que los partidos tradicionales habían erigdo para aislar a la ultraderecha y que ha resultado ser un «tiro en el pie».
 

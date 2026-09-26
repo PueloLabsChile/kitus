@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-09
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1jwi076.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Giorgio Trucchi"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/honduras-laboratorio-latinoamericano-del-eje-israel-estados-unidos/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-1jwi076.webp"
+creditoPortada: "Foto: Pressenza"
 ---
 *Armas, servicios de inteligencia, vigilancia digital y control de la información. Con el regreso de la derecha al poder, Tegucigalpa vuelve a ser una plataforma estratégica para Washington y Tel Aviv en el continente.*
 

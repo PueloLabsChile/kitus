@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-04
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-rnssfm.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Pedro Pozas Terrados"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/inteligencia-artificial/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-rnssfm.webp"
+creditoPortada: "Foto: Pressenza"
 ---
 ## Una herramienta al servicio de las personas y las comunidades
 

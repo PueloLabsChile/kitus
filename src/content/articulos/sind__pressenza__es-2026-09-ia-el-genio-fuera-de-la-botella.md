@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-12
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-u76dfs.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Marcelo Trivelli"
 fuente: "Pressenza"

@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-22
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-6pg2ix.jpg"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Redacción Costa Rica"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/la-belleza-de-la-muerte/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-6pg2ix.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 *De Žižek y Scruton a Eros y Tánatos*
 
