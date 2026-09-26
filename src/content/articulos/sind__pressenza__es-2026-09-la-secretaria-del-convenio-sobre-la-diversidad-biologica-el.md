@@ -5,8 +5,6 @@ seccion: derechos
 autor: medios-aliados
 fecha: 2026-09-02
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-fp44vv.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Redacción Chile"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/la-secretaria-del-convenio-sobre-la-diversidad-biologica-el-filac-el-gobierno-de-mexico-y-rmib-lac-articulan-esfuerzos-para-fortalecer-capacidades-en-relacion-con-la-agenda-mundial-de-biod/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-fp44vv.webp"
+creditoPortada: "Foto: Pressenza"
 ---
 MÉXICO, SEP 01 (FILAC) – Se inaugura el Taller Regional sobre el Programa de Trabajo del Artículo 8(j) del Convenio sobre la Diversidad Biológica, un encuentro orientado a fortalecer las capacidades de representantes de Pueblos Indígenas, gubernamentales y de organismos multilaterales en relación con la agenda de biodiversidad, en particular sobre el Programa de Trabajo sobre el Artículo 8(j) hasta 2030.
 

@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-08
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1mlbg6x.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Margarita Labarca Goddard"
 fuente: "Pressenza"

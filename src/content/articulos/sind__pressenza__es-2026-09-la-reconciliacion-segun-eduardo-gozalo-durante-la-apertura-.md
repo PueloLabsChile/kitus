@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-17
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1cbj7vn.jpg"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Redacción España"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/la-reconciliacion-segun-eduardo-gozalo-durante-la-apertura-de-la-4a-universidad-de-verano-del-humanismo-universalista/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-1cbj7vn.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 Como hemos anunciado en [artículo sobre la apertura](https://www.pressenza.com/es/2026/09/apertura-de-la-4a-universidad-de-verano-del-humanismo-universalista-parque-toledo/) de la 4ª edición de la [Universidad de Verano del Humanismo Universalista](http://www.uvpt.or), el siloista Eduardo Gozalo habló en la mesa de apertura sobre la **reconciliación** como un elemento fundamental para ganar en paz interna y liberar energía que nos permita elevar el nivel de conciencia, y, como consecuencia para una revolución noviolenta.
 

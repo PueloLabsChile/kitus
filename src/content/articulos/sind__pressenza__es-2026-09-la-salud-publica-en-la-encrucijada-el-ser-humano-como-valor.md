@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-12
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1m1de5.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "REHUNO - Red Humanista de Noticias en Salud"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/la-salud-publica-en-la-encrucijada-el-ser-humano-como-valor-central/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-1m1de5.webp"
+creditoPortada: "Foto: Pressenza"
 ---
 En el debate contemporáneo sobre el futuro de la salud pública, solemos perdernos en discusiones sobre presupuestos, avances tecnológicos, infraestructuras y gestión de recursos. Sin embargo, desde Rehuno Salud planteamos una premisa que invita a cambiar el punto de vista: **propiciar la ubicación del ser humano como valor y preocupación central, de tal modo que nada esté por encima del ser humano ni que un ser humano esté por encima de otro.**
 

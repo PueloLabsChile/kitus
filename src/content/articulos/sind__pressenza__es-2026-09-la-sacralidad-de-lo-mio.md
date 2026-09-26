@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-12
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1f7suqb.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Redacción Costa Rica"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/la-sacralidad-de-lo-mio/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-1f7suqb.webp"
+creditoPortada: "Foto: Pressenza"
 ---
 > De lo mío a lo humano
 
