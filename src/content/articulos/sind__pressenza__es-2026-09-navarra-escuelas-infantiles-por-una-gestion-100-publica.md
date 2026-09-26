@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-08
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-nstyfc.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Redacción España"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/navarra-escuelas-infantiles-por-una-gestion-100-publica/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-nstyfc.webp"
+creditoPortada: "Foto: Pressenza"
 ---
 ### **Nota de Prensa**
 

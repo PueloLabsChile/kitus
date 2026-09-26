@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-16
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-15hq6zf.jpg"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Kazuhiro Imamura"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/michigan-seis-semanas-despues-la-coalicion-entra-en-una-fase-de-prueba/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-15hq6zf.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 Seis semanas después de las primarias demócratas de Míchigan, la pregunta central ya no es simplemente si Abdul El-Sayed puede ampliar la coalición que lo llevó a obtener la nominación.
 

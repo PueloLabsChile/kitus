@@ -6,8 +6,6 @@ autor: medios-aliados
 fecha: 2026-09-24
 fechaIncorporacion: 2026-09-24T20:51:18.025Z
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1mv5w3h.jpg"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Kazuhiro Imamura"
 fuente: "Pressenza"
@@ -15,6 +13,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/michigan-siete-semanas-despues-los-limites-de-las-coaliciones-empiezan-a-moverse/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-1mv5w3h.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 Siete semanas después de las primarias demócratas de Míchigan, la carrera al Senado parece entrar en una nueva fase. No porque Abdul El-Sayed haya construido una ventaja decisiva, ni porque Mike Rogers haya perdido terreno de forma irreversible. La novedad es otra. Los límites de sus respectivas coaliciones electorales empiezan a volverse menos rígidos.
 

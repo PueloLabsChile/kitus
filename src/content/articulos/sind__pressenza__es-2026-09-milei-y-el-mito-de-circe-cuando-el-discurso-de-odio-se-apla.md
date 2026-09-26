@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-08
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1241opr.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Efren Osorio"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/milei-y-el-mito-de-circe-cuando-el-discurso-de-odio-se-aplaude-de-pie/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-1241opr.webp"
+creditoPortada: "Foto: Pressenza"
 ---
 En el canto décimo de la Odisea, los hombres de Ulises llegan hambrientos y exhaustos a una isla gobernada por una hechicera llamada Circe. Ella los recibe casi como a una familia: los sienta a su mesa, les sirve vino, queso y miel, y espera con paciencia a que coman hasta hartarse. Y ahí, cuando ya están relajados, con la guardia baja y agradecidos por el recibimiento, los toca con su vara. Nada más. Ni espada ni veneno, ese único gesto basta para que un gruñido bajo les suba por la garganta, se les encorve la espalda, les crezcan hocicos y colas, y terminen encerrados en una pocilga de cerdos. Pero lo verdaderamente perturbador del relato no está en la transformación del cuerpo, eso es apenas el efecto especial de una mitología de hace tres mil años, sino en un detalle que Homero se toma el trabajo de aclarar: adentro de esos cuerpos de cerdo siguen encerradas mentes enteramente humanas, que lloran, que recuerdan quiénes eran, que saben perfectamente lo que les han hecho. Circe no tuvo que levantar un ejército ni salir a cazarlos uno por uno: le bastó con decidir que ya no eran sus semejantes, y dejar que la vara hiciera, en un segundo, el resto del trabajo.
 

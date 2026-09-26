@@ -5,8 +5,6 @@ seccion: cultura
 autor: medios-aliados
 fecha: 2026-09-21
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1kzpj7l.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Mariana Hales Beseler"
 fuente: "Pressenza"

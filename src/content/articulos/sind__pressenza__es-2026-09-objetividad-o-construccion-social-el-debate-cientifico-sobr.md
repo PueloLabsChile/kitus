@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-20
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1umeur6.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "REHUNO - Red Humanista de Noticias en Salud"
 fuente: "Pressenza"
