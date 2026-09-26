@@ -6,8 +6,6 @@ autor: medios-aliados
 fecha: 2026-09-23
 fechaIncorporacion: 2026-09-23T18:33:23.779Z
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-ukii1w.jpg"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Mariana Hales Beseler"
 fuente: "Pressenza"
@@ -15,6 +13,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/la-furia-ilustrada-invita-a-vivir-tres-dias-en-torno-a-la-ilustracion-los-libros-y-las-artes-graficas/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-ukii1w.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 ***Más de 50 actividades para todas las edades, invitados nacionales e internacionales, firmas de libros y un programa dedicado a la profesionalización de ilustradoras, ilustradores y artistas gráficos serán parte de la segunda edición de La Furia Ilustrada, que se realizará entre el 9 y el 11 de octubre en el GAM. La entrada es gratuita.***
 

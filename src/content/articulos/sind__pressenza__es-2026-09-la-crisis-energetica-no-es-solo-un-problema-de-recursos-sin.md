@@ -6,8 +6,6 @@ autor: medios-aliados
 fecha: 2026-09-24
 fechaIncorporacion: 2026-09-24T20:07:15.235Z
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-ah8dz.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Redacción Cuba"
 fuente: "Pressenza"

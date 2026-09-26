@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-03
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-jrt935.jpg"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Mark Lesseraux"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/la-diferencia-entre-la-globalizacion-y-el-globalismo-como-ideologia-geopolitica/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-jrt935.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 **Una combinación de definiciones**
 

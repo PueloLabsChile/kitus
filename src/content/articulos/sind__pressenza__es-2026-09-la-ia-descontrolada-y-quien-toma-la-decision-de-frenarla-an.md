@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-18
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-ks8xbi.jpg"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Mariano Multiviral"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/la-ia-descontrolada-y-quien-toma-la-decision-de-frenarla-antes-que-sea-tarde/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-ks8xbi.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 Dario Amodei escribió un ensayo que puede cambiar las reglas del juego. Es septiembre de 2026, y el CEO de Anthropic—la empresa que compite directamente con OpenAI en la carrera por construir la inteligencia artificial más avanzada—está a punto de hacer algo que parece contracultural en Silicon Valley: pedir ralentizar. Que la industria frene voluntariamente. Aceptar que la velocidad no siempre es la respuesta.
 

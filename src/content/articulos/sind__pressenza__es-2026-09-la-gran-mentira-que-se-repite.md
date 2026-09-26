@@ -5,8 +5,6 @@ seccion: derechos
 autor: medios-aliados
 fecha: 2026-09-12
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1cz7l4j.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Peter Noordendorp"
 fuente: "Pressenza"

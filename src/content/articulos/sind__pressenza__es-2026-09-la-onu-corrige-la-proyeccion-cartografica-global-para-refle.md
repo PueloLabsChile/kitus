@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-05
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1ra24yh.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Pressenza IPA"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/la-onu-corrige-la-proyeccion-cartografica-global-para-reflejar-con-exactitud-el-tamano-de-los-continentes/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-1ra24yh.webp"
+creditoPortada: "Foto: Pressenza"
 ---
 La Asamblea General dio ayer, 4 de septiembre, un paso importante hacia la corrección de las distorsiones presentes en los mapas del mundo de uso común, en particular en la proyección de Mercator, que se considera representa de manera errónea las dimensiones o proporciones relativas de los continentes entre sí, por lo que contribuye a una percepción que empequeñece el continente africano y otras regiones ecuatoriales.
 
