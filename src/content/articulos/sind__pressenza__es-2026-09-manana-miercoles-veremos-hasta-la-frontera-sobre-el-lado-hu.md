@@ -5,8 +5,6 @@ seccion: cultura
 autor: medios-aliados
 fecha: 2026-09-08
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1w6fqi9.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "David Meléndez Tormen"
 fuente: "Pressenza"

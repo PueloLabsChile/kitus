@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-06
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1ukcx89.jpg"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Kazuhiro Imamura"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/mas-alla-del-halcon-la-politica-exterior-de-la-primera-ministra-japonesa-takaichi-en-seis-perspectivas/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-1ukcx89.webp"
+creditoPortada: "Foto: Pressenza"
 ---
 Contemplar la política exterior desde una perspectiva orientada hacia la paz lleva naturalmente a poner el foco en el reforzamiento militar, carera armamentista y las tensiones existentes. Pero ¿qué emerge si, al menos de entrada, ponemos primero entre paréntesis ese juicio y observamos con frialdad lo que los medios internacionales ven o temen en la política exterior de la primera ministra japonesa, Sanae Takaichi?
 

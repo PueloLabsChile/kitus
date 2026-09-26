@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-02
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1a27n06.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Oleg Yasinsky"
 fuente: "Pressenza"

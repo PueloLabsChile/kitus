@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-07
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-15s5l0t.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Xinhua"
 fuente: "Pressenza"

@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-03
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1ki3ojc.jpg"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Kazuhiro Imamura"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/michigan-cuatro-semanas-despues-gaza-no-ha-desaparecido-pero-la-campana-esta-cambiando/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-1ki3ojc.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 Cuatro semanas después de las Primarias demócratas de Míchigan, el panorama de la campaña de Abdul El-Sayed ha cambiado. En el informe publicado dos semanas después de la votación planteábamos una pregunta: ¿puede un progresista contrario a la ayuda militar estadounidense a Israel ganar en noviembre en uno de los estados más disputados de Estados Unidos?
 

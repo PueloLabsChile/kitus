@@ -6,8 +6,6 @@ autor: medios-aliados
 fecha: 2026-09-24
 fechaIncorporacion: 2026-09-24T17:03:39.097Z
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-eb7fj1.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "David Meléndez Tormen"
 fuente: "Pressenza"
