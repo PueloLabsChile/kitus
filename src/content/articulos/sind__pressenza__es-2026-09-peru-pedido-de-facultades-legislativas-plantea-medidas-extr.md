@@ -5,8 +5,6 @@ seccion: politica
 autor: medios-aliados
 fecha: 2026-09-01
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-170tcyn.jpg"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Redacción Perú"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/peru-pedido-de-facultades-legislativas-plantea-medidas-extremas/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-170tcyn.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 El [pedido de facultades legislativas](https://www.pressenza.com/es/2026/07/peru-gobierno-de-keiko-fujimori-pide-facultades-legislativas/) presentado con carácter de urgencia por el Poder Ejecutivo el pasado 28 de agosto fue observado por la Comisión de Constitución y Reglamento de la Cámara de Diputados. El motivo: el pedido no contiene el acta de sesión del Consejo de Ministros en la que se aprobó el carácter de “muy urgente” de la propuesta legislativa. El Ejecutivo regularizará la presentación y adjuntará el pedido.
 

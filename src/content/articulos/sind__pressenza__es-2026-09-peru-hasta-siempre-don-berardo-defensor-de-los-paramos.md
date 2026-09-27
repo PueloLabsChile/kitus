@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-23
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1aedi4r.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "SERVINDI"
 fuente: "Pressenza"

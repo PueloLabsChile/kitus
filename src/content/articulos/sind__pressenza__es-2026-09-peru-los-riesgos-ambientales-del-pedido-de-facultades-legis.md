@@ -5,8 +5,6 @@ seccion: derechos
 autor: medios-aliados
 fecha: 2026-09-16
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1jtxwkr.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Redacción Perú"
 fuente: "Pressenza"

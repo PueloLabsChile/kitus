@@ -5,8 +5,6 @@ seccion: politica
 autor: medios-aliados
 fecha: 2026-09-22
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1sbw9ks.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Redacción Perú"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/peru-extorsiones-cobran-vidas-mientras-ejecutivo-posterga-derogatoria-de-leyes-pro-crimen/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-1sbw9ks.webp"
+creditoPortada: "Foto: Pressenza"
 ---
 ### El Perú está convulsionado. Mientras el Ejecutivo sigue esperando el otorgamiento de las facultades legislativas, y ejecuta medidas poco efectivas frente a los grupos delictivos; la población sigue muriendo a manos de los extorsionadores. En la última semana asesinaron a una periodista de investigación en la ciudad de Chimbote y amenazaron a otro en la región Ica. [Los homicidios con arma de fuego](https://anp.pe/gobierno-de-keiko-fujimori-registra-248-homicidios-en-sus-primeras-semanas-segun-datos-de-sinadef/) alcanzaron un total de 248 entre el 28 de julio y el 11 de setiembre.
 

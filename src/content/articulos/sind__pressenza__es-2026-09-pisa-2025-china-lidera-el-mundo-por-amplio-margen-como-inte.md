@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-09
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-z77kmn.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Claudia Aranda"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/pisa-2025-china-lidera-el-mundo-por-amplio-margen-como-interpretar-las-cifras-y-el-proceso-historico-institucional-y-educativo-que-permiten-observar/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-z77kmn.webp"
+creditoPortada: "Foto: Pressenza"
 ---
 *China, PISA y la educación como infraestructura estratégica del Estado: estudio longitudinal de las reformas educativas de la República Popular entre 2000 y 2026, su articulación con los planes quinquenales y la construcción progresiva de un sistema que vincula universalización, equidad territorial, calidad educativa, ciencia, tecnología y formación de talento.*
 

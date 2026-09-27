@@ -6,8 +6,6 @@ autor: medios-aliados
 fecha: 2026-09-24
 fechaIncorporacion: 2026-09-24T06:19:03.216Z
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-r2a01s.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Redacción Perú"
 fuente: "Pressenza"
