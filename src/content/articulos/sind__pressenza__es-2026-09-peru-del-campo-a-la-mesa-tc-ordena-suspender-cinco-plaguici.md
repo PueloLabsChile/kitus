@@ -5,8 +5,6 @@ seccion: politica
 autor: medios-aliados
 fecha: 2026-09-12
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-406obj.jpg"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Melissa Rubio"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/peru-del-campo-a-la-mesa-tc-ordena-suspender-cinco-plaguicidas-por-fallas-en-el-control-alimentario/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-406obj.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 *La decisión alcanza al clorpirifos, metomil, glifosato, imidacloprid y clothianidin utilizados en cultivos para el mercado peruano. El Tribunal Constitucional advierte riesgos para la salud y una vigilancia estatal insuficiente.*
 

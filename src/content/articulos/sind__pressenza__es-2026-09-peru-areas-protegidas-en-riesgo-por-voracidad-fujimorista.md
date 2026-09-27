@@ -5,8 +5,6 @@ seccion: derechos
 autor: medios-aliados
 fecha: 2026-09-05
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1r68aot.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "SERVINDI"
 fuente: "Pressenza"

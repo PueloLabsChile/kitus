@@ -5,8 +5,6 @@ seccion: politica
 autor: medios-aliados
 fecha: 2026-09-04
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-18h3an0.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Redacción Perú"
 fuente: "Pressenza"
