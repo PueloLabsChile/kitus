@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-09
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-iq0qqa.jpg"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Redacción Cuba"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/puesta-en-marcha-de-forum-red-intercultural-jornadas-fri-icap/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-iq0qqa.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 **Los días 20, 21 y 22 de octubre tendrán lugar en Santa Clara (Cuba) las Jornadas FRI-ICAP, además de una serie de visitas a diversas entidades culturales cubanas como parte de las actividades coorganizas por el Instituto Cubano de Amistad con los Pueblos (ICAP) y Fórum Red Intercultural (F.R.I).**
 

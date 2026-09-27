@@ -5,8 +5,6 @@ seccion: politica
 autor: medios-aliados
 fecha: 2026-09-11
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1fem0zl.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Luis Mesina Marín"
 fuente: "Pressenza"

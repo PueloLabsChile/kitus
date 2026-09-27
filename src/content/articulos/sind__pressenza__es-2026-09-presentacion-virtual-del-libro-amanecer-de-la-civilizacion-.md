@@ -5,8 +5,6 @@ seccion: cultura
 autor: medios-aliados
 fecha: 2026-09-19
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-17cmmck.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "David Meléndez Tormen"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/presentacion-virtual-del-libro-amanecer-de-la-civilizacion-en-mesoamerica-de-hugo-novotny/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-17cmmck.webp"
+creditoPortada: "Foto: Pressenza"
 ---
 Hoy se hará el lanzamiento virtual del notable estudio de Hugo Novotny sobre la aparición de las civilizaciones en Mesoamérica, y se conversará sobre qué daba sentido a estas culturas hace 3000 años frente a qué nos da sentido hoy.
 

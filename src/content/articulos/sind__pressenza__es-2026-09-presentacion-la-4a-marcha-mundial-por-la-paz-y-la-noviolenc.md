@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-22
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1wrunro.jpg"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Redacción Barcelona"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/presentacion-la-4a-marcha-mundial-por-la-paz-y-la-noviolencia-en-castelldefels/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-1wrunro.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 El 21 de septiembre, dio comienzo la 4ª Marcha Mundial por la Paz y la Noviolencia, que se desarrolla simultáneamente en numerosos países del mundo y finalizará el 4 de octubre.
 

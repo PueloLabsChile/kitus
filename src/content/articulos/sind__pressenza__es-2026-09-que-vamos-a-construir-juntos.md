@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-02
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-9o1rub.jpg"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "David Andersson"
 fuente: "Pressenza"

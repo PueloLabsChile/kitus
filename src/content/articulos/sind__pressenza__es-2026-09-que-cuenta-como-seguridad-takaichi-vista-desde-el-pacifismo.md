@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-22
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1daiivc.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Kazuhiro Imamura"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/que-cuenta-como-seguridad-takaichi-vista-desde-el-pacifismo-y-los-medios-alternativos/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-1daiivc.webp"
+creditoPortada: "Foto: Pressenza"
 ---
 [El primer artículo](https://www.pressenza.com/es/2026/09/mas-alla-del-halcon-la-politica-exterior-de-la-primera-ministra-japonesa-takaichi-en-seis-perspectivas/) terminaba con una pregunta: «¿Qué falta en este mapa?». Después de observar la política exterior de Takaichi desde seis puntos de vista —Estados Unidos, Europa, Australia, Corea del Sur, China y el Sudeste Asiático—, desplazamos ahora la mirada hacia las organizaciones por la paz, los medios alternativos y los análisis críticos. IPB, Democracy Now!, Le Monde diplomatique, Asia-Pacific Journal: Japan Focus, Bulletin of the Atomic Scientists, Foreign Policy in Focus y CounterPunch no forman un bloque homogéneo. La pregunta a plantear puede formularse desde otra posición, ¿qué se hace visible y qué puede, en cambio, es más sencilla, o quedar fuera de alcance?
 
