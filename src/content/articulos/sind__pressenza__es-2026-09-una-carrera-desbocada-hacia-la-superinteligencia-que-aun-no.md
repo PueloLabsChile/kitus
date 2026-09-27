@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-14
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-bu7qit.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Claudia Aranda"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/una-carrera-desbocada-hacia-la-superinteligencia-que-aun-no-lleva-riendas-deja-en-jaque-a-la-humanidad/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-bu7qit.webp"
+creditoPortada: "Foto: Pressenza"
 ---
 Hay una escena profundamente absurda en la carrera contemporánea por la inteligencia artificial: algunos de los seres humanos que mejor comprenden el peligro potencial están sentados dentro de los laboratorios que aceleran hacia él.
 

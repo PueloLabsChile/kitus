@@ -5,8 +5,6 @@ seccion: politica
 autor: medios-aliados
 fecha: 2026-09-15
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-1dsjei2.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Redacción España"
 fuente: "Pressenza"

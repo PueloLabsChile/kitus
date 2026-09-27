@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-22
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-zs3osc.jpg"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Pressenza IPA"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/una-nueva-estrategia-africana-para-garantizar-la-educacion-en-emergencias/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-zs3osc.jpg"
+creditoPortada: "Foto: Pressenza"
 ---
 El pasado 18 de septiembre, la Unión Africana (UA) puso en marcha el Grupo Continental de Educación en Emergencias y Resiliencia (EiE)La iniciativa reúne a Estados miembros, comunidades económicas regionales, agencias de Naciones Unidas, organizaciones de la sociedad civil, sindicatos docentes y representantes juveniles, con el propósito de que la educación pueda mantenerse antes, durante y después de situaciones de crisis tales como  conflictos armados, desplazamientos forzados, desastres climáticos y naturales, emergencias sanitarias y ataques contra escuelas e instalaciones educativas.
 

@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-11
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-3xs2gp.png"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Byju Chalad"
 fuente: "Pressenza"
@@ -14,6 +12,8 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/who-will-control-ai/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+portada: "/uploads/sind-pressenza-3xs2gp.png"
+creditoPortada: "Foto: Pressenza"
 ---
 ### Decentralized Tech, Underground Arms Races, and Silo’s Call for Inner Transformation
 
