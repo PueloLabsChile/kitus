@@ -12,8 +12,7 @@ fuenteUrl: "https://www.pressenza.com/es/"
 original: "https://www.pressenza.com/es/2026/09/seguimos-siendo-barbaros/"
 licencia: "CC BY 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
-portada: "/uploads/sind-pressenza-uc9bpx.jpg"
-creditoPortada: "Foto: Pressenza"
+
 ---
 Estamos siendo testigos de un inusitado crecimiento de la barbarie en el mundo. Vemos guerras y amenazas de guerra por doquier e incluso genocidios como en Gaza y Sudán. Sin duda que la humanidad no ha avanzado en el camino de una auténtica civilización. Esto, pese a que aquella ha progresado mucho históricamente en muy diversos ámbitos, como el científico, tecnológico, económico, cultural y médico. Y también lo ha hecho en los planos moral y político al abolir universalmente la esclavitud y la servidumbre; e ilegalizar la tortura y otros tratos crueles, inhumanos y degradantes. E incluso ha avanzado bastante en el establecimiento de sociedades más libres y democráticas. Sin embargo, conserva una nefasta “institución” que no sólo nos ancla en la barbarie, sino que además amenaza creciente y literalmente la supervivencia misma de la humanidad: la guerra, como recurso legítimo para resolver los conflictos entre las naciones.
 

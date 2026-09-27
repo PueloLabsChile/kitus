@@ -5,8 +5,6 @@ seccion: internacional
 autor: medios-aliados
 fecha: 2026-09-18
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-ag72ey.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "David Meléndez Tormen"
 fuente: "Pressenza"

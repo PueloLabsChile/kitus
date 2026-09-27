@@ -6,8 +6,6 @@ autor: medios-aliados
 fecha: 2026-09-23
 fechaIncorporacion: 2026-09-23T18:33:23.900Z
 etiquetas: ["Pressenza"]
-portada: "/uploads/sind-pressenza-12rasd5.webp"
-creditoPortada: "Foto: Pressenza"
 origen: sindicada
 firma: "Redacción Chile"
 fuente: "Pressenza"
