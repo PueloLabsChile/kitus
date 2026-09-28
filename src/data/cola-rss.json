@@ -1,5 +1,75 @@
 [
   {
+    "id": "pressenza-1p89x7s",
+    "titulo": "Reconocer la lengua de signos: no es cuento de hadas",
+    "resumen": "La reacción de millones de personas al ver The Silent Child no deja a nadie indiferente. El cortometraje ganador del Óscar al Mejor Cortometraje de Acción Real en 2018, puso en el centro del debate una realidad que sigue siendo…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/09/reconocer-la-lengua-de-signos-no-es-cuento-de-hadas/",
+    "fecha": "2026-09-28T20:39:08.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-m2mrrv",
+    "titulo": "La escasez de recursos en el futuro: ¿'fake news’ o amenaza para la supervivencia humana?",
+    "resumen": "¿Lograremos perdurar como especie? Múltiples causas podrían impedirlo, y la economía se ha interesado especialmente por dos, los cambios medioambientales dañinos y la escasez de recursos, aunque con conclusiones muy diferentes: el…",
+    "seccion": "economia",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/la-escasez-de-recursos-en-el-futuro-fake-news-o-amenaza-para-la-supervivencia-humana-287472",
+    "fecha": "2026-09-28T19:50:53.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-kcfjn",
+    "titulo": "El caso Maricarmen: cómo proteger a las personas vulnerables sin cargar a los pequeños propietarios",
+    "resumen": "El problema de la vivienda(https://theconversation.com/topics/vivienda-63294) no es nuevo en España. Se trata de una cuestión recurrente que ha adquirido especial intensidad en los últimos años. El aumento de los precios, las dificultades…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/el-caso-maricarmen-como-proteger-a-las-personas-vulnerables-sin-cargar-a-los-pequenos-propietarios-293023",
+    "fecha": "2026-09-28T19:47:52.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-dtns80",
+    "titulo": "Más allá del ‘Decreto Maricarmen’, España necesita leyes que garanticen el acceso a la vivienda",
+    "resumen": "Todo lo que se hace con urgencia puede tener consecuencias. En este caso, la urgencia tiene nombre propio: Maricarmen Abascal, la mujer de 87 años cuyo desahucio ha vuelto a situar la vivienda en el centro del…",
+    "seccion": "derechos",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/mas-alla-del-decreto-maricarmen-espana-necesita-leyes-que-garanticen-el-acceso-a-la-vivienda-293020",
+    "fecha": "2026-09-28T19:47:48.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-17jz6h9",
+    "titulo": "Descubre Irán: Castillo de Alamut, legendaria fortaleza de los montes Alborz",
+    "resumen": "La fortaleza de Alamut, símbolo del poder nizari en el Irán medieval, revela una historia de resistencia, conocimiento y arquitectura adaptada al paisaje montañoso.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/09/descubre-iran-castillo-de-alamut-legendaria-fortaleza-de-los-montes-alborz/",
+    "fecha": "2026-09-28T17:02:07.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-flzhjr",
+    "titulo": "¿El Sol y la Luna están detrás de ciertos terremotos?: este estudio lo explora",
+    "resumen": "El trabajo parte de una observación conocida desde hace tiempo: además de provocar mareas en los océanos, el Sol y la Luna también generan pequeñas deformaciones en la corteza terrestre.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/09/el-sol-y-la-luna-estan-detras-de-ciertos-terremotos-este-estudio-lo-explora/",
+    "fecha": "2026-09-28T16:41:05.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-dmnoua",
+    "titulo": "Premio Italia abre en L’Aquila con la creatividad humana como eje",
+    "resumen": "El 78 Premio Italia abrió hoy en L’Aquila, ciudad que este año ostenta el título de Capital Italiana de la Cultura, con un programa centrado en la creatividad y la experiencia humana ante las profundas transformaciones tecnológicas.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/09/premio-italia-abre-en-laquila-con-la-creatividad-humana-como-eje/",
+    "fecha": "2026-09-28T16:30:24.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-txs3i1",
     "titulo": "La sociedad civil exige al AIIB más ambición en clima, infraestructura y rendición de cuentas",
     "resumen": "Doha, Qatar — Las organizaciones de la sociedad civil instan al AIIB a establecer una hoja de ruta para el abandono de los combustibles fósiles, reevaluar los riesgos de la energía hidroeléctrica a gran escala y fortalecer la rendición de…",
@@ -16,6 +86,16 @@
     "seccion": "internacional",
     "medio": "Dialogue Earth",
     "enlace": "https://dialogue.earth/es/energia/the-world-agreed-to-quit-fossil-fuels-now-it-disagrees-over-the-plan/",
+    "fecha": "2026-09-28T14:05:03.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "dialogue-earth-1n9jwd3",
+    "titulo": "El mundo acordó abandonar los combustibles fósiles, pero discrepa sobre cómo",
+    "resumen": "Hace más de tres años, cerca de 200 países aprobaron un acuerdo(https://dialogue.earth/en/climate/cop28-climate-action-lifeline-but-no-finish-line/) para abandonar el uso de combustibles fósiles en los sistemas energéticos. Hoy, esos…",
+    "seccion": "internacional",
+    "medio": "Dialogue Earth",
+    "enlace": "https://dialogue.earth/es/energia/mundo-acordo-abandonar-combustibles-fosiles-pero-discrepa-como/",
     "fecha": "2026-09-28T14:05:03.000Z",
     "estado": "pendiente"
   },
