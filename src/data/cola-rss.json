@@ -1,5 +1,45 @@
 [
   {
+    "id": "global-voices-1q64k1s",
+    "titulo": "Crisis de seguridad en Haití genera desplazamientos y reubicaciones",
+    "resumen": "“Estoy muy agradecida de estar aquí y de poder descansar con dignidad finalmente”.",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/09/28/crisis-de-seguridad-en-haiti-genera-desplazamientos-y-reubicaciones/",
+    "fecha": "2026-09-28T06:00:59.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-16rljla",
+    "titulo": "Las ciudades sostenibles empiezan mucho antes del primer ladrillo",
+    "resumen": "Cuando pensamos en una ciudad sostenible(https://globalgoals.org/goals/11-sustainable-cities-and-communities/) solemos imaginar edificios eficientes, carriles bici o grandes parques urbanos. Pero las ciudades empiezan mucho antes de que se…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/las-ciudades-sostenibles-empiezan-mucho-antes-del-primer-ladrillo-292493",
+    "fecha": "2026-09-28T04:28:18.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1ihc74l",
+    "titulo": "El metano: ¿solución o problema en el siglo XXI?",
+    "resumen": "Desde hace tiempo, el hidrocarburo más simple de la naturaleza, el metano (CH₄), se encuentra en el punto de mira científico, económico y social por su notable relevancia a distintos niveles. Actualmente, sigue manteniendo una posición…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/el-metano-solucion-o-problema-en-el-siglo-xxi-291681",
+    "fecha": "2026-09-28T04:23:07.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-9w3rc6",
+    "titulo": "¿Qué convierte una diferencia corporal en discapacidad?",
+    "resumen": "“Fuera de servicio”, reza un cartel en la puerta del ascensor. Mal asunto. Para algunos será una molestia; para quien no puede usar las escaleras puede significar la cancelación completa del trayecto. Al pulsar el botón –por si el cartel…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/que-convierte-una-diferencia-corporal-en-discapacidad-290359",
+    "fecha": "2026-09-28T04:20:40.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-18izvbe",
     "titulo": "Concierto de Susana Baca cierra Festival Ecuador Jazz 2026",
     "resumen": "La cantante peruana Susana Baca, una de las principales voces de la música afroperuana, cerrará hoy en esta capital la edición 25 del Festival Internacional Ecuador Jazz 2026.",
