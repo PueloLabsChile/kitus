@@ -1,5 +1,25 @@
 [
   {
+    "id": "pressenza-19sepoo",
+    "titulo": "ASEAN coloca la educación para la paz en el centro de su agenda regional",
+    "resumen": "Más de 400 representantes de gobiernos, instituciones educativas, universidades, organizaciones de paz, organismos de cooperación y movimientos juveniles participaron el 22 y 23 de septiembre en Filipinas en la Conferencia de Alto Nivel de…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/09/asean-coloca-la-educacion-para-la-paz-en-el-centro-de-su-agenda-regional/",
+    "fecha": "2026-09-29T16:53:58.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-r8o3jx",
+    "titulo": "Lanzamiento de Cuando se nos olvidó olvidar, de Mina Antequera Latrille, en el Museo de la Memoria y los DDHH de Santiago de Chile",
+    "resumen": "por Corporación por los Derechos Humanos Agitar Memorias",
+    "seccion": "derechos",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/09/lanzamiento-de-cuando-se-nos-olvido-olvidar-de-mina-antequera-latrille-en-el-museo-de-la-memoria-y-los-ddhh-de-santiago-de-chile/",
+    "fecha": "2026-09-29T16:42:32.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "the-conversation-espana-19nxe0w",
     "titulo": "¿Podría ser una mujer la principal portadora del tesoro de El Carambolo?",
     "resumen": "En 1958, la Real Sociedad de Tiro de Pichón de Sevilla estaba inmersa en unas obras, a tres kilómetros de la ciudad, para ampliar sus instalaciones. El 30 de septiembre, en plenas excavaciones, un obrero descubrió por casualidad un…",
@@ -877,16 +897,6 @@
     "medio": "Agencia Tierra Viva",
     "enlace": "https://agenciatierraviva.com.ar/hacia-la-masificacion-de-agroecologia-3-000-hectareas-de-arroz-agroecologico/",
     "fecha": "2026-09-15T22:16:33.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "dialogue-earth-16nf7od",
-    "titulo": "¿Podrá el Sur Global armonizar los mercados mundiales de carbono?",
-    "resumen": "En teoría, los mercados de carbono deberían ser una estrategia para enfrentar el cambio climático. Al asignar un costo a las emisiones de gases de efecto invernadero y convertirlas en créditos comercializables, el mecanismo busca conciliar…",
-    "seccion": "derechos",
-    "medio": "Dialogue Earth",
-    "enlace": "https://dialogue.earth/es/clima/podra-sur-global-armonizar-mercados-carbono/",
-    "fecha": "2026-09-15T16:14:20.000Z",
     "estado": "pendiente"
   }
 ]
