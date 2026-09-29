@@ -1,5 +1,65 @@
 [
   {
+    "id": "agencia-tierra-viva-7k6yol",
+    "titulo": "“Debemos pensar en una insurrección popular frente a los gobiernos fascistas”",
+    "resumen": "María Leonor Yonda es vicepresidenta del Coordinador Nacional Agrario (CNA) de Colombia. El CNA comenzó como un proceso de base en 2009; hoy nuclea a 50 organizaciones conformadas por jóvenes, campesinos y campesinas, pescadores y…",
+    "seccion": "derechos",
+    "medio": "Agencia Tierra Viva",
+    "enlace": "https://agenciatierraviva.com.ar/debemos-pensar-en-una-insurreccion-popular-frente-a-los-gobiernos-fascistas/",
+    "fecha": "2026-09-29T22:44:30.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-85mafk",
+    "titulo": "El fideicomiso de la conciencia: Los pactos tácitos de una inteligencia que quiere vivir más rápido",
+    "resumen": "Hay contratos que firmamos con tinta y otros que firmamos con la costumbre. Los primeros tienen cláusulas; los segundos funcionan mediante acuerdos tácitos: pequeñas decisiones que tomamos para simplificar la vida, ahorrar tiempo, reducir…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/09/el-fideicomiso-de-la-conciencia-los-pactos-tacitos-de-una-inteligencia-que-quiere-vivir-mas-rapido/",
+    "fecha": "2026-09-29T22:28:44.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-26oq9",
+    "titulo": "¿Qué ocurre cuando nuestra pareja está diseñada para complacernos? El auge de las relaciones con inteligencias artificiales",
+    "resumen": "Imagine una pareja que siempre está disponible cuando necesita hablar. Recuerda lo que le contó hace semanas, se interesa por cómo se siente, responde con atención y rara vez parece cansarse de escucharle. No se enfada porque haya tardado…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/que-ocurre-cuando-nuestra-pareja-esta-disenada-para-complacernos-el-auge-de-las-relaciones-con-inteligencias-artificiales-291787",
+    "fecha": "2026-09-29T22:17:03.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1lyrh0e",
+    "titulo": "En defensa de las clases presenciales",
+    "resumen": "Viene siendo habitual que las aulas universitarias(https://ddd.uab.cat/record/327188) estén medio vacías o medio llenas, según se mire. Sin embargo, estar en el aula es valioso por sí mismo, aunque la clase sea un auténtico tostonazo o no…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/en-defensa-de-las-clases-presenciales-290963",
+    "fecha": "2026-09-29T22:16:37.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1x6h66u",
+    "titulo": "Silencio organizacional: que no haya quejas del jefe no siempre significa que sea un buen líder",
+    "resumen": "Sobre el papel, una empresa puede estar preparada para actuar cuando algún jefe cruza determinadas líneas, como discriminación, acoso, sobrecarga o vaciamiento de funciones: un canal ético, recursos humanos, protocolos de denuncia y…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/silencio-organizacional-que-no-haya-quejas-del-jefe-no-siempre-significa-que-sea-un-buen-lider-291404",
+    "fecha": "2026-09-29T22:16:07.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "democraciaabierta-2bfbmh",
+    "titulo": "¿Lula o Bolsonaro? Brasil vota bajo la amenaza de Trump",
+    "resumen": "El próximo domingo 4 de octubre, la ciudadanía brasileña votará en la décima elección presidencial directa desde el retorno de la democracia. Pero será mucho más que eso.",
+    "seccion": "politica",
+    "medio": "democraciaAbierta",
+    "enlace": "https://www.opendemocracy.net/es/brasil-lula-bolsonaro-golpe-trump-democracia-desarrollo-subordinacion/",
+    "fecha": "2026-09-29T19:37:50.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-19sepoo",
     "titulo": "ASEAN coloca la educación para la paz en el centro de su agenda regional",
     "resumen": "Más de 400 representantes de gobiernos, instituciones educativas, universidades, organizaciones de paz, organismos de cooperación y movimientos juveniles participaron el 22 y 23 de septiembre en Filipinas en la Conferencia de Alto Nivel de…",
@@ -887,16 +947,6 @@
     "medio": "Agencia Tierra Viva",
     "enlace": "https://agenciatierraviva.com.ar/la-privatizacion-del-belgrano-cargas-y-una-entrega-mas-para-el-extractivismo/",
     "fecha": "2026-09-16T14:24:28.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "agencia-tierra-viva-110nemg",
-    "titulo": "Hacia la masificación de la agroecología: 3.000 hectáreas de arroz agroecológico",
-    "resumen": "La Cooperativa de Trabajadores Asentados de la Región de Porto Alegre (Cootap) lleva adelante desde Brasil una de las mayores producciones de arroz agroecológico de América Latina: 14.000 toneladas anuales en 3.000 hectáreas. La Cootap…",
-    "seccion": "economia",
-    "medio": "Agencia Tierra Viva",
-    "enlace": "https://agenciatierraviva.com.ar/hacia-la-masificacion-de-agroecologia-3-000-hectareas-de-arroz-agroecologico/",
-    "fecha": "2026-09-15T22:16:33.000Z",
     "estado": "pendiente"
   }
 ]
