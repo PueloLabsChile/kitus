@@ -1,5 +1,45 @@
 [
   {
+    "id": "the-conversation-espana-19nxe0w",
+    "titulo": "¿Podría ser una mujer la principal portadora del tesoro de El Carambolo?",
+    "resumen": "En 1958, la Real Sociedad de Tiro de Pichón de Sevilla estaba inmersa en unas obras, a tres kilómetros de la ciudad, para ampliar sus instalaciones. El 30 de septiembre, en plenas excavaciones, un obrero descubrió por casualidad un…",
+    "seccion": "derechos",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/podria-ser-una-mujer-la-principal-portadora-del-tesoro-de-el-carambolo-291433",
+    "fecha": "2026-09-29T11:31:37.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1qk85ft",
+    "titulo": "Más grúas, menos regulaciones y mejor salario: la receta de otros países al problema del alquiler",
+    "resumen": "El acceso a un alquiler asequible es una de las principales preocupaciones de las familias. No es de extrañar. Según los últimos datos disponibles, solo en Cataluña uno de cada cuatro hogares destina más del 40 % de sus ingresos a pagar el…",
+    "seccion": "economia",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/mas-gruas-menos-regulaciones-y-mejor-salario-la-receta-de-otros-paises-al-problema-del-alquiler-293120",
+    "fecha": "2026-09-29T10:20:45.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-111hbrz",
+    "titulo": "La selección: el ejercicio es medicina",
+    "resumen": "A priori, el cuerpo humano no está diseñado para hacer esfuerzos innecesarios. Calzarnos las zapatillas de running, cumplir con las rutinas del gimnasio o, simplemente, pegarnos una caminata no son actividades comparables a cazar…",
+    "seccion": "politica",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/la-seleccion-el-ejercicio-es-medicina-292730",
+    "fecha": "2026-09-29T08:54:12.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-rcji4b",
+    "titulo": "Los togoleses reinventan protesta política ante represión contra la sociedad civil",
+    "resumen": "Todos los togoleses se ven afectados por la crisis económica y política del país",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/09/29/los-togoleses-reinventan-protesta-politica-ante-represion-contra-la-sociedad-civil/",
+    "fecha": "2026-09-29T07:00:52.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "global-voices-1yukwxi",
     "titulo": "Nueva ley de algodón de China intensifica control sobre tierras y mano de obra de agricultores uigures",
     "resumen": "Los agricultores uigures deben ceder su mano de obra y sus tierras al Estado mientras la industria algodonera china se automatiza",
