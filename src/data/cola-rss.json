@@ -1,5 +1,45 @@
 [
   {
+    "id": "the-conversation-espana-lhky7q",
+    "titulo": "De propietarios a inquilinos: ¿qué se ha perdido por el camino?",
+    "resumen": "El acceso a la vivienda es, en 2026, la principal preocupación económica(https://www.cis.es/es/w/el-83-1-de-los-espa%C3%B1oles-cree-que-el-acceso-a-la-primera-vivienda-empeorar%C3%A1-o-seguir%C3%A1-igual-en-el-futuro) de los hogares…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/de-propietarios-a-inquilinos-que-se-ha-perdido-por-el-camino-293177",
+    "fecha": "2026-09-30T18:36:59.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1p680xn",
+    "titulo": "¿Arden más los espacios protegidos? Cuando los datos no justifican el relato",
+    "resumen": "Los estudios científicos sobre incendios forestales no permanecen encerrados en las revistas especializadas. Sus resultados llegan al debate público y pueden influir tanto en la percepción social de los espacios protegidos como en las…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/arden-mas-los-espacios-protegidos-cuando-los-datos-no-justifican-el-relato-290686",
+    "fecha": "2026-09-30T18:28:54.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-kazngs",
+    "titulo": "¿Qué dietas se asocian con envejecer bien?",
+    "resumen": "Envejecer es inevitable, pero la forma en que lo hacemos no. Cada vez vivimos más años, aunque la gran cuestión científica y social ya no es solo cuánto dura la vida, sino cuántos de esos años se viven con autonomía, claridad mental y…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/que-dietas-se-asocian-con-envejecer-bien-255328",
+    "fecha": "2026-09-30T18:24:42.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-byzpku",
+    "titulo": "El doblepensar y la neolengua en Trump",
+    "resumen": "El doblepensar (doublethink) es un concepto fundamental de la novela 1984 de George Orwell. Describe la capacidad de sostener dos creencias contradictorias en la mente al mismo tiempo y aceptar ambas como verdades por lo que no sería un…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/09/el-doblepensar-y-la-neolengua-en-trump/",
+    "fecha": "2026-09-30T14:57:11.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "the-conversation-espana-1u8sc4s",
     "titulo": "¿Por qué todo ha cambiado con Maricarmen? La chispa que enciende la llama",
     "resumen": "“La gota que colma el vaso”, “la chispa que prende la llama”, la “puntilla”… son expresiones cotidianas presentes en nuestras conversaciones a lo largo de estos días. Explican de forma gráfica por qué determinados acontecimientos…",
@@ -977,16 +1017,6 @@
     "medio": "Agencia Tierra Viva",
     "enlace": "https://agenciatierraviva.com.ar/la-fiesta-de-quienes-aman-a-la-tierra-semillas-para-seguir-viviendo-en-catamarca/",
     "fecha": "2026-09-17T14:33:36.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "agencia-tierra-viva-g44r8b",
-    "titulo": "La privatización del Belgrano Cargas y una entrega más para el extractivismo",
-    "resumen": "El Gobierno avanza sobre la concesión de la empresa ferroviaria Belgrano Cargas y Logística, compañía estatal sujeta a privatización desde la sanción de la Ley…",
-    "seccion": "derechos",
-    "medio": "Agencia Tierra Viva",
-    "enlace": "https://agenciatierraviva.com.ar/la-privatizacion-del-belgrano-cargas-y-una-entrega-mas-para-el-extractivismo/",
-    "fecha": "2026-09-16T14:24:28.000Z",
     "estado": "pendiente"
   }
 ]
