@@ -1,5 +1,65 @@
 [
   {
+    "id": "the-conversation-espana-e4jkx4",
+    "titulo": "¿Podría la IA acabar realmente con la especie humana?",
+    "resumen": "La cultura popular nos ha acostumbrado a imaginar el fin de la humanidad a manos de la tecnología bajo el mismo libreto: una inteligencia artificial cobra conciencia, declara la guerra a sus creadores y gobierna las máquinas para dominar…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/podria-la-ia-acabar-realmente-con-la-especie-humana-292723",
+    "fecha": "2026-10-01T15:55:27.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "agencia-tierra-viva-11eszxn",
+    "titulo": "Cuando producir alimentos se convierte en una deuda",
+    "resumen": "Por Agustín Suárez",
+    "seccion": "economia",
+    "medio": "Agencia Tierra Viva",
+    "enlace": "https://agenciatierraviva.com.ar/cuando-producir-alimentos-se-convierte-en-una-deuda/",
+    "fecha": "2026-10-01T14:42:08.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1l150ny",
+    "titulo": "Míchigan, ocho semanas después: de las fronteras permeables a una estrategia de acercamiento",
+    "resumen": "Ocho semanas después de las primarias demócratas de Míchigan, la novedad más interesante no es una nueva encuesta ni un nuevo respaldo. Es un cambio de método.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/michigan-ocho-semanas-despues-de-las-fronteras-permeables-a-una-estrategia-de-acercamiento/",
+    "fecha": "2026-10-01T13:51:55.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-c5rygd",
+    "titulo": "Mesa Política y Geopolítica del Foro Humanista Mundial: «Ya no cabemos en el molde del sistema. Avancemos hacia una Revolución Humanista.»",
+    "resumen": "La Mesa de Política y Geopolítica del Foro Humanista Mundial ha dado a conocer una Declaración en apoyo a las manifestaciones masivas que se están desarrollando en España, Francia, Alemania, Albania, Serbia y otras partes del planeta.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/ya-no-cabemos-en-el-molde-del-sistema-avancemos-hacia-una-revolucion-humanista/",
+    "fecha": "2026-10-01T13:15:52.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-padpj5",
+    "titulo": "Casi todo el mundo gira inconscientemente hacia la izquierda al caminar, y aún no sabemos por qué",
+    "resumen": "Esta historia comenzó, como tantas otras en la historia de la ciencia, con algo que no estábamos buscando.",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/casi-todo-el-mundo-gira-inconscientemente-hacia-la-izquierda-al-caminar-y-aun-no-sabemos-por-que-293364",
+    "fecha": "2026-10-01T11:58:54.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "agencia-tierra-viva-1hc2q7b",
+    "titulo": "Una Corte Suprema a favor de la extranjerización de la tierra y en contra de la voluntad popular",
+    "resumen": "Los tres jueces de la Corte Suprema le entregaron al gobierno de Javier Milei el logro político que pretendía desde el primer mes de su mandato con el DNU 70/2023: la derogación de la Ley de Tierras…",
+    "seccion": "politica",
+    "medio": "Agencia Tierra Viva",
+    "enlace": "https://agenciatierraviva.com.ar/una-corte-suprema-a-favor-de-la-extranjerizacion-de-la-tierra-y-en-contra-de-la-voluntad-popular/",
+    "fecha": "2026-10-01T11:54:37.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "the-conversation-espana-utw0j1",
     "titulo": "Spain’s housing crisis is a warning for all of Europe – rights mean nothing if they’re not enforced",
     "resumen": "When Maricarmen Abascal, a disabled 87 year-old, was evicted from the Madrid home(https://www.theguardian.com/world/2026/sep/27/eviction-of-87-year-old-puts-spains-deepening-housing-crisis-in-the-spotlight) where she had lived for 71…",
@@ -1057,16 +1117,6 @@
     "medio": "Agencia Tierra Viva",
     "enlace": "https://agenciatierraviva.com.ar/quien-financia-el-rigi-los-bancos-hablan-de-transicion-energetica-pero-apuestan-a-la-explotacion-petrolera/",
     "fecha": "2026-09-18T10:53:00.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "agencia-tierra-viva-x06snd",
-    "titulo": "La fiesta de quienes aman a la tierra: semillas para seguir viviendo en Catamarca",
-    "resumen": "La Feria Provincial de Semillas Nativas y Criollas de Catamarca nació en 2001 y se mantiene muy viva. Con una antesala de meses de trabajo, cada edición se concentra en un día especial: cuando familias campesinas intercambian semillas…",
-    "seccion": "derechos",
-    "medio": "Agencia Tierra Viva",
-    "enlace": "https://agenciatierraviva.com.ar/la-fiesta-de-quienes-aman-a-la-tierra-semillas-para-seguir-viviendo-en-catamarca/",
-    "fecha": "2026-09-17T14:33:36.000Z",
     "estado": "pendiente"
   }
 ]
