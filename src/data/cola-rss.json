@@ -1,5 +1,25 @@
 [
   {
+    "id": "democraciaabierta-pnmxgf",
+    "titulo": "Trump y Brasil: ‘Interferencia crítica’",
+    "resumen": "- Paso a paso, el guion de Washington para Brasil y sus similitudes con Venezuela - El peso del bolsillo en las decisiones electorales de Brasil - Un incidente en una base aérea británica pone al descubierto la complicidad de Londres con…",
+    "seccion": "internacional",
+    "medio": "democraciaAbierta",
+    "enlace": "https://www.opendemocracy.net/trump-y-brasil-interferencia-critica/",
+    "fecha": "2026-10-02T18:29:43.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "dialogue-earth-1nj60dq",
+    "titulo": "¿Cómo el auge económico peruano por las exportaciones logró sobrevivir al caos político?",
+    "resumen": "A inicios de los 2000, Herbert Vilcapoma encontró una oportunidad en las minas peruanas. Conoció el negocio trabajando en una fábrica de perforadoras y se animó a emprender su propia marca. Pidió un préstamo y fundó Rock Drill, una empresa…",
+    "seccion": "internacional",
+    "medio": "Dialogue Earth",
+    "enlace": "https://dialogue.earth/es/negocios/como-el-auge-economico-peruano-exportaciones-logro-sobrevivir-caos-politico/",
+    "fecha": "2026-10-02T18:08:01.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-xkwbdj",
     "titulo": "El horror cotidiano e implacable en Cisjordania",
     "resumen": "Por Dr. Alon Ben-Meir",
@@ -1177,26 +1197,6 @@
     "medio": "Global Voices",
     "enlace": "https://es.globalvoices.org/2026/09/22/la-mercantilizacion-de-culturas-y-tradiciones-indigenas/",
     "fecha": "2026-09-22T18:00:18.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-g6m6y9",
-    "titulo": "Arrestos en Herat marcan momento decisivo en la represión en Afganistán",
-    "resumen": "Tras cinco años del régimen talibán, a las mujeres las han borrado de la esfera pública.",
-    "seccion": "derechos",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/09/22/arrestos-en-herat-marcan-momento-decisivo-en-la-represion-en-afganistan/",
-    "fecha": "2026-09-22T06:00:46.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-1ulkgf3",
-    "titulo": "¿Qué queda tras las protestas de la Generación Z en Nepal? Sobrevivientes reflexionan un año después",
-    "resumen": "Las protestas nepalíes de septiembre de 2025 dejaron cicatrices físicas, emocionales y financieras en muchos jóvenes",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/09/21/que-queda-tras-las-protestas-de-la-generacion-z-en-nepal-sobrevivientes-reflexionan-un-ano-despues/",
-    "fecha": "2026-09-21T07:00:08.000Z",
     "estado": "pendiente"
   }
 ]
