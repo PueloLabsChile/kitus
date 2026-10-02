@@ -1,5 +1,45 @@
 [
   {
+    "id": "pressenza-xkwbdj",
+    "titulo": "El horror cotidiano e implacable en Cisjordania",
+    "resumen": "Por Dr. Alon Ben-Meir",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/el-horror-cotidiano-e-implacable-en-cisjordania/",
+    "fecha": "2026-10-02T13:34:48.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-15lnavt",
+    "titulo": "La 4ª Marcha Mundial por la Paz y la No Violencia",
+    "resumen": "Cotonú, Benín",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/la-4a-marcha-mundial-por-la-paz-y-la-no-violencia/",
+    "fecha": "2026-10-02T12:05:31.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-u5pyyr",
+    "titulo": "CUBA. ¿Qué está pasando realmente?",
+    "resumen": "Diversas organizaciones se han coordinado para dar voz a periodistas, intelectuales y figuras políticas que mantienen un vínculo directo con la isla caribeña y que, por tanto, hablarán desde la experiencia vivida sobre el terreno.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/cuba-que-esta-pasando-realmente/",
+    "fecha": "2026-10-02T10:56:39.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-xgoxv4",
+    "titulo": "Las personas detrás de los números: Mostrar la realidad de las cárceles turcas",
+    "resumen": "Una estadística por sí sola no cambia a la sociedad",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/02/las-personas-detras-de-los-numeros-mostrar-la-realidad-de-las-carceles-turcas/",
+    "fecha": "2026-10-02T07:00:08.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "global-voices-o5sig6",
     "titulo": "En Camerún, antes de las pantallas estaba la pista de baile",
     "resumen": "En Camerún, los ‘bals dansants’ son encuentros comunitarios de baile que se organizan durante las vacaciones",
@@ -1157,46 +1197,6 @@
     "medio": "Global Voices",
     "enlace": "https://es.globalvoices.org/2026/09/21/que-queda-tras-las-protestas-de-la-generacion-z-en-nepal-sobrevivientes-reflexionan-un-ano-despues/",
     "fecha": "2026-09-21T07:00:08.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-jh6wgq",
-    "titulo": "La función del discurso de odio en línea con connotaciones de género en Kosovo",
-    "resumen": "Durante un mes, dimos seguimiento a los comentarios de redes sociales publicados en las 22 páginas principales de Facebook y YouTube de Kosovo.",
-    "seccion": "derechos",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/09/21/la-funcion-discursiva-del-discurso-de-odio-en-linea-con-connotaciones-de-genero-en-kosovo/",
-    "fecha": "2026-09-21T06:00:44.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "democraciaabierta-tmjvf1",
-    "titulo": "Milei prueba con Malvinas el populismo nacionalista. ¿Qué puede salir mal?",
-    "resumen": "- Milei explota el reclamo sobre Malvinas para salvar su agenda política - Feministas de Berlín enfrentan el avance antiabortista en Europa - Política de frontera: La IA y la crisis de la forma democrática - Bonus track: Con Maduro preso…",
-    "seccion": "derechos",
-    "medio": "democraciaAbierta",
-    "enlace": "https://www.opendemocracy.net/milei-prueba-con-malvinas-el-populismo-nacionalista-que-puede-salir-mal/",
-    "fecha": "2026-09-18T18:32:19.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "democraciaabierta-m8w1ps",
-    "titulo": "Política de frontera: La IA y la crisis de la forma democrática",
-    "resumen": "Este artículo se publicó originalmente en el substack(https://survival21.substack.com/p/frontier-politics) de Georg Diez, Supervivencia en el siglo XXI",
-    "seccion": "internacional",
-    "medio": "democraciaAbierta",
-    "enlace": "https://www.opendemocracy.net/es/ia-laboratorio-de-frontera-democracia-openai-amodei-anthropic-politica/",
-    "fecha": "2026-09-18T17:22:50.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "dialogue-earth-14gnvxx",
-    "titulo": "En Haití, convierten árboles frutales en carbón vegetal en medio de la violencia",
-    "resumen": "Jean Noël tiene 53 años y lleva más de 30 cultivando plátanos, maíz, ñame y yuca en su granja de Fond-Cochon, en el oeste de Haití. Después de que el huracán Melissa arrasara el Caribe en octubre de 2025, esta parte de Haití se encontraba…",
-    "seccion": "internacional",
-    "medio": "Dialogue Earth",
-    "enlace": "https://dialogue.earth/es/clima/en-haiti-convierten-arboles-frutales-en-carbon-vegetal-violencia/",
-    "fecha": "2026-09-18T16:51:12.000Z",
     "estado": "pendiente"
   }
 ]
