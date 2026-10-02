@@ -1,5 +1,55 @@
 [
   {
+    "id": "global-voices-o5sig6",
+    "titulo": "En Camerún, antes de las pantallas estaba la pista de baile",
+    "resumen": "En Camerún, los ‘bals dansants’ son encuentros comunitarios de baile que se organizan durante las vacaciones",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/02/en-camerun-antes-de-las-pantallas-estaba-la-pista-de-baile/",
+    "fecha": "2026-10-02T06:00:57.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1v2pbiu",
+    "titulo": "El valor de los residuos tras las fiestas patrias:  el packaging como solución ambiental",
+    "resumen": "Por: Mariana Soto Urzúa. Gerenta General del Centro de Envases y Embalajes de Chile (CENEM)",
+    "seccion": "derechos",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/el-valor-de-los-residuos-tras-las-fiestas-patrias-el-packaging-como-solucion-ambiental/",
+    "fecha": "2026-10-02T03:43:15.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-zvqlpk",
+    "titulo": "Perú: Comisión de Constitución otorga facultades legislativas solo para Seguridad y Fenómeno El Niño",
+    "resumen": "Luego de haberse mantenido firmes en denegar el otorgamiento de las facultades legislativas(https://www.pressenza.com/es/2026/07/peru-gobierno-de-keiko-fujimori-pide-facultades-legislativas/) al Ejecutivo, ayer finalmente la Comisión de…",
+    "seccion": "politica",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/peru-comision-de-constitucion-otorga-facultades-legislativas-solo-para-seguridad-y-fenomeno-el-nino/",
+    "fecha": "2026-10-02T03:30:31.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-fccjiw",
+    "titulo": "El duende y su sombra. Presentación en Bogotá de un libro homenaje a García Lorca",
+    "resumen": "Publicado en Mundo Obrero",
+    "seccion": "cultura",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/el-duende-y-su-sombra-presentacion-en-bogota-de-un-libro-homenaje-a-garcia-lorca/",
+    "fecha": "2026-10-02T03:09:52.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-hdxvxg",
+    "titulo": "Entrenamiento, Bases y Militarización en América Latina",
+    "resumen": "Por Álvaro Ramis",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/entrenamiento-bases-y-militarizacion-en-america-latina/",
+    "fecha": "2026-10-02T02:58:24.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "democraciaabierta-1nesnaz",
     "titulo": "Paso a paso, la interferencia de EEUU en Brasil",
     "resumen": "La intromisión de Estados Unidos y la defensa de la soberanía son los principales temas de las elecciones generales que se celebrarán en Brasil este domingo 4 de octubre.",
@@ -1147,26 +1197,6 @@
     "medio": "Dialogue Earth",
     "enlace": "https://dialogue.earth/es/clima/en-haiti-convierten-arboles-frutales-en-carbon-vegetal-violencia/",
     "fecha": "2026-09-18T16:51:12.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "democraciaabierta-11jsnua",
-    "titulo": "Las feministas que enfrentan al movimiento antiabortista en Alemania",
-    "resumen": "Cuando los activistas que se oponen al derecho al aborto marchan por Berlín, las feministas de la alianza What the Fuck?! no se quedan de brazos cruzados. “Intentamos interrumpir la marcha”, dijeron a openDemocracy. Se despliegan a lo…",
-    "seccion": "derechos",
-    "medio": "democraciaAbierta",
-    "enlace": "https://www.opendemocracy.net/es/alemania-feministas-heartbeat-international-desinformacion-aborto/",
-    "fecha": "2026-09-18T15:52:25.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "agencia-tierra-viva-jexi0o",
-    "titulo": "¿Quién financia el RIGI? Los bancos hablan de transición energética pero apuestan a la explotación petrolera",
-    "resumen": "Los proyectos incorporados al Régimen de Incentivo a las Grandes Inversiones (RIGI) se concentran fuertemente en actividades extractivas y, por su escala, requieren la articulación de distintas fuentes de financiamiento, tanto locales como…",
-    "seccion": "economia",
-    "medio": "Agencia Tierra Viva",
-    "enlace": "https://agenciatierraviva.com.ar/quien-financia-el-rigi-los-bancos-hablan-de-transicion-energetica-pero-apuestan-a-la-explotacion-petrolera/",
-    "fecha": "2026-09-18T10:53:00.000Z",
     "estado": "pendiente"
   }
 ]
