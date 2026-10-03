@@ -1,5 +1,15 @@
 [
   {
+    "id": "global-voices-aoys7a",
+    "titulo": "En la capital de Brasil se desarrollan soluciones propias para combatir el calor",
+    "resumen": "Siguiendo una tendencia nacional, Brasilia concentra los espacios verdes en las zonas más prósperas",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/02/en-la-capital-de-brasil-se-desarrollan-soluciones-propias-para-combatir-el-calor/",
+    "fecha": "2026-10-02T23:00:20.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "agencia-tierra-viva-ytewh4",
     "titulo": "Sastre sin fumigaciones: “Lo que debería venir es la agroecología para las futuras generaciones”",
     "resumen": "Siete líneas en una hoja membretada de la Corte Suprema de la Nación pusieron punto final a la batalla judicial que emprendieron, en 2018, vecinas y vecinos de la localidad de Sastre y Ortíz (Santa Fe). Los jueces Horacio Rosatti y Carlos…",
@@ -1187,16 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/09/presentacion-la-4a-marcha-mundial-por-la-paz-y-la-noviolencia-en-castelldefels/",
     "fecha": "2026-09-22T20:45:15.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1daiivc",
-    "titulo": "¿Qué cuenta como seguridad? Takaichi vista desde el pacifismo y los medios alternativos",
-    "resumen": "El primer artículo(https://www.pressenza.com/es/2026/09/mas-alla-del-halcon-la-politica-exterior-de-la-primera-ministra-japonesa-takaichi-en-seis-perspectivas/) terminaba con una pregunta: «¿Qué falta en este mapa?». Después de observar la…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/09/que-cuenta-como-seguridad-takaichi-vista-desde-el-pacifismo-y-los-medios-alternativos/",
-    "fecha": "2026-09-22T20:25:06.000Z",
     "estado": "pendiente"
   }
 ]
