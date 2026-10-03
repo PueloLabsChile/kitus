@@ -1,5 +1,15 @@
 [
   {
+    "id": "pressenza-p5su9j",
+    "titulo": "WDS: síndrome de desquiciamiento bélico",
+    "resumen": "DESPERTARES",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/wds-sindrome-de-desquiciamiento-belico/",
+    "fecha": "2026-10-03T08:56:13.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "global-voices-po9ysh",
     "titulo": "¿Qué nos dice el folclore? Nos ayuda a descubrir facetas desconocidas de historias indígenas ignoradas por generaciones",
     "resumen": "Encontré algunas historias interesantes cuando documentaba el folclore indígena tharu.",
@@ -1187,16 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/09/rusia-2026-expansion-de-su-red-comercial-pesquero-alimentaria-en-asia-africa-latinoamerica-y-sur-global-claves-del-viraje-asiatico-ruso/",
     "fecha": "2026-09-23T11:05:37.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "agencia-tierra-viva-1yglm1h",
-    "titulo": "Reserva Natural Laguna de Rocha: verde para los vecinos o negocios para la especulación inmobiliaria",
-    "resumen": "A once kilómetros del Aeropuerto Internacional de Ezeiza y 33 del Obelisco porteño, la Reserva Natural Integral y Mixta Laguna de Rocha, en el distrito bonaerense de Esteban Echeverría, genera beneficios ecológicos y sociales propios de un…",
-    "seccion": "internacional",
-    "medio": "Agencia Tierra Viva",
-    "enlace": "https://agenciatierraviva.com.ar/reserva-natural-laguna-de-rocha-verde-para-los-vecinos-o-negocios-para-la-especulacion-inmobiliaria/",
-    "fecha": "2026-09-23T10:36:47.000Z",
     "estado": "pendiente"
   }
 ]
