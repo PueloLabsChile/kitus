@@ -1,5 +1,65 @@
 [
   {
+    "id": "global-voices-po9ysh",
+    "titulo": "¿Qué nos dice el folclore? Nos ayuda a descubrir facetas desconocidas de historias indígenas ignoradas por generaciones",
+    "resumen": "Encontré algunas historias interesantes cuando documentaba el folclore indígena tharu.",
+    "seccion": "derechos",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/03/que-nos-dice-el-folclore-nos-ayuda-a-descubrir-facetas-desconocidas-de-historias-indigenas-ignoradas-por-generaciones/",
+    "fecha": "2026-10-03T07:00:06.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-vqpjcy",
+    "titulo": "Cómo la diseñadora de moda buriata Oksana Alkhunsaeva reconstruyó su vida en Rusia",
+    "resumen": "Para ella, un traje buriato no es una exhibición, es importante ver a la persona",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/03/como-la-disenadora-de-moda-buriata-oksana-alkhunsaeva-reconstruyo-su-vida-en-rusia/",
+    "fecha": "2026-10-03T06:00:37.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1otkw1d",
+    "titulo": "Tiempos de niño",
+    "resumen": "Solo estuve mirándolos, pude conversar con algunos, había muchas personas que llegaron tarde, dos a tres horas después de la hora pactada, mucha irresponsabilidad. Cuando te acercabas a escuchar lo que alegaban al momento de pedir permiso…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/tiempos-de-nino/",
+    "fecha": "2026-10-03T04:04:02.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-x1hazh",
+    "titulo": "Estados Unidos nunca ha sido aliado de Chile (II)",
+    "resumen": "Los intentos hegemónicos de Estados Unidos respecto de América Latina se agudizaron cuando suscribió un proyecto de tratado con Ecuador, en noviembre de 1854, por el cual este último le concedía al primero en concesión la explotación del…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/estados-unidos-nunca-ha-sido-aliado-de-chile-ii/",
+    "fecha": "2026-10-03T03:40:41.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-jlqmdb",
+    "titulo": "Las apuestas son ilegales. Punto.",
+    "resumen": "En Chile las apuestas online y las máquinas tragamonedas que proliferan en nuestros barrios son ilegales. No existe un vacío legal ni una zona gris. Los juegos de azar están prohibidos salvo aquellos expresamente autorizados por ley, como…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/las-apuestas-son-ilegales-punto/",
+    "fecha": "2026-10-03T03:17:28.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-yr3y27",
+    "titulo": "Cuando la ideología se hace pasar por realidad",
+    "resumen": "«Las ideologías que en algunos momentos históricos se imponían y mostraban su utilidad para orientar la acción e intentar interpretar el mundo en que se desenvolvían tanto individuos como conjuntos humanos, fueron desplazados por otras…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/cuando-la-ideologia-se-hace-pasar-por-realidad/",
+    "fecha": "2026-10-03T02:54:39.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "global-voices-aoys7a",
     "titulo": "En la capital de Brasil se desarrollan soluciones propias para combatir el calor",
     "resumen": "Siguiendo una tendencia nacional, Brasilia concentra los espacios verdes en las zonas más prósperas",
@@ -1137,66 +1197,6 @@
     "medio": "Agencia Tierra Viva",
     "enlace": "https://agenciatierraviva.com.ar/reserva-natural-laguna-de-rocha-verde-para-los-vecinos-o-negocios-para-la-especulacion-inmobiliaria/",
     "fecha": "2026-09-23T10:36:47.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1s7hhev",
-    "titulo": "La reforma ómnibus UE sobre pesticidas: un ataque frontal al medio ambiente, la salud y la sociedad",
-    "resumen": "En lugar de restringir y regular con más rigor los pesticidas, la Comisión Europea pretende hacer justo lo contrario. Su nueva iniciativa, la “Food and Feed Safety Simplification Omnibus” (Ley Ómnibus para la Simplificación de la Seguridad…",
-    "seccion": "derechos",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/09/la-reforma-omnibus-ue-sobre-pesticidas-un-ataque-frontal-al-medio-ambiente-la-salud-y-la-sociedad/",
-    "fecha": "2026-09-23T07:14:24.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-j0gu6v",
-    "titulo": "Reformas en la «draconiana» ley de reunión pacífica de Malasia enfrenta más demoras",
-    "resumen": "Grupos civiles demandan un plan a futuro sobre cuándo el Gobierno reformará las legislaciones restrictivas.",
-    "seccion": "politica",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/09/23/reformas-en-la-draconiana-ley-de-reunion-pacifica-de-malasia-enfrenta-mas-demoras/",
-    "fecha": "2026-09-23T07:00:27.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-fp39p3",
-    "titulo": "Sin educación para las niñas, Afganistán pierde la oportunidad de un mañana mejor",
-    "resumen": "Las niñas no pueden continuar sus estudios ni sus sueños profesionales después del sexto grado escolar.",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/09/23/sin-educacion-para-las-ninas-afganistan-pierde-la-oportunidad-de-un-manana-mejor/",
-    "fecha": "2026-09-23T06:00:30.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1aedi4r",
-    "titulo": "Perú: ¡Hasta siempre! don Berardo defensor de los páramos",
-    "resumen": "«Hay hombres que luchan un día y son buenos. Hay otros que luchan un año y son mejores. Hay quienes luchan muchos años, y son muy buenos. Pero los hay que luchan toda la vida, esos son los imprescindibles». Bertolt Brecht.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/09/peru-hasta-siempre-don-berardo-defensor-de-los-paramos/",
-    "fecha": "2026-09-23T03:25:09.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-dzwdzx",
-    "titulo": "Chile. Campamento Placilla de San Antonio: «Nos costó mucho construir nuestra comunidad y la vamos a defender»",
-    "resumen": "La comunidad del Campamento Placilla de San Antonio, que enfrenta una orden de expulsión impuesta para febrero de 2027, realizó este 22 de septiembre una movilización y punto de prensa en el frontis de la Corte de Apelaciones de Valparaíso…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/09/chile-campamento-placilla-de-san-antonio-nos-costo-mucho-construir-nuestra-comunidad-y-la-vamos-a-defender/",
-    "fecha": "2026-09-23T01:17:12.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1wrunro",
-    "titulo": "Presentación la 4ª Marcha Mundial por la Paz y la Noviolencia en Castelldefels",
-    "resumen": "El 21 de septiembre, dio comienzo la 4ª Marcha Mundial por la Paz y la Noviolencia, que se desarrolla simultáneamente en numerosos países del mundo y finalizará el 4 de octubre.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/09/presentacion-la-4a-marcha-mundial-por-la-paz-y-la-noviolencia-en-castelldefels/",
-    "fecha": "2026-09-22T20:45:15.000Z",
     "estado": "pendiente"
   }
 ]
