@@ -1,5 +1,15 @@
 [
   {
+    "id": "global-voices-dx36ag",
+    "titulo": "Tras 30 años de recuperación cultural, los siraya reclaman estatus indígena en Taiwán",
+    "resumen": "Al pueblo siraya le ha llevado más de 30 años redescubrir y revitalizar su lengua y su cultura.",
+    "seccion": "derechos",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/04/tras-30-anos-de-recuperacion-cultural-los-siraya-reclaman-estatus-indigena-en-taiwan/",
+    "fecha": "2026-10-04T06:00:50.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-137by16",
     "titulo": "Colombia: 4ta. Marcha Mundial por La Paz y la No violencia con intercambio en Barrancabermeja",
     "resumen": "En el Día Internacional de la No violencia, Colombia cerró su participación en la 4ta. Marcha Mundial por la Paz y la Noviolencia este viernes 2 de octubre, con el Foro Humanista por La Paz y la No violencia realizado en Barrancabermeja…",
@@ -1187,16 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/09/pella-de-libros-reune-en-arenales-a-escritores-y-lectores-del-1-al-3-de-octubre/",
     "fecha": "2026-09-23T16:16:58.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-ukii1w",
-    "titulo": "La Furia Ilustrada invita a vivir tres días en torno a la ilustración, los libros y las artes gráficas",
-    "resumen": "Más de 50 actividades para todas las edades, invitados nacionales e internacionales, firmas de libros y un programa dedicado a la profesionalización de ilustradoras, ilustradores y artistas gráficos serán parte de la segunda edición de La…",
-    "seccion": "cultura",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/09/la-furia-ilustrada-invita-a-vivir-tres-dias-en-torno-a-la-ilustracion-los-libros-y-las-artes-graficas/",
-    "fecha": "2026-09-23T14:33:56.000Z",
     "estado": "pendiente"
   }
 ]
