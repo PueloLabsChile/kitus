@@ -1,5 +1,45 @@
 [
   {
+    "id": "pressenza-ual0x7",
+    "titulo": "Crean en Rusia un implante único para reparar huesos del cráneo",
+    "resumen": "Permitiría crear condiciones más favorables para la recuperación de los tejidos en la zona afectada.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/crean-en-rusia-un-implante-unico-para-reparar-huesos-del-craneo/",
+    "fecha": "2026-10-04T09:37:02.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-176gnu3",
+    "titulo": "Rusia celebra el Festival de la Cultura Iraní y la amistad bilateral",
+    "resumen": "Rusia celebra estos días el Festival de la Cultura Iraní, reflejo de la amistad entre ambas naciones.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/rusia-celebra-el-festival-de-la-cultura-irani-y-la-amistad-bilateral/",
+    "fecha": "2026-10-04T09:29:56.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-2zfpjz",
+    "titulo": "Pueblo oromo de Etiopía celebra Irreechaa, su acción de gracias",
+    "resumen": "El pueblo oromo de Etiopía celebra hoy el Irreechaa (festividad de Acción de Gracias), marcando el final de la temporada de lluvias y el comienzo de la cosecha, así como la llegada de una nueva temporada de abundancia.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/pueblo-oromo-de-etiopia-celebra-irreechaa-su-accion-de-gracias/",
+    "fecha": "2026-10-04T09:25:01.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-cxpj2n",
+    "titulo": "“Bionic” de Christina Aguilera: cuando lo humano se impone ante el futuro",
+    "resumen": "Por Sol Pozzi-Escot",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/bionic-de-christina-aguilera-cuando-lo-humano-se-impone-ante-el-futuro/",
+    "fecha": "2026-10-04T09:00:14.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "global-voices-dx36ag",
     "titulo": "Tras 30 años de recuperación cultural, los siraya reclaman estatus indígena en Taiwán",
     "resumen": "Al pueblo siraya le ha llevado más de 30 años redescubrir y revitalizar su lengua y su cultura.",
@@ -1157,46 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/09/llega-el-18o-festival-internacional-de-cine-lgbtiq-en-santiago/",
     "fecha": "2026-09-24T13:16:59.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-1upwk9z",
-    "titulo": "Aguas envenenadas: Comunidades indígenas luchan para proteger el río Kok de Tailandia",
-    "resumen": "Los manifestantes organizaron una caminata por la paz para exigir que se asuman la responsabilidad por las actividades mineras que afectan a los ríos y a las comunidades rurales",
-    "seccion": "derechos",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/09/24/aguas-envenenadas-comunidades-indigenas-luchan-para-proteger-el-rio-kok-de-tailandia/",
-    "fecha": "2026-09-24T06:00:15.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-r2a01s",
-    "titulo": "Perú: Presidenta del Poder Judicial rechaza declaraciones de Keiko Fujimori en ONU",
-    "resumen": "La presidenta del Poder Judicial, Janet Tello, manifestó estar en contra de las afirmaciones realizadas por la presidenta Keiko Fujimori en las Naciones Unidas el pasado 22 de setiembre, quien afirmó que «vencimos al terrorismo, pero…",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/09/peru-presidenta-del-poder-judicial-rechaza-declaraciones-de-keiko-fujimori-en-onu/",
-    "fecha": "2026-09-24T05:02:42.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1i4pjeh",
-    "titulo": "La conciencia inspirada en el humanismo renacentista",
-    "resumen": "La monografía(https://www.parclabelleidee.fr/docs/parcsprods/ElHumanismocomoexpresiondeloSagrado.pdf) de Javier Tolcachier aborda la relación entre el humanismo y la experiencia espiritual profunda.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/09/la-conciencia-inspirada-en-el-humanismo-renacentista/",
-    "fecha": "2026-09-23T19:46:49.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-7nkosk",
-    "titulo": "Pella de Libros reúne en Arenales a escritores y lectores del 1 al 3 de octubre",
-    "resumen": "Las jornadas, impulsadas por la escritora Carmen J. Nieto, se celebrarán en el Salón de Actos del Centro Cívico Suárez Naranjo, con entrada libre y espacios para la participación del público",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/09/pella-de-libros-reune-en-arenales-a-escritores-y-lectores-del-1-al-3-de-octubre/",
-    "fecha": "2026-09-23T16:16:58.000Z",
     "estado": "pendiente"
   }
 ]
