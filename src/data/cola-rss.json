@@ -1,5 +1,15 @@
 [
   {
+    "id": "the-conversation-espana-8od9pu",
+    "titulo": "¿Hasta qué punto es útil una alerta meteorológica para evitar daños por inundaciones?",
+    "resumen": "Cuando llega un aviso de inundación(https://www.aemet.es/es/eltiempo/prediccion/avisos), la lluvia ya está en camino. Poco puede hacerse entonces para cambiar el territorio o evitar que el agua se desborde. Pero aún quedan decisiones…",
+    "seccion": "derechos",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/hasta-que-punto-es-util-una-alerta-meteorologica-para-evitar-danos-por-inundaciones-293447",
+    "fecha": "2026-10-04T18:30:36.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-1w04hrq",
     "titulo": "(Perú) Facultades Legislativas: A un paso de la concentración del poder en el Ejecutivo",
     "resumen": "El texto sustitutorio que redujo de ocho a dos las materias solicitadas por el Ejecutivo, en el pedido de facultades, llegará este martes 6 de octubre al Pleno de la Cámara de Diputados, pero el riesgo de ampliar nuevamente la delegación…",
@@ -1187,16 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/por-que-las-bolsas-asiaticas-estan-marcando-el-rumbo-de-la-inteligencia-artificial-292444",
     "fecha": "2026-09-24T16:21:13.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-pfvfra",
-    "titulo": "El escándalo bancario que sacude la política brasileña y las elecciones presidenciales previstas para octubre",
-    "resumen": "La noche del 17 de noviembre de 2025, agentes federales brasileños detuvieron al banquero Daniel Vorcaro en la…",
-    "seccion": "politica",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/el-escandalo-bancario-que-sacude-la-politica-brasilena-y-las-elecciones-presidenciales-previstas-para-octubre-292262",
-    "fecha": "2026-09-24T16:14:54.000Z",
     "estado": "pendiente"
   }
 ]
