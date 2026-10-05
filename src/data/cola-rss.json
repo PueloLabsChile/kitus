@@ -1,5 +1,75 @@
 [
   {
+    "id": "democraciaabierta-1hch8kf",
+    "titulo": "Un desalojo empuja a España a elecciones anticipadas",
+    "resumen": "Una mujer de 87 años acaba de convertirse en un símbolo nacional en España, y su desalojo abrió una crisis que obligó este lunes a convocar elecciones anticipadas.",
+    "seccion": "derechos",
+    "medio": "democraciaAbierta",
+    "enlace": "https://www.opendemocracy.net/es/espana-vivienda-digna-especulacion-desalojo-maricarmen-pedro-sanchez-elecciones-derecho-fondos-buitre/",
+    "fecha": "2026-10-05T19:47:58.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1y3938z",
+    "titulo": "Entre el bolsonarismo y un Lula 4.0: Brasil vota dividido y habrá segunda vuelta presidencial",
+    "resumen": "Brasil ha votado este domingo 4 de octubre para elegir al presidente y vicepresidente de la República, los gobernadores y las asambleas legislativas de los Estados, la totalidad de la Cámara de Diputados y dos tercios del Senado. Más de…",
+    "seccion": "politica",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/entre-el-bolsonarismo-y-un-lula-4-0-brasil-vota-dividido-y-habra-segunda-vuelta-presidencial-293586",
+    "fecha": "2026-10-05T18:26:38.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-4wbj2k",
+    "titulo": "Premio Internacional de la Paz: Flotillas de La Libertad, Global Sumud y Convoy Nuestra América reciben galardón de IPB",
+    "resumen": "El viernes 2 de octubre, el International Peace Bureau(https://www.ipb.org/) (IPB, Oficina Internacional de la Paz OIP) concedió el Premio de la Paz Sean MacBride 2026 conjuntamente a las organizaciones sociales Coalición Flotilla de la…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/premio-internacional-de-la-paz-flotillas-de-la-libertad-global-sumud-y-convoy-nuestra-america-reciben-galardon-de-ipb/",
+    "fecha": "2026-10-05T17:27:41.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-p8l85",
+    "titulo": "Repunte de covid-19 en España: lo que dicen los datos sobre bebés, mayores y vacunación",
+    "resumen": "Un compañero que tose en la oficina, un hijo que vuelve de la guardería con mocos, un padre mayor al que el malestar no se le acaba de quitar. Si esas escenas le suenan de las últimas semanas, no son solo impresiones. El último informe del…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/repunte-de-covid-19-en-espana-lo-que-dicen-los-datos-sobre-bebes-mayores-y-vacunacion-293470",
+    "fecha": "2026-10-05T17:23:21.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-m359gz",
+    "titulo": "El 29-N, entre Ceuta y la vivienda: las dos batallas que decidirán las elecciones",
+    "resumen": "España irá a elecciones. El presidente del Gobierno, Pedro Sánchez, ha anunciado la convocatoria de generales para el próximo 29 de…",
+    "seccion": "politica",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/el-29-n-entre-ceuta-y-la-vivienda-las-dos-batallas-que-decidiran-las-elecciones-293567",
+    "fecha": "2026-10-05T16:40:07.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-9xkiw5",
+    "titulo": "Encuéntame en las Ondas: vivienda, literatura, derechos humanos y cultura desde la radio comunitaria de Canarias",
+    "resumen": "El programa Encuéntame en las Ondas, emitido el miércoles 30 de septiembre desde Radio Guiniguada, Onda Libre y Comunitaria, volvió a reunir en una misma hora distintas voces, territorios y propuestas vinculadas con los derechos sociales…",
+    "seccion": "derechos",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/encuentame-en-las-ondas-vivienda-literatura-derechos-humanos-y-cultura-desde-la-radio-comunitaria-de-canarias/",
+    "fecha": "2026-10-05T16:36:52.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-10a2wa7",
+    "titulo": "En la Mira 2: Un panorama de las amenazas digitales en América Latina",
+    "resumen": "La segunda edición de En la mira analiza más de 100 casos ocurridos en la región entre junio de 2024 y mayo de 2025. El reporte documenta el avance de distintas formas de vigilancia y censura, filtraciones masivas de datos, desinformación…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/en-la-mira-2-un-panorama-de-las-amenazas-digitales-en-america-latina/",
+    "fecha": "2026-10-05T14:24:39.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "the-conversation-espana-pid8ez",
     "titulo": "Gane o pierda la extrema derecha en las elecciones de Brasil, ¿respetará la democracia?",
     "resumen": "La primera vuelta de las elecciones de 2026 en Brasil, celebrada este domingo, concluyó con una contundente victoria del Partido Liberal (PL), de extrema derecha. Flávio Bolsonaro, hijo del expresidente encarcelado Jair Bolsonaro, se…",
@@ -1127,76 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/09/el-extranjero-chivo-expiatorio-del-sistema/",
     "fecha": "2026-09-26T04:13:42.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1qidz4e",
-    "titulo": "Malos tiempos… y no pasa nada",
-    "resumen": "Tenemos más de un problema con las situaciones que oscurecen el mundo hoy.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/09/malos-tiempos-y-no-pasa-nada/",
-    "fecha": "2026-09-26T03:57:25.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-pen7av",
-    "titulo": "Gobernar es hacerse cargo",
-    "resumen": "Chile sabe de emergencias. Terremotos, tsunamis, incendios, inundaciones y crisis económicas nos han golpeado una y otra vez. Y cuando ocurren, nadie espera que el Presidente explique por qué sucedieron. Esperamos que gobierne y que se…",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/09/gobernar-es-hacerse-cargo/",
-    "fecha": "2026-09-26T03:39:33.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-tr3hd3",
-    "titulo": "Las Malvinas argentinas: Las riquezas para EEUU y Gran Bretaña",
-    "resumen": "Al redefinir Malvinas como un asunto de seguridad nacional y de desarrollo futuro, el gobierno libertario argentino busca sentar las bases de una política disuasiva frente al avance de la explotación unilateral británica en el Atlántico…",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/09/las-malvinas-argentinas-las-riquezas-para-eeuu-y-gran-bretana/",
-    "fecha": "2026-09-25T21:42:28.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "agencia-tierra-viva-5ya588",
-    "titulo": "Eduardo Cerdá: \"No hay que reemplazar al glifosato, hay que cambiar el modelo de producción\"",
-    "resumen": "La Red Nacional de Municipios y Comunidades que Fomentan la Agroecología (Renama) marcha al decimosegundo Mes de la Agroecología(https://www.instagram.com/p/DdcdWxpkQWt/?stkn=ZDFkdm1waXpicjhi). Será en noviembre, cuando las tranqueras se…",
-    "seccion": "derechos",
-    "medio": "Agencia Tierra Viva",
-    "enlace": "https://agenciatierraviva.com.ar/eduardo-cerda-no-hay-que-reemplazar-al-glifosato-hay-que-cambiar-el-modelo-de-produccion/",
-    "fecha": "2026-09-25T20:04:27.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "democraciaabierta-rvo0si",
-    "titulo": "El Proyecto 2025 de Trump refuerza a la ultraderecha en América Latina",
-    "resumen": "- La agenda antidemocrática de Trump y su Proyecto 2025 encuentra suelo fértil en América Latina - Trump, Irán y las midterms : Miedo y furia en la Casa Blanca - Túnez encarcela a activistas por Palestina. Ellos resisten en huelga de hambre",
-    "seccion": "internacional",
-    "medio": "democraciaAbierta",
-    "enlace": "https://www.opendemocracy.net/el-proyecto-2025-de-trump-refuerza-a-la-ultraderecha-en-america-latina/",
-    "fecha": "2026-09-25T17:57:41.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1y5ai4v",
-    "titulo": "Guatemala, el cambio traicionado de Arévalo",
-    "resumen": "Desde la victoria de 2023 hasta las promesas incumplidas: el presidente no logró romper el poder del «pacto de los corruptos» ni construir una relación estable con los movimientos que lo habían apoyado. A menos de un año de las elecciones…",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/09/guatemala-el-cambio-traicionado-de-arevalo/",
-    "fecha": "2026-09-25T17:10:01.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "democraciaabierta-1tm7sas",
-    "titulo": "Activistas por Palestina resisten en huelga de hambre en una cárcel de Túnez",
-    "resumen": "Wael Naouar inició su huelga de hambre el 16 de agosto. Luego de más de cinco semanas sin ingerir alimentos, este activista por los derechos del pueblo palestino está semiconsciente y al borde de la muerte en una cárcel de Túnez. Ha…",
-    "seccion": "internacional",
-    "medio": "democraciaAbierta",
-    "enlace": "https://www.opendemocracy.net/es/palestina-tunez-solidaridad-carcel-huelga-de-hambre-flotilla-israel-gaza/",
-    "fecha": "2026-09-25T15:28:03.000Z",
     "estado": "pendiente"
   }
 ]
