@@ -1,5 +1,15 @@
 [
   {
+    "id": "the-conversation-espana-h6pc8v",
+    "titulo": "El Nobel que ilumina el cerebro: por qué la optogenética ha cambiado por completo la neurociencia",
+    "resumen": "¿Cómo podemos saber qué hace realmente un grupo concreto de neuronas en el cerebro?",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/el-nobel-que-ilumina-el-cerebro-por-que-la-optogenetica-ha-cambiado-por-completo-la-neurociencia-293638",
+    "fecha": "2026-10-05T21:30:01.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "democraciaabierta-1hch8kf",
     "titulo": "Un desalojo empuja a España a elecciones anticipadas",
     "resumen": "Una mujer de 87 años acaba de convertirse en un símbolo nacional en España, y su desalojo abrió una crisis que obligó este lunes a convocar elecciones anticipadas.",
@@ -1187,16 +1197,6 @@
     "medio": "Global Voices",
     "enlace": "https://es.globalvoices.org/2026/09/26/vacunaran-a-miles-de-pinguinos-enanos-contra-la-gripe-aviar-en-australia/",
     "fecha": "2026-09-26T06:00:12.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1umz1nh",
-    "titulo": "El extranjero, chivo expiatorio del sistema",
-    "resumen": "El sistema te convierte en un dulce y jugoso chicle, te mastica hasta sacarte todo, luego te escupe.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/09/el-extranjero-chivo-expiatorio-del-sistema/",
-    "fecha": "2026-09-26T04:13:42.000Z",
     "estado": "pendiente"
   }
 ]
