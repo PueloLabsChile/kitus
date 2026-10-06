@@ -1,5 +1,75 @@
 [
   {
+    "id": "pressenza-1e31gtu",
+    "titulo": "Bangladesh refuerza su apuesta por una protección social con enfoque de género",
+    "resumen": "Bangladesh y el Banco Asiático de Desarrollo (ADB) acordaron explorar nuevas formas de cooperación para fortalecer la igualdad de género, la inclusión y la protección social en un país que enfrenta importantes transformaciones…",
+    "seccion": "derechos",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/bangladesh-refuerza-su-apuesta-por-una-proteccion-social-con-enfoque-de-genero/",
+    "fecha": "2026-10-06T19:57:28.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-hcd4jm",
+    "titulo": "Se estrena «Construyendo el Paraíso», documental sobre la Universidad de Verano del Humanismo Universalista y el Parque Toledo",
+    "resumen": "Dirigido por Enzo Momo, acaba de estrenarse el documental Construyendo el Paraíso. Un documento gráfico sobre la Universidad de Verano del Humanismo Universalista (UVPT)(http://www.uvpt.org) y el ámbito físico donde se desarrolla, el…",
+    "seccion": "cultura",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/se-estrena-construyendo-el-paraiso-documental-sobre-la-universidad-de-verano-del-humanismo-universalista-y-el-parque-toledo/",
+    "fecha": "2026-10-06T19:57:15.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "dialogue-earth-vyd6fx",
+    "titulo": "El reconocimiento de Colombia de los ríos como víctimas del conflcito armado está en peligro",
+    "resumen": "José Luis Rengifo creció a orillas del Cauca, en el oeste de Colombia. Este río, uno de los más largos del país, es clave para la vida de más de 10 millones de personas. Rengifo, que ahora es líder comunitario en su ciudad natal, Puerto…",
+    "seccion": "internacional",
+    "medio": "Dialogue Earth",
+    "enlace": "https://dialogue.earth/es/naturaleza/colombia-reconocimiento-rios-victimas-conflicto-armado-en-peligro/",
+    "fecha": "2026-10-06T18:05:41.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-az1vdb",
+    "titulo": "Elecciones anticipadas: ¿y ahora qué?",
+    "resumen": "El anuncio del presidente del Gobierno anticipando las elecciones al 29 de noviembre(https://www.rtve.es/noticias/20261005/sanchez-convoca-elecciones-anticipadas-29-noviembre-llegado-momento-decidir-futuro-quereis/17253132.shtml) ha…",
+    "seccion": "politica",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/elecciones-anticipadas-y-ahora-que-293635",
+    "fecha": "2026-10-06T17:40:29.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-20nacd",
+    "titulo": "Spain’s snap election: will Sánchez’s latest gamble pay off?",
+    "resumen": "On October 5, Spain’s prime minister Pedro Sánchez called a snap general election for November 29, bringing the vote forward by 10 months.",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/spains-snap-election-will-sanchezs-latest-gamble-pay-off-293716",
+    "fecha": "2026-10-06T17:36:58.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1t7jasn",
+    "titulo": "Radio y algoritmos: el poder creciente de las plataformas y los derechos menguantes de la ciudadanía",
+    "resumen": "La radio mantiene el contacto y la confianza de la ciudadanía a pesar de las alternativas al consumo de audio multiplicadas por la transformación digital. Pero los nuevos “guardianes digitales” (gatekeepers), como Google, Meta, Apple o…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/radio-y-algoritmos-el-poder-creciente-de-las-plataformas-y-los-derechos-menguantes-de-la-ciudadania-289951",
+    "fecha": "2026-10-06T17:12:27.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-129aps3",
+    "titulo": "Argentina: «30 mil intervenciones migratorias no son 30 mil deportaciones», advierte Observatorio 18D",
+    "resumen": "El presidente argentino Javier Milei expresó en una entrevista que la Argentina había «expulsado 30.000 terroristas». El vocero presidencial Adrián Ravier luego admitió que se trató de un error ya que se trataba de «30.000 posibles…",
+    "seccion": "politica",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/argentina-30-mil-intervenciones-migratorias-no-son-30-mil-deportaciones-advierte-observatorio-18d/",
+    "fecha": "2026-10-06T16:53:00.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-1ptt280",
     "titulo": "La derrota del progresismo en Brasil, un alerta para el continente",
     "resumen": "La derrota del progresismo en la primera vuelta de las elecciones en Brasil se puede interpretar como la compuerta a una colonización de nuevas dimensiones de América Latina, incluyendo esta vez a Groenlandia y la Antártida (el patio…",
@@ -1127,76 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/09/la-necesidad-de-una-igualdad-de-oportunidades-en-la-salud-publica/",
     "fecha": "2026-09-28T11:54:41.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1ekj04w",
-    "titulo": "Noche de guerra en Odesa",
-    "resumen": "Son las dos de la madrugada y estoy en la habitación de mi hotel en Odesa. He vuelto aquí en autobús, tras salir ayer por la tarde de Mykolaiv. se escuchan disparan. Quizá algunos sean de las defensas antiaéreas.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/09/noche-de-guerra-en-odesa/",
-    "fecha": "2026-09-28T11:20:26.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-5hsjzx",
-    "titulo": "¿Por qué se producen desahucios?",
-    "resumen": "Desde la Gran Recesión que afectó a la economía mundial a partir de 2007, los desahucios entraron(https://es.wikipedia.org/wiki/DesahuciosenEspa%C3%B1adurantelacrisisecon%C3%B3mica) de lleno en las preocupaciones de la sociedad española…",
-    "seccion": "economia",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/por-que-se-producen-desahucios-292812",
-    "fecha": "2026-09-28T10:22:28.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1tadsdf",
-    "titulo": "Suplemento cultural: Lorca no vuelve porque no se había ido",
-    "resumen": "Una versión de este texto se publicó por primera vez en nuestro boletín Suplemento cultural, un resumen quincenal de la actualidad cultural y una selección de los mejores artículos de historia, literatura, cine, arte o música. Si quiere…",
-    "seccion": "cultura",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/suplemento-cultural-lorca-no-vuelve-porque-no-se-habia-ido-290681",
-    "fecha": "2026-09-28T08:03:00.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-1q64k1s",
-    "titulo": "Crisis de seguridad en Haití genera desplazamientos y reubicaciones",
-    "resumen": "“Estoy muy agradecida de estar aquí y de poder descansar con dignidad finalmente”.",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/09/28/crisis-de-seguridad-en-haiti-genera-desplazamientos-y-reubicaciones/",
-    "fecha": "2026-09-28T06:00:59.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-16rljla",
-    "titulo": "Las ciudades sostenibles empiezan mucho antes del primer ladrillo",
-    "resumen": "Cuando pensamos en una ciudad sostenible(https://globalgoals.org/goals/11-sustainable-cities-and-communities/) solemos imaginar edificios eficientes, carriles bici o grandes parques urbanos. Pero las ciudades empiezan mucho antes de que se…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/las-ciudades-sostenibles-empiezan-mucho-antes-del-primer-ladrillo-292493",
-    "fecha": "2026-09-28T04:28:18.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1ihc74l",
-    "titulo": "El metano: ¿solución o problema en el siglo XXI?",
-    "resumen": "Desde hace tiempo, el hidrocarburo más simple de la naturaleza, el metano (CH₄), se encuentra en el punto de mira científico, económico y social por su notable relevancia a distintos niveles. Actualmente, sigue manteniendo una posición…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/el-metano-solucion-o-problema-en-el-siglo-xxi-291681",
-    "fecha": "2026-09-28T04:23:07.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-9w3rc6",
-    "titulo": "¿Qué convierte una diferencia corporal en discapacidad?",
-    "resumen": "“Fuera de servicio”, reza un cartel en la puerta del ascensor. Mal asunto. Para algunos será una molestia; para quien no puede usar las escaleras puede significar la cancelación completa del trayecto. Al pulsar el botón –por si el cartel…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/que-convierte-una-diferencia-corporal-en-discapacidad-290359",
-    "fecha": "2026-09-28T04:20:40.000Z",
     "estado": "pendiente"
   }
 ]
