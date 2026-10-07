@@ -1,11 +1,31 @@
 [
   {
+    "id": "pressenza-1ascwik",
+    "titulo": "La cultura del poder",
+    "resumen": "Hay ideas que aparecen en nuestra vida mucho antes de que podamos comprender realmente su significado. Algunas permanecen durante años como una experiencia, una conversación o una pregunta que todavía no sabemos formular. Con el paso del…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/la-cultura-del-poder/",
+    "fecha": "2026-10-07T23:34:29.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "dialogue-earth-htxpip",
     "titulo": "COP17: Can countries break deadlock on sharing benefits from nature’s digital data?",
     "resumen": "When a pharmaceutical company uses genetic information from an Amazonian plant to develop a drug, or when an agribusiness company uses it to create a more drought-resistant crop, they are drawing on genetic information found in nature.",
     "seccion": "internacional",
     "medio": "Dialogue Earth",
     "enlace": "https://dialogue.earth/es/naturaleza/cop17-can-countries-break-deadlock-on-sharing-benefits-from-natures-digital-data/",
+    "fecha": "2026-10-07T18:16:45.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "dialogue-earth-1r5p3a2",
+    "titulo": "COP17: ¿Pueden los países repartir los beneficios de los datos digitales de la naturaleza?",
+    "resumen": "Cuando una empresa farmacéutica utiliza información genética de una planta amazónica para desarrollar un medicamento, o cuando una empresa agroindustrial la utiliza para crear un cultivo más resistente a la sequía, están aprovechando la…",
+    "seccion": "internacional",
+    "medio": "Dialogue Earth",
+    "enlace": "https://dialogue.earth/es/naturaleza/cop17-pueden-paises-repartir-beneficios-datos-digitales-naturaleza/",
     "fecha": "2026-10-07T18:16:45.000Z",
     "estado": "pendiente"
   },
@@ -1177,26 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/09/peru-dialogo-de-parlamentarios-expertos-y-ciudadania-para-derogar-leyes-procrimen/",
     "fecha": "2026-09-29T04:35:21.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-15lqdvt",
-    "titulo": "Escudo de los Minerales: lo que hay detrás del acuerdo sobre “seguridad”",
-    "resumen": "Por: CooperAcción",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/09/peru-escudo-de-los-minerales-lo-que-hay-detras-del-acuerdo-sobre-seguridad/",
-    "fecha": "2026-09-29T03:29:23.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-yg0ogm",
-    "titulo": "En Praga se celebró una meditación por la paz y la no violencia",
-    "resumen": "Con motivo del Día Internacional de la Paz(https://es.wikipedia.org/wiki/D%C3%ADaInternacionaldelaPaz), que se celebra cada año el 21 de septiembre, el martes 22 de septiembre se llevó a cabo en Praga un encuentro dedicado a la paz y la no…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/09/en-praga-se-celebro-una-meditacion-por-la-paz-y-la-no-violencia/",
-    "fecha": "2026-09-28T21:33:20.000Z",
     "estado": "pendiente"
   }
 ]
