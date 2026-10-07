@@ -1,5 +1,35 @@
 [
   {
+    "id": "agencia-tierra-viva-13vzsbd",
+    "titulo": "Marcos Pastrana y la sabiduría diaguita para pensar la época",
+    "resumen": "En Tafí del Valle, Tucumán, reside Marcos Pastrana, referente diaguita e histórico defensor de la naturaleza. Sus ideas, expresadas con las palabras justas y necesarias, invierten muchas veces el sentido común, convocan a ver la realidad…",
+    "seccion": "internacional",
+    "medio": "Agencia Tierra Viva",
+    "enlace": "https://agenciatierraviva.com.ar/marcos-pastrana-y-la-sabiduria-diaguita-para-pensar-la-epoca/",
+    "fecha": "2026-10-07T11:04:07.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-z2gmdh",
+    "titulo": "Equiparar la protesta con el terrorismo: Un discurso contra la disidencia",
+    "resumen": "El Gobierno del presidente estadounidense, Donald Trump, usa el término «terrorismo interno» para desacreditar a los manifestantes",
+    "seccion": "politica",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/07/equiparar-la-protesta-con-el-terrorismo-un-discurso-contra-la-disidencia/",
+    "fecha": "2026-10-07T07:00:40.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-qximtz",
+    "titulo": "Quienes viven en ciudades deben poder decidir cómo se construye su futuro: Reflexiones desde la conferencia Common City",
+    "resumen": "El derecho internacional reconoce el derecho a una vivienda adecuada",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/07/quienes-viven-en-ciudades-deben-poder-decidir-como-se-construye-su-futuro-reflexiones-desde-la-conferencia-common-city/",
+    "fecha": "2026-10-07T06:00:17.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-1e8szep",
     "titulo": "Perú: Una propuesta con espíritu humanista para transformar la educación superior",
     "resumen": "Cualquier proyecto educativo que aspira a ser serio y genuino debe ser necesariamente integral si quiere transformar la vida humana. Esto es precisamente lo que logra Jadira del Rocío Jara Nunayalle, humanista y reconocida especialista en…",
@@ -56,6 +86,16 @@
     "seccion": "internacional",
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/spains-snap-election-will-sanchezs-latest-gamble-pay-off-293716",
+    "fecha": "2026-10-06T17:36:58.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-7yfntw",
+    "titulo": "Spain’s snap election: will Pedro Sánchez’s latest gamble pay off?",
+    "resumen": "On October 5, Spain’s prime minister Pedro Sánchez called a snap general election for November 29, bringing the vote forward by 10 months.",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/spains-snap-election-will-pedro-sanchezs-latest-gamble-pay-off-293716",
     "fecha": "2026-10-06T17:36:58.000Z",
     "estado": "pendiente"
   },
@@ -1157,46 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/09/el-sol-y-la-luna-estan-detras-de-ciertos-terremotos-este-estudio-lo-explora/",
     "fecha": "2026-09-28T16:41:05.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-dmnoua",
-    "titulo": "Premio Italia abre en L’Aquila con la creatividad humana como eje",
-    "resumen": "El 78 Premio Italia abrió hoy en L’Aquila, ciudad que este año ostenta el título de Capital Italiana de la Cultura, con un programa centrado en la creatividad y la experiencia humana ante las profundas transformaciones tecnológicas.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/09/premio-italia-abre-en-laquila-con-la-creatividad-humana-como-eje/",
-    "fecha": "2026-09-28T16:30:24.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-txs3i1",
-    "titulo": "La sociedad civil exige al AIIB más ambición en clima, infraestructura y rendición de cuentas",
-    "resumen": "Doha, Qatar — Las organizaciones de la sociedad civil instan al AIIB a establecer una hoja de ruta para el abandono de los combustibles fósiles, reevaluar los riesgos de la energía hidroeléctrica a gran escala y fortalecer la rendición de…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/09/la-sociedad-civil-exige-al-aiib-mas-ambicion-en-clima-infraestructura-y-rendicion-de-cuentas/",
-    "fecha": "2026-09-28T14:38:04.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "dialogue-earth-6jhjdp",
-    "titulo": "The world agreed to quit fossil fuels. Now it disagrees over the plan",
-    "resumen": "Over three years ago, close to 200 countries approved an agreement(https://dialogue.earth/en/climate/cop28-climate-action-lifeline-but-no-finish-line/) to transition away from using fossil fuels in energy systems. Cut to today, and those…",
-    "seccion": "internacional",
-    "medio": "Dialogue Earth",
-    "enlace": "https://dialogue.earth/es/energia/the-world-agreed-to-quit-fossil-fuels-now-it-disagrees-over-the-plan/",
-    "fecha": "2026-09-28T14:05:03.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "dialogue-earth-1n9jwd3",
-    "titulo": "El mundo acordó abandonar los combustibles fósiles, pero discrepa sobre cómo",
-    "resumen": "Hace más de tres años, cerca de 200 países aprobaron un acuerdo(https://dialogue.earth/en/climate/cop28-climate-action-lifeline-but-no-finish-line/) para abandonar el uso de combustibles fósiles en los sistemas energéticos. Hoy, esos…",
-    "seccion": "internacional",
-    "medio": "Dialogue Earth",
-    "enlace": "https://dialogue.earth/es/energia/mundo-acordo-abandonar-combustibles-fosiles-pero-discrepa-como/",
-    "fecha": "2026-09-28T14:05:03.000Z",
     "estado": "pendiente"
   }
 ]
