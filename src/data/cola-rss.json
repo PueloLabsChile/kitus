@@ -1,5 +1,65 @@
 [
   {
+    "id": "dialogue-earth-htxpip",
+    "titulo": "COP17: Can countries break deadlock on sharing benefits from nature’s digital data?",
+    "resumen": "When a pharmaceutical company uses genetic information from an Amazonian plant to develop a drug, or when an agribusiness company uses it to create a more drought-resistant crop, they are drawing on genetic information found in nature.",
+    "seccion": "internacional",
+    "medio": "Dialogue Earth",
+    "enlace": "https://dialogue.earth/es/naturaleza/cop17-can-countries-break-deadlock-on-sharing-benefits-from-natures-digital-data/",
+    "fecha": "2026-10-07T18:16:45.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-n3l40z",
+    "titulo": "Cómo organizar una empresa familiar para facilitar su salida a los mercados de internacionales",
+    "resumen": "En España, las empresas familiares son la columna vertebral de la economía(https://www.iefamiliar.com/instituto-de-la-empresa-familiar/quienes-somos/la-empresa-familiar/relevancia-de-la-empresa-familiar): representan el 92 % del tejido…",
+    "seccion": "economia",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/como-organizar-una-empresa-familiar-para-facilitar-su-salida-a-los-mercados-de-internacionales-286976",
+    "fecha": "2026-10-07T17:32:50.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-9bycci",
+    "titulo": "No todo lo que es posible es deseable: lo que la filosofía aporta a la ingeniería",
+    "resumen": "Imaginemos el siguiente problema: estamos intentando enviar basura al espacio para evitar que siga acumulándose en la Tierra, pero todavía no somos capaces de hacerlo de manera eficiente. ¿Cómo podríamos solucionarlo?",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/no-todo-lo-que-es-posible-es-deseable-lo-que-la-filosofia-aporta-a-la-ingenieria-291892",
+    "fecha": "2026-10-07T17:32:11.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1ju0hji",
+    "titulo": "¿Qué significa que Woody Allen vaya a rodar su nueva película en Madrid?",
+    "resumen": "Octubre de 2026. Comienza el rodaje de la nueva película de Woody Allen en un territorio que todavía no ha conquistado: Madrid. Es la única capital de los cuatro países europeos en los que ha rodado –Reino Unido, Francia, Italia y España–…",
+    "seccion": "derechos",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/que-significa-que-woody-allen-vaya-a-rodar-su-nueva-pelicula-en-madrid-293163",
+    "fecha": "2026-10-07T17:31:20.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-12b9xm4",
+    "titulo": "El problema de la vivienda en España (2): 300.000 euros de multa por vivir en tu propia casa",
+    "resumen": "por Raúl Tejeros González",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/el-problema-de-la-vivienda-en-espana-2-300-000-euros-de-multa-por-vivir-en-tu-propia-casa/",
+    "fecha": "2026-10-07T16:32:18.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-b1u69n",
+    "titulo": "Nicaragua alinea su Constitución con la de Estados Unidos",
+    "resumen": "Las reformas electorales de Nicaragua buscan defender la soberanía popular mientras Washington intensifica su injerencia en las elecciones de América Latina.",
+    "seccion": "politica",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/nicaragua-alinea-su-constitucion-con-la-de-estados-unidos/",
+    "fecha": "2026-10-07T14:48:54.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "agencia-tierra-viva-13vzsbd",
     "titulo": "Marcos Pastrana y la sabiduría diaguita para pensar la época",
     "resumen": "En Tafí del Valle, Tucumán, reside Marcos Pastrana, referente diaguita e histórico defensor de la naturaleza. Sus ideas, expresadas con las palabras justas y necesarias, invierten muchas veces el sentido común, convocan a ver la realidad…",
@@ -37,6 +97,16 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/peru-una-propuesta-con-espiritu-humanista-para-transformar-la-educacion-superior/",
     "fecha": "2026-10-07T03:10:08.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1v7o43g",
+    "titulo": "Te voy a decir la verdad",
+    "resumen": "En un mundo de ficción prefabricada, la verdad requiere esfuerzo",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/te-voy-a-decir-la-verdad/",
+    "fecha": "2026-10-07T02:33:50.000Z",
     "estado": "pendiente"
   },
   {
@@ -1127,76 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/09/en-praga-se-celebro-una-meditacion-por-la-paz-y-la-no-violencia/",
     "fecha": "2026-09-28T21:33:20.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1bqc7hc",
-    "titulo": "Las Malvinas: desde Galtieri y Reagan hasta Milei y Trump",
-    "resumen": "por Gustavo González Rodríguez",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/09/las-malvinas-desde-galtieri-y-reagan-hasta-milei-y-trump/",
-    "fecha": "2026-09-28T21:23:44.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1p89x7s",
-    "titulo": "Reconocer la lengua de signos: no es cuento de hadas",
-    "resumen": "La reacción de millones de personas al ver The Silent Child no deja a nadie indiferente. El cortometraje ganador del Óscar al Mejor Cortometraje de Acción Real en 2018, puso en el centro del debate una realidad que sigue siendo…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/09/reconocer-la-lengua-de-signos-no-es-cuento-de-hadas/",
-    "fecha": "2026-09-28T20:39:08.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-m2mrrv",
-    "titulo": "La escasez de recursos en el futuro: ¿'fake news’ o amenaza para la supervivencia humana?",
-    "resumen": "¿Lograremos perdurar como especie? Múltiples causas podrían impedirlo, y la economía se ha interesado especialmente por dos, los cambios medioambientales dañinos y la escasez de recursos, aunque con conclusiones muy diferentes: el…",
-    "seccion": "economia",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/la-escasez-de-recursos-en-el-futuro-fake-news-o-amenaza-para-la-supervivencia-humana-287472",
-    "fecha": "2026-09-28T19:50:53.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-kcfjn",
-    "titulo": "El caso Maricarmen: cómo proteger a las personas vulnerables sin cargar a los pequeños propietarios",
-    "resumen": "El problema de la vivienda(https://theconversation.com/topics/vivienda-63294) no es nuevo en España. Se trata de una cuestión recurrente que ha adquirido especial intensidad en los últimos años. El aumento de los precios, las dificultades…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/el-caso-maricarmen-como-proteger-a-las-personas-vulnerables-sin-cargar-a-los-pequenos-propietarios-293023",
-    "fecha": "2026-09-28T19:47:52.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-dtns80",
-    "titulo": "Más allá del ‘Decreto Maricarmen’, España necesita leyes que garanticen el acceso a la vivienda",
-    "resumen": "Todo lo que se hace con urgencia puede tener consecuencias. En este caso, la urgencia tiene nombre propio: Maricarmen Abascal, la mujer de 87 años cuyo desahucio ha vuelto a situar la vivienda en el centro del…",
-    "seccion": "derechos",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/mas-alla-del-decreto-maricarmen-espana-necesita-leyes-que-garanticen-el-acceso-a-la-vivienda-293020",
-    "fecha": "2026-09-28T19:47:48.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-17jz6h9",
-    "titulo": "Descubre Irán: Castillo de Alamut, legendaria fortaleza de los montes Alborz",
-    "resumen": "La fortaleza de Alamut, símbolo del poder nizari en el Irán medieval, revela una historia de resistencia, conocimiento y arquitectura adaptada al paisaje montañoso.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/09/descubre-iran-castillo-de-alamut-legendaria-fortaleza-de-los-montes-alborz/",
-    "fecha": "2026-09-28T17:02:07.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-flzhjr",
-    "titulo": "¿El Sol y la Luna están detrás de ciertos terremotos?: este estudio lo explora",
-    "resumen": "El trabajo parte de una observación conocida desde hace tiempo: además de provocar mareas en los océanos, el Sol y la Luna también generan pequeñas deformaciones en la corteza terrestre.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/09/el-sol-y-la-luna-estan-detras-de-ciertos-terremotos-este-estudio-lo-explora/",
-    "fecha": "2026-09-28T16:41:05.000Z",
     "estado": "pendiente"
   }
 ]
