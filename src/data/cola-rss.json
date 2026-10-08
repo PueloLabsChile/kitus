@@ -1,5 +1,45 @@
 [
   {
+    "id": "pressenza-9xfrxp",
+    "titulo": "Václav Havel: conmemoración del 90.º aniversario de su nacimiento",
+    "resumen": "El 5 de octubre, la República Checa conmemoró el 90.º aniversario del nacimiento de Václav Havel, dramaturgo, ensayista, disidente y primer presidente de la República Checa.",
+    "seccion": "politica",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/vaclav-havel-conmemoracion-del-90-o-aniversario-de-su-nacimiento/",
+    "fecha": "2026-10-08T22:03:50.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "agencia-tierra-viva-zkh8nf",
+    "titulo": "Mucha tierra en muy pocas manos: un plan para favorecer a las grandes empresas globales",
+    "resumen": "La decisión del gobierno de Javier Milei de buscar estrategias jurídicas —DNU 70/2023, Ley de Inviolabilidad de la Propiedad Privada— para derogar la Ley de Tierras y la decisión de la Corte Suprema de validar la derogación sin revisar su…",
+    "seccion": "politica",
+    "medio": "Agencia Tierra Viva",
+    "enlace": "https://agenciatierraviva.com.ar/mucha-tierra-en-muy-pocas-manos-un-plan-para-favorecer-a-las-grandes-empresas-globales/",
+    "fecha": "2026-10-08T21:09:15.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-12lr77e",
+    "titulo": "Melatonina: una aliada inesperada contra el tumor cerebral más agresivo",
+    "resumen": "En los botiquines de muchas casas, es probable que encuentre un bote de melatonina. Hay quien la consume para combatir el jet lag y quien recurre a ella para conciliar el sueño. Lo que pocos imaginan es que esa misma molécula se estudia en…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/melatonina-una-aliada-inesperada-contra-el-tumor-cerebral-mas-agresivo-293446",
+    "fecha": "2026-10-08T18:03:16.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-z30gmc",
+    "titulo": "El estrés agrava la salud y puede provocar la muerte en personas mayores",
+    "resumen": "La muerte de Maricarmen Abascal(https://theconversation.com/como-la-muerte-de-maricarmen-se-ha-convertido-en-arma-politica-294014) puede haber sido una sorpresa para muchos. A pesar de que se había decidido que podía volver a su casa y…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/el-estres-agrava-la-salud-y-puede-provocar-la-muerte-en-personas-mayores-293980",
+    "fecha": "2026-10-08T18:03:10.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-1kyp0aq",
     "titulo": "La Marcha Mundial por la Paz y la Noviolencia: un intento de sembrar y regar semillas hacia una revolución no violenta",
     "resumen": "Cuando se habla de revolución, a menudo solo se imagina a multitudes invadiendo las calles de forma espectacular, a veces con violencia, asaltando edificios emblemáticos, etc., pero existe una forma de revolución más silenciosa que está…",
@@ -1157,46 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/arden-mas-los-espacios-protegidos-cuando-los-datos-no-justifican-el-relato-290686",
     "fecha": "2026-09-30T18:28:54.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-kazngs",
-    "titulo": "¿Qué dietas se asocian con envejecer bien?",
-    "resumen": "Envejecer es inevitable, pero la forma en que lo hacemos no. Cada vez vivimos más años, aunque la gran cuestión científica y social ya no es solo cuánto dura la vida, sino cuántos de esos años se viven con autonomía, claridad mental y…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/que-dietas-se-asocian-con-envejecer-bien-255328",
-    "fecha": "2026-09-30T18:24:42.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-byzpku",
-    "titulo": "El doblepensar y la neolengua en Trump",
-    "resumen": "El doblepensar (doublethink) es un concepto fundamental de la novela 1984 de George Orwell. Describe la capacidad de sostener dos creencias contradictorias en la mente al mismo tiempo y aceptar ambas como verdades por lo que no sería un…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/09/el-doblepensar-y-la-neolengua-en-trump/",
-    "fecha": "2026-09-30T14:57:11.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1u8sc4s",
-    "titulo": "¿Por qué todo ha cambiado con Maricarmen? La chispa que enciende la llama",
-    "resumen": "“La gota que colma el vaso”, “la chispa que prende la llama”, la “puntilla”… son expresiones cotidianas presentes en nuestras conversaciones a lo largo de estos días. Explican de forma gráfica por qué determinados acontecimientos…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/por-que-todo-ha-cambiado-con-maricarmen-la-chispa-que-enciende-la-llama-293022",
-    "fecha": "2026-09-30T09:37:10.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-qsa1dt",
-    "titulo": "Cómo el periodismo inspiró una iniciativa juvenil contra de daños en línea en Armenia",
-    "resumen": "La resiliencia digital no se trata de enseñarles a las personas a temerle a la tecnología, sino de ayudarlos a entender el poder dentro de los espacios digitales.",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/09/30/como-el-periodismo-inspiro-una-iniciativa-juvenil-contra-de-danos-en-linea-en-armenia/",
-    "fecha": "2026-09-30T07:00:12.000Z",
     "estado": "pendiente"
   }
 ]
