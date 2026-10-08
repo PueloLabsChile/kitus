@@ -1,5 +1,85 @@
 [
   {
+    "id": "pressenza-1kyp0aq",
+    "titulo": "La Marcha Mundial por la Paz y la Noviolencia: un intento de sembrar y regar semillas hacia una revolución no violenta",
+    "resumen": "Cuando se habla de revolución, a menudo solo se imagina a multitudes invadiendo las calles de forma espectacular, a veces con violencia, asaltando edificios emblemáticos, etc., pero existe una forma de revolución más silenciosa que está…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/la-marcha-mundial-por-la-paz-y-la-noviolencia-un-intento-de-sembrar-y-regar-semillas-hacia-una-revolucion-no-violenta/",
+    "fecha": "2026-10-08T17:28:52.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-18mv4yp",
+    "titulo": "Cuba, el asedio estadounidense se intensifica cada vez más",
+    "resumen": "Las últimas y severas sanciones impuestas contra La Habana tienen como objetivo frenar cualquier intento de soberanía económica y golpear el sustento y la vida cotidiana de las familias cubanas.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/cuba-el-asedio-estadounidense-se-intensifica-cada-vez-mas/",
+    "fecha": "2026-10-08T17:07:49.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1as8mfp",
+    "titulo": "Crece el cisma en el Consejo de Seguridad: Reino Unido se posiciona junto a Francia contra el derecho de veto",
+    "resumen": "Estados Unidos, China, Rusia, Reino Unido y Francia tienen algo en común. Los “cinco grandes” cuentan con la capacidad de vetar proyectos de resoluciones del Consejo de Seguridad de Naciones Unidas(https://main.un.org/securitycouncil/es)…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/crece-el-cisma-en-el-consejo-de-seguridad-reino-unido-se-posiciona-junto-a-francia-contra-el-derecho-de-veto-293428",
+    "fecha": "2026-10-08T16:31:37.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-50yy77",
+    "titulo": "Protestas estudiantiles en Francia: por qué esta vez es diferente",
+    "resumen": "La movilización que ha impulsado el movimiento de los estudiantes de secundaria, que comenzó en los suburbios de París en septiembre de 2026, se inscribe en la continuidad de la acción de vuelta al…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/protestas-estudiantiles-en-francia-por-que-esta-vez-es-diferente-293966",
+    "fecha": "2026-10-08T16:31:31.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-154wjbb",
+    "titulo": "Cómo la muerte de Maricarmen se ha convertido en arma política",
+    "resumen": "¿Quién está utilizando a Maricarmen? La pregunta ha entrado en el debate sobre su caso y amenaza con ocuparlo entero, especialmente tras su…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/como-la-muerte-de-maricarmen-se-ha-convertido-en-arma-politica-294014",
+    "fecha": "2026-10-08T16:31:25.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "democraciaabierta-qg3qey",
+    "titulo": "Trump, los sobornos rusos y el partido británico Reform",
+    "resumen": "Luke Harding estaba en Kiev el 24 de febrero de 2022 como corresponsal del diario británico The Guardian cuando Rusia comenzó a invadir Ucrania. Cinco años después, sigue cubriendo ese conflicto. Rusia se convirtió en la historia…",
+    "seccion": "politica",
+    "medio": "democraciaAbierta",
+    "enlace": "https://www.opendemocracy.net/es/trump-activo-ruso-reform-farage-luke-harding/",
+    "fecha": "2026-10-08T13:06:19.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-ft4tfo",
+    "titulo": "UVPT 2026: Los cuidados a las personas mayores, desde la experiencia de Sara Tajuelo",
+    "resumen": "Sara Tajuelo ha participado en la Universidad de Verano del Humanismo Universalista, en el espacio de Cuidados, como activista durante años por los derechos de las personas mayores en residencias y como miembro de El Mensaje de Silo.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/uvpt-2026-los-cuidados-a-las-personas-mayores-desde-la-experiencia-de-sara-tajuelo/",
+    "fecha": "2026-10-08T12:38:04.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-blzm30",
+    "titulo": "UVPT 2026: Revolución interna para una revolución humana",
+    "resumen": "Este año, la Universidad de Verano del Humanismo Universalista 2026(http://www.uvpt.org) del Parque Toledo ha congregado a diferentes espiritualidades en un espacio que ha tenido por título «Revolución interna para una revolución humana» y…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/uvpt-2026-revolucion-interna-para-una-revolucion-humana/",
+    "fecha": "2026-10-08T12:03:22.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-1vjwviq",
     "titulo": "Día Internacional de la Noviolencia en Madrid (España)",
     "resumen": "En Madrid, en la Plaza del Museo Reina Sofía, hemos celebrado un año más una fiesta muy nuestra, el Día Internacional de la Noviolencia, día 2 de octubre.",
@@ -47,6 +127,16 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/feria-internacional-del-libro-escrito-por-ellas-reunira-a-escritoras-de-todo-el-mundo-en-edicion-virtual/",
     "fecha": "2026-10-08T04:41:45.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "dialogue-earth-l72jx1",
+    "titulo": "Medellín reverdeció para mantenerse fresca, pero el calor avanza más rápido",
+    "resumen": "Al mediodía en verano, la Avenida Oriental suele estar congestionada en ambas direcciones, con las aceras repletas de vendedores ambulantes que ofrecen comida y ropa.",
+    "seccion": "internacional",
+    "medio": "Dialogue Earth",
+    "enlace": "https://dialogue.earth/es/clima/medellin-reverdecio-para-mantenerse-fresca-pero-calor-avanza/",
+    "fecha": "2026-10-08T04:30:00.000Z",
     "estado": "pendiente"
   },
   {
@@ -1107,96 +1197,6 @@
     "medio": "Global Voices",
     "enlace": "https://es.globalvoices.org/2026/09/30/como-el-periodismo-inspiro-una-iniciativa-juvenil-contra-de-danos-en-linea-en-armenia/",
     "fecha": "2026-09-30T07:00:12.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-bonk6j",
-    "titulo": "Cómo las comunidades croatas enfrentan planes de construir mataderos avícolas",
-    "resumen": "Más de 51,000 personas firmaron una petición que denuncia falta de transparencia estatal y exponen acusaciones de favoritismo",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/09/30/como-las-comunidades-croatas-enfrentan-planes-de-construir-mataderos-avicolas/",
-    "fecha": "2026-09-30T06:00:07.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1lf1hcl",
-    "titulo": "La realidad actual nos muestra una sociedad mundial evadida e hipnotizada por un sistema violento e inhumano",
-    "resumen": "Creo que todos conocen el cuento alemán de «El flautista de Hamelín». Ese flautista con su flauta mágica hace que todos los niños lo sigan, hipnotizados, hasta desaparecer en una montaña. En su versión más original, él es una especie de…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/09/la-realidad-actual-nos-muestra-una-sociedad-mundial-evadida-e-hipnotizada-por-un-sistema-violento-e-inhumano/",
-    "fecha": "2026-09-30T01:12:49.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "agencia-tierra-viva-7k6yol",
-    "titulo": "“Debemos pensar en una insurrección popular frente a los gobiernos fascistas”",
-    "resumen": "María Leonor Yonda es vicepresidenta del Coordinador Nacional Agrario (CNA) de Colombia. El CNA comenzó como un proceso de base en 2009; hoy nuclea a 50 organizaciones conformadas por jóvenes, campesinos y campesinas, pescadores y…",
-    "seccion": "derechos",
-    "medio": "Agencia Tierra Viva",
-    "enlace": "https://agenciatierraviva.com.ar/debemos-pensar-en-una-insurreccion-popular-frente-a-los-gobiernos-fascistas/",
-    "fecha": "2026-09-29T22:44:30.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-85mafk",
-    "titulo": "El fideicomiso de la conciencia: Los pactos tácitos de una inteligencia que quiere vivir más rápido",
-    "resumen": "Hay contratos que firmamos con tinta y otros que firmamos con la costumbre. Los primeros tienen cláusulas; los segundos funcionan mediante acuerdos tácitos: pequeñas decisiones que tomamos para simplificar la vida, ahorrar tiempo, reducir…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/09/el-fideicomiso-de-la-conciencia-los-pactos-tacitos-de-una-inteligencia-que-quiere-vivir-mas-rapido/",
-    "fecha": "2026-09-29T22:28:44.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-26oq9",
-    "titulo": "¿Qué ocurre cuando nuestra pareja está diseñada para complacernos? El auge de las relaciones con inteligencias artificiales",
-    "resumen": "Imagine una pareja que siempre está disponible cuando necesita hablar. Recuerda lo que le contó hace semanas, se interesa por cómo se siente, responde con atención y rara vez parece cansarse de escucharle. No se enfada porque haya tardado…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/que-ocurre-cuando-nuestra-pareja-esta-disenada-para-complacernos-el-auge-de-las-relaciones-con-inteligencias-artificiales-291787",
-    "fecha": "2026-09-29T22:17:03.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1lyrh0e",
-    "titulo": "En defensa de las clases presenciales",
-    "resumen": "Viene siendo habitual que las aulas universitarias(https://ddd.uab.cat/record/327188) estén medio vacías o medio llenas, según se mire. Sin embargo, estar en el aula es valioso por sí mismo, aunque la clase sea un auténtico tostonazo o no…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/en-defensa-de-las-clases-presenciales-290963",
-    "fecha": "2026-09-29T22:16:37.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1x6h66u",
-    "titulo": "Silencio organizacional: que no haya quejas del jefe no siempre significa que sea un buen líder",
-    "resumen": "Sobre el papel, una empresa puede estar preparada para actuar cuando algún jefe cruza determinadas líneas, como discriminación, acoso, sobrecarga o vaciamiento de funciones: un canal ético, recursos humanos, protocolos de denuncia y…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/silencio-organizacional-que-no-haya-quejas-del-jefe-no-siempre-significa-que-sea-un-buen-lider-291404",
-    "fecha": "2026-09-29T22:16:07.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "democraciaabierta-2bfbmh",
-    "titulo": "¿Lula o Bolsonaro? Brasil vota bajo la amenaza de Trump",
-    "resumen": "El próximo domingo 4 de octubre, la ciudadanía brasileña votará en la décima elección presidencial directa desde el retorno de la democracia. Pero será mucho más que eso.",
-    "seccion": "politica",
-    "medio": "democraciaAbierta",
-    "enlace": "https://www.opendemocracy.net/es/brasil-lula-bolsonaro-golpe-trump-democracia-desarrollo-subordinacion/",
-    "fecha": "2026-09-29T19:37:50.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-19sepoo",
-    "titulo": "ASEAN coloca la educación para la paz en el centro de su agenda regional",
-    "resumen": "Más de 400 representantes de gobiernos, instituciones educativas, universidades, organizaciones de paz, organismos de cooperación y movimientos juveniles participaron el 22 y 23 de septiembre en Filipinas en la Conferencia de Alto Nivel de…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/09/asean-coloca-la-educacion-para-la-paz-en-el-centro-de-su-agenda-regional/",
-    "fecha": "2026-09-29T16:53:58.000Z",
     "estado": "pendiente"
   }
 ]

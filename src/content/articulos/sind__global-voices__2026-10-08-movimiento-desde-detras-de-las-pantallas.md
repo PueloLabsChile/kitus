@@ -13,6 +13,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/10/08/movimiento-desde-detras-de-las-pantallas/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-1aopk1p.jpg"
+creditoPortada: "Foto: Global Voices"
 ---
 *Protestas en línea o presenciales, ¿qué efectividad tienen? *
 
