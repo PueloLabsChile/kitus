@@ -1,5 +1,15 @@
 [
   {
+    "id": "democraciaabierta-cw4dq1",
+    "titulo": "Con 94 años, Margaret Owen está orgullosa de haber ido presa por Gaza",
+    "resumen": "Margaret Owen tiene 94 años. El mes pasado, la policía le tomó las huellas dactilares y muestras de ADN luego de llevarla detenida frente al lugar donde el gobernante Partido Laborista celebraba su congreso, en Liverpool. Estaba sentada…",
+    "seccion": "politica",
+    "medio": "democraciaAbierta",
+    "enlace": "https://www.opendemocracy.net/es/margaret-owen-veterana-arrestada-protesta-gaza-palestina-reino-unido/",
+    "fecha": "2026-10-09T15:22:53.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "the-conversation-espana-1hu3d0n",
     "titulo": "La audacia de traducir a Anne Carson, Premio Nobel de Literatura 2026",
     "resumen": "Hablar de Anne Carson es, inevitablemente, hablar de traducción. No solo porque su obra deriva de su labor como traductora del griego y del latín, sino porque a través de ella podemos descubrir nuevas formas de ver la traducción, más allá…",
@@ -37,6 +47,16 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/estados-unidos-nunca-ha-sido-aliado-de-chile-iii/",
     "fecha": "2026-10-09T01:34:20.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-xvhm39",
+    "titulo": "La movilización de los jóvenes en Francia: una generación que exige ser escuchada",
+    "resumen": "Querida amiga, después de leer tus comentarios y compararlos con la información que circula sobre lo que está pasando estos días, creo que hay un punto importante: tu relato no es simplemente la descripción de una manifestación…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/la-movilizacion-de-los-jovenes-en-francia-una-generacion-que-exige-ser-escuchada/",
+    "fecha": "2026-10-08T22:50:00.000Z",
     "estado": "pendiente"
   },
   {
@@ -1177,26 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/spains-housing-crisis-is-a-warning-for-all-of-europe-rights-mean-nothing-if-theyre-not-enforced-293235",
     "fecha": "2026-10-01T08:49:03.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-bm9g7a",
-    "titulo": "Ley de operaciones especiales de Trinidad y Tobago y la geografía del desarrollo",
-    "resumen": "Cuando el Estado identifica una zona, también debe preguntarse: «¿qué más se sabe sobre esa zona?»",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/01/ley-de-operaciones-especiales-de-trinidad-y-tobago-y-la-geografia-del-desarrollo/",
-    "fecha": "2026-10-01T07:00:59.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-u7arkb",
-    "titulo": "Cuando el grifo se queda seco: En Kazajistán, las mujeres cargan con algo más que agua",
-    "resumen": "Las mujeres de las zonas rurales de Kazajistán trabajan entre 10 y 15 horas al día, que en su mayor parte no se contabilizan ni se remuneran",
-    "seccion": "derechos",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/01/cuando-el-grifo-se-queda-seco-en-kazajistan-las-mujeres-cargan-con-algo-mas-que-agua/",
-    "fecha": "2026-10-01T06:00:55.000Z",
     "estado": "pendiente"
   }
 ]
