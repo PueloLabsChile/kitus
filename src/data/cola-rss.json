@@ -1,5 +1,25 @@
 [
   {
+    "id": "pressenza-1569u6p",
+    "titulo": "La velocidad de los que no saben adónde van: Correr no siempre significa avanzar",
+    "resumen": "Mi hijo Nicolás apenas comenzaba sus clases de manejo cuando una noche tomó sin permiso las llaves del automóvil y decidió practicar por su cuenta.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/la-velocidad-de-los-que-no-saben-adonde-van-correr-no-siempre-significa-avanzar/",
+    "fecha": "2026-10-09T23:08:00.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1hjie8l",
+    "titulo": "Maricarmen, semilla de millones de indignados",
+    "resumen": "Lento fue el proceso,",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/maricarmen-semilla-de-millones-de-indignados/",
+    "fecha": "2026-10-09T20:49:34.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "agencia-tierra-viva-iof5ky",
     "titulo": "Masabia: alimentos agroecológicos de una comuna santafesina con reconocimiento internacional",
     "resumen": "Ubicada sobre la ruta 33, a mitad de camino entre Rosario y Pujato, la localidad de Zavalla puede autodenominarse con orgullo una comuna en transición agroecológica desde hace 15 años, a partir de la ordenanza que limitó las fumigaciones…",
@@ -17,6 +37,16 @@
     "medio": "democraciaAbierta",
     "enlace": "https://www.opendemocracy.net/trump-doctrina-donroe-brasil-gaza-maricarmen/",
     "fecha": "2026-10-09T20:03:26.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1yabqpt",
+    "titulo": "Cruces de miradas",
+    "resumen": "Cuando los ojos de nuestros hermanos evolutivos nos recuerdan quiénes somos",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/cruces-de-miradas-2/",
+    "fecha": "2026-10-09T18:46:21.000Z",
     "estado": "pendiente"
   },
   {
@@ -1167,36 +1197,6 @@
     "medio": "democraciaAbierta",
     "enlace": "https://www.opendemocracy.net/es/reino-unido-fairford-raf-bombarderos-iran-guerra-crimenes-trump-burnham/",
     "fecha": "2026-10-01T20:10:48.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-xt19wd",
-    "titulo": "Cómo tres potencias coloniales obtuvieron (y luego perdieron) el control sobre los estrechos de Ormuz y Bab el-Mandeb",
-    "resumen": "En los últimos meses, el estrecho de Ormuz(https://theconversation.com/que-es-el-estrecho-de-ormuz-y-por-que-su-cierre-es-tan-importante-para-la-economia-mundial-278215) y Bab…",
-    "seccion": "economia",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/como-tres-potencias-coloniales-obtuvieron-y-luego-perdieron-el-control-sobre-los-estrechos-de-ormuz-y-bab-el-mandeb-293004",
-    "fecha": "2026-10-01T16:56:21.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1fh8uer",
-    "titulo": "Ceuta 2021 y 2026: las estadísticas oficiales omiten los datos de las dos grandes crisis migratorias",
-    "resumen": "En mayo de 2021, varios miles de personas cruzaron a Ceuta en menos de 48 horas. El informe oficial del Ministerio del Interior correspondiente a esas fechas señala: “Los datos relativos a Ceuta no recogen la entrada de inmigrantes…",
-    "seccion": "derechos",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/ceuta-2021-y-2026-las-estadisticas-oficiales-omiten-los-datos-de-las-dos-grandes-crisis-migratorias-292850",
-    "fecha": "2026-10-01T16:56:10.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-zimchh",
-    "titulo": "Dislexia: lo que de verdad funciona",
-    "resumen": "Enseñar a leer a un niño con dislexia no requiere una técnica nueva. Requiere enseñarle de forma explícita qué sonido tiene cada letra, empezar pronto y dedicarle muchas horas. Así lo indica el análisis conjunto de 40 años de estudios con…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/dislexia-lo-que-de-verdad-funciona-283601",
-    "fecha": "2026-10-01T16:24:36.000Z",
     "estado": "pendiente"
   }
 ]
