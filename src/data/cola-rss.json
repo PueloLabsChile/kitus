@@ -1,5 +1,35 @@
 [
   {
+    "id": "pressenza-rvtybs",
+    "titulo": "En Europa está sucediendo algo único con la generación joven",
+    "resumen": "Lo que comenzó como una pequeña protesta en Madrid para defender a una mujer de 87 años que fue violentamente expulsada de su departamento donde vivió desde que tenía 17 años, en que en solo un día creció convirtiéndose en una movilización…",
+    "seccion": "derechos",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/en-europa-esta-sucediendo-algo-unico-con-la-generacion-joven/",
+    "fecha": "2026-10-10T16:22:19.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1pjguuq",
+    "titulo": "¿Qué entendemos realmente por violencia?",
+    "resumen": "¿Puede existir la violencia sin dejar un moretón? Como se exploró en un artículo anterior de Pressenza(https://www.pressenza.com/2026/09/when-violence-leaves-no-bruise-is-it-even-violence/), la respuesta parece obvia cuando se considera el…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/que-entendemos-realmente-por-violencia/",
+    "fecha": "2026-10-10T16:05:14.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-lbacsj",
+    "titulo": "Carta abierta, y larga, al progresismo español",
+    "resumen": "Estimadas y estimados progresistas de esta España y de aquello que antes denominábamos izquierdas:",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/carta-abierta-y-larga-al-progresismo-espanol/",
+    "fecha": "2026-10-10T15:17:00.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "global-voices-cp83w0",
     "titulo": "El arte callejero ha muerto y Rusia se llena de arte bélico monumental",
     "resumen": "En el extranjero, arte y protesta toman caminos separados",
@@ -1167,36 +1197,6 @@
     "medio": "Global Voices",
     "enlace": "https://es.globalvoices.org/2026/10/02/las-personas-detras-de-los-numeros-mostrar-la-realidad-de-las-carceles-turcas/",
     "fecha": "2026-10-02T07:00:08.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-o5sig6",
-    "titulo": "En Camerún, antes de las pantallas estaba la pista de baile",
-    "resumen": "En Camerún, los ‘bals dansants’ son encuentros comunitarios de baile que se organizan durante las vacaciones",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/02/en-camerun-antes-de-las-pantallas-estaba-la-pista-de-baile/",
-    "fecha": "2026-10-02T06:00:57.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1v2pbiu",
-    "titulo": "El valor de los residuos tras las fiestas patrias:  el packaging como solución ambiental",
-    "resumen": "Por: Mariana Soto Urzúa. Gerenta General del Centro de Envases y Embalajes de Chile (CENEM)",
-    "seccion": "derechos",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/el-valor-de-los-residuos-tras-las-fiestas-patrias-el-packaging-como-solucion-ambiental/",
-    "fecha": "2026-10-02T03:43:15.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-zvqlpk",
-    "titulo": "Perú: Comisión de Constitución otorga facultades legislativas solo para Seguridad y Fenómeno El Niño",
-    "resumen": "Luego de haberse mantenido firmes en denegar el otorgamiento de las facultades legislativas(https://www.pressenza.com/es/2026/07/peru-gobierno-de-keiko-fujimori-pide-facultades-legislativas/) al Ejecutivo, ayer finalmente la Comisión de…",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/peru-comision-de-constitucion-otorga-facultades-legislativas-solo-para-seguridad-y-fenomeno-el-nino/",
-    "fecha": "2026-10-02T03:30:31.000Z",
     "estado": "pendiente"
   }
 ]
