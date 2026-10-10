@@ -1,5 +1,45 @@
 [
   {
+    "id": "global-voices-cp83w0",
+    "titulo": "El arte callejero ha muerto y Rusia se llena de arte bélico monumental",
+    "resumen": "En el extranjero, arte y protesta toman caminos separados",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/10/el-arte-callejero-ha-muerto-y-rusia-se-llena-de-arte-belico-monumental/",
+    "fecha": "2026-10-10T06:00:20.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1b5zfdv",
+    "titulo": "Discapacidad en el Perú: de los derechos escritos a los derechos que se viven",
+    "resumen": "Cada 16 de octubre, el Perú conmemora el Día Nacional de la Persona con Discapacidad. Es una fecha que debería servir para reconocer avances, pero también para hacernos una pregunta incómoda: ¿cuánto de lo que el Estado promete se está…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/discapacidad-en-el-peru-de-los-derechos-escritos-a-los-derechos-que-se-viven/",
+    "fecha": "2026-10-10T03:34:56.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-9a40a8",
+    "titulo": "Paisaje de formación: cuando nos cambian el juego y nos cambian el gusto",
+    "resumen": "No es un problema de ideas, es un problema de mediaciones. Cuando cambia el medio que nos forma, cambia la cultura.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/paisaje-de-formacion-cuando-nos-cambian-el-juego-y-nos-cambian-el-gusto/",
+    "fecha": "2026-10-10T03:16:58.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1cj9l44",
+    "titulo": "Dime en qué gastas y te diré cuál es tu ideología",
+    "resumen": "Dime en qué gastas, dónde recortas y a quién le bajas los impuestos y te diré cuál es tu ideología. Los presupuestos de la Nación parecen estar llenos de cifras, planillas y lenguaje técnico, pero en realidad son profundamente políticos.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/dime-en-que-gastas-y-te-dire-cual-es-tu-ideologia/",
+    "fecha": "2026-10-10T02:47:48.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-1569u6p",
     "titulo": "La velocidad de los que no saben adónde van: Correr no siempre significa avanzar",
     "resumen": "Mi hijo Nicolás apenas comenzaba sus clases de manejo cuando una noche tomó sin permiso las llaves del automóvil y decidió practicar por su cuenta.",
@@ -1157,46 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/peru-comision-de-constitucion-otorga-facultades-legislativas-solo-para-seguridad-y-fenomeno-el-nino/",
     "fecha": "2026-10-02T03:30:31.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-fccjiw",
-    "titulo": "El duende y su sombra. Presentación en Bogotá de un libro homenaje a García Lorca",
-    "resumen": "Publicado en Mundo Obrero",
-    "seccion": "cultura",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/el-duende-y-su-sombra-presentacion-en-bogota-de-un-libro-homenaje-a-garcia-lorca/",
-    "fecha": "2026-10-02T03:09:52.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-hdxvxg",
-    "titulo": "Entrenamiento, Bases y Militarización en América Latina",
-    "resumen": "Por Álvaro Ramis",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/entrenamiento-bases-y-militarizacion-en-america-latina/",
-    "fecha": "2026-10-02T02:58:24.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "democraciaabierta-1nesnaz",
-    "titulo": "Paso a paso, la interferencia de EEUU en Brasil",
-    "resumen": "La intromisión de Estados Unidos y la defensa de la soberanía son los principales temas de las elecciones generales que se celebrarán en Brasil este domingo 4 de octubre.",
-    "seccion": "politica",
-    "medio": "democraciaAbierta",
-    "enlace": "https://www.opendemocracy.net/es/brasil-eeuu-lula-bolsonaro-trump-delcy-venezuela-democracia-interferencia/",
-    "fecha": "2026-10-01T21:13:52.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "democraciaabierta-c753iw",
-    "titulo": "Incidente en una base aérea británica expone la complicidad de Londres en la guerra de Trump contra Irán",
-    "resumen": "Un incidente en la base Fairford de la Real Fuerza Aérea, en Gloucestershire, suroeste de Inglaterra, que Estados Unidos ha utilizado como punto de partida para ataques contra Irán, encendió las alarmas tras ser reportado como un posible…",
-    "seccion": "internacional",
-    "medio": "democraciaAbierta",
-    "enlace": "https://www.opendemocracy.net/es/reino-unido-fairford-raf-bombarderos-iran-guerra-crimenes-trump-burnham/",
-    "fecha": "2026-10-01T20:10:48.000Z",
     "estado": "pendiente"
   }
 ]
