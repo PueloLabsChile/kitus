@@ -1,5 +1,25 @@
 [
   {
+    "id": "global-voices-e5k7m",
+    "titulo": "«Nido-flix»: Halcones peregrinos que conquistan transmisiones continuas desde el piso 34 en Australia",
+    "resumen": "«La pareja estrella de Melbourne vuelve a las alturas y este año ha puesto cuatro huevos».",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/11/nido-flix-hlcones-peregrinos-que-conquistan-transmisiones-continuas-desde-el-piso-34-en-australia/",
+    "fecha": "2026-10-11T06:00:29.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-ia3002",
+    "titulo": "Perú: brigadistas Asháninkas se organizan para apoyar incendios forestales en el centro del país",
+    "resumen": "Ante el avance de incendios forestales de nivel 03 en el centro del país, en la región Junín, diversas organizaciones sociales de base, como la Central Asháninka del Río Ene (CARE) y el Gobierno Regional de Junín han desplegado esfuerzos…",
+    "seccion": "politica",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/peru-brigadistas-ashaninkas-se-organizan-para-apoyar-incendios-forestales-en-el-centro-del-pais/",
+    "fecha": "2026-10-11T03:01:26.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-jk3fsw",
     "titulo": "Mamdani: «¡Fuera el ICE de Nueva York!»",
     "resumen": "El jueves 8 de octubre, en el barrio Marble Hill del Bronx, Nueva York, alrededor de las 16, un agente del ICE (Servicio de Inmigración y Control de Aduanas) disparó siete tiros e hirió en el cuello a un hombre de origen dominicano durante…",
@@ -1177,26 +1197,6 @@
     "medio": "Dialogue Earth",
     "enlace": "https://dialogue.earth/es/negocios/como-el-auge-economico-peruano-exportaciones-logro-sobrevivir-caos-politico/",
     "fecha": "2026-10-02T18:08:01.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-xkwbdj",
-    "titulo": "El horror cotidiano e implacable en Cisjordania",
-    "resumen": "Por Dr. Alon Ben-Meir",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/el-horror-cotidiano-e-implacable-en-cisjordania/",
-    "fecha": "2026-10-02T13:34:48.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-15lnavt",
-    "titulo": "La 4ª Marcha Mundial por la Paz y la No Violencia",
-    "resumen": "Cotonú, Benín",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/la-4a-marcha-mundial-por-la-paz-y-la-no-violencia/",
-    "fecha": "2026-10-02T12:05:31.000Z",
     "estado": "pendiente"
   }
 ]
