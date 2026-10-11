@@ -1,5 +1,45 @@
 [
   {
+    "id": "pressenza-qdkky",
+    "titulo": "La Corte Penal Internacional está bajo ataque",
+    "resumen": "El 9 de octubre, apenas unas horas después de que se anunciara la concesión del Premio Nobel de la Paz a Navi Pillay, exjueza de la Corte Penal Internacional (CPI), la administración Trump impuso sus más recientes…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/la-corte-penal-internacional-esta-bajo-ataque/",
+    "fecha": "2026-10-11T12:32:35.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1wlbvk",
+    "titulo": "El antídoto contra la discriminación en la salud",
+    "resumen": "En la incesante búsqueda de la eficiencia, y a veces de la rentabilidad, los sistemas sanitarios modernos han caído con frecuencia en la trampa de la estandarización masiva. Se diseñan protocolos rígidos que, si bien son útiles…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/el-antidoto-contra-la-discriminacion-en-la-salud/",
+    "fecha": "2026-10-11T10:52:53.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-g036y3",
+    "titulo": "Cuba abrirá coloquio internacional sobre culturas originarias",
+    "resumen": "La Casa de las Américas de La Habana presentó hoy el programa de su VII Coloquio Internacional de Estudios sobre Culturas Originarias de América, que acogerá en su sede del 12 al 15 de octubre.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/cuba-abrira-coloquio-internacional-sobre-culturas-originarias/",
+    "fecha": "2026-10-11T10:00:01.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-18vzvc",
+    "titulo": "[Perú] El 13 Festival de Cine de Trujillo celebra el cine peruano con 50 películas en competencia",
+    "resumen": "El FECIT apuesta por la cultura y se alista para celebrar lo mejor del cine peruano del 16 al 24 de octubre.",
+    "seccion": "cultura",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/peru-el-13-festival-de-cine-de-trujillo-celebra-el-cine-peruano-con-50-peliculas-en-competencia/",
+    "fecha": "2026-10-11T09:55:33.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "global-voices-e5k7m",
     "titulo": "«Nido-flix»: Halcones peregrinos que conquistan transmisiones continuas desde el piso 34 en Australia",
     "resumen": "«La pareja estrella de Melbourne vuelve a las alturas y este año ha puesto cuatro huevos».",
@@ -1157,46 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/cuando-la-ideologia-se-hace-pasar-por-realidad/",
     "fecha": "2026-10-03T02:54:39.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-aoys7a",
-    "titulo": "En la capital de Brasil se desarrollan soluciones propias para combatir el calor",
-    "resumen": "Siguiendo una tendencia nacional, Brasilia concentra los espacios verdes en las zonas más prósperas",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/02/en-la-capital-de-brasil-se-desarrollan-soluciones-propias-para-combatir-el-calor/",
-    "fecha": "2026-10-02T23:00:20.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "agencia-tierra-viva-ytewh4",
-    "titulo": "Sastre sin fumigaciones: “Lo que debería venir es la agroecología para las futuras generaciones”",
-    "resumen": "Siete líneas en una hoja membretada de la Corte Suprema de la Nación pusieron punto final a la batalla judicial que emprendieron, en 2018, vecinas y vecinos de la localidad de Sastre y Ortíz (Santa Fe). Los jueces Horacio Rosatti y Carlos…",
-    "seccion": "derechos",
-    "medio": "Agencia Tierra Viva",
-    "enlace": "https://agenciatierraviva.com.ar/sastre-sin-fumigaciones-lo-que-deberia-venir-es-la-agroecologia-para-las-futuras-generaciones/",
-    "fecha": "2026-10-02T20:50:25.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "democraciaabierta-pnmxgf",
-    "titulo": "Trump y Brasil: ‘Interferencia crítica’",
-    "resumen": "- Paso a paso, el guion de Washington para Brasil y sus similitudes con Venezuela - El peso del bolsillo en las decisiones electorales de Brasil - Un incidente en una base aérea británica pone al descubierto la complicidad de Londres con…",
-    "seccion": "internacional",
-    "medio": "democraciaAbierta",
-    "enlace": "https://www.opendemocracy.net/trump-y-brasil-interferencia-critica/",
-    "fecha": "2026-10-02T18:29:43.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "dialogue-earth-1nj60dq",
-    "titulo": "¿Cómo el auge económico peruano por las exportaciones logró sobrevivir al caos político?",
-    "resumen": "A inicios de los 2000, Herbert Vilcapoma encontró una oportunidad en las minas peruanas. Conoció el negocio trabajando en una fábrica de perforadoras y se animó a emprender su propia marca. Pidió un préstamo y fundó Rock Drill, una empresa…",
-    "seccion": "internacional",
-    "medio": "Dialogue Earth",
-    "enlace": "https://dialogue.earth/es/negocios/como-el-auge-economico-peruano-exportaciones-logro-sobrevivir-caos-politico/",
-    "fecha": "2026-10-02T18:08:01.000Z",
     "estado": "pendiente"
   }
 ]
