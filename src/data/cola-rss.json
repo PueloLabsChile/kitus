@@ -1,5 +1,35 @@
 [
   {
+    "id": "pressenza-z2tt2b",
+    "titulo": "Despedimos a Juan Pablo Cárdenas, referente de la lucha del periodismo contra la opresión",
+    "resumen": "El Premio Nacional Chileno de Periodismo 2005 murió esta madrugada de un cáncer que últimamente lo tenía limitado. Fundador de la revista Análisis, Agregado de Prensa en la Embajada de Chile en México, académico, Director de la Radio…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/despedimos-a-juan-pablo-cardenas-referente-de-la-lucha-del-periodismo-contra-la-opresion/",
+    "fecha": "2026-10-11T15:17:43.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-az41i7",
+    "titulo": "Repudio a la deportación de Nekane Txapartegi en Argentina",
+    "resumen": "Diversas organizaciones y colectivos se están sumando a la nota de repudio por la deportación de Nekane Txapartegi, coordinadora de la redacción feminista de Radio LoRa, impedida de ingresar a la Argentina el 4 de octubre de 2026.",
+    "seccion": "derechos",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/repudio-a-la-deportacion-de-nekane-txapartegi-en-argentina/",
+    "fecha": "2026-10-11T13:53:18.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1lhzvz6",
+    "titulo": "Continentes y Contenidos #36 08/10/26 En la mira 2: Inseguridad Digital en América Latina",
+    "resumen": "Hablamos con Ximena Cuzcano, analista en Seguridad y Resiliencia Digital de Derechos Digitales sobre su último informe En la mira 2: un panorama de las amenazas digitales en América Latina.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/continentes-y-contenidos-36-08-10-26-en-la-mira-2-ineguridad-digital-en-america-latina/",
+    "fecha": "2026-10-11T13:40:14.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-qdkky",
     "titulo": "La Corte Penal Internacional está bajo ataque",
     "resumen": "El 9 de octubre, apenas unas horas después de que se anunciara la concesión del Premio Nobel de la Paz a Navi Pillay, exjueza de la Corte Penal Internacional (CPI), la administración Trump impuso sus más recientes…",
@@ -1167,36 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/tiempos-de-nino/",
     "fecha": "2026-10-03T04:04:02.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-x1hazh",
-    "titulo": "Estados Unidos nunca ha sido aliado de Chile (II)",
-    "resumen": "Los intentos hegemónicos de Estados Unidos respecto de América Latina se agudizaron cuando suscribió un proyecto de tratado con Ecuador, en noviembre de 1854, por el cual este último le concedía al primero en concesión la explotación del…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/estados-unidos-nunca-ha-sido-aliado-de-chile-ii/",
-    "fecha": "2026-10-03T03:40:41.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-jlqmdb",
-    "titulo": "Las apuestas son ilegales. Punto.",
-    "resumen": "En Chile las apuestas online y las máquinas tragamonedas que proliferan en nuestros barrios son ilegales. No existe un vacío legal ni una zona gris. Los juegos de azar están prohibidos salvo aquellos expresamente autorizados por ley, como…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/las-apuestas-son-ilegales-punto/",
-    "fecha": "2026-10-03T03:17:28.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-yr3y27",
-    "titulo": "Cuando la ideología se hace pasar por realidad",
-    "resumen": "«Las ideologías que en algunos momentos históricos se imponían y mostraban su utilidad para orientar la acción e intentar interpretar el mundo en que se desenvolvían tanto individuos como conjuntos humanos, fueron desplazados por otras…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/cuando-la-ideologia-se-hace-pasar-por-realidad/",
-    "fecha": "2026-10-03T02:54:39.000Z",
     "estado": "pendiente"
   }
 ]
