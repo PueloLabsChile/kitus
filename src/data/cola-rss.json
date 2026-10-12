@@ -1,5 +1,15 @@
 [
   {
+    "id": "the-conversation-espana-1mnamb8",
+    "titulo": "Nobel de Economía 2026: las decisiones individuales que mueven la economía",
+    "resumen": "Para entender cómo funciona una economía, primero hay que entender cómo toman decisiones las personas y las empresas. Cuando un banco central modifica los tipos de interés no cambia directamente el consumo, la inversión o el empleo. Cambia…",
+    "seccion": "economia",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/nobel-de-economia-2026-las-decisiones-individuales-que-mueven-la-economia-293133",
+    "fecha": "2026-10-12T11:14:59.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "global-voices-bu7zaf",
     "titulo": "Cuando las empresas de telecomunicaciones cortan internet, acallando protestas en favor del Gobierno",
     "resumen": "Cuando las calles se vuelven demasiado peligrosas, la disidencia migra en línea",
@@ -1187,16 +1197,6 @@
     "medio": "Global Voices",
     "enlace": "https://es.globalvoices.org/2026/10/04/tras-30-anos-de-recuperacion-cultural-los-siraya-reclaman-estatus-indigena-en-taiwan/",
     "fecha": "2026-10-04T06:00:50.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-137by16",
-    "titulo": "Colombia: 4ta. Marcha Mundial por La Paz y la No violencia con intercambio en Barrancabermeja",
-    "resumen": "En el Día Internacional de la No violencia, Colombia cerró su participación en la 4ta. Marcha Mundial por la Paz y la Noviolencia este viernes 2 de octubre, con el Foro Humanista por La Paz y la No violencia realizado en Barrancabermeja…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/colombia-4ta-marcha-mundial-por-la-paz-y-la-no-violencia-con-intercambio-en-barrancabermeja/",
-    "fecha": "2026-10-03T16:20:37.000Z",
     "estado": "pendiente"
   }
 ]
