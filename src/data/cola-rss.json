@@ -1,5 +1,35 @@
 [
   {
+    "id": "global-voices-bu7zaf",
+    "titulo": "Cuando las empresas de telecomunicaciones cortan internet, acallando protestas en favor del Gobierno",
+    "resumen": "Cuando las calles se vuelven demasiado peligrosas, la disidencia migra en línea",
+    "seccion": "politica",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/12/cuando-las-empresas-de-telecomunicaciones-cortan-internet-acallando-protestas-en-favor-del-gobierno/",
+    "fecha": "2026-10-12T07:00:32.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-1b2axte",
+    "titulo": "El dambe de Nigeria evoluciona, sus comunidades no deberían quedarse rezagadas",
+    "resumen": "Si el dambe se comercializa cada vez más, ¿quién establece las políticas que lo regulan?",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/12/el-dambe-de-nigeria-evoluciona-sus-comunidades-no-deberian-quedarse-rezagadas/",
+    "fecha": "2026-10-12T06:00:15.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-fsvruu",
+    "titulo": "La lucha de Ecuador para mantener grasas trans industriales fuera de los supermercados",
+    "resumen": "Una batalla de salud pública sobre lo que llega a los estantes de supermercados en Ecuador",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/12/la-lucha-de-ecuador-para-mantener-grasas-trans-industriales-fuera-de-los-supermercados/",
+    "fecha": "2026-10-12T02:00:56.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-hf272k",
     "titulo": "Gaza / Israel: desde una Costa Rica omisa, análisis al cumplirse tres años desde el 7 de octubre del 2023. Crímenes internacionales, complicidades y los límites de la manipulación de la información",
     "resumen": "«Lo que está ocurriendo en Gaza no es una operación militar, es una agresión a gran escala contra nuestro pueblo. Son masacres contra civiles inocentes. Nada en el derecho natural ni en el derecho internacional permite atacar a civiles y…",
@@ -1167,36 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/colombia-4ta-marcha-mundial-por-la-paz-y-la-no-violencia-con-intercambio-en-barrancabermeja/",
     "fecha": "2026-10-03T16:20:37.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1vpzyap",
-    "titulo": "Hackear el Algoritmo",
-    "resumen": "Por Jordi Jiménez",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/hackear-el-algoritmo/",
-    "fecha": "2026-10-03T14:22:45.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-6qaaex",
-    "titulo": "Narciso ya no se mira en el agua: La transformación del narcisismo en la cultura de la imagen y las redes",
-    "resumen": "Cuando era adolescente me gustaba mirarme en el espejo. Había algo casi hipnótico en aquella superficie de vidrio: uno podía comprobar el cabello, la ropa, el rostro, la manera de sonreír. El espejo no hablaba, pero parecía tener una…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/narciso-ya-no-se-mira-en-el-agua-la-transformacion-del-narcisismo-en-la-cultura-de-la-imagen-y-las-redes/",
-    "fecha": "2026-10-03T12:59:23.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-p5su9j",
-    "titulo": "WDS: síndrome de desquiciamiento bélico",
-    "resumen": "DESPERTARES",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/wds-sindrome-de-desquiciamiento-belico/",
-    "fecha": "2026-10-03T08:56:13.000Z",
     "estado": "pendiente"
   }
 ]
