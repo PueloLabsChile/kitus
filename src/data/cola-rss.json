@@ -1,5 +1,45 @@
 [
   {
+    "id": "pressenza-kkqj1u",
+    "titulo": "Presidente Lula da Silva convoca a votar a dos semanas de segunda vuelta electoral en Brasil",
+    "resumen": "El presidente brasileño, Luiz Inácio Lula da Silva, candidato a la reelección, llamó hoy domingo a sus seguidores a buscar el voto de quienes no participaron en la primera vuelta del 4 de octubre y reunir el apoyo suficiente para mantener…",
+    "seccion": "politica",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/presidente-lula-da-silva-convoca-a-votar-a-dos-semanas-de-segunda-vuelta-electoral-en-brasil/",
+    "fecha": "2026-10-12T23:01:56.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-d1yu56",
+    "titulo": "El universo como un espejo del alma",
+    "resumen": "Por Jorge Nuñez Arzuaga.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/el-universo-como-un-espejo-del-alma/",
+    "fecha": "2026-10-12T21:56:29.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-pkj47b",
+    "titulo": "Levantando la camanchaca de la memoria: Los Andrónicos Antequera olvidaron olvidar",
+    "resumen": "Por Maxine Lowy",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/levantando-la-camanchaca-de-la-memoria-los-andronicos-antequera-olvidaron-olvidar/",
+    "fecha": "2026-10-12T21:37:25.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-tft4dj",
+    "titulo": "La paz no es una palabra maldita",
+    "resumen": "Hace unos dos años escribí un artículo donde sugería que la vía de la paz era el único camino sensato y coherente para EE.UU., Europa y el resto del mundo. Aunque, en general, el texto fue bien recibido, también cosechó una sorprendente…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/la-paz-no-es-una-palabra-maldita/",
+    "fecha": "2026-10-12T21:02:34.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "the-conversation-espana-1mnamb8",
     "titulo": "Nobel de Economía 2026: las decisiones individuales que mueven la economía",
     "resumen": "Para entender cómo funciona una economía, primero hay que entender cómo toman decisiones las personas y las empresas. Cuando un banco central modifica los tipos de interés no cambia directamente el consumo, la inversión o el empleo. Cambia…",
@@ -1157,46 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/crean-en-rusia-un-implante-unico-para-reparar-huesos-del-craneo/",
     "fecha": "2026-10-04T09:37:02.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-176gnu3",
-    "titulo": "Rusia celebra el Festival de la Cultura Iraní y la amistad bilateral",
-    "resumen": "Rusia celebra estos días el Festival de la Cultura Iraní, reflejo de la amistad entre ambas naciones.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/rusia-celebra-el-festival-de-la-cultura-irani-y-la-amistad-bilateral/",
-    "fecha": "2026-10-04T09:29:56.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-2zfpjz",
-    "titulo": "Pueblo oromo de Etiopía celebra Irreechaa, su acción de gracias",
-    "resumen": "El pueblo oromo de Etiopía celebra hoy el Irreechaa (festividad de Acción de Gracias), marcando el final de la temporada de lluvias y el comienzo de la cosecha, así como la llegada de una nueva temporada de abundancia.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/pueblo-oromo-de-etiopia-celebra-irreechaa-su-accion-de-gracias/",
-    "fecha": "2026-10-04T09:25:01.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-cxpj2n",
-    "titulo": "“Bionic” de Christina Aguilera: cuando lo humano se impone ante el futuro",
-    "resumen": "Por Sol Pozzi-Escot",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/bionic-de-christina-aguilera-cuando-lo-humano-se-impone-ante-el-futuro/",
-    "fecha": "2026-10-04T09:00:14.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-dx36ag",
-    "titulo": "Tras 30 años de recuperación cultural, los siraya reclaman estatus indígena en Taiwán",
-    "resumen": "Al pueblo siraya le ha llevado más de 30 años redescubrir y revitalizar su lengua y su cultura.",
-    "seccion": "derechos",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/04/tras-30-anos-de-recuperacion-cultural-los-siraya-reclaman-estatus-indigena-en-taiwan/",
-    "fecha": "2026-10-04T06:00:50.000Z",
     "estado": "pendiente"
   }
 ]
