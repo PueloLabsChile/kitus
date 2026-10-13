@@ -1,5 +1,25 @@
 [
   {
+    "id": "pressenza-vmf7ya",
+    "titulo": "PAZ, antología solidaria por Gaza.",
+    "resumen": "Una novela gráfica para concienciar y denunciar.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/paz-antologia-solidaria-por-gaza/",
+    "fecha": "2026-10-13T22:03:43.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-192vj95",
+    "titulo": "Ahmed Ettanji ante la 4ª Comisión de la ONU: «Prohibir la prensa no oculta las violaciones, las esconde de los ojos del mundo»",
+    "resumen": "El presidente del equipo mediático saharaui Equipe Media, Ahmed Ettanji, presentó una intervención ante los trabajos de la Cuarta Comisión de la Asamblea General de las Naciones Unidas, encargada de las cuestiones de descolonización, en la…",
+    "seccion": "politica",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/ahmed-ettanji-ante-la-4a-comision-de-la-onu-prohibir-la-prensa-no-oculta-las-violaciones-las-esconde-de-los-ojos-del-mundo/",
+    "fecha": "2026-10-13T20:48:49.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "the-conversation-espana-ooaax4",
     "titulo": "Una ‘vitamina’ de pensamiento crítico: aprender retórica en la escuela",
     "resumen": "¿Qué relación puede haber entre los resultados de una prueba educativa internacional, como PISA, y la calidad democrática de un país?",
@@ -1177,26 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/la-conversacion-docente-lo-que-pasa-en-el-aula-no-se-queda-en-el-aula-293566",
     "fecha": "2026-10-05T10:59:25.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-idsbri",
-    "titulo": "Pia Figueroa en Milán: Los sueños. Una puerta hacia otros mundos",
-    "resumen": "Ayer se presentó en Milán, en “Pratiche Sistemiche”, la versión italiana del libro de Pia Figueroa Edwards, “Los sueños: una puerta hacia otros mundos”, publicado por Multimage.",
-    "seccion": "cultura",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/pia-figueroa-en-milan-los-suenos-una-puerta-hacia-otros-mundos/",
-    "fecha": "2026-10-05T09:47:15.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1lhbllt",
-    "titulo": "Colores de Cuba y Vietnam desde la mirada de los niños",
-    "resumen": "Los colores de Cuba y Vietnam desde la mirada de los niños estuvieron hoy patentes en el Segundo Festival Cultural Mundial Hanoi 2026, en la Ciudadela Imperial de Thang Long, el antecedente milenario de esta capital.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/colores-de-cuba-y-vietnam-desde-la-mirada-de-los-ninos/",
-    "fecha": "2026-10-05T09:34:02.000Z",
     "estado": "pendiente"
   }
 ]
