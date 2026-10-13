@@ -1,5 +1,35 @@
 [
   {
+    "id": "the-conversation-espana-ooaax4",
+    "titulo": "Una ‘vitamina’ de pensamiento crítico: aprender retórica en la escuela",
+    "resumen": "¿Qué relación puede haber entre los resultados de una prueba educativa internacional, como PISA, y la calidad democrática de un país?",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/una-vitamina-de-pensamiento-critico-aprender-retorica-en-la-escuela-292078",
+    "fecha": "2026-10-13T16:39:53.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-arl8s7",
+    "titulo": "¿Cómo contribuyen las emisiones españolas de CO₂ al cambio climático y los fenómenos extremos?",
+    "resumen": "Calor extremo, una ola de incendios excepcional(https://theconversation.com/como-hemos-llegado-a-esta-situacion-con-los-incendios-forestales-en-espana-echamos-la-vista-atras-para-buscar-las-causas-289172) y fenómenos meteorológicos poco…",
+    "seccion": "derechos",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/como-contribuyen-las-emisiones-espanolas-de-co-al-cambio-climatico-y-los-fenomenos-extremos-290264",
+    "fecha": "2026-10-13T16:37:29.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1a8j7v5",
+    "titulo": "¿Por qué el odio religioso se propaga más durante las crisis? Así funciona su viralidad en redes",
+    "resumen": "El odio y los comentarios hostiles están presentes de manera muy frecuente en redes sociales como X (antes Twitter) y aunque no hay tantos mensajes religiosos ofensivos como de otros tipos, sí están entre los más intensos y preocupantes en…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/por-que-el-odio-religioso-se-propaga-mas-durante-las-crisis-asi-funciona-su-viralidad-en-redes-272470",
+    "fecha": "2026-10-13T16:35:02.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "the-conversation-espana-16j3dyy",
     "titulo": "Suplemento cultural: reunirnos a cantar",
     "resumen": "Una versión de este texto se publicó por primera vez en nuestro boletín Suplemento cultural, un resumen quincenal de la actualidad cultural y una selección de los mejores artículos de historia, literatura, cine, arte o música. Si quiere…",
@@ -36,6 +66,16 @@
     "seccion": "internacional",
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/were-just-trying-to-have-a-future-marseilles-students-take-to-the-streets-against-the-macron-lecornu-governement/",
+    "fecha": "2026-10-13T08:46:33.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-afp7er",
+    "titulo": "“Solo queremos tener un futuro”: los estudiantes de Marsella salen a las calles en protesta contra el gobierno de Macron y Lecornu",
+    "resumen": "Entrevista con Lilia, estudiante de la Preparatoria Thiers en Marsella, quien ha participado activamente en las recientes protestas contra los recortes al presupuesto educativo y las condiciones inadecuadas para estudiar en las escuelas…",
+    "seccion": "politica",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/solo-queremos-tener-un-futuro-los-estudiantes-de-marsella-salen-a-las-calles-en-protesta-contra-el-gobierno-de-macron-y-lecornu/",
     "fecha": "2026-10-13T08:46:33.000Z",
     "estado": "pendiente"
   },
@@ -1157,46 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/colores-de-cuba-y-vietnam-desde-la-mirada-de-los-ninos/",
     "fecha": "2026-10-05T09:34:02.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1s50tez",
-    "titulo": "Secretaría General de Naciones Unidas: los resultados del cuarto sondeo informal del Consejo de Seguridad",
-    "resumen": "El puesto de Secretario General de Naciones Unidas ostenta la máxima jerarquía dentro del organigrama de Naciones Unidas, organización internacional integrada en la actualidad por por 193 Estados miembros.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/secretaria-general-de-naciones-unidas-los-resultados-del-cuarto-sondeo-informal-del-consejo-de-seguridad/",
-    "fecha": "2026-10-05T09:28:43.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-dlx3ud",
-    "titulo": "El «Escudo de las Américas» y la encrucijada soberana de Chile",
-    "resumen": "El “Escudo de las Américas” se ha articulado públicamente bajo la narrativa de un acuerdo multilateral destinado a la cooperación en seguridad y el combate al crimen organizado transnacional; sin embargo, un examen riguroso de los…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/el-escudo-de-las-americas-y-la-encrucijada-soberana-de-chile/",
-    "fecha": "2026-10-05T09:05:18.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-1ykgh92",
-    "titulo": "«Régimen de permisos» de Singapur vulnera derecho ciudadano a la protesta",
-    "resumen": "En septiembre, se presentaron cargos penales contra activistas por organizar «asambleas ilegales» en 2024 y 2025",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/05/regimen-de-permisos-de-singapur-vulnera-derecho-ciudadano-a-la-protesta/",
-    "fecha": "2026-10-05T07:00:26.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-1dnm7n",
-    "titulo": "Vistos y silenciados: Cómo los softwares de vigilancia rusos oprimen los derechos cívicos de los georgianos",
-    "resumen": "El sistema de reconocimiento facial en Georgia se compra en Moscú.",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/05/vistos-y-silenciados-como-los-softwares-de-vigilancia-rusos-oprimen-los-derechos-civicos-de-los-georgianos/",
-    "fecha": "2026-10-05T06:00:37.000Z",
     "estado": "pendiente"
   }
 ]
