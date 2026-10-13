@@ -1,5 +1,85 @@
 [
   {
+    "id": "the-conversation-espana-16j3dyy",
+    "titulo": "Suplemento cultural: reunirnos a cantar",
+    "resumen": "Una versión de este texto se publicó por primera vez en nuestro boletín Suplemento cultural, un resumen quincenal de la actualidad cultural y una selección de los mejores artículos de historia, literatura, cine, arte o música. Si quiere…",
+    "seccion": "cultura",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/suplemento-cultural-reunirnos-a-cantar-293840",
+    "fecha": "2026-10-13T10:59:58.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "agencia-tierra-viva-1xghudh",
+    "titulo": "\"Debemos cuidar el hogar que habitamos, el hogar-cuerpo, el hogar-tierra\"",
+    "resumen": "Pablo Bruno creció entre un barrio popular de la capital cordobesa y el paisaje de las sierras. Oriundo del barrio General Pueyrredón, el joven cantante, guitarrista y compositor pateó las agitadas calles de su ciudad y conectó…",
+    "seccion": "internacional",
+    "medio": "Agencia Tierra Viva",
+    "enlace": "https://agenciatierraviva.com.ar/debemos-cuidar-el-hogar-que-habitamos-el-hogar-cuerpo-el-hogar-tierra/",
+    "fecha": "2026-10-13T10:50:02.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1y9wy8q",
+    "titulo": "La selección: que llueva, que llueva… pero no tanto",
+    "resumen": "Durante los últimos días, muchas regiones de España, especialmente el norte y el levante peninsular, se han visto afectadas por tormentas que han descargado abundantes precipitaciones en poco tiempo. Tras la lluvia, quienes vivimos en las…",
+    "seccion": "politica",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/la-seleccion-que-llueva-que-llueva-pero-no-tanto-294065",
+    "fecha": "2026-10-13T10:19:58.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-18saaaf",
+    "titulo": "“We’re just trying to have a future”: Marseille’s students take to the streets against the Macron-Lecornu governement",
+    "resumen": "Interview with Lilia, a student at the Thiers High School in Marseille, active in the recent protests against cuts to education funding and the inadequate conditions for studying in French schools. She denounces the violence of police…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/were-just-trying-to-have-a-future-marseilles-students-take-to-the-streets-against-the-macron-lecornu-governement/",
+    "fecha": "2026-10-13T08:46:33.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-ps61ow",
+    "titulo": "Tiktokers rusos querían votar por agenda contra la guerra, pero farsa electoral de Putin no lo permitió",
+    "resumen": "Los tiktokers utilizaron memes de cultura popular para apoyar al partido contra la guerra que quedó excluido de las elecciones",
+    "seccion": "politica",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/13/tiktokers-rusos-querian-votar-por-agenda-contra-la-guerra-pero-farsa-electoral-de-putin-no-lo-permitio/",
+    "fecha": "2026-10-13T07:00:16.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-1f49w71",
+    "titulo": "¿Puede una neva Política de Paz Nacional solucionar los problemas de seguridad en Nigeria?",
+    "resumen": "La Política de Paz Nacional de Nigeria es un marco con el objetivo de lograr mayor coordinación para prevenir conflictos y consolidar la paz",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/13/puede-una-neva-politica-de-paz-nacional-solucionar-los-problemas-de-seguridad-en-nigeria/",
+    "fecha": "2026-10-13T06:00:19.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-ksptqc",
+    "titulo": "(Perú) Comunicadores alternativos: “Somos tremendamente incómodos al poder”",
+    "resumen": "Hombres y mujeres de prensa, provenientes de Lima y provincias del Perú, denunciaron actos de criminalización que sufren en el ejercicio del periodismo. El encuentro se realizó en el Foro “Prensa Concentrada y Criminalización de la Prensa…",
+    "seccion": "derechos",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/peru-comunicadores-alternativos-somos-tremendamente-incomodos-al-poder/",
+    "fecha": "2026-10-13T05:09:50.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-amcrj9",
+    "titulo": "La seguridad privada crece y se vuelve un gran negocio en América Latina: ¿por qué, a qué precio y para quién?",
+    "resumen": "Teniendo en cuenta solamente al sector formal, más de 3,7 millones de personas se encuentran involucrados en la esfera de la seguridad privada en América Latina, según el último estudio…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/la-seguridad-privada-crece-y-se-vuelve-un-gran-negocio-en-america-latina-por-que-a-que-precio-y-para-quien-291956",
+    "fecha": "2026-10-13T04:29:21.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-kkqj1u",
     "titulo": "Presidente Lula da Silva convoca a votar a dos semanas de segunda vuelta electoral en Brasil",
     "resumen": "El presidente brasileño, Luiz Inácio Lula da Silva, candidato a la reelección, llamó hoy domingo a sus seguidores a buscar el voto de quienes no participaron en la primera vuelta del 4 de octubre y reunir el apoyo suficiente para mantener…",
@@ -1117,86 +1197,6 @@
     "medio": "Global Voices",
     "enlace": "https://es.globalvoices.org/2026/10/05/vistos-y-silenciados-como-los-softwares-de-vigilancia-rusos-oprimen-los-derechos-civicos-de-los-georgianos/",
     "fecha": "2026-10-05T06:00:37.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-qgog9p",
-    "titulo": "Por qué convivir con infecciones virales crónicas acelera nuestro reloj biológico",
-    "resumen": "Dos personas celebran su sexagésimo cumpleaños. Una corre maratones; la otra lidia con fatiga crónica y dolores articulares. Esta escena ilustra una fascinante verdad de la biomedicina moderna: el carné de identidad miente. La edad…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/por-que-convivir-con-infecciones-virales-cronicas-acelera-nuestro-reloj-biologico-290746",
-    "fecha": "2026-10-04T23:01:18.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-hp7rer",
-    "titulo": "¿Estamos educando niños que no soportan el “no”?",
-    "resumen": "Se enfada por todo. No soporta perder. Si algo no le sale a la primera, lo deja. Maestros, orientadores y familias reconocen bien este tipo de escenas: un niño intenta encajar una pieza, no entra, lo prueba de nuevo y, antes de intentarlo…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/estamos-educando-ninos-que-no-soportan-el-no-287835",
-    "fecha": "2026-10-04T22:55:28.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1wqloqy",
-    "titulo": "La huella literaria del cambio climático: cuando el mundo se transforma, los libros también",
-    "resumen": "El 26 de agosto de 2026, una enorme masa de roca y hielo se desprendió a unos 5 200 metros de altitud en el Himalaya. En cuestión de minutos se convirtió en una avalancha de escombros y agua que descendió hacia la frontera entre Nepal y el…",
-    "seccion": "derechos",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/la-huella-literaria-del-cambio-climatico-cuando-el-mundo-se-transforma-los-libros-tambien-292315",
-    "fecha": "2026-10-04T22:54:28.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-8od9pu",
-    "titulo": "¿Hasta qué punto es útil una alerta meteorológica para evitar daños por inundaciones?",
-    "resumen": "Cuando llega un aviso de inundación(https://www.aemet.es/es/eltiempo/prediccion/avisos), la lluvia ya está en camino. Poco puede hacerse entonces para cambiar el territorio o evitar que el agua se desborde. Pero aún quedan decisiones…",
-    "seccion": "derechos",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/hasta-que-punto-es-util-una-alerta-meteorologica-para-evitar-danos-por-inundaciones-293447",
-    "fecha": "2026-10-04T18:30:36.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-yao62a",
-    "titulo": "Las exigencias del CMA ante el nuevo gobierno marroquí",
-    "resumen": "El Congreso Mundial Amazigh (CMA)(https://congres-mondial-amazigh.org) toma nota del nombramiento de la Sra. Fatima Zahra El-Mansouri como jefa del gobierno marroquí. El CMA recuerda que la Sra. El-Mansouri ya formaba parte del gobierno…",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/las-exigencias-del-cma-ante-el-nuevo-gobierno-marroqui/",
-    "fecha": "2026-10-04T18:13:17.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1w04hrq",
-    "titulo": "(Perú) Facultades Legislativas: A un paso de la concentración del poder en el Ejecutivo",
-    "resumen": "El texto sustitutorio que redujo de ocho a dos las materias solicitadas por el Ejecutivo, en el pedido de facultades, llegará este martes 6 de octubre al Pleno de la Cámara de Diputados, pero el riesgo de ampliar nuevamente la delegación…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/peru-facultades-legislativas-a-un-paso-de-la-concentracion-del-poder-en-el-ejecutivo/",
-    "fecha": "2026-10-04T14:46:25.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-de43jw",
-    "titulo": "La Furia Ilustrada invita a vivir tres días en torno a la ilustración, los libros y las artes gráficas",
-    "resumen": "Más de 50 actividades para todas las edades, invitados nacionales e internacionales, firmas de libros y un programa dedicado a la profesionalización de ilustradoras, ilustradores y artistas gráficos serán parte de la segunda edición de La…",
-    "seccion": "cultura",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/la-furia-ilustrada-invita-a-vivir-tres-dias-en-torno-a-la-ilustracion-los-libros-y-las-artes-graficas/",
-    "fecha": "2026-10-04T14:33:56.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-ual0x7",
-    "titulo": "Crean en Rusia un implante único para reparar huesos del cráneo",
-    "resumen": "Permitiría crear condiciones más favorables para la recuperación de los tejidos en la zona afectada.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/crean-en-rusia-un-implante-unico-para-reparar-huesos-del-craneo/",
-    "fecha": "2026-10-04T09:37:02.000Z",
     "estado": "pendiente"
   }
 ]
