@@ -1,5 +1,85 @@
 [
   {
+    "id": "pressenza-13h2ujc",
+    "titulo": "La Furia Ilustrada convocó a 32 mil personas y aumentó su público en un 130%",
+    "resumen": "La segunda edición del encuentro, realizada entre el 9 y el 11 de octubre en el Centro Cultural Gabriela Mistral, GAM, reunió a más de 170 expositores y contó con una exitosa convocatoria en sus actividades, lanzamientos y firmas de…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/la-furia-ilustrada-convoco-a-32-mil-personas-y-aumento-su-publico-en-un-130/",
+    "fecha": "2026-10-14T16:30:58.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1ivrd52",
+    "titulo": "El ayuno 16:8 podría ser más flexible de lo que pensábamos",
+    "resumen": "Es difícil mirar a nuestro alrededor y no encontrar a alguien que esté practicando ayuno intermitente(https://theconversation.com/topics/ayuno-intermitente-73641). El secreto del éxito de estas estrategias, que han calado con fuerza en la…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/el-ayuno-16-8-podria-ser-mas-flexible-de-lo-que-pensabamos-293128",
+    "fecha": "2026-10-14T16:21:47.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-9iqd20",
+    "titulo": "Dormir para no olvidar",
+    "resumen": "Desde tiempos inmemoriales, el sueño se ha considerado uno de los grandes pilares de la salud. Ya en el año 1607, William Vaughan(https://en.wikipedia.org/wiki/WilliamVaughan(writer)) lo describía como una cura para fortalecer el espíritu…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/dormir-para-no-olvidar-292826",
+    "fecha": "2026-10-14T16:21:43.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-15opo08",
+    "titulo": "Los gatos en la calle generan riesgos para la salud pública",
+    "resumen": "El gato doméstico (Felis catus(https://es.wikipedia.org/wiki/Feliscatus)) es una de las mascotas más frecuentes en el mundo, que se estima que alberga entre 600 y 1000 millones de…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/los-gatos-en-la-calle-generan-riesgos-para-la-salud-publica-293583",
+    "fecha": "2026-10-14T16:21:33.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-rsgpzs",
+    "titulo": "¿Quiénes pagarán la cuenta? Quebec, la prudencia y el norte que no queremos ver",
+    "resumen": "Por Claudia Aranda",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/quienes-pagaran-la-cuenta-quebec-la-prudencia-y-el-norte-que-no-queremos-ver/",
+    "fecha": "2026-10-14T15:42:39.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-d0wk9t",
+    "titulo": "El inicio de curso",
+    "resumen": "En estos últimos días de septiembre, dejamos atrás el verano, y con ello, a muchos detalles que nos ofrece esta temporada estival, como las horas de luz, el calor, vacaciones, sitios especiales, momentos de cuidado y descanso. Y también…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/el-inicio-de-curso/",
+    "fecha": "2026-10-14T15:09:35.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "dialogue-earth-1i00n4",
+    "titulo": "Brazil rare earth deal proves militaries’ long-held interest in minerals",
+    "resumen": "In 1939, the term “critical minerals” entered the legislative lexicon of the US when the country passed its Strategic and Critical Materials Stock Piling Act. They became defined as materials needed to supply military and industrial needs…",
+    "seccion": "internacional",
+    "medio": "Dialogue Earth",
+    "enlace": "https://dialogue.earth/es/negocios/brazil-rare-earth-deal-proves-militaries-long-held-interest-in-minerals/",
+    "fecha": "2026-10-14T15:01:18.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1c4h4ls",
+    "titulo": "El precio de la violencia",
+    "resumen": "Quizás uno de los desarrollos más reveladores de nuestro tiempo es el creciente número de jóvenes que cuestionan las prioridades de las sociedades en las que viven.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/el-precio-de-la-violencia/",
+    "fecha": "2026-10-14T14:22:50.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-1vg8djv",
     "titulo": "¿Qué hace eficaz a una diplomacia?  De la precisión de los instrumentos a la coherencia de los objetivos",
     "resumen": "El segundo artículo de esta serie(https://www.pressenza.com/es/2026/09/que-cuenta-como-seguridad-takaichi-vista-desde-el-pacifismo-y-los-medios-alternativos/) concluía con una palabra casi desaparecida del centro del discurso sobre…",
@@ -1117,86 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/october-7-a-palestinian-israeli-memoir-seeks-to-break-the-cycle-of-violence-293403",
     "fecha": "2026-10-06T11:17:35.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-1ryuovd",
-    "titulo": "De la calle a las urnas: Lo que Hungría puede enseñar a Serbia",
-    "resumen": "La estructura de Orbán parecía invencible, hasta que un movimiento popular logró romper la presión psicológica del miedo",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/06/de-la-calle-a-las-urnas-lo-que-hungria-puede-ensenar-a-serbia/",
-    "fecha": "2026-10-06T07:00:26.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-1669j3r",
-    "titulo": "No se debería glorificar a criminales de guerra para conmemorar independencia de Macedonia del Norte",
-    "resumen": "La muerte no anula la sentencia, ni la responsabilidad de los funcionarios que convierten a un criminal de guerra condenado en héroe",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/06/no-se-deberia-glorificar-a-criminales-de-guerra-para-conmemorar-independencia-de-macedonia-del-norte/",
-    "fecha": "2026-10-06T06:00:48.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1xni1jn",
-    "titulo": "Pressenza recibe en Perú un reconocimiento por su campaña «El Buen Gobierno es un derecho»",
-    "resumen": "La Asociación Nacional de Periodistas del Perú (ANP) reconoció la Campaña Internacional de Pressenza «El Buen Gobierno es un derecho», presentada por Judith Purizaga Granados, editora de la agencia en Perú. La ceremonia se celebró el 30 de…",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/pressenza-recibe-en-peru-un-reconocimiento-por-su-campana-el-buen-gobierno-es-un-derecho/",
-    "fecha": "2026-10-06T04:06:14.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-h6pc8v",
-    "titulo": "El Nobel que ilumina el cerebro: por qué la optogenética ha cambiado por completo la neurociencia",
-    "resumen": "¿Cómo podemos saber qué hace realmente un grupo concreto de neuronas en el cerebro?",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/el-nobel-que-ilumina-el-cerebro-por-que-la-optogenetica-ha-cambiado-por-completo-la-neurociencia-293638",
-    "fecha": "2026-10-05T21:30:01.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "democraciaabierta-1hch8kf",
-    "titulo": "Un desalojo empuja a España a elecciones anticipadas",
-    "resumen": "Una mujer de 87 años acaba de convertirse en un símbolo nacional en España, y su desalojo abrió una crisis que obligó este lunes a convocar elecciones anticipadas.",
-    "seccion": "derechos",
-    "medio": "democraciaAbierta",
-    "enlace": "https://www.opendemocracy.net/es/espana-vivienda-digna-especulacion-desalojo-maricarmen-pedro-sanchez-elecciones-derecho-fondos-buitre/",
-    "fecha": "2026-10-05T19:47:58.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1y3938z",
-    "titulo": "Entre el bolsonarismo y un Lula 4.0: Brasil vota dividido y habrá segunda vuelta presidencial",
-    "resumen": "Brasil ha votado este domingo 4 de octubre para elegir al presidente y vicepresidente de la República, los gobernadores y las asambleas legislativas de los Estados, la totalidad de la Cámara de Diputados y dos tercios del Senado. Más de…",
-    "seccion": "politica",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/entre-el-bolsonarismo-y-un-lula-4-0-brasil-vota-dividido-y-habra-segunda-vuelta-presidencial-293586",
-    "fecha": "2026-10-05T18:26:38.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-4wbj2k",
-    "titulo": "Premio Internacional de la Paz: Flotillas de La Libertad, Global Sumud y Convoy Nuestra América reciben galardón de IPB",
-    "resumen": "El viernes 2 de octubre, el International Peace Bureau(https://www.ipb.org/) (IPB, Oficina Internacional de la Paz OIP) concedió el Premio de la Paz Sean MacBride 2026 conjuntamente a las organizaciones sociales Coalición Flotilla de la…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/premio-internacional-de-la-paz-flotillas-de-la-libertad-global-sumud-y-convoy-nuestra-america-reciben-galardon-de-ipb/",
-    "fecha": "2026-10-05T17:27:41.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-p8l85",
-    "titulo": "Repunte de covid-19 en España: lo que dicen los datos sobre bebés, mayores y vacunación",
-    "resumen": "Un compañero que tose en la oficina, un hijo que vuelve de la guardería con mocos, un padre mayor al que el malestar no se le acaba de quitar. Si esas escenas le suenan de las últimas semanas, no son solo impresiones. El último informe del…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/repunte-de-covid-19-en-espana-lo-que-dicen-los-datos-sobre-bebes-mayores-y-vacunacion-293470",
-    "fecha": "2026-10-05T17:23:21.000Z",
     "estado": "pendiente"
   }
 ]
