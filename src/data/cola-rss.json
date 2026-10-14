@@ -1,5 +1,25 @@
 [
   {
+    "id": "pressenza-1vg8djv",
+    "titulo": "¿Qué hace eficaz a una diplomacia?  De la precisión de los instrumentos a la coherencia de los objetivos",
+    "resumen": "El segundo artículo de esta serie(https://www.pressenza.com/es/2026/09/que-cuenta-como-seguridad-takaichi-vista-desde-el-pacifismo-y-los-medios-alternativos/) concluía con una palabra casi desaparecida del centro del discurso sobre…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/que-hace-eficaz-a-una-diplomacia-de-la-precision-de-los-instrumentos-a-la-coherencia-de-los-objetivos/",
+    "fecha": "2026-10-14T11:42:40.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-dor1k5",
+    "titulo": "Cuando el fútbol apaga internet: el impacto de los bloqueos indiscriminados de IP",
+    "resumen": "Al principio de internet, cada web podía compararse con una casa que tenía una dirección propia: la dirección IP(https://es.wikipedia.org/wiki/Direcci%C3%B3nIP). El listín en el cual podemos encontrar la IP de una web es el DNS. Hoy, la…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/cuando-el-futbol-apaga-internet-el-impacto-de-los-bloqueos-indiscriminados-de-ip-292390",
+    "fecha": "2026-10-14T10:58:43.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "global-voices-1wyhj8",
     "titulo": "El largo camino de «indígena» a ciudadano en Mozambique",
     "resumen": "De «indígena» a obtener la ciudadanía: la historia de resistencia, transformación y derechos en Mozambique",
@@ -1177,26 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/repunte-de-covid-19-en-espana-lo-que-dicen-los-datos-sobre-bebes-mayores-y-vacunacion-293470",
     "fecha": "2026-10-05T17:23:21.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-m359gz",
-    "titulo": "El 29-N, entre Ceuta y la vivienda: las dos batallas que decidirán las elecciones",
-    "resumen": "España irá a elecciones. El presidente del Gobierno, Pedro Sánchez, ha anunciado la convocatoria de generales para el próximo 29 de…",
-    "seccion": "politica",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/el-29-n-entre-ceuta-y-la-vivienda-las-dos-batallas-que-decidiran-las-elecciones-293567",
-    "fecha": "2026-10-05T16:40:07.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-9xkiw5",
-    "titulo": "Encuéntame en las Ondas: vivienda, literatura, derechos humanos y cultura desde la radio comunitaria de Canarias",
-    "resumen": "El programa Encuéntame en las Ondas, emitido el miércoles 30 de septiembre desde Radio Guiniguada, Onda Libre y Comunitaria, volvió a reunir en una misma hora distintas voces, territorios y propuestas vinculadas con los derechos sociales…",
-    "seccion": "derechos",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/encuentame-en-las-ondas-vivienda-literatura-derechos-humanos-y-cultura-desde-la-radio-comunitaria-de-canarias/",
-    "fecha": "2026-10-05T16:36:52.000Z",
     "estado": "pendiente"
   }
 ]
