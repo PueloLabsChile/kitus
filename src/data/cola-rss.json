@@ -1,5 +1,35 @@
 [
   {
+    "id": "global-voices-1wyhj8",
+    "titulo": "El largo camino de «indígena» a ciudadano en Mozambique",
+    "resumen": "De «indígena» a obtener la ciudadanía: la historia de resistencia, transformación y derechos en Mozambique",
+    "seccion": "derechos",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/14/el-largo-camino-de-indigena-a-ciudadano-en-mozambique/",
+    "fecha": "2026-10-14T07:00:25.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-fm1rge",
+    "titulo": "Lo que las protestas de las «Cucarachas» de India revelan sobre el autoritarismo digital",
+    "resumen": "Las protestas del Partido Popular Cucaracha suponen una advertencia y un motivo de optimismo democrático",
+    "seccion": "politica",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/14/lo-que-las-protestas-de-las-cucarachas-de-la-india-revelan-sobre-el-autoritarismo-digital/",
+    "fecha": "2026-10-14T06:00:48.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1tf1klt",
+    "titulo": "En el Perú la tasa de denuncias por corrupción se duplicó",
+    "resumen": "Entre los años 2018 y 2025 el Perú duplicó la tasa de denuncias por corrupción, según lo señala el Instituto Peruano de Economía (IPE) e INCORE (Índice de Competitividad Regional). La investigación encontró que las denuncias se refieren al…",
+    "seccion": "economia",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/en-el-peru-la-tasa-de-denuncias-por-corrupcion-se-duplico/",
+    "fecha": "2026-10-14T03:50:41.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-1g638no",
     "titulo": "Juan Pablo Cárdenas y el exterminio de la prensa de centro-izquierda",
     "resumen": "El fallecimiento del destacado Premio Nacional de Periodismo, Juan Pablo Cárdenas, debiese llevarnos a recordar sus múltiples facetas en favor de su permanente lucha por la libertad de expresión, tanto en dictadura como después de ella. En…",
@@ -1167,36 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/encuentame-en-las-ondas-vivienda-literatura-derechos-humanos-y-cultura-desde-la-radio-comunitaria-de-canarias/",
     "fecha": "2026-10-05T16:36:52.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-10a2wa7",
-    "titulo": "En la Mira 2: Un panorama de las amenazas digitales en América Latina",
-    "resumen": "La segunda edición de En la mira analiza más de 100 casos ocurridos en la región entre junio de 2024 y mayo de 2025. El reporte documenta el avance de distintas formas de vigilancia y censura, filtraciones masivas de datos, desinformación…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/en-la-mira-2-un-panorama-de-las-amenazas-digitales-en-america-latina/",
-    "fecha": "2026-10-05T14:24:39.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-pid8ez",
-    "titulo": "Gane o pierda la extrema derecha en las elecciones de Brasil, ¿respetará la democracia?",
-    "resumen": "La primera vuelta de las elecciones de 2026 en Brasil, celebrada este domingo, concluyó con una contundente victoria del Partido Liberal (PL), de extrema derecha. Flávio Bolsonaro, hijo del expresidente encarcelado Jair Bolsonaro, se…",
-    "seccion": "politica",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/gane-o-pierda-la-extrema-derecha-en-las-elecciones-de-brasil-respetara-la-democracia-293585",
-    "fecha": "2026-10-05T11:42:15.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1jecs96",
-    "titulo": "La selección: los videojuegos y el arte",
-    "resumen": "Queda poco más de mes y medio para que salga a la venta Grand Theft Auto VI, probablemente el videojuego más esperado de la historia. Quienes son ajenos a este sector no entienden la revolución que puede suponer su salida, más de medio…",
-    "seccion": "politica",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/la-seleccion-los-videojuegos-y-el-arte-291917",
-    "fecha": "2026-10-05T11:24:57.000Z",
     "estado": "pendiente"
   }
 ]
