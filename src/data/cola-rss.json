@@ -1,5 +1,15 @@
 [
   {
+    "id": "pressenza-1g638no",
+    "titulo": "Juan Pablo Cárdenas y el exterminio de la prensa de centro-izquierda",
+    "resumen": "El fallecimiento del destacado Premio Nacional de Periodismo, Juan Pablo Cárdenas, debiese llevarnos a recordar sus múltiples facetas en favor de su permanente lucha por la libertad de expresión, tanto en dictadura como después de ella. En…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/juan-pablo-cardenas-y-el-exterminio-de-la-prensa-de-centro-izquierda/",
+    "fecha": "2026-10-14T00:15:24.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-vmf7ya",
     "titulo": "PAZ, antología solidaria por Gaza.",
     "resumen": "Una novela gráfica para concienciar y denunciar.",
@@ -1187,16 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/la-seleccion-los-videojuegos-y-el-arte-291917",
     "fecha": "2026-10-05T11:24:57.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-tlgpwh",
-    "titulo": "La Conversación Docente: lo que pasa en el aula no se queda en el aula",
-    "resumen": "El número de estudiantes universitarios ha alcanzado en España máximos históricos, pero si un día cualquiera nos asomamos a un aula universitaria lo más probable es que no lo notemos, porque la veremos medio vacía. La percepción de muchos…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/la-conversacion-docente-lo-que-pasa-en-el-aula-no-se-queda-en-el-aula-293566",
-    "fecha": "2026-10-05T10:59:25.000Z",
     "estado": "pendiente"
   }
 ]
