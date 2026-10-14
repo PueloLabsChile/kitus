@@ -13,6 +13,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/10/14/el-largo-camino-de-indigena-a-ciudadano-en-mozambique/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-1wyhj8.jpg"
+creditoPortada: "Foto: Global Voices"
 ---
 *De «indígena» a obtener la ciudadanía: la historia de resistencia, transformación y derechos en Mozambique*
 

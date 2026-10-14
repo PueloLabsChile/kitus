@@ -70,6 +70,16 @@
     "estado": "pendiente"
   },
   {
+    "id": "dialogue-earth-8k3fus",
+    "titulo": "La inversión de EE.UU. en tierras raras de Brasil evidencia el interés militar por los minerales",
+    "resumen": "En 1939, el término “minerales críticos” entró en el léxico legislativo de Estados Unidos cuando el país aprobó su Ley de Acumulación de Materiales Estratégicos y Críticos. Se definieron como materiales necesarios para satisfacer las…",
+    "seccion": "internacional",
+    "medio": "Dialogue Earth",
+    "enlace": "https://dialogue.earth/es/negocios/inversion-tierras-raras-eeuu-brasil-evidencia-interes-militar-minerales/",
+    "fecha": "2026-10-14T15:01:18.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-1c4h4ls",
     "titulo": "El precio de la violencia",
     "resumen": "Quizás uno de los desarrollos más reveladores de nuestro tiempo es el creciente número de jóvenes que cuestionan las prioridades de las sociedades en las que viven.",
@@ -1187,16 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/posible-muerte-por-peste-neumonica-en-rusia-por-que-puede-fallar-la-bioseguridad-en-un-laboratorio-293571",
     "fecha": "2026-10-06T11:20:40.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1lw4ous",
-    "titulo": "October 7: a Palestinian-Israeli memoir seeks to break the cycle of violence",
-    "resumen": "Since the Hamas attacks of October 7, 2023, the world has witnessed unimaginable, almost constant violence in Gaza and the West Bank. But people’s understanding of these events is not universal – each person is exposed to a particular set…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/october-7-a-palestinian-israeli-memoir-seeks-to-break-the-cycle-of-violence-293403",
-    "fecha": "2026-10-06T11:17:35.000Z",
     "estado": "pendiente"
   }
 ]
