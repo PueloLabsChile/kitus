@@ -1,5 +1,15 @@
 [
   {
+    "id": "pressenza-ti9qyz",
+    "titulo": "El virtuosismo de la gráfica en manos de Boris Campos Ernst",
+    "resumen": "El artista trabaja con una suma de técnicas que le permiten, a la vez, expresarse con la certeza del gesto manual, así como arrojarse a la incertidumbre de una superficie entintada que irá acogiendo todas las decisiones expresivas de la…",
+    "seccion": "cultura",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/el-virtuosismo-de-la-grafica-en-manos-de-boris-campos-ernst/",
+    "fecha": "2026-10-15T23:22:49.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "the-conversation-espana-1jv39s5",
     "titulo": "Ley de nietos: ¿es discriminatorio suspender el voto a ciudadanos españoles de pleno derecho?",
     "resumen": "La llamada “ley de nietos” –establecida en la disposición adicional octava(https://www.boe.es/eli/es/l/2022/10/19/20/conda-8) de la Ley 20/2022, de Memoria Democrática– permite otorgar la nacionalidad a descendientes de españoles exiliados.",
@@ -1187,16 +1197,6 @@
     "medio": "Global Voices",
     "enlace": "https://es.globalvoices.org/2026/10/07/equiparar-la-protesta-con-el-terrorismo-un-discurso-contra-la-disidencia/",
     "fecha": "2026-10-07T07:00:40.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-qximtz",
-    "titulo": "Quienes viven en ciudades deben poder decidir cómo se construye su futuro: Reflexiones desde la conferencia Common City",
-    "resumen": "El derecho internacional reconoce el derecho a una vivienda adecuada",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/07/quienes-viven-en-ciudades-deben-poder-decidir-como-se-construye-su-futuro-reflexiones-desde-la-conferencia-common-city/",
-    "fecha": "2026-10-07T06:00:17.000Z",
     "estado": "pendiente"
   }
 ]
