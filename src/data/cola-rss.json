@@ -1,5 +1,25 @@
 [
   {
+    "id": "democraciaabierta-ejpo2y",
+    "titulo": "Brasil: Flávio, el ‘moderado’ del clan Bolsonaro, capitaliza el desgaste de Lula",
+    "resumen": "La segunda vuelta presidencial de Brasil, que se celebrará el 25 de octubre, se perfila muy cuesta arriba para el presidente Luiz Inácio Lula da Silva.",
+    "seccion": "politica",
+    "medio": "democraciaAbierta",
+    "enlace": "https://www.opendemocracy.net/es/brasil-lula-dinastia-bolsonaro-democracia-ultraderecha/",
+    "fecha": "2026-10-15T14:13:55.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1jgf0t2",
+    "titulo": "Los libros de Sally Rooney se retiran de la venta en el Reino Unido debido a su apoyo a Palestine Action",
+    "resumen": "La existosa novelista irlandesa Sally Rooney ha anunciado(https://www.theguardian.com/uk-news/2026/oct/14/sally-rooney-says-she-can-no-longer-sell-books-in-the-uk-because-of-palestine-action-support) que se ve obligada a retirar sus libros…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/los-libros-de-sally-rooney-se-retiran-de-la-venta-en-el-reino-unido-debido-a-su-apoyo-a-palestine-action-294518",
+    "fecha": "2026-10-15T12:13:50.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "global-voices-19lg1jx",
     "titulo": "Bangladesh Las protestas pueden cambiar gobiernos ¿pero pueden fortalecer la democracia?",
     "resumen": "Tras haber elegido un nuevo gobierno, ¿qué tanto han cambiado las estructuras e instituciones del Estado?",
@@ -1177,26 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/radio-y-algoritmos-el-poder-creciente-de-las-plataformas-y-los-derechos-menguantes-de-la-ciudadania-289951",
     "fecha": "2026-10-06T17:12:27.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-129aps3",
-    "titulo": "Argentina: «30 mil intervenciones migratorias no son 30 mil deportaciones», advierte Observatorio 18D",
-    "resumen": "El presidente argentino Javier Milei expresó en una entrevista que la Argentina había «expulsado 30.000 terroristas». El vocero presidencial Adrián Ravier luego admitió que se trató de un error ya que se trataba de «30.000 posibles…",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/argentina-30-mil-intervenciones-migratorias-no-son-30-mil-deportaciones-advierte-observatorio-18d/",
-    "fecha": "2026-10-06T16:53:00.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1ptt280",
-    "titulo": "La derrota del progresismo en Brasil, un alerta para el continente",
-    "resumen": "La derrota del progresismo en la primera vuelta de las elecciones en Brasil se puede interpretar como la compuerta a una colonización de nuevas dimensiones de América Latina, incluyendo esta vez a Groenlandia y la Antártida (el patio…",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/la-derrota-del-progresismo-en-brasil-un-alerta-para-el-continente/",
-    "fecha": "2026-10-06T14:57:45.000Z",
     "estado": "pendiente"
   }
 ]
