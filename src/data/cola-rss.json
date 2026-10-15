@@ -1,5 +1,15 @@
 [
   {
+    "id": "pressenza-1yqh8ty",
+    "titulo": "La nueva Guerra Santa: El peligro del fanatismo político en el siglo XXI",
+    "resumen": "En la Edad Media, como consecuencia de las permanentes disputas territoriales entre la jerarquía eclesiástica y la nobleza, la belicosidad basada en dogmas absolutos era la única receta conocida para resolver controversias. Así, en la…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/la-nueva-guerra-santa-el-peligro-del-fanatismo-politico-en-el-siglo-xxi/",
+    "fecha": "2026-10-15T00:02:47.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-13h2ujc",
     "titulo": "La Furia Ilustrada convocó a 32 mil personas y aumentó su público en un 130%",
     "resumen": "La segunda edición del encuentro, realizada entre el 9 y el 11 de octubre en el Centro Cultural Gabriela Mistral, GAM, reunió a más de 170 expositores y contó con una exitosa convocatoria en sus actividades, lanzamientos y firmas de…",
@@ -1187,16 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/el-problema-de-la-vivienda-en-espana/",
     "fecha": "2026-10-06T14:06:34.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1qzv9db",
-    "titulo": "Posible muerte por peste neumónica en Rusia: por qué puede fallar la bioseguridad en un laboratorio",
-    "resumen": "Una trabajadora de 28 años del Instituto de Investigación Antiplagas de Irkutsk(https://irknipchi.ru/index.htm), en Siberia (Rusia), murió hace unos días tras desarrollar una neumonía fulminante. El centro en el que trabajaba investiga…",
-    "seccion": "economia",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/posible-muerte-por-peste-neumonica-en-rusia-por-que-puede-fallar-la-bioseguridad-en-un-laboratorio-293571",
-    "fecha": "2026-10-06T11:20:40.000Z",
     "estado": "pendiente"
   }
 ]
