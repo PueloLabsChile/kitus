@@ -1,5 +1,25 @@
 [
   {
+    "id": "global-voices-19lg1jx",
+    "titulo": "Bangladesh Las protestas pueden cambiar gobiernos ¿pero pueden fortalecer la democracia?",
+    "resumen": "Tras haber elegido un nuevo gobierno, ¿qué tanto han cambiado las estructuras e instituciones del Estado?",
+    "seccion": "politica",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/15/bangladesh-las-protestas-pueden-cambiar-gobiernos-pero-pueden-fortalecer-la-democracia/",
+    "fecha": "2026-10-15T07:00:57.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-15lydo1",
+    "titulo": "La lucha contra las importaciones occidentales: La justificación de la agenda anti-LGBTQ+ en África",
+    "resumen": "Legisladores africanos promueven legislación anti-LGBTQ+ con el argumento de que protege «valores tradicionales africanos»",
+    "seccion": "derechos",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/15/la-lucha-contra-las-importaciones-occidentales-la-justificacion-de-la-agenda-anti-lgbtq-en-africa/",
+    "fecha": "2026-10-15T06:00:42.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-1y808z8",
     "titulo": "Perú: Sociedad civil exige Plan de Contingencia para enfrentar Fenómeno El Niño",
     "resumen": "Ante la inminente llegada del Fenómeno El Niño (FEL), que tendrá según todos los pronósticos, una magnitud “extraordinaria” y de “muy fuerte” en el Pacífico central, la sociedad civil se organiza para prevenir sus impactos: lluvias y…",
@@ -1177,26 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/la-derrota-del-progresismo-en-brasil-un-alerta-para-el-continente/",
     "fecha": "2026-10-06T14:57:45.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-8ndtra",
-    "titulo": "Panamá: agentes infiltrados contra sindicatos y movimientos",
-    "resumen": "Un expediente presentado ante la Fiscalía denuncia que al menos 24 agentes se infiltraron durante años en organizaciones sociales, lo que incluyó seguimientos, elaboración de perfiles y fabricación de acusaciones. En el contexto, la…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/panama-agentes-infiltrados-contra-sindicatos-y-movimientos/",
-    "fecha": "2026-10-06T14:40:11.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1bfoli2",
-    "titulo": "Argentina: Entrega tramposa a extranjeros de nuestro territorio básico",
-    "resumen": "El autor hace un recorrido por los caminos inconstitucionales, desde los cuales pretende legitimar el gobierno de Milei la entrega de tierras rurales esenciales a extranjeros.",
-    "seccion": "derechos",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/argentina-entrega-tramposa-a-extranjeros-de-nuestro-territorio-basico/",
-    "fecha": "2026-10-06T14:38:04.000Z",
     "estado": "pendiente"
   }
 ]
