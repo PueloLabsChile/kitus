@@ -1,5 +1,25 @@
 [
   {
+    "id": "pressenza-zdkrgz",
+    "titulo": "Biosfera en Acción: Clima y Corredores Biológicos",
+    "resumen": "En la La Reserva de la Biosfera de Fuerteventura se organizó los días 13 y 14 de octubre el Encuentro Internacional «Biosfera en Acción: Clima y Corredores Biológicos», que se celebraró en el Palacio de Formación y Congresos de…",
+    "seccion": "politica",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/biosfera-en-accion-clima-y-corredores-biologicos/",
+    "fecha": "2026-10-16T11:42:31.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "agencia-tierra-viva-n4uwb",
+    "titulo": "Las cuentas no cierran en Vaca Muerta: la fuga de dólares que oculta el relato extractivo",
+    "resumen": "La explotación de Vaca Muerta permitió el ingreso al país de casi dos mil millones de dólares entre lo que vendió y lo que pidió como préstamo durante 2026. Lejos de quedarse en el país, esas divisas volvieron al exterior y le permitieron…",
+    "seccion": "derechos",
+    "medio": "Agencia Tierra Viva",
+    "enlace": "https://agenciatierraviva.com.ar/las-cuentas-no-cierran-en-vaca-muerta-la-fuga-de-dolares-que-oculta-el-relato-extractivo/",
+    "fecha": "2026-10-16T11:10:13.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "global-voices-96gfcm",
     "titulo": "La tecnología al servicio del tráfico humano: Migrantes de Bangladesh se convierten en víctimas de captación en Camboya",
     "resumen": "Entre junio de 2023 y julio de 2026, 17,031 migrantes bangladesíes viajaron a Camboya para buscar trabajo.",
@@ -1177,26 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/que-significa-que-woody-allen-vaya-a-rodar-su-nueva-pelicula-en-madrid-293163",
     "fecha": "2026-10-07T17:31:20.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-12b9xm4",
-    "titulo": "El problema de la vivienda en España (2): 300.000 euros de multa por vivir en tu propia casa",
-    "resumen": "por Raúl Tejeros González",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/el-problema-de-la-vivienda-en-espana-2-300-000-euros-de-multa-por-vivir-en-tu-propia-casa/",
-    "fecha": "2026-10-07T16:32:18.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-b1u69n",
-    "titulo": "Nicaragua alinea su Constitución con la de Estados Unidos",
-    "resumen": "Las reformas electorales de Nicaragua buscan defender la soberanía popular mientras Washington intensifica su injerencia en las elecciones de América Latina.",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/nicaragua-alinea-su-constitucion-con-la-de-estados-unidos/",
-    "fecha": "2026-10-07T14:48:54.000Z",
     "estado": "pendiente"
   }
 ]
