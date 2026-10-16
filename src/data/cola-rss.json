@@ -1,5 +1,25 @@
 [
   {
+    "id": "global-voices-96gfcm",
+    "titulo": "La tecnología al servicio del tráfico humano: Migrantes de Bangladesh se convierten en víctimas de captación en Camboya",
+    "resumen": "Entre junio de 2023 y julio de 2026, 17,031 migrantes bangladesíes viajaron a Camboya para buscar trabajo.",
+    "seccion": "derechos",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/16/la-tecnologia-al-servicio-del-trafico-humano-migrantes-de-bangladesh-se-convierten-en-victimas-de-captacion-en-camboya/",
+    "fecha": "2026-10-16T07:00:40.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-19u2qsw",
+    "titulo": "En tiempos turbulentos, el fútbol lleva esperanza a Haití",
+    "resumen": "Muchos parques deportivos están en zonas controladas por pandillas, pero el fútbol haitiano no ha muerto",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/16/en-tiempos-turbulentos-el-futbol-lleva-esperanza-a-haiti/",
+    "fecha": "2026-10-16T06:00:58.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-ti9qyz",
     "titulo": "El virtuosismo de la gráfica en manos de Boris Campos Ernst",
     "resumen": "El artista trabaja con una suma de técnicas que le permiten, a la vez, expresarse con la certeza del gesto manual, así como arrojarse a la incertidumbre de una superficie entintada que irá acogiendo todas las decisiones expresivas de la…",
@@ -1177,26 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/nicaragua-alinea-su-constitucion-con-la-de-estados-unidos/",
     "fecha": "2026-10-07T14:48:54.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "agencia-tierra-viva-13vzsbd",
-    "titulo": "Marcos Pastrana y la sabiduría diaguita para pensar la época",
-    "resumen": "En Tafí del Valle, Tucumán, reside Marcos Pastrana, referente diaguita e histórico defensor de la naturaleza. Sus ideas, expresadas con las palabras justas y necesarias, invierten muchas veces el sentido común, convocan a ver la realidad…",
-    "seccion": "internacional",
-    "medio": "Agencia Tierra Viva",
-    "enlace": "https://agenciatierraviva.com.ar/marcos-pastrana-y-la-sabiduria-diaguita-para-pensar-la-epoca/",
-    "fecha": "2026-10-07T11:04:07.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-z2gmdh",
-    "titulo": "Equiparar la protesta con el terrorismo: Un discurso contra la disidencia",
-    "resumen": "El Gobierno del presidente estadounidense, Donald Trump, usa el término «terrorismo interno» para desacreditar a los manifestantes",
-    "seccion": "politica",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/07/equiparar-la-protesta-con-el-terrorismo-un-discurso-contra-la-disidencia/",
-    "fecha": "2026-10-07T07:00:40.000Z",
     "estado": "pendiente"
   }
 ]
