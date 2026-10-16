@@ -1,5 +1,25 @@
 [
   {
+    "id": "pressenza-1yuugfl",
+    "titulo": "La orfandad previsional: Pérdidas históricas en vísperas de un nuevo 18 de octubre",
+    "resumen": "La estrepitosa caída de los fondos de pensiones D y E es la ratificación irrefutable de que no estamos ante meras fluctuaciones del mercado o altibajos normales de largo plazo, como suele señalar la Asociación de AFP. Al contrario, es la…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/la-orfandad-previsional-perdidas-historicas-en-visperas-de-un-nuevo-18-de-octubre/",
+    "fecha": "2026-10-16T21:45:57.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-1m3jife",
+    "titulo": "Pueblos indígenas peruanos en Cutivireni y Oviri toman medidas contra incendios forestales en la Amazonía",
+    "resumen": "Los guardianes indígenas tienen un rol fundamental en proteger la tierra, sus hogares y sus medios de vida",
+    "seccion": "derechos",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/16/pueblos-indigenas-peruanos-en-cutivireni-y-oviri-toman-medidas-contra-incendios-forestales-en-la-amazonia/",
+    "fecha": "2026-10-16T21:00:42.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-rm63i",
     "titulo": "Tel Aviv: activistas de Ben-Gvir irrumpen en un acto de Mesarvot durante la proyección de un documental",
     "resumen": "La noche del jueves 15 de octubre, el conocido matón de ultraderecha Mordechai David y un grupo de militantes de Poder Judío, el partido de Itamar Ben-Gvir, irrumpieron en un acto organizado por la red Mesarvot en un club del centro de Tel…",
@@ -1177,26 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/la-cultura-del-poder/",
     "fecha": "2026-10-07T23:34:29.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "dialogue-earth-htxpip",
-    "titulo": "COP17: Can countries break deadlock on sharing benefits from nature’s digital data?",
-    "resumen": "When a pharmaceutical company uses genetic information from an Amazonian plant to develop a drug, or when an agribusiness company uses it to create a more drought-resistant crop, they are drawing on genetic information found in nature.",
-    "seccion": "internacional",
-    "medio": "Dialogue Earth",
-    "enlace": "https://dialogue.earth/es/naturaleza/cop17-can-countries-break-deadlock-on-sharing-benefits-from-natures-digital-data/",
-    "fecha": "2026-10-07T18:16:45.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "dialogue-earth-1r5p3a2",
-    "titulo": "COP17: ¿Pueden los países repartir los beneficios de los datos digitales de la naturaleza?",
-    "resumen": "Cuando una empresa farmacéutica utiliza información genética de una planta amazónica para desarrollar un medicamento, o cuando una empresa agroindustrial la utiliza para crear un cultivo más resistente a la sequía, están aprovechando la…",
-    "seccion": "internacional",
-    "medio": "Dialogue Earth",
-    "enlace": "https://dialogue.earth/es/naturaleza/cop17-pueden-paises-repartir-beneficios-datos-digitales-naturaleza/",
-    "fecha": "2026-10-07T18:16:45.000Z",
     "estado": "pendiente"
   }
 ]
