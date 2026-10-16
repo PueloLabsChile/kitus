@@ -1,5 +1,15 @@
 [
   {
+    "id": "pressenza-rm63i",
+    "titulo": "Tel Aviv: activistas de Ben-Gvir irrumpen en un acto de Mesarvot durante la proyección de un documental",
+    "resumen": "La noche del jueves 15 de octubre, el conocido matón de ultraderecha Mordechai David y un grupo de militantes de Poder Judío, el partido de Itamar Ben-Gvir, irrumpieron en un acto organizado por la red Mesarvot en un club del centro de Tel…",
+    "seccion": "cultura",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/tel-aviv-activistas-de-ben-gvir-irrumpen-en-un-acto-de-mesarvot-durante-la-proyeccion-de-un-documental/",
+    "fecha": "2026-10-16T19:59:06.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-pqipp6",
     "titulo": "Continentes y Contenidos #37 15/10/26 Encrucijadas latinoamericanas",
     "resumen": "Con el investigador del Centro Mundial de Estudios Humanistas Javier Tolcachier repasamos algunas de las encrucijadas sociales y políticas que vive el continente latinoamericano.",
@@ -1187,16 +1197,6 @@
     "medio": "Dialogue Earth",
     "enlace": "https://dialogue.earth/es/naturaleza/cop17-pueden-paises-repartir-beneficios-datos-digitales-naturaleza/",
     "fecha": "2026-10-07T18:16:45.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-n3l40z",
-    "titulo": "Cómo organizar una empresa familiar para facilitar su salida a los mercados de internacionales",
-    "resumen": "En España, las empresas familiares son la columna vertebral de la economía(https://www.iefamiliar.com/instituto-de-la-empresa-familiar/quienes-somos/la-empresa-familiar/relevancia-de-la-empresa-familiar): representan el 92 % del tejido…",
-    "seccion": "economia",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/como-organizar-una-empresa-familiar-para-facilitar-su-salida-a-los-mercados-de-internacionales-286976",
-    "fecha": "2026-10-07T17:32:50.000Z",
     "estado": "pendiente"
   }
 ]
