@@ -1,5 +1,25 @@
 [
   {
+    "id": "pressenza-pqipp6",
+    "titulo": "Continentes y Contenidos #37 15/10/26 Encrucijadas latinoamericanas",
+    "resumen": "Con el investigador del Centro Mundial de Estudios Humanistas Javier Tolcachier repasamos algunas de las encrucijadas sociales y políticas que vive el continente latinoamericano.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/continentes-y-contenidos-37-15-10-26-encrucijadas-latinoamericanas/",
+    "fecha": "2026-10-16T17:17:36.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-18zfmbq",
+    "titulo": "Is it better to vaccinate against COVID and flu together, or separately?",
+    "resumen": "As autumn sets in and temperatures fall across the northern hemisphere, vaccination campaigns are getting underway. Vaccination is not just the most effective way to prevent severe forms of infection and avoid hospital admissions – it also…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/is-it-better-to-vaccinate-against-covid-and-flu-together-or-separately-294394",
+    "fecha": "2026-10-16T14:04:36.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-zdkrgz",
     "titulo": "Biosfera en Acción: Clima y Corredores Biológicos",
     "resumen": "En la La Reserva de la Biosfera de Fuerteventura se organizó los días 13 y 14 de octubre el Encuentro Internacional «Biosfera en Acción: Clima y Corredores Biológicos», que se celebraró en el Palacio de Formación y Congresos de…",
@@ -1177,26 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/como-organizar-una-empresa-familiar-para-facilitar-su-salida-a-los-mercados-de-internacionales-286976",
     "fecha": "2026-10-07T17:32:50.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-9bycci",
-    "titulo": "No todo lo que es posible es deseable: lo que la filosofía aporta a la ingeniería",
-    "resumen": "Imaginemos el siguiente problema: estamos intentando enviar basura al espacio para evitar que siga acumulándose en la Tierra, pero todavía no somos capaces de hacerlo de manera eficiente. ¿Cómo podríamos solucionarlo?",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/no-todo-lo-que-es-posible-es-deseable-lo-que-la-filosofia-aporta-a-la-ingenieria-291892",
-    "fecha": "2026-10-07T17:32:11.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1ju0hji",
-    "titulo": "¿Qué significa que Woody Allen vaya a rodar su nueva película en Madrid?",
-    "resumen": "Octubre de 2026. Comienza el rodaje de la nueva película de Woody Allen en un territorio que todavía no ha conquistado: Madrid. Es la única capital de los cuatro países europeos en los que ha rodado –Reino Unido, Francia, Italia y España–…",
-    "seccion": "derechos",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/que-significa-que-woody-allen-vaya-a-rodar-su-nueva-pelicula-en-madrid-293163",
-    "fecha": "2026-10-07T17:31:20.000Z",
     "estado": "pendiente"
   }
 ]
