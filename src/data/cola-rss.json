@@ -1,5 +1,45 @@
 [
   {
+    "id": "global-voices-13cil2s",
+    "titulo": "“Un lugar de silencio, contemplación y belleza también puede volverse una forma de resistencia”, en conversación con el artista catalán Jaume Amigó",
+    "resumen": "«Los artistas no pueden escapar del estado actual del mundo. Con mi trabajo, intento buscar otra realidad…».",
+    "seccion": "cultura",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/17/un-lugar-de-silencio-contemplacion-y-belleza-tambien-puede-volverse-una-forma-de-resistencia-en-conversacion-con-el-artista-catalan-jaume-amigo/",
+    "fecha": "2026-10-17T06:00:18.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1tmj6ju",
+    "titulo": "Otro 18 de Octubre",
+    "resumen": "Año a año, numerosos sectores populares celebran uno de los acontecimientos más maravillosos de la moderna historia de Chile: el estallido de 18 de octubre de 2019. Es justo que lo celebremos. Es nuestra ‘revolución de octubre’ aunque…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/otro-18-de-octubre/",
+    "fecha": "2026-10-17T03:27:58.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1su8r1d",
+    "titulo": "Concesiones: ganar-ganar con más transparencia y equidad",
+    "resumen": "El sistema de concesiones ha sido una de las políticas públicas más exitosas de Chile. Gracias a la colaboración público-privada, nuestro país experimentó una transformación extraordinaria en infraestructura vial, portuaria y…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/concesiones-ganar-ganar-con-mas-transparencia-y-equidad/",
+    "fecha": "2026-10-17T02:55:48.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-x1hbbe",
+    "titulo": "Estados Unidos nunca ha sido aliado de Chile (IV)",
+    "resumen": "El antagonismo entre Chile y Estados Unidos llegó a su máxima gravedad con ocasión del desenlace de nuestra guerra civil de 1891. Estados Unidos había manifestado claramente sus simpatías por Balmaceda, resultado de lo cual decenas de…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/estados-unidos-nunca-ha-sido-aliado-de-chile-iv/",
+    "fecha": "2026-10-17T02:16:31.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "global-voices-18bunlr",
     "titulo": "Cómo una red extremista difundió una mentira que vinculaba al presidente brasileño Lula con el abuso infantil en X",
     "resumen": "El análisis de 1819 publicaciones reveló que usuarios de extrema derecha intentaron manipular a Grok, la herramienta de IA de X",
@@ -1157,46 +1197,6 @@
     "medio": "Global Voices",
     "enlace": "https://es.globalvoices.org/2026/10/08/movimiento-desde-detras-de-las-pantallas/",
     "fecha": "2026-10-08T07:00:50.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-620009",
-    "titulo": "Amplían licencia por maternidad en Bangladesh, pero las trabajadoras textiles siguen teniendo dificultades para atender a sus hijos",
-    "resumen": "«La sala de lactancia siempre estuvo ahí. Pero no había nadie que me trajera a mi bebé».",
-    "seccion": "economia",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/08/amplian-licencia-por-maternidad-en-bangladesh-pero-las-trabajadoras-textiles-siguen-teniendo-dificultades-para-atender-a-sus-hijos/",
-    "fecha": "2026-10-08T06:00:57.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-13c053x",
-    "titulo": "Feria Internacional del Libro «Escrito por ellas» reunirá a escritoras de todo el mundo en edición virtual",
-    "resumen": "Del 13 al 20 de octubre se desarrollará la FILE 2026, una gran fiesta virtual de la literatura femenina, en el marco del Día de las Escritoras.",
-    "seccion": "cultura",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/feria-internacional-del-libro-escrito-por-ellas-reunira-a-escritoras-de-todo-el-mundo-en-edicion-virtual/",
-    "fecha": "2026-10-08T04:41:45.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "dialogue-earth-l72jx1",
-    "titulo": "Medellín reverdeció para mantenerse fresca, pero el calor avanza más rápido",
-    "resumen": "Al mediodía en verano, la Avenida Oriental suele estar congestionada en ambas direcciones, con las aceras repletas de vendedores ambulantes que ofrecen comida y ropa.",
-    "seccion": "internacional",
-    "medio": "Dialogue Earth",
-    "enlace": "https://dialogue.earth/es/clima/medellin-reverdecio-para-mantenerse-fresca-pero-calor-avanza/",
-    "fecha": "2026-10-08T04:30:00.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-ueccgz",
-    "titulo": "¡La noviolencia es el camino: pequeñas acciones que van abriendo el futuro querido!",
-    "resumen": "Diversas acciones, en el marco del Día Internacional de la Noviolencia, desarrollaron en el Perú activistas por la noviolencia vinculados al Parque de Estudio y Reflexión Ihuanco y al humanismo universalista, en sus genuinos intentos por…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/la-noviolencia-es-el-camino-pequenas-acciones-que-van-abriendo-el-futuro-querido/",
-    "fecha": "2026-10-08T04:27:11.000Z",
     "estado": "pendiente"
   }
 ]
