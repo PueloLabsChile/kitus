@@ -1,5 +1,25 @@
 [
   {
+    "id": "global-voices-18bunlr",
+    "titulo": "Cómo una red extremista difundió una mentira que vinculaba al presidente brasileño Lula con el abuso infantil en X",
+    "resumen": "El análisis de 1819 publicaciones reveló que usuarios de extrema derecha intentaron manipular a Grok, la herramienta de IA de X",
+    "seccion": "politica",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/17/como-una-red-extremista-difundio-una-mentira-que-vinculaba-al-presidente-brasileno-lula-con-el-abuso-infantil-en-x/",
+    "fecha": "2026-10-17T01:00:24.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-rhdksz",
+    "titulo": "La Nación Humana Universal: Del mito social a la vereda de nuestro barrio",
+    "resumen": "Frente a la crisis de un mundo fragmentado, la Nación Humana Universal emerge no como una utopía lejana, sino como un mito movilizador necesario. Un recorrido desde Silo hasta la vereda del barrio para transformar la aspiración global en…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/la-nacion-humana-universal-del-mito-social-a-la-vereda-de-nuestro-barrio/",
+    "fecha": "2026-10-16T23:43:24.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-1yuugfl",
     "titulo": "La orfandad previsional: Pérdidas históricas en vísperas de un nuevo 18 de octubre",
     "resumen": "La estrepitosa caída de los fondos de pensiones D y E es la ratificación irrefutable de que no estamos ante meras fluctuaciones del mercado o altibajos normales de largo plazo, como suele señalar la Asociación de AFP. Al contrario, es la…",
@@ -1177,26 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/la-noviolencia-es-el-camino-pequenas-acciones-que-van-abriendo-el-futuro-querido/",
     "fecha": "2026-10-08T04:27:11.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1i3vdja",
-    "titulo": "Lía Méndez, ex diputada humanista argentina: «Si el sistema de derechos humanos efectivamente fuera ejercido por todos, no habría violencia»",
-    "resumen": "Te compartimos un extracto la entrevista a Lía Méndez en CPEtv Canal 2 de Santa Rosa, por la charla que dio en la Universidad Nacional de La Pampa, invitada por la Secretaría de Derechos Humanos de la provincia por el Día Internacional de…",
-    "seccion": "derechos",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/si-el-sistema-de-derechos-humanos-efectivamente-fuera-ejercido-por-todos-no-habria-violencia/",
-    "fecha": "2026-10-07T23:47:33.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1ascwik",
-    "titulo": "La cultura del poder",
-    "resumen": "Hay ideas que aparecen en nuestra vida mucho antes de que podamos comprender realmente su significado. Algunas permanecen durante años como una experiencia, una conversación o una pregunta que todavía no sabemos formular. Con el paso del…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/la-cultura-del-poder/",
-    "fecha": "2026-10-07T23:34:29.000Z",
     "estado": "pendiente"
   }
 ]
