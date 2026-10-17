@@ -1,5 +1,25 @@
 [
   {
+    "id": "pressenza-jxdf0y",
+    "titulo": "Gaza registra 1,4 millones de personas en riesgo alimentario",
+    "resumen": "En un comunicado divulgado con motivo del Día Mundial de la Alimentación, que se conmemora cada 16 de octubre, la institución alertó sobre el impacto de la escasez de alimentos en menores, mujeres embarazadas y lactantes, adultos mayores y…",
+    "seccion": "derechos",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/gaza-registra-14-millones-de-personas-en-riesgo-alimentario/",
+    "fecha": "2026-10-17T15:56:57.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-5rio2s",
+    "titulo": "Alzamiento del pueblo Wichi",
+    "resumen": "Formosa y Chaco, Argentina: Hay momentos en los que el silencio deja de ser una opción. El pasado 12 de octubre de 2026, mientras buena parte del mundo recordaba una fecha que para los pueblos originarios representa precisamente el…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/alzamiento-del-pueblo-wichi/",
+    "fecha": "2026-10-17T15:14:48.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "global-voices-13cil2s",
     "titulo": "“Un lugar de silencio, contemplación y belleza también puede volverse una forma de resistencia”, en conversación con el artista catalán Jaume Amigó",
     "resumen": "«Los artistas no pueden escapar del estado actual del mundo. Con mi trabajo, intento buscar otra realidad…».",
@@ -1177,26 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/dia-internacional-de-la-noviolencia-en-madrid-espana/",
     "fecha": "2026-10-08T09:30:50.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1t8y1r0",
-    "titulo": "¿Deberían separarse las campañas de vacunación de gripe y covid-19?",
-    "resumen": "Con la llegada del otoño y el descenso de las temperaturas, las campañas de vacunación frente a los virus respiratorios vuelven a situarse en el centro del debate de salud…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/deberian-separarse-las-campanas-de-vacunacion-de-gripe-y-covid-19-293713",
-    "fecha": "2026-10-08T08:54:31.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-1aopk1p",
-    "titulo": "Movimiento desde detrás de las pantallas",
-    "resumen": "Protestas en línea o presenciales, ¿qué efectividad tienen?",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/08/movimiento-desde-detras-de-las-pantallas/",
-    "fecha": "2026-10-08T07:00:50.000Z",
     "estado": "pendiente"
   }
 ]
