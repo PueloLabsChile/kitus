@@ -1,5 +1,15 @@
 [
   {
+    "id": "pressenza-1dxu1ic",
+    "titulo": "¿Quién tiene derecho a representar a la comunidad al completo? La batalla política en Míchigan",
+    "resumen": "A tres semanas de las elecciones generales del 3 de noviembre, la carrera al Senado en Míchigan ha entrado en una fase diferente.",
+    "seccion": "politica",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/quien-tiene-derecho-a-representar-a-la-comunidad-al-completo-la-batalla-politica-en-michigan/",
+    "fecha": "2026-10-18T22:03:13.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-1uqpk6x",
     "titulo": "La mancha del Quijote de la Mancha: Don Álvaro, Sancho y el espejo de la conciencia",
     "resumen": "Por: Dr. Rodrigo Díaz Bermúdez",
@@ -1187,16 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/melatonina-una-aliada-inesperada-contra-el-tumor-cerebral-mas-agresivo-293446",
     "fecha": "2026-10-08T18:03:16.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-z30gmc",
-    "titulo": "El estrés agrava la salud y puede provocar la muerte en personas mayores",
-    "resumen": "La muerte de Maricarmen Abascal(https://theconversation.com/como-la-muerte-de-maricarmen-se-ha-convertido-en-arma-politica-294014) puede haber sido una sorpresa para muchos. A pesar de que se había decidido que podía volver a su casa y…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/el-estres-agrava-la-salud-y-puede-provocar-la-muerte-en-personas-mayores-293980",
-    "fecha": "2026-10-08T18:03:10.000Z",
     "estado": "pendiente"
   }
 ]
