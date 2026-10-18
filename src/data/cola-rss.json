@@ -1,5 +1,25 @@
 [
   {
+    "id": "pressenza-1gi05ij",
+    "titulo": "La revuelta no necesita quién la conduzca",
+    "resumen": "por Alejandro Mora Donoso",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/la-revuelta-no-necesita-quien-la-conduzca/",
+    "fecha": "2026-10-18T01:21:58.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1o3ngql",
+    "titulo": "La sombra cerrada de la IA",
+    "resumen": "Lo que se pretende es adaptar la IA a nuestros espacios políticos, sociales y académicos, dar un salto cualitativo al fracaso, como mecanismo de aprendizaje. No cerrarnos en el facilismo programático, que lo único que hace es volver al ser…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/la-sombra-cerrada-de-la-ia/",
+    "fecha": "2026-10-18T00:44:35.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-nhnj1i",
     "titulo": "Jornada de protestas en Córdoba: Facultades tomadas.",
     "resumen": "En el marco de la lucha universitaria por el cumplimiento efectivo de la Ley de Financiamiento Universitario, se desarrolló en la última semana en la ciudad de Córdoba un plan de movilización previo a la 5ta Marcha Federal Universitaria.",
@@ -1177,26 +1197,6 @@
     "medio": "democraciaAbierta",
     "enlace": "https://www.opendemocracy.net/es/trump-activo-ruso-reform-farage-luke-harding/",
     "fecha": "2026-10-08T13:06:19.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-ft4tfo",
-    "titulo": "UVPT 2026: Los cuidados a las personas mayores, desde la experiencia de Sara Tajuelo",
-    "resumen": "Sara Tajuelo ha participado en la Universidad de Verano del Humanismo Universalista, en el espacio de Cuidados, como activista durante años por los derechos de las personas mayores en residencias y como miembro de El Mensaje de Silo.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/uvpt-2026-los-cuidados-a-las-personas-mayores-desde-la-experiencia-de-sara-tajuelo/",
-    "fecha": "2026-10-08T12:38:04.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-blzm30",
-    "titulo": "UVPT 2026: Revolución interna para una revolución humana",
-    "resumen": "Este año, la Universidad de Verano del Humanismo Universalista 2026(http://www.uvpt.org) del Parque Toledo ha congregado a diferentes espiritualidades en un espacio que ha tenido por título «Revolución interna para una revolución humana» y…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/uvpt-2026-revolucion-interna-para-una-revolucion-humana/",
-    "fecha": "2026-10-08T12:03:22.000Z",
     "estado": "pendiente"
   }
 ]
