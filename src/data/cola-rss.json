@@ -1,5 +1,25 @@
 [
   {
+    "id": "global-voices-l07z1y",
+    "titulo": "Mientras el escenario musical de Casablanca crece, sus músicos enfrentan dificultades",
+    "resumen": "Un auge cultural que se basa en el trabajo precario y no documentado",
+    "seccion": "cultura",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/18/mientras-el-escenario-musical-de-casablanca-crece-sus-musicos-enfrentan-dificultades/",
+    "fecha": "2026-10-18T06:00:16.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-gyhwvv",
+    "titulo": "Perú: Proponen medidas para combatir economías ilegales en la Amazonía",
+    "resumen": "Las economías ilegales como la minería ilegal de oro, narcotráfico, tala ilegal, tráfico de tierras y trata de personas, presentes en la Amazonía peruana, fueron abordadas el pasado 28 de setiembre en el taller “Más allá del crimen: ¿cómo…",
+    "seccion": "economia",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/peru-proponen-medidas-para-combatir-economias-ilegales-en-la-amazonia/",
+    "fecha": "2026-10-18T03:40:46.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-1gi05ij",
     "titulo": "La revuelta no necesita quién la conduzca",
     "resumen": "por Alejandro Mora Donoso",
@@ -1177,26 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/protestas-estudiantiles-en-francia-por-que-esta-vez-es-diferente-293966",
     "fecha": "2026-10-08T16:31:31.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-154wjbb",
-    "titulo": "Cómo la muerte de Maricarmen se ha convertido en arma política",
-    "resumen": "¿Quién está utilizando a Maricarmen? La pregunta ha entrado en el debate sobre su caso y amenaza con ocuparlo entero, especialmente tras su…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/como-la-muerte-de-maricarmen-se-ha-convertido-en-arma-politica-294014",
-    "fecha": "2026-10-08T16:31:25.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "democraciaabierta-qg3qey",
-    "titulo": "Trump, los sobornos rusos y el partido británico Reform",
-    "resumen": "Luke Harding estaba en Kiev el 24 de febrero de 2022 como corresponsal del diario británico The Guardian cuando Rusia comenzó a invadir Ucrania. Cinco años después, sigue cubriendo ese conflicto. Rusia se convirtió en la historia…",
-    "seccion": "politica",
-    "medio": "democraciaAbierta",
-    "enlace": "https://www.opendemocracy.net/es/trump-activo-ruso-reform-farage-luke-harding/",
-    "fecha": "2026-10-08T13:06:19.000Z",
     "estado": "pendiente"
   }
 ]
