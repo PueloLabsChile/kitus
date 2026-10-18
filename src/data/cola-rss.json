@@ -1,5 +1,45 @@
 [
   {
+    "id": "pressenza-1uqpk6x",
+    "titulo": "La mancha del Quijote de la Mancha: Don Álvaro, Sancho y el espejo de la conciencia",
+    "resumen": "Por: Dr. Rodrigo Díaz Bermúdez",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/la-mancha-del-quijote-de-la-mancha-don-alvaro-sancho-y-el-espejo-de-la-conciencia/",
+    "fecha": "2026-10-18T15:40:16.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1rlhxag",
+    "titulo": "Isabel Allende un premio y críticas a ultraderecha",
+    "resumen": "Los premios tienen la virtud de dar mayor visibilidad a los vencedores y aunque Isabel Allende no la necesita, sus críticas a la ultraderecha internacional cobran mayor relevancia.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/isabel-allende-un-premio-y-criticas-a-ultraderecha/",
+    "fecha": "2026-10-18T15:32:11.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-rwyf1b",
+    "titulo": "Gaza / Israel: a propósito del último informe de Francesca Albanese sobre responsabilidad de medios de prensa y genocidio en curso en Gaza (mención a la saga en Costa Rica sobre Naza incluida)",
+    "resumen": "Introducción",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/gaza-israel-a-proposito-del-ultimo-informe-de-francesca-albanese-sobre-responsabilidad-de-medios-de-prensa-y-genocidio-en-curso-en-gaza-mencion-a-la-saga-en-costa-rica-sobre-naza-incluida/",
+    "fecha": "2026-10-18T15:28:14.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1n5f49d",
+    "titulo": "Cuando el poder fabrica enemigos",
+    "resumen": "La fabricación de amenazas, las fronteras del miedo y la tragedia de millones de seres humanos que terminan pagando por guerras y decisiones que jamás eligieron.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/cuando-el-poder-fabrica-enemigos/",
+    "fecha": "2026-10-18T15:21:59.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "global-voices-l07z1y",
     "titulo": "Mientras el escenario musical de Casablanca crece, sus músicos enfrentan dificultades",
     "resumen": "Un auge cultural que se basa en el trabajo precario y no documentado",
@@ -1157,46 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/el-estres-agrava-la-salud-y-puede-provocar-la-muerte-en-personas-mayores-293980",
     "fecha": "2026-10-08T18:03:10.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1kyp0aq",
-    "titulo": "La Marcha Mundial por la Paz y la Noviolencia: un intento de sembrar y regar semillas hacia una revolución no violenta",
-    "resumen": "Cuando se habla de revolución, a menudo solo se imagina a multitudes invadiendo las calles de forma espectacular, a veces con violencia, asaltando edificios emblemáticos, etc., pero existe una forma de revolución más silenciosa que está…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/la-marcha-mundial-por-la-paz-y-la-noviolencia-un-intento-de-sembrar-y-regar-semillas-hacia-una-revolucion-no-violenta/",
-    "fecha": "2026-10-08T17:28:52.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-18mv4yp",
-    "titulo": "Cuba, el asedio estadounidense se intensifica cada vez más",
-    "resumen": "Las últimas y severas sanciones impuestas contra La Habana tienen como objetivo frenar cualquier intento de soberanía económica y golpear el sustento y la vida cotidiana de las familias cubanas.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/cuba-el-asedio-estadounidense-se-intensifica-cada-vez-mas/",
-    "fecha": "2026-10-08T17:07:49.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1as8mfp",
-    "titulo": "Crece el cisma en el Consejo de Seguridad: Reino Unido se posiciona junto a Francia contra el derecho de veto",
-    "resumen": "Estados Unidos, China, Rusia, Reino Unido y Francia tienen algo en común. Los “cinco grandes” cuentan con la capacidad de vetar proyectos de resoluciones del Consejo de Seguridad de Naciones Unidas(https://main.un.org/securitycouncil/es)…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/crece-el-cisma-en-el-consejo-de-seguridad-reino-unido-se-posiciona-junto-a-francia-contra-el-derecho-de-veto-293428",
-    "fecha": "2026-10-08T16:31:37.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-50yy77",
-    "titulo": "Protestas estudiantiles en Francia: por qué esta vez es diferente",
-    "resumen": "La movilización que ha impulsado el movimiento de los estudiantes de secundaria, que comenzó en los suburbios de París en septiembre de 2026, se inscribe en la continuidad de la acción de vuelta al…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/protestas-estudiantiles-en-francia-por-que-esta-vez-es-diferente-293966",
-    "fecha": "2026-10-08T16:31:31.000Z",
     "estado": "pendiente"
   }
 ]
