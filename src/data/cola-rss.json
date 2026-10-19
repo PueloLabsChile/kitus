@@ -1,5 +1,65 @@
 [
   {
+    "id": "agencia-tierra-viva-i0xwgq",
+    "titulo": "La nueva política contra el hambre se cocina en los comedores populares",
+    "resumen": "Tal vez un síntoma clave de la degradación social que atravesamos sea la profunda aceleración de la indolencia respecto al hambre de las otras y otros convivientes de esta Tierra que habitamos. Si bien no se trata de un fenómeno nuevo, sí…",
+    "seccion": "internacional",
+    "medio": "Agencia Tierra Viva",
+    "enlace": "https://agenciatierraviva.com.ar/la-nueva-politica-contra-el-hambre-se-cocina-en-los-comedores-populares/",
+    "fecha": "2026-10-19T21:31:20.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-je0auj",
+    "titulo": "¿Qué diablos le ha pasado a la izquierda?",
+    "resumen": "De dónde vengo",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/que-diablos-le-ha-pasado-a-la-izquierda/",
+    "fecha": "2026-10-19T21:28:52.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-scw1ea",
+    "titulo": "Anthropic reveló operación de IA que los periodistas de República Democrática del Congo no conocían",
+    "resumen": "La desinformación sobre las relaciones entre República Democrática del Congo y Ruanda debilita la posición diplomática y pública de ambos países.",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/19/anthropic-revelo-operacion-de-ia-que-los-periodistas-de-republica-democratica-del-congo-no-conocian/",
+    "fecha": "2026-10-19T21:00:28.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-bqz005",
+    "titulo": "En la ‘disuasión nuclear’: ¿quiénes son los verdaderos «Osos Amorosos»?",
+    "resumen": "A los partidarios del desarme nuclear se les despacha con frecuencia, por parte de los defensores a ultranza de la disuasión nuclear (nuclear deterrence), como ingenuos e irrealistas, utópicos o incluso irresponsables. Sin embargo, esa…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/en-la-disuasion-nuclear-quienes-son-los-verdaderos-osos-amorosos/",
+    "fecha": "2026-10-19T20:55:04.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-sbn1xm",
+    "titulo": "Las mujeres están más satisfechas con sus vidas, pero sienten más emociones negativas en su día a día",
+    "resumen": "¿Es posible estar satisfecho con la vida(https://es.wikipedia.org/wiki/Satisfacci%C3%B3nconlavida) y, al mismo tiempo, experimentar estrés, ansiedad o tristeza? Los datos muestran que sí, y que esta aparente contradicción aparece de forma…",
+    "seccion": "derechos",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/las-mujeres-estan-mas-satisfechas-con-sus-vidas-pero-sienten-mas-emociones-negativas-en-su-dia-a-dia-292560",
+    "fecha": "2026-10-19T17:24:24.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-kx7a78",
+    "titulo": "De Berlusconi a Donald Trump: los líderes que eligen mujeres destinadas a caer",
+    "resumen": "Katie Zacharia(https://www.youtube.com/watch?v=GVhMHHivVkQ) subió al atril de la Casa Blanca el pasado 13 de octubre para dar su primera rueda de prensa como portavoz. Duró 14 minutos y solo tres medios hicieron…",
+    "seccion": "derechos",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/de-berlusconi-a-donald-trump-los-lideres-que-eligen-mujeres-destinadas-a-caer-294734",
+    "fecha": "2026-10-19T17:24:17.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-1iwznjs",
     "titulo": "El bolero de los que ya no saben amar",
     "resumen": "Por Rodrigo Díaz Bermúdez",
@@ -1137,66 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/paisaje-de-formacion-cuando-nos-cambian-el-juego-y-nos-cambian-el-gusto/",
     "fecha": "2026-10-10T03:16:58.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1cj9l44",
-    "titulo": "Dime en qué gastas y te diré cuál es tu ideología",
-    "resumen": "Dime en qué gastas, dónde recortas y a quién le bajas los impuestos y te diré cuál es tu ideología. Los presupuestos de la Nación parecen estar llenos de cifras, planillas y lenguaje técnico, pero en realidad son profundamente políticos.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/dime-en-que-gastas-y-te-dire-cual-es-tu-ideologia/",
-    "fecha": "2026-10-10T02:47:48.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1569u6p",
-    "titulo": "La velocidad de los que no saben adónde van: Correr no siempre significa avanzar",
-    "resumen": "Mi hijo Nicolás apenas comenzaba sus clases de manejo cuando una noche tomó sin permiso las llaves del automóvil y decidió practicar por su cuenta.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/la-velocidad-de-los-que-no-saben-adonde-van-correr-no-siempre-significa-avanzar/",
-    "fecha": "2026-10-09T23:08:00.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1hjie8l",
-    "titulo": "Maricarmen, semilla de millones de indignados",
-    "resumen": "Lento fue el proceso,",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/maricarmen-semilla-de-millones-de-indignados/",
-    "fecha": "2026-10-09T20:49:34.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "agencia-tierra-viva-iof5ky",
-    "titulo": "Masabia: alimentos agroecológicos de una comuna santafesina con reconocimiento internacional",
-    "resumen": "Ubicada sobre la ruta 33, a mitad de camino entre Rosario y Pujato, la localidad de Zavalla puede autodenominarse con orgullo una comuna en transición agroecológica desde hace 15 años, a partir de la ordenanza que limitó las fumigaciones…",
-    "seccion": "internacional",
-    "medio": "Agencia Tierra Viva",
-    "enlace": "https://agenciatierraviva.com.ar/masabia-alimentos-agroecologicos-de-una-comuna-santafesina-con-reconocimiento-internacional/",
-    "fecha": "2026-10-09T20:45:18.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "democraciaabierta-1tjjx5e",
-    "titulo": "La ‘Doctrina Donroe’ en Brasil, Gaza y Maricarmen",
-    "resumen": "- Brasil y la ‘doctrina Donroe’: Trump busca en las urnas lo que no logró imponer con sanciones - El genocidio en Gaza: Por qué la complejidad no justifica la injusticia - Tiene 94 años, fue arrestada por Gaza y aún guarda esperanza - De…",
-    "seccion": "internacional",
-    "medio": "democraciaAbierta",
-    "enlace": "https://www.opendemocracy.net/trump-doctrina-donroe-brasil-gaza-maricarmen/",
-    "fecha": "2026-10-09T20:03:26.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1yabqpt",
-    "titulo": "Cruces de miradas",
-    "resumen": "Cuando los ojos de nuestros hermanos evolutivos nos recuerdan quiénes somos",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/cruces-de-miradas-2/",
-    "fecha": "2026-10-09T18:46:21.000Z",
     "estado": "pendiente"
   }
 ]
