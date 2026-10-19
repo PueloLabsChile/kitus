@@ -1,5 +1,35 @@
 [
   {
+    "id": "the-conversation-espana-1kfc6sk",
+    "titulo": "Los disturbios en Francia podrían allanar el camino a la extrema derecha",
+    "resumen": "Las protestas masivas en Francia, que han movilizado a entre 500 000 y 800 000 manifestantes(https://www.reuters.com/world/students-trade-unions-yellow-vests-set-protest-across-france-2026-10-17/) en ciudades y pueblos de todo el país, han…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/los-disturbios-en-francia-podrian-allanar-el-camino-a-la-extrema-derecha-294695",
+    "fecha": "2026-10-19T08:56:44.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-hdpjho",
+    "titulo": "Historia de un periodista birmano exiliado: Eco de la voz y resiliencia popular",
+    "resumen": "Un socio de Exile Hub cuenta sus experiencias personales y reflexiones",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/19/historia-de-un-periodista-birmano-exiliado-eco-de-la-voz-y-resiliencia-popular/",
+    "fecha": "2026-10-19T07:00:46.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-w1xz7g",
+    "titulo": "¿Quien es responsable de proteger y preservar las culturas indígenas?",
+    "resumen": "Existe una necesidad urgente de que más personas indígenas colaboren antes de que los pocos líderes que hay se agoten",
+    "seccion": "derechos",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/19/quien-es-responsable-de-proteger-y-preservar-las-culturas-indigenas/",
+    "fecha": "2026-10-19T06:00:38.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "the-conversation-espana-z9buvh",
     "titulo": "Las políticas de reducción de emisiones de los coches en Europa, Estados Unidos y China: diferentes estrategias con un mismo objetivo",
     "resumen": "El sector de la movilidad atraviesa una transformación sin precedentes impulsada por la necesidad de reducir las emisiones de CO₂ de los vehículos turismos debido a su papel en el cambio climático. Aunque la Unión Europea (UE), Estados…",
@@ -1167,36 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/la-audacia-de-traducir-a-anne-carson-premio-nobel-de-literatura-2026-294021",
     "fecha": "2026-10-09T09:16:15.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-1ckccyh",
-    "titulo": "En Tailandia, movimiento estudiantil crea “Teatro Esperanza” y hace del escenario su nuevo campo de batalla",
-    "resumen": "«Estudiantes Malos» lideró protestas por reformas democráticas en 2020",
-    "seccion": "cultura",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/09/en-tailandia-movimiento-estudiantil-crea-teatro-esperanza-y-hace-del-escenario-su-nuevo-campo-de-batalla/",
-    "fecha": "2026-10-09T07:00:19.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-7ajvra",
-    "titulo": "Plantas indígenas ofrecen a los ghaneses una alternativa a la costosa medicina occidental",
-    "resumen": "La Ghana rural depende del conocimiento de plantas tradicional por tres motivos: accesibilidad, precio y familiaridad",
-    "seccion": "derechos",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/09/las-plantas-indigenas-ofrecen-a-los-ghaneses-una-alternativa-a-la-cara-medicina-occidental/",
-    "fecha": "2026-10-09T06:00:20.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-ow6aee",
-    "titulo": "Estados Unidos nunca ha sido aliado de Chile (III)",
-    "resumen": "Los conflictos más severos entre Estados Unidos y Chile comenzaron con ocasión de la Guerra del Pacífico (1879-1883). Así, en agosto de 1879 –cuando Chile ya se había apoderado de todo el litoral boliviano- Estados Unidos intentó mediar a…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/estados-unidos-nunca-ha-sido-aliado-de-chile-iii/",
-    "fecha": "2026-10-09T01:34:20.000Z",
     "estado": "pendiente"
   }
 ]
