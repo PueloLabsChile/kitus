@@ -1,5 +1,35 @@
 [
   {
+    "id": "the-conversation-espana-z9buvh",
+    "titulo": "Las políticas de reducción de emisiones de los coches en Europa, Estados Unidos y China: diferentes estrategias con un mismo objetivo",
+    "resumen": "El sector de la movilidad atraviesa una transformación sin precedentes impulsada por la necesidad de reducir las emisiones de CO₂ de los vehículos turismos debido a su papel en el cambio climático. Aunque la Unión Europea (UE), Estados…",
+    "seccion": "derechos",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/las-politicas-de-reduccion-de-emisiones-de-los-coches-en-europa-estados-unidos-y-china-diferentes-estrategias-con-un-mismo-objetivo-292316",
+    "fecha": "2026-10-19T04:26:50.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-6a5cd9",
+    "titulo": "Los misteriosos anillos de Chariklo: una pieza más del puzle",
+    "resumen": "Recuerdo perfectamente una llamada telefónica que recibí a principios de 2014. Al otro lado estaba John Stansberry, del Space Telescope Science Institute (STScI) de…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/los-misteriosos-anillos-de-chariklo-una-pieza-mas-del-puzle-291913",
+    "fecha": "2026-10-19T04:26:09.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1ysdz74",
+    "titulo": "Un mensaje cálido y cercano escrito por IA, ¿demuestra la empatía del humano que lo firma?",
+    "resumen": "Un amigo nos cuenta por WhatsApp que está atravesando un momento difícil. Queremos responder, pero no encontramos las palabras. Pedimos a un sistema de inteligencia artificial que nos ayude a redactar un mensaje empático. El resultado es…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/un-mensaje-calido-y-cercano-escrito-por-ia-demuestra-la-empatia-del-humano-que-lo-firma-292007",
+    "fecha": "2026-10-19T04:25:31.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-2eccl",
     "titulo": "Los Medios de comunicación ven rabia en el movimiento juvenil francés, cuando en las grandes ciudades solo se canta y se baila",
     "resumen": "Veo a jóvenes que quieren ser reconocidos como seres humanos. De hecho, el ser humano, por encima de todo, tiene que ver con la libertad de elegir el propio futuro y las condiciones en las que se desea vivir. La juventud no necesita un…",
@@ -1167,36 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/estados-unidos-nunca-ha-sido-aliado-de-chile-iii/",
     "fecha": "2026-10-09T01:34:20.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-xvhm39",
-    "titulo": "La movilización de los jóvenes en Francia: una generación que exige ser escuchada",
-    "resumen": "Querida amiga, después de leer tus comentarios y compararlos con la información que circula sobre lo que está pasando estos días, creo que hay un punto importante: tu relato no es simplemente la descripción de una manifestación…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/la-movilizacion-de-los-jovenes-en-francia-una-generacion-que-exige-ser-escuchada/",
-    "fecha": "2026-10-08T22:50:00.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-9xfrxp",
-    "titulo": "Václav Havel: conmemoración del 90.º aniversario de su nacimiento",
-    "resumen": "El 5 de octubre, la República Checa conmemoró el 90.º aniversario del nacimiento de Václav Havel, dramaturgo, ensayista, disidente y primer presidente de la República Checa.",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/vaclav-havel-conmemoracion-del-90-o-aniversario-de-su-nacimiento/",
-    "fecha": "2026-10-08T22:03:50.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "agencia-tierra-viva-zkh8nf",
-    "titulo": "Mucha tierra en muy pocas manos: un plan para favorecer a las grandes empresas globales",
-    "resumen": "La decisión del gobierno de Javier Milei de buscar estrategias jurídicas —DNU 70/2023, Ley de Inviolabilidad de la Propiedad Privada— para derogar la Ley de Tierras y la decisión de la Corte Suprema de validar la derogación sin revisar su…",
-    "seccion": "politica",
-    "medio": "Agencia Tierra Viva",
-    "enlace": "https://agenciatierraviva.com.ar/mucha-tierra-en-muy-pocas-manos-un-plan-para-favorecer-a-las-grandes-empresas-globales/",
-    "fecha": "2026-10-08T21:09:15.000Z",
     "estado": "pendiente"
   }
 ]
