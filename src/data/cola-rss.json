@@ -1,5 +1,15 @@
 [
   {
+    "id": "pressenza-2eccl",
+    "titulo": "Los Medios de comunicación ven rabia en el movimiento juvenil francés, cuando en las grandes ciudades solo se canta y se baila",
+    "resumen": "Veo a jóvenes que quieren ser reconocidos como seres humanos. De hecho, el ser humano, por encima de todo, tiene que ver con la libertad de elegir el propio futuro y las condiciones en las que se desea vivir. La juventud no necesita un…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/los-medios-de-comunicacion-ven-rabia-en-el-movimiento-juvenil-frances-cuando-en-las-grandes-ciudades-solo-se-canta-y-se-baila/",
+    "fecha": "2026-10-18T23:32:08.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-1dxu1ic",
     "titulo": "¿Quién tiene derecho a representar a la comunidad al completo? La batalla política en Míchigan",
     "resumen": "A tres semanas de las elecciones generales del 3 de noviembre, la carrera al Senado en Míchigan ha entrado en una fase diferente.",
@@ -1187,16 +1197,6 @@
     "medio": "Agencia Tierra Viva",
     "enlace": "https://agenciatierraviva.com.ar/mucha-tierra-en-muy-pocas-manos-un-plan-para-favorecer-a-las-grandes-empresas-globales/",
     "fecha": "2026-10-08T21:09:15.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-12lr77e",
-    "titulo": "Melatonina: una aliada inesperada contra el tumor cerebral más agresivo",
-    "resumen": "En los botiquines de muchas casas, es probable que encuentre un bote de melatonina. Hay quien la consume para combatir el jet lag y quien recurre a ella para conciliar el sueño. Lo que pocos imaginan es que esa misma molécula se estudia en…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/melatonina-una-aliada-inesperada-contra-el-tumor-cerebral-mas-agresivo-293446",
-    "fecha": "2026-10-08T18:03:16.000Z",
     "estado": "pendiente"
   }
 ]
