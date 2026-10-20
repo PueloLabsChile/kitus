@@ -1,5 +1,45 @@
 [
   {
+    "id": "pressenza-pcy9lg",
+    "titulo": "Parques infantiles",
+    "resumen": "No juguemos con la salud de nuestros niños",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/parques-infantiles/",
+    "fecha": "2026-10-20T09:05:02.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-13yaxzw",
+    "titulo": "Francia 2026: ¿Estamos a las puertas de otro Mayo del 68?",
+    "resumen": "La crisis política francesa tiene su propia historia y su propia cultura. La calle lleva mucho tiempo siendo una forma de diálogo entre la sociedad y el Estado, y la huelga general, una manera de hacerle entender al poder aquello que no…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/francia-2026-estamos-a-las-puertas-de-otro-mayo-del-68-294728",
+    "fecha": "2026-10-20T08:38:51.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-c254qg",
+    "titulo": "Lo que #EndSARS dejó en Nigeria: Una generación atrapada entre la protesta, la política y la emigración",
+    "resumen": "EndSARS fue más que una protesta contra la violencia policial: se convirtió en un punto de partida para la toma de conciencia política.",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/20/lo-que-endsars-dejo-en-nigeria-una-generacion-atrapada-entre-la-protesta-la-politica-y-la-emigracion/",
+    "fecha": "2026-10-20T07:00:04.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-1gs1hz1",
+    "titulo": "Sociedad civil surcoreana se niega a despliegue militar en el estrecho de Ormuz",
+    "resumen": "‘No podemos permitir que nuestros jóvenes se conviertan en víctimas de una injusta guerra de agresión’",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/20/sociedad-civil-surcoreana-se-niega-a-despliegue-militar-en-el-estrecho-de-ormuz/",
+    "fecha": "2026-10-20T06:00:54.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-198w9tq",
     "titulo": "La normalidad del mal: reflexiones sobre el documental “NAZA”",
     "resumen": "La caracterización de Hannah Arendt de Eichmann como representante de “La Banalidad del Mal”, el subtítulo de su libro Eichmann en Jerusalén, conmocionó a muchas personas. Más tarde fue criticado a raíz del descubrimiento de los…",
@@ -1157,46 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/en-europa-esta-sucediendo-algo-unico-con-la-generacion-joven/",
     "fecha": "2026-10-10T16:22:19.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1pjguuq",
-    "titulo": "¿Qué entendemos realmente por violencia?",
-    "resumen": "¿Puede existir la violencia sin dejar un moretón? Como se exploró en un artículo anterior de Pressenza(https://www.pressenza.com/2026/09/when-violence-leaves-no-bruise-is-it-even-violence/), la respuesta parece obvia cuando se considera el…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/que-entendemos-realmente-por-violencia/",
-    "fecha": "2026-10-10T16:05:14.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-lbacsj",
-    "titulo": "Carta abierta, y larga, al progresismo español",
-    "resumen": "Estimadas y estimados progresistas de esta España y de aquello que antes denominábamos izquierdas:",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/carta-abierta-y-larga-al-progresismo-espanol/",
-    "fecha": "2026-10-10T15:17:00.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-cp83w0",
-    "titulo": "El arte callejero ha muerto y Rusia se llena de arte bélico monumental",
-    "resumen": "En el extranjero, arte y protesta toman caminos separados",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/10/el-arte-callejero-ha-muerto-y-rusia-se-llena-de-arte-belico-monumental/",
-    "fecha": "2026-10-10T06:00:20.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1b5zfdv",
-    "titulo": "Discapacidad en el Perú: de los derechos escritos a los derechos que se viven",
-    "resumen": "Cada 16 de octubre, el Perú conmemora el Día Nacional de la Persona con Discapacidad. Es una fecha que debería servir para reconocer avances, pero también para hacernos una pregunta incómoda: ¿cuánto de lo que el Estado promete se está…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/discapacidad-en-el-peru-de-los-derechos-escritos-a-los-derechos-que-se-viven/",
-    "fecha": "2026-10-10T03:34:56.000Z",
     "estado": "pendiente"
   }
 ]
