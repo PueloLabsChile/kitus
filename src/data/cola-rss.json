@@ -1,5 +1,25 @@
 [
   {
+    "id": "agencia-tierra-viva-usezfg",
+    "titulo": "Elecciones en Brasil: deforestación, frontera agrícola y ultraderecha",
+    "resumen": "“La frontera agrícola avanza expropiando, y la expropiación necesita de apoyo político”, escribe el abogado en derechos humanos Diogo Cabral en un trabajo que cruza datos para intentar comprender dónde y cómo se produce el avance de la…",
+    "seccion": "derechos",
+    "medio": "Agencia Tierra Viva",
+    "enlace": "https://agenciatierraviva.com.ar/elecciones-en-brasil-deforestacion-frontera-agricola-y-ultraderecha/",
+    "fecha": "2026-10-20T22:29:53.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1478pjq",
+    "titulo": "Manifiesto del pacto político que anhelo en mi país",
+    "resumen": "Estimados ciudadanos de mi país:",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/manifiesto-del-pacto-politico-que-anhelo-en-mi-pais-2/",
+    "fecha": "2026-10-20T20:40:13.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "the-conversation-espana-1riii2w",
     "titulo": "Lo que los disturbios de Francia enseñan a España sobre la gestión de emergencias",
     "resumen": "Una ambulancia necesita llegar a una vivienda, pero la calle está cortada. A unas manzanas, los bomberos atienden un incendio mientras llegan nuevos avisos. En otro barrio, una persona espera asistencia por un problema de salud ajeno a los…",
@@ -1177,26 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/continentes-y-contenidos-36-08-10-26-en-la-mira-2-ineguridad-digital-en-america-latina/",
     "fecha": "2026-10-11T13:40:14.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-qdkky",
-    "titulo": "La Corte Penal Internacional está bajo ataque",
-    "resumen": "El 9 de octubre, apenas unas horas después de que se anunciara la concesión del Premio Nobel de la Paz a Navi Pillay, exjueza de la Corte Penal Internacional (CPI), la administración Trump impuso sus más recientes…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/la-corte-penal-internacional-esta-bajo-ataque/",
-    "fecha": "2026-10-11T12:32:35.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1wlbvk",
-    "titulo": "El antídoto contra la discriminación en la salud",
-    "resumen": "En la incesante búsqueda de la eficiencia, y a veces de la rentabilidad, los sistemas sanitarios modernos han caído con frecuencia en la trampa de la estandarización masiva. Se diseñan protocolos rígidos que, si bien son útiles…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/el-antidoto-contra-la-discriminacion-en-la-salud/",
-    "fecha": "2026-10-11T10:52:53.000Z",
     "estado": "pendiente"
   }
 ]
