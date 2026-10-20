@@ -1,5 +1,25 @@
 [
   {
+    "id": "pressenza-1o5yldd",
+    "titulo": "Pronunciamiento humanista sobre las elecciones en Brasil",
+    "resumen": "El proceso electoral brasileño trasciende las fronteras nacionales y se inscribe en una encrucijada histórica mundial: la pugna entre el proyecto humanizador y la escalada internacional del antihumanismo. Esa misma dinámica destructiva…",
+    "seccion": "politica",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/pronunciamiento-humanista-sobre-las-elecciones-en-brasil/",
+    "fecha": "2026-10-20T15:01:51.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1kxrex3",
+    "titulo": "¿El asesinato del chavismo?",
+    "resumen": "Puede sorprender la campaña que desde los medios hegemónicos y declaraciones de políticos y opinadores se ha desatado contra el chavismo, habida cuenta que la operación estadounidense del 3 de enero, que terminó con el secuestro del…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/el-asesinato-del-chavismo/",
+    "fecha": "2026-10-20T13:03:15.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-pcy9lg",
     "titulo": "Parques infantiles",
     "resumen": "No juguemos con la salud de nuestros niños",
@@ -1177,26 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/mamdani-fuera-el-ice-de-nueva-york/",
     "fecha": "2026-10-10T20:04:30.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-zy3rkj",
-    "titulo": "El Nuevo Humanismo en la Feria Internacional del Libro en el Zócalo de Ciudad de México",
-    "resumen": "Minutos después de la Inauguración de la Feria Internacional del Libro en el Zócalo de la Ciudad de México, a cargo de la Jefa de Gobierno, Clara Brugada y la Secretaria de Cultura, Ana Francis, y a pesar de la lluvia, en el Foro Rodolfo…",
-    "seccion": "cultura",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/el-nuevo-humanismo-en-la-feria-internacional-del-libro-en-el-zocalo-de-ciudad-de-mexico/",
-    "fecha": "2026-10-10T18:06:00.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-rvtybs",
-    "titulo": "En Europa está sucediendo algo único con la generación joven",
-    "resumen": "Lo que comenzó como una pequeña protesta en Madrid para defender a una mujer de 87 años que fue violentamente expulsada de su departamento donde vivió desde que tenía 17 años, en que en solo un día creció convirtiéndose en una movilización…",
-    "seccion": "derechos",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/en-europa-esta-sucediendo-algo-unico-con-la-generacion-joven/",
-    "fecha": "2026-10-10T16:22:19.000Z",
     "estado": "pendiente"
   }
 ]
