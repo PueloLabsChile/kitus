@@ -1,0 +1,41 @@
+---
+titulo: "La normalidad del mal: reflexiones sobre el documental “NAZA”"
+bajada: "La caracterización de Hannah Arendt de Eichmann como representante de “La Banalidad del Mal”, el subtítulo de su libro Eichmann en Jerusalén, conmocionó a muchas personas. Más tarde fue criticado a raíz del descubrimiento de los…"
+seccion: cultura
+autor: medios-aliados
+fecha: 2026-10-19
+fechaIncorporacion: 2026-10-20T00:44:06.653Z
+etiquetas: ["Pressenza"]
+origen: sindicada
+firma: "Yakov M. Rabkin"
+fuente: "Pressenza"
+fuenteUrl: "https://www.pressenza.com/es/"
+original: "https://www.pressenza.com/es/2026/10/la-normalidad-del-mal-reflexiones-sobre-el-documental-naza/"
+licencia: "CC BY 4.0"
+licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+---
+La caracterización de Hannah Arendt de Eichmann como representante de “La Banalidad del Mal”, el subtítulo de su libro *Eichmann en Jerusalén*, conmocionó a muchas personas. Más tarde fue criticado a raíz del descubrimiento de los pronunciamientos antisemitas de su protagonista, desconocidos durante su juicio. La nueva película [NAZA](https://www.theguardian.com/film/naza), que documenta los mecanismos internos del genocidio de Gaza trae el concepto de la banalidad del escenario del mal nuevamente. Excepto que esta vez tenemos los testimonios de dos docenas de perpetradores que, a diferencia de Eichmann, no se enfrentan a un tribunal, sino que comparten su experiencia principalmente de manera casual y relajada, algunos con orgullo de su logro, otros con remordimiento. Suenan como hombres y mujeres normales de clase media concienzudamente haciendo su desafiante trabajo de alta tecnología. Estos israelíes encarnan algo diferente de los nazis que trataron de ocultar sus crímenes a su propio pueblo, a quien temían que no los apoyaran. La nueva película trata sobre la normalidad del mal en una sociedad que ha aceptado en gran medida el genocidio que tiene lugar a menos de cuarenta millas al sur de Tel Aviv.
+
+Los veinticuatro perpetradores entrevistados en la película pertenecen a unidades de inteligencia de élite que aprovechan el poder de la IA y la vigilancia total para destruir Gaza. No son “odiadores árabes”, comenta uno de los entrevistados. Sin embargo, él cree que mató a más mujeres y niños que el odiador árabe más feroz. Por muy aborrecibles que tengan lugar los actuales pogromos de Cisjordania contra los palestinos por parte de vigilantes sionistas de ocupantes ilegales que tienen lugar bajo la mirada simpática y la asistencia ocasional de las FDI, la magnitud del asesinato en masa de civiles en Gaza es incomparablemente mayor.
+
+Los perpetradores provienen de clases privilegiadas de lujo, Tel Aviv, el fondo visual de toda la película. Entre los leitmotivs de los testimonios están la disposición a obedecer órdenes y el deleite de superar los difíciles desafíos técnicos (*technodélice*, como lo definió el difunto Jean-Jacques Salomon). “Fue divertido (*kef*)”, admitió uno de los perpetradores.
+
+*NAZA* es un acrónimo hebreo de daños colaterales. La asociación con los “nazis” no es fortuita; uno de los perpetradores compara su experiencia con la de los nazis involucrados en asesinatos en masa industrializados, aunque menos sofisticados, a principios de los años cuarenta. Cuando, como muchos jóvenes israelíes (y judíos de otros lugares), fue llevado a visitar los campos de exterminio nazis, se preguntó cómo estos nazis podrían cambiar a la vida normal después de matar a miles de personas al día. Ahora, admite, él sabe. Se reunía con amigos después de un día de matar en su mayoría a mujeres y niños y disfrutar de su noche.
+
+Inicialmente, ni los nazis ni los sionistas pretendían cometer genocidio. En sus fantasías nacionalistas exclusivistas, los nacionalsocialistas alemanes querían expulsar a los indeseables, hacer que la “purificación”, expandiera Alemania de nuevo y, en el caso de los sionistas socialistas en el poder en 1948 y 1967, cuando se produjeron expulsiones masivas, convertir a Palestina en un “Estado judío”. Ambos tenían lujuria de la tierra: los nazis querían tierras fértiles en Europa del Este “limpiadas” de la mayoría de los eslavos y todos los judíos, mientras que los críticos y las figuras políticas por igual han descrito la estrategia territorial de Israel como una búsqueda de “un máximo de territorio con un mínimo de árabes”.
+
+Desde el cambio del siglo XX, los pioneros sionistas pusieron un fuerte énfasis en la cría del intrépido y valiente Nuevo Hombre Hebreo que había roto con la victimización del pasado. En su elogio por Theodor Herzl en 1904, Vladimir Jabotinsky, quien estableció y dio forma a la corriente ahora dominante del sionismo, definió la nueva criatura así:
+
+Nuestro punto de partida es tomar el típico *Yid* de hoy y imaginar su opuesto diametral … porque el *Yid* es feo, enfermizo y carece de decoro, dotaremos de la imagen ideal del hebreo con             belleza masculina. El* Yid* es pisoteado y fácilmente asustado y, por lo tanto, el hebreo debe ser orgulloso e independiente.
+
+Fue solo más tarde, frente a la resistencia encaminada por el movimiento de colonos, que los israelíes asumieron el papel de víctimas inocentes, obligadas a defenderse. Las visitas a los campos de exterminio nazis son componentes esenciales de las herramientas didácticas utilizadas para forjar combatientes de nariz dura. No es de extrañar que la mayoría de ellos llamaran al ataque contra el sur de Israel en octubre de 2023 “la mayor masacre de judíos desde el Holocausto”. Totalmente perdida estaba la diferencia entre los civiles judíos impotentes atacados por los nazis y el poderoso estado judío que había expulsado y confinado a los palestinos en un campo de concentración al aire libre en Gaza. Refiriéndose a la violencia que desencadenan, los israelíes a menudo usan la expresión *ein brera* (“no hay elección”), que preserva su autoimagen y justifica los excesos. Así es como el genocidio ha hecho metástasis desde Europa hasta Asia Occidental.
+
+Los protagonistas de la película explican cómo utilizan tecnología sofisticada para examinar cada comunicación telefónica de los palestinos. Una de las frases que la IA extrae de millones de conversaciones es “¿Cuándo regresa papá a casa?” Así es como se toma la decisión de destruir la casa del sospechoso junto con su esposa e hijos. Detrás de las pantallas de sus computadoras, aquellos que determinan tales objetivos pueden escuchar más tarde los gritos de los niños heridos que estaban esperando a sus padres unos minutos antes.
+
+Israel, muchos de cuyos políticos abiertamente abogan y persiguen políticas fascistas, está justamente orgulloso de ser un líder mundial en innovación tecnológica, una “Nación Start-up”. Su ventaja cualitativa sobre sus vecinos, garantizada en la ley estadounidense, implica una estrecha cooperación con el complejo militar-industrial-digital de Estados Unidos. La próxima legislación incorporará formalmente al ejército israelí en ella. A diferencia de Ucrania, que sirve principalmente como campo de pruebas para Palantir y otros facilitadores occidentales de la guerra de alta tecnología, los científicos e ingenieros israelíes contribuyen activamente al desarrollo de nuevos sistemas como Lavanda, que son ampliamente utilizados contra los palestinos. Todo esto sucede dentro del ecosistema más grande de apoyo financiero, material y estratégico de los Estados Unidos. No solo Washington, Berlín y Londres, sino que incluso Belgrado mantiene la línea de vida, o más bien la línea de la muerte, de municiones, material y servicios en la nube a Israel. Estos le permiten no solo oprimir y matar palestinos, sino también atacar a otros países, haciendo, como admitió el canciller Merz de Alemania, “el trabajo sucio para todos nosotros”. No hay duda de que Merz y sus homólogos occidentales estaban al tanto de los métodos que la nueva película expone al público.
+
+[Yakov M. Rabkin](https://www.pressenza.com/es/author/yakov-m-rabkin/)
+
+---
+
+*Publicado originalmente en [Pressenza](https://www.pressenza.com/es/2026/10/la-normalidad-del-mal-reflexiones-sobre-el-documental-naza/) el 19 de octubre de 2026. Reproducido por Kitus bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es). El texto no fue modificado.*
