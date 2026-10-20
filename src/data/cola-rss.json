@@ -1,5 +1,45 @@
 [
   {
+    "id": "the-conversation-espana-1riii2w",
+    "titulo": "Lo que los disturbios de Francia enseñan a España sobre la gestión de emergencias",
+    "resumen": "Una ambulancia necesita llegar a una vivienda, pero la calle está cortada. A unas manzanas, los bomberos atienden un incendio mientras llegan nuevos avisos. En otro barrio, una persona espera asistencia por un problema de salud ajeno a los…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/lo-que-los-disturbios-de-francia-ensenan-a-espana-sobre-la-gestion-de-emergencias-294749",
+    "fecha": "2026-10-20T16:48:59.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-suzm6u",
+    "titulo": "Elderly women are often victims of gender-based violence. Why is it so hard for them to get help?",
+    "resumen": "In 1997, Ana Orantes appeared on an Andalusian television programme to recount a lifetime of abuse at the hands of her husband. Just a few days after her harrowing testimony, she was brutally murdered by her…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/elderly-women-are-often-victims-of-gender-based-violence-why-is-it-so-hard-for-them-to-get-help-294742",
+    "fecha": "2026-10-20T16:42:33.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "democraciaabierta-5xn6xc",
+    "titulo": "Periodismo en México: Anatomía de un silencio",
+    "resumen": "Esta es una versión traducida y editada de un artículo publicado originalmente(https://lab.imedd.org/en/journalism-in-mexico-anatomy-of-a-silence/?ref=opendemocracy.net) en iMEdD(https://www.imedd.org/?ref=opendemocracy.net) (Incubator for…",
+    "seccion": "internacional",
+    "medio": "democraciaAbierta",
+    "enlace": "https://www.opendemocracy.net/es/mexico-periodismo-asesinatos-persecucion-crimen-organizado-gobierno-censura-silencio/",
+    "fecha": "2026-10-20T16:04:14.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-12mqqoh",
+    "titulo": "¿Por qué todos los carteles hechos con IA son iguales?",
+    "resumen": "Ayuntamientos, asociaciones vecinales, comisiones de fiestas y pequeños negocios presentan carteles para anunciar sus actividades. Algo está llamando la atención: muchos parecen pertenecer a un mismo universo visual.",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/por-que-todos-los-carteles-hechos-con-ia-son-iguales-293759",
+    "fecha": "2026-10-20T16:01:57.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-1o5yldd",
     "titulo": "Pronunciamiento humanista sobre las elecciones en Brasil",
     "resumen": "El proceso electoral brasileño trasciende las fronteras nacionales y se inscribe en una encrucijada histórica mundial: la pugna entre el proyecto humanizador y la escalada internacional del antihumanismo. Esa misma dinámica destructiva…",
@@ -17,6 +57,16 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/el-asesinato-del-chavismo/",
     "fecha": "2026-10-20T13:03:15.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "dialogue-earth-ur7rx2",
+    "titulo": "Cartas sobre la Antártica: ‘Nos preocupa el mismo tema’",
+    "resumen": "Esta semana, los gobiernos se reúnen en Australia para debatir cómo gestionar la Antártica y sus vastos recursos.",
+    "seccion": "internacional",
+    "medio": "Dialogue Earth",
+    "enlace": "https://dialogue.earth/es/naturaleza/cartas-antartica-nos-preocupa-el-mismo-tema/",
+    "fecha": "2026-10-20T09:57:21.000Z",
     "estado": "pendiente"
   },
   {
@@ -1147,56 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/el-antidoto-contra-la-discriminacion-en-la-salud/",
     "fecha": "2026-10-11T10:52:53.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-g036y3",
-    "titulo": "Cuba abrirá coloquio internacional sobre culturas originarias",
-    "resumen": "La Casa de las Américas de La Habana presentó hoy el programa de su VII Coloquio Internacional de Estudios sobre Culturas Originarias de América, que acogerá en su sede del 12 al 15 de octubre.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/cuba-abrira-coloquio-internacional-sobre-culturas-originarias/",
-    "fecha": "2026-10-11T10:00:01.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-18vzvc",
-    "titulo": "[Perú] El 13 Festival de Cine de Trujillo celebra el cine peruano con 50 películas en competencia",
-    "resumen": "El FECIT apuesta por la cultura y se alista para celebrar lo mejor del cine peruano del 16 al 24 de octubre.",
-    "seccion": "cultura",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/peru-el-13-festival-de-cine-de-trujillo-celebra-el-cine-peruano-con-50-peliculas-en-competencia/",
-    "fecha": "2026-10-11T09:55:33.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-e5k7m",
-    "titulo": "«Nido-flix»: Halcones peregrinos que conquistan transmisiones continuas desde el piso 34 en Australia",
-    "resumen": "«La pareja estrella de Melbourne vuelve a las alturas y este año ha puesto cuatro huevos».",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/11/nido-flix-hlcones-peregrinos-que-conquistan-transmisiones-continuas-desde-el-piso-34-en-australia/",
-    "fecha": "2026-10-11T06:00:29.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-ia3002",
-    "titulo": "Perú: brigadistas Asháninkas se organizan para apoyar incendios forestales en el centro del país",
-    "resumen": "Ante el avance de incendios forestales de nivel 03 en el centro del país, en la región Junín, diversas organizaciones sociales de base, como la Central Asháninka del Río Ene (CARE) y el Gobierno Regional de Junín han desplegado esfuerzos…",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/peru-brigadistas-ashaninkas-se-organizan-para-apoyar-incendios-forestales-en-el-centro-del-pais/",
-    "fecha": "2026-10-11T03:01:26.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-jk3fsw",
-    "titulo": "Mamdani: «¡Fuera el ICE de Nueva York!»",
-    "resumen": "El jueves 8 de octubre, en el barrio Marble Hill del Bronx, Nueva York, alrededor de las 16, un agente del ICE (Servicio de Inmigración y Control de Aduanas) disparó siete tiros e hirió en el cuello a un hombre de origen dominicano durante…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/mamdani-fuera-el-ice-de-nueva-york/",
-    "fecha": "2026-10-10T20:04:30.000Z",
     "estado": "pendiente"
   }
 ]
