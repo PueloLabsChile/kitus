@@ -1,5 +1,55 @@
 [
   {
+    "id": "pressenza-1p4p48q",
+    "titulo": "Marianne con las manos mutiladas",
+    "resumen": "Hay días en que la República se mira al espejo y no reconoce su propio rostro. Francia, esa vieja señora de la libertad, la igualdad y la fraternidad, ha terminado por contemplar cómo sus hijos trepan por las piernas de sus monumentos para…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/marianne-con-las-manos-mutiladas/",
+    "fecha": "2026-10-21T19:29:56.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1edj2q9",
+    "titulo": "Elena Montes debuta en la novela con Hacía falta, una inquietante exploración de la muerte, la identidad y los vínculos familiares .",
+    "resumen": "La novela sigue a Clara adolescente, una que intenta encontrar su lugar en una realidad que a menudo le resulta ajena. A través de su mirada aguda y desapegada, Hacía falta explorar la complejidad de las relaciones familiares…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/elena-montes-debuta-en-la-novela-con-hacia-falta-una-inquietante-exploracion-de-la-muerte-la-identidad-y-los-vinculos-familiares/",
+    "fecha": "2026-10-21T19:17:53.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-pfkoat",
+    "titulo": "¿Por qué cuesta cada vez más acceder a una vivienda?",
+    "resumen": "El problema de la dificultad de acceso a una vivienda digna lleva meses en el centro del debate público en España. No obstante, fue el desahucio de la octogenaria Maricarmen…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/por-que-cuesta-cada-vez-mas-acceder-a-una-vivienda-294604",
+    "fecha": "2026-10-21T16:06:37.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1fwsh8c",
+    "titulo": "El modelo de bienestar basado en el consumo choca con la sostenibilidad del planeta",
+    "resumen": "El desarrollo humano consiste, en esencia, en mejorar el bienestar de las personas ampliando sus capacidades y sus opciones vitales, y se mide habitualmente mediante indicadores de salud, educación y renta.",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/el-modelo-de-bienestar-basado-en-el-consumo-choca-con-la-sostenibilidad-del-planeta-282787",
+    "fecha": "2026-10-21T16:06:23.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1t5uxx6",
+    "titulo": "Del pigmento al pixel: ¿el color digital es también color?",
+    "resumen": "Durante siglos, hemos contemplado sin cuestionamientos los vestigios escultóricos de la Antigüedad en un pulcro blanco. Sin embargo, las investigaciones más recientes sobre…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/del-pigmento-al-pixel-el-color-digital-es-tambien-color-289836",
+    "fecha": "2026-10-21T16:04:37.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-1bm61y",
     "titulo": "Del prejuicio a la discriminación",
     "resumen": "El concepto de prejuicio encuentra su raíz etimológica en el latín praeiudicium, entendido como ‘juicio previo’ o ‘decisión prematura’. Se le define en dos acepciones complementarias. Uno, como la acción y efecto de prejuzgar; y dos, como…",
@@ -1147,56 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/presidente-lula-da-silva-convoca-a-votar-a-dos-semanas-de-segunda-vuelta-electoral-en-brasil/",
     "fecha": "2026-10-12T23:01:56.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-d1yu56",
-    "titulo": "El universo como un espejo del alma",
-    "resumen": "Por Jorge Nuñez Arzuaga.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/el-universo-como-un-espejo-del-alma/",
-    "fecha": "2026-10-12T21:56:29.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-pkj47b",
-    "titulo": "Levantando la camanchaca de la memoria: Los Andrónicos Antequera olvidaron olvidar",
-    "resumen": "Por Maxine Lowy",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/levantando-la-camanchaca-de-la-memoria-los-andronicos-antequera-olvidaron-olvidar/",
-    "fecha": "2026-10-12T21:37:25.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-tft4dj",
-    "titulo": "La paz no es una palabra maldita",
-    "resumen": "Hace unos dos años escribí un artículo donde sugería que la vía de la paz era el único camino sensato y coherente para EE.UU., Europa y el resto del mundo. Aunque, en general, el texto fue bien recibido, también cosechó una sorprendente…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/la-paz-no-es-una-palabra-maldita/",
-    "fecha": "2026-10-12T21:02:34.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1mnamb8",
-    "titulo": "Nobel de Economía 2026: las decisiones individuales que mueven la economía",
-    "resumen": "Para entender cómo funciona una economía, primero hay que entender cómo toman decisiones las personas y las empresas. Cuando un banco central modifica los tipos de interés no cambia directamente el consumo, la inversión o el empleo. Cambia…",
-    "seccion": "economia",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/nobel-de-economia-2026-las-decisiones-individuales-que-mueven-la-economia-293133",
-    "fecha": "2026-10-12T11:14:59.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-bu7zaf",
-    "titulo": "Cuando las empresas de telecomunicaciones cortan internet, acallando protestas en favor del Gobierno",
-    "resumen": "Cuando las calles se vuelven demasiado peligrosas, la disidencia migra en línea",
-    "seccion": "politica",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/12/cuando-las-empresas-de-telecomunicaciones-cortan-internet-acallando-protestas-en-favor-del-gobierno/",
-    "fecha": "2026-10-12T07:00:32.000Z",
     "estado": "pendiente"
   }
 ]
