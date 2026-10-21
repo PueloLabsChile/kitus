@@ -1,5 +1,35 @@
 [
   {
+    "id": "pressenza-1bm61y",
+    "titulo": "Del prejuicio a la discriminación",
+    "resumen": "El concepto de prejuicio encuentra su raíz etimológica en el latín praeiudicium, entendido como ‘juicio previo’ o ‘decisión prematura’. Se le define en dos acepciones complementarias. Uno, como la acción y efecto de prejuzgar; y dos, como…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/del-prejuicio-a-la-discriminacion/",
+    "fecha": "2026-10-21T15:34:40.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-hkjqrh",
+    "titulo": "Pía Figueroa: el temple de las mujeres que transforman la adversidad",
+    "resumen": "¿Qué descubrimos de nosotros mismos cuando la vida nos enfrenta a aquello que parece imposible de superar? ¿De dónde surge la fuerza para seguir adelante cuando la historia, las circunstancias o el dolor parecen decidir por nosotros? Estas…",
+    "seccion": "derechos",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/pia-figueroa-el-temple-de-las-mujeres-que-transforman-la-adversidad/",
+    "fecha": "2026-10-21T15:23:53.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1sauvzz",
+    "titulo": "French students are showing us what protest looks like in the age of viral spectacle",
+    "resumen": "The recent wave of protests in Europe have left us with two striking, viral spectacles of violence and joy. As Limoges’ historic town hall went up in flames, the Orchestre du Nouveau Monde was playing classical music in Paris’ central…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/french-students-are-showing-us-what-protest-looks-like-in-the-age-of-viral-spectacle-294879",
+    "fecha": "2026-10-21T14:47:21.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "the-conversation-espana-t4utwn",
     "titulo": "La conversación docente: Lea, repita y vuelva a leer",
     "resumen": "El título de hoy de nuestra newsletter describe lo que hacemos de manera instintiva cuando queremos aprendernos algo de memoria. Pensamos que releer, repetirlo en voz alta o escribirlo varias veces son estrategias que contribuyen a su…",
@@ -1167,36 +1197,6 @@
     "medio": "Global Voices",
     "enlace": "https://es.globalvoices.org/2026/10/12/cuando-las-empresas-de-telecomunicaciones-cortan-internet-acallando-protestas-en-favor-del-gobierno/",
     "fecha": "2026-10-12T07:00:32.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-1b2axte",
-    "titulo": "El dambe de Nigeria evoluciona, sus comunidades no deberían quedarse rezagadas",
-    "resumen": "Si el dambe se comercializa cada vez más, ¿quién establece las políticas que lo regulan?",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/12/el-dambe-de-nigeria-evoluciona-sus-comunidades-no-deberian-quedarse-rezagadas/",
-    "fecha": "2026-10-12T06:00:15.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-fsvruu",
-    "titulo": "La lucha de Ecuador para mantener grasas trans industriales fuera de los supermercados",
-    "resumen": "Una batalla de salud pública sobre lo que llega a los estantes de supermercados en Ecuador",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/12/la-lucha-de-ecuador-para-mantener-grasas-trans-industriales-fuera-de-los-supermercados/",
-    "fecha": "2026-10-12T02:00:56.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-hf272k",
-    "titulo": "Gaza / Israel: desde una Costa Rica omisa, análisis al cumplirse tres años desde el 7 de octubre del 2023. Crímenes internacionales, complicidades y los límites de la manipulación de la información",
-    "resumen": "«Lo que está ocurriendo en Gaza no es una operación militar, es una agresión a gran escala contra nuestro pueblo. Son masacres contra civiles inocentes. Nada en el derecho natural ni en el derecho internacional permite atacar a civiles y…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/gaza-israel-desde-una-costa-rica-omisa-analisis-al-cumplirse-tres-anos-desde-el-7-de-octubre-del-2023-crimenes-internacionales-complicidades-y-los-limites-de-la-manipulacion-de-la-informacion/",
-    "fecha": "2026-10-11T20:47:57.000Z",
     "estado": "pendiente"
   }
 ]
