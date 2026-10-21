@@ -1,5 +1,35 @@
 [
   {
+    "id": "the-conversation-espana-t4utwn",
+    "titulo": "La conversación docente: Lea, repita y vuelva a leer",
+    "resumen": "El título de hoy de nuestra newsletter describe lo que hacemos de manera instintiva cuando queremos aprendernos algo de memoria. Pensamos que releer, repetirlo en voz alta o escribirlo varias veces son estrategias que contribuyen a su…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/la-conversacion-docente-lea-repita-y-vuelva-a-leer-294886",
+    "fecha": "2026-10-21T09:04:43.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-sqp910",
+    "titulo": "Jóvenes crean puente sobre la brecha climática entre Oceania y el Caribe",
+    "resumen": "Cuando se incluye a las comunidades, cuando las soluciones se debaten, se comprenden y resultan pertinentes a nivel local, surgen la colaboración y la participación.",
+    "seccion": "derechos",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/21/jovenes-crean-puente-sobre-la-brecha-climatica-entre-oceania-y-el-caribe/",
+    "fecha": "2026-10-21T07:00:35.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-1m9f400",
+    "titulo": "El sonido de la resistencia",
+    "resumen": "Artículo colaborativo sobre distintas formas de música de protesta a lo largo del tiempo y la geografía",
+    "seccion": "cultura",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/21/el-sonido-de-la-resistencia/",
+    "fecha": "2026-10-21T06:00:41.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-11zgyi4",
     "titulo": "Perú: Comisión de Constitución del Senado aprueba facultades legislativas con 7 puntos adicionales",
     "resumen": "Ingrata noticia. La Comisión de Constitución de la Cámara de Senadores del Congreso de la República aprobó las facultades legislativas solicitadas por el gobierno de Keiko Fujimori, con la adición de siete puntos adicionales, que no fueron…",
@@ -1167,36 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/gaza-israel-desde-una-costa-rica-omisa-analisis-al-cumplirse-tres-anos-desde-el-7-de-octubre-del-2023-crimenes-internacionales-complicidades-y-los-limites-de-la-manipulacion-de-la-informacion/",
     "fecha": "2026-10-11T20:47:57.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-17iuh10",
-    "titulo": "Los santos inocentes del siglo XXI",
-    "resumen": "De la escopeta del señorito Iván al poder que todavía dispara hacia abajo",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/los-santos-inocentes-del-siglo-xxi/",
-    "fecha": "2026-10-11T20:40:11.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1x67vy7",
-    "titulo": "Estudiantes alemanes: «No participaremos en vuestras guerras»",
-    "resumen": "Después de la huelga contra el servicio militar obligatorio(https://www.pressenza.com/it/2026/09/proteste-contro-il-servizio-militare-obbligatorio-in-germania/) que el 25 de septiembre movilizó a 45.000 estudiantes en más de cien ciudades…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/estudiantes-alemanes-no-participaremos-en-vuestras-guerras/",
-    "fecha": "2026-10-11T19:03:47.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-z2tt2b",
-    "titulo": "Despedimos a Juan Pablo Cárdenas, referente de la lucha del periodismo contra la opresión",
-    "resumen": "El Premio Nacional Chileno de Periodismo 2005 murió esta madrugada de un cáncer que últimamente lo tenía limitado. Fundador de la revista Análisis, Agregado de Prensa en la Embajada de Chile en México, académico, Director de la Radio…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/despedimos-a-juan-pablo-cardenas-referente-de-la-lucha-del-periodismo-contra-la-opresion/",
-    "fecha": "2026-10-11T15:17:43.000Z",
     "estado": "pendiente"
   }
 ]
