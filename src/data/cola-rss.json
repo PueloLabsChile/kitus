@@ -1,5 +1,15 @@
 [
   {
+    "id": "pressenza-5lpa5x",
+    "titulo": "Este jueves 29, Taller Contacto con tu sentido de vida. ¡Despierta!",
+    "resumen": "La búsqueda del Sentido de la vida no es un asunto de una minoría, ni de personas con cualidades excepcionales. Es una posibilidad asequible para cualquier persona, es un acto intencional que no admite imposición, realizarlo justifica la…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/este-jueves-29-taller-contacto-con-tu-sentido-de-vida-despierta/",
+    "fecha": "2026-10-21T23:04:37.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-1p4p48q",
     "titulo": "Marianne con las manos mutiladas",
     "resumen": "Hay días en que la República se mira al espejo y no reconoce su propio rostro. Francia, esa vieja señora de la libertad, la igualdad y la fraternidad, ha terminado por contemplar cómo sus hijos trepan por las piernas de sus monumentos para…",
@@ -47,6 +57,16 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/del-pigmento-al-pixel-el-color-digital-es-tambien-color-289836",
     "fecha": "2026-10-21T16:04:37.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "dialogue-earth-1nhaq85",
+    "titulo": "Sin financiación de EE.UU., la Reserva de la Biósfera Maya de Guatemala enfrenta retos",
+    "resumen": "Amanece en el pueblo de Carmelita, en el corazón de la Reserva de la Biósfera Maya de Guatemala. La luz del sol se cuela entre los árboles de sapodilla (Manilkara zapota) que se mecen mientras los gallos comienzan a cantar. Con machetes en…",
+    "seccion": "internacional",
+    "medio": "Dialogue Earth",
+    "enlace": "https://dialogue.earth/es/bosques/reserva-biosfera-maya-de-guatemala-enfrenta-retos/",
+    "fecha": "2026-10-21T15:48:42.000Z",
     "estado": "pendiente"
   },
   {
@@ -1177,26 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/peru-comunicadores-alternativos-somos-tremendamente-incomodos-al-poder/",
     "fecha": "2026-10-13T05:09:50.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-amcrj9",
-    "titulo": "La seguridad privada crece y se vuelve un gran negocio en América Latina: ¿por qué, a qué precio y para quién?",
-    "resumen": "Teniendo en cuenta solamente al sector formal, más de 3,7 millones de personas se encuentran involucrados en la esfera de la seguridad privada en América Latina, según el último estudio…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/la-seguridad-privada-crece-y-se-vuelve-un-gran-negocio-en-america-latina-por-que-a-que-precio-y-para-quien-291956",
-    "fecha": "2026-10-13T04:29:21.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-kkqj1u",
-    "titulo": "Presidente Lula da Silva convoca a votar a dos semanas de segunda vuelta electoral en Brasil",
-    "resumen": "El presidente brasileño, Luiz Inácio Lula da Silva, candidato a la reelección, llamó hoy domingo a sus seguidores a buscar el voto de quienes no participaron en la primera vuelta del 4 de octubre y reunir el apoyo suficiente para mantener…",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/presidente-lula-da-silva-convoca-a-votar-a-dos-semanas-de-segunda-vuelta-electoral-en-brasil/",
-    "fecha": "2026-10-12T23:01:56.000Z",
     "estado": "pendiente"
   }
 ]
