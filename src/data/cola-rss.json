@@ -1,5 +1,45 @@
 [
   {
+    "id": "pressenza-txkkbe",
+    "titulo": "Francia al borde del estallido social: cuando la crisis económica toma las calles",
+    "resumen": "Las protestas comenzaron entre estudiantes de secundaria, se extendieron a los universitarios y terminaron sumando a familias y a la clase trabajadora. Muchas de sus reivindicaciones evocan o coinciden con las de los Chalecos Amarillos…",
+    "seccion": "economia",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/francia-al-borde-del-estallido-social-cuando-la-crisis-economica-toma-las-calles/",
+    "fecha": "2026-10-22T20:14:27.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1tgszuu",
+    "titulo": "La rebaja de la vergüenza: cuando el estado les abre la puerta a los violadores de niños",
+    "resumen": "Hay noticias que no deberían leerse con la indiferencia de quien revisa el precio del pan o el resultado de un partido de fútbol. Hay noticias que obligan a detenerse, cerrar el diario y preguntarse en qué clase de país se está…",
+    "seccion": "politica",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/la-rebaja-de-la-verguenza-cuando-el-estado-les-abre-la-puerta-a-los-violadores-de-ninos/",
+    "fecha": "2026-10-22T19:56:41.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1s5zees",
+    "titulo": "¿Cómo medir a un político?: Abdul El-Sayed ante la paz, noviolencia, DDHH y democracia",
+    "resumen": "Un método de análisis sin partir de la conclusión preconcebida",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/como-medir-a-un-politico-abdul-el-sayed-ante-la-paz-noviolencia-ddhh-y-democracia/",
+    "fecha": "2026-10-22T18:52:45.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "democraciaabierta-ow99kp",
+    "titulo": "‘Nosotros, los pueblos’: la ONU necesita una líder para la gente, no para las superpotencias",
+    "resumen": "Por primera vez en la historia, una mujer latinoamericana encabeza la carrera para ocupar la Secretaría General de las Naciones Unidas(https://1for8billion.org/straw-polls-2026?ref=opendemocracy.net). Tras más de ocho décadas de liderazgo…",
+    "seccion": "derechos",
+    "medio": "democraciaAbierta",
+    "enlace": "https://www.opendemocracy.net/es/onu-secretaria-general-mujer-latinoamericana-independencia-sociedad-civil/",
+    "fecha": "2026-10-22T18:26:55.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "the-conversation-espana-1qlbb4v",
     "titulo": "La transparencia informativa obliga a las empresas a mejorar sus prácticas sostenibles",
     "resumen": "Bip, bip. “Última hora: la moda rápida en el punto de mira”, boicot.",
@@ -1157,46 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/en-el-peru-la-tasa-de-denuncias-por-corrupcion-se-duplico/",
     "fecha": "2026-10-14T03:50:41.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1g638no",
-    "titulo": "Juan Pablo Cárdenas y el exterminio de la prensa de centro-izquierda",
-    "resumen": "El fallecimiento del destacado Premio Nacional de Periodismo, Juan Pablo Cárdenas, debiese llevarnos a recordar sus múltiples facetas en favor de su permanente lucha por la libertad de expresión, tanto en dictadura como después de ella. En…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/juan-pablo-cardenas-y-el-exterminio-de-la-prensa-de-centro-izquierda/",
-    "fecha": "2026-10-14T00:15:24.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-vmf7ya",
-    "titulo": "PAZ, antología solidaria por Gaza.",
-    "resumen": "Una novela gráfica para concienciar y denunciar.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/paz-antologia-solidaria-por-gaza/",
-    "fecha": "2026-10-13T22:03:43.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-192vj95",
-    "titulo": "Ahmed Ettanji ante la 4ª Comisión de la ONU: «Prohibir la prensa no oculta las violaciones, las esconde de los ojos del mundo»",
-    "resumen": "El presidente del equipo mediático saharaui Equipe Media, Ahmed Ettanji, presentó una intervención ante los trabajos de la Cuarta Comisión de la Asamblea General de las Naciones Unidas, encargada de las cuestiones de descolonización, en la…",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/ahmed-ettanji-ante-la-4a-comision-de-la-onu-prohibir-la-prensa-no-oculta-las-violaciones-las-esconde-de-los-ojos-del-mundo/",
-    "fecha": "2026-10-13T20:48:49.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-ooaax4",
-    "titulo": "Una ‘vitamina’ de pensamiento crítico: aprender retórica en la escuela",
-    "resumen": "¿Qué relación puede haber entre los resultados de una prueba educativa internacional, como PISA, y la calidad democrática de un país?",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/una-vitamina-de-pensamiento-critico-aprender-retorica-en-la-escuela-292078",
-    "fecha": "2026-10-13T16:39:53.000Z",
     "estado": "pendiente"
   }
 ]
