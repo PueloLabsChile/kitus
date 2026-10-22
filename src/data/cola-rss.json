@@ -1,5 +1,45 @@
 [
   {
+    "id": "global-voices-fe0efr",
+    "titulo": "Demasiado jóvenes para postular, suficientemente adultos para protestar: Inconcluso pacto democrático de África occidental",
+    "resumen": "Los jóvenes nigerianos siguen teniendo obstáculos estructurales y financieros para postular y ganar elecciones",
+    "seccion": "politica",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/22/demasiado-jovenes-para-postular-suficientemente-adultos-para-protestar-inconcluso-pacto-democratico-de-africa-occidental/",
+    "fecha": "2026-10-22T06:00:56.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-zzjrcc",
+    "titulo": "¿Quién provoca la violencia en Francia y en varios países de Europa?",
+    "resumen": "Siempre que hay una manifestación popular, en ella se cuelan provocadores y delincuentes. Pasó en Chile durante el estallido social y pasa a cada rato en México: los delincuentes se meten en cualquier manifestación, con el objeto de…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/quien-provoca-la-violencia-en-francia-y-en-varios-paises-de-europa/",
+    "fecha": "2026-10-22T03:25:53.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-2t8m6g",
+    "titulo": "Perú: Aprueban derogar dos leyes pro-crimen en la Cámara de Diputados",
+    "resumen": "Trascendental decisión. La Comisión de Justicia y Derechos Humanos de la Cámara de Diputados, presidida por Catherine Palomino, aprobó derogar las dos primeras leyes pro-crimen demandadas por la población, la Ley N° 32130 y la Ley N°…",
+    "seccion": "derechos",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/peru-aprueban-derogar-dos-leyes-pro-crimen-en-la-camara-de-diputados/",
+    "fecha": "2026-10-22T03:00:17.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-njvnha",
+    "titulo": "Sembrando, comunidades mapuche y campesinas esperan respuesta a su recurso de protección contra el SAG",
+    "resumen": "Huerteras, guardadores de semillas y comunidades mapuche del Lavkenmapu, junto a organizaciones sociales y personas naturales, esperan respuesta de la Corte de Apelaciones de Santiago al recurso de protección (ROL 22200-2026) interpuesto…",
+    "seccion": "derechos",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/sembrando-comunidades-mapuche-y-campesinas-esperan-respuesta-a-su-recurso-de-proteccion-contra-el-sag/",
+    "fecha": "2026-10-22T02:57:36.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "the-conversation-espana-jc2lc9",
     "titulo": "Siempre ha habido inundaciones en el Mediterráneo, ¿son ahora excepcionales?",
     "resumen": "Entre 1900 y 2020 se registraron en Cataluña 228 episodios de inundaciones, causando 1 167 víctimas mortales y daños materiales considerables; en algunas ocasiones, catastróficos(https://agora.ub.edu/portal-historic/). La mayor parte se…",
@@ -1157,46 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/la-seleccion-que-llueva-que-llueva-pero-no-tanto-294065",
     "fecha": "2026-10-13T10:19:58.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-18saaaf",
-    "titulo": "“We’re just trying to have a future”: Marseille’s students take to the streets against the Macron-Lecornu governement",
-    "resumen": "Interview with Lilia, a student at the Thiers High School in Marseille, active in the recent protests against cuts to education funding and the inadequate conditions for studying in French schools. She denounces the violence of police…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/were-just-trying-to-have-a-future-marseilles-students-take-to-the-streets-against-the-macron-lecornu-governement/",
-    "fecha": "2026-10-13T08:46:33.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-afp7er",
-    "titulo": "“Solo queremos tener un futuro”: los estudiantes de Marsella salen a las calles en protesta contra el gobierno de Macron y Lecornu",
-    "resumen": "Entrevista con Lilia, estudiante de la Preparatoria Thiers en Marsella, quien ha participado activamente en las recientes protestas contra los recortes al presupuesto educativo y las condiciones inadecuadas para estudiar en las escuelas…",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/solo-queremos-tener-un-futuro-los-estudiantes-de-marsella-salen-a-las-calles-en-protesta-contra-el-gobierno-de-macron-y-lecornu/",
-    "fecha": "2026-10-13T08:46:33.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-ps61ow",
-    "titulo": "Tiktokers rusos querían votar por agenda contra la guerra, pero farsa electoral de Putin no lo permitió",
-    "resumen": "Los tiktokers utilizaron memes de cultura popular para apoyar al partido contra la guerra que quedó excluido de las elecciones",
-    "seccion": "politica",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/13/tiktokers-rusos-querian-votar-por-agenda-contra-la-guerra-pero-farsa-electoral-de-putin-no-lo-permitio/",
-    "fecha": "2026-10-13T07:00:16.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-1f49w71",
-    "titulo": "¿Puede una neva Política de Paz Nacional solucionar los problemas de seguridad en Nigeria?",
-    "resumen": "La Política de Paz Nacional de Nigeria es un marco con el objetivo de lograr mayor coordinación para prevenir conflictos y consolidar la paz",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/13/puede-una-neva-politica-de-paz-nacional-solucionar-los-problemas-de-seguridad-en-nigeria/",
-    "fecha": "2026-10-13T06:00:19.000Z",
     "estado": "pendiente"
   }
 ]
