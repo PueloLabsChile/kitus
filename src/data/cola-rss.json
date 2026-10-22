@@ -1,5 +1,45 @@
 [
   {
+    "id": "the-conversation-espana-1qlbb4v",
+    "titulo": "La transparencia informativa obliga a las empresas a mejorar sus prácticas sostenibles",
+    "resumen": "Bip, bip. “Última hora: la moda rápida en el punto de mira”, boicot.",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/la-transparencia-informativa-obliga-a-las-empresas-a-mejorar-sus-practicas-sostenibles-279269",
+    "fecha": "2026-10-22T16:34:49.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-18is18h",
+    "titulo": "Los estudiantes franceses nos muestran cómo son las protestas en la era del espectáculo viral",
+    "resumen": "La reciente ola de protestas en Europa nos ha dejado dos imágenes impactantes y virales que combinan violencia y alegría. Mientras el histórico ayuntamiento de Limoges (Francia) ardía en llamas, la Orchestre du Nouveau Monde interpretaba…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/los-estudiantes-franceses-nos-muestran-como-son-las-protestas-en-la-era-del-espectaculo-viral-294962",
+    "fecha": "2026-10-22T16:28:33.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-p6wwaq",
+    "titulo": "Siete citas imprescindibles con la historia y la cultura para entender por qué París arde otra vez",
+    "resumen": "Francia está de revuelta(https://www.elconfidencial.com/mundo/europa/2026-10-19/1qrt-que-esta-pasando-francia-por-que-protestas-quien-detras-italia-albania4447720/), y nunca mejor dicho. Vuelven las multitudinarias manifestaciones, huelgas…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/siete-citas-imprescindibles-con-la-historia-y-la-cultura-para-entender-por-que-paris-arde-otra-vez-294729",
+    "fecha": "2026-10-22T16:28:28.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "democraciaabierta-19akovj",
+    "titulo": "Amazon usa la IA para impedir que sus trabajadores se sindicalicen",
+    "resumen": "Garfield Hylton, un trabajador de Amazon, sabe desde hace tiempo que la empresa monitorea y registra minuto a minuto su jornada laboral. Cada producto que escanea, cada segundo que transcurre entre un escaneo y otro, cada vez que su…",
+    "seccion": "economia",
+    "medio": "democraciaAbierta",
+    "enlace": "https://www.opendemocracy.net/es/amazon-trabajadores-ia-sindicalizacion-vigilancia-control-derechos/",
+    "fecha": "2026-10-22T16:23:58.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "agencia-tierra-viva-18twtw4",
     "titulo": "Miguel Mirra: \"Cuando la comunidad participa en contar su historia, la recupera para la lucha\"",
     "resumen": "Desde mediados de la década del 80 Miguel Mirra trabaja una filmografía que recupera lo que suele quedar por fuera del plano de las narrativas industriales: las luchas de los pueblos originarios, los conflictos territoriales y las…",
@@ -1157,46 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/una-vitamina-de-pensamiento-critico-aprender-retorica-en-la-escuela-292078",
     "fecha": "2026-10-13T16:39:53.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-arl8s7",
-    "titulo": "¿Cómo contribuyen las emisiones españolas de CO₂ al cambio climático y los fenómenos extremos?",
-    "resumen": "Calor extremo, una ola de incendios excepcional(https://theconversation.com/como-hemos-llegado-a-esta-situacion-con-los-incendios-forestales-en-espana-echamos-la-vista-atras-para-buscar-las-causas-289172) y fenómenos meteorológicos poco…",
-    "seccion": "derechos",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/como-contribuyen-las-emisiones-espanolas-de-co-al-cambio-climatico-y-los-fenomenos-extremos-290264",
-    "fecha": "2026-10-13T16:37:29.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1a8j7v5",
-    "titulo": "¿Por qué el odio religioso se propaga más durante las crisis? Así funciona su viralidad en redes",
-    "resumen": "El odio y los comentarios hostiles están presentes de manera muy frecuente en redes sociales como X (antes Twitter) y aunque no hay tantos mensajes religiosos ofensivos como de otros tipos, sí están entre los más intensos y preocupantes en…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/por-que-el-odio-religioso-se-propaga-mas-durante-las-crisis-asi-funciona-su-viralidad-en-redes-272470",
-    "fecha": "2026-10-13T16:35:02.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-16j3dyy",
-    "titulo": "Suplemento cultural: reunirnos a cantar",
-    "resumen": "Una versión de este texto se publicó por primera vez en nuestro boletín Suplemento cultural, un resumen quincenal de la actualidad cultural y una selección de los mejores artículos de historia, literatura, cine, arte o música. Si quiere…",
-    "seccion": "cultura",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/suplemento-cultural-reunirnos-a-cantar-293840",
-    "fecha": "2026-10-13T10:59:58.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "agencia-tierra-viva-1xghudh",
-    "titulo": "\"Debemos cuidar el hogar que habitamos, el hogar-cuerpo, el hogar-tierra\"",
-    "resumen": "Pablo Bruno creció entre un barrio popular de la capital cordobesa y el paisaje de las sierras. Oriundo del barrio General Pueyrredón, el joven cantante, guitarrista y compositor pateó las agitadas calles de su ciudad y conectó…",
-    "seccion": "internacional",
-    "medio": "Agencia Tierra Viva",
-    "enlace": "https://agenciatierraviva.com.ar/debemos-cuidar-el-hogar-que-habitamos-el-hogar-cuerpo-el-hogar-tierra/",
-    "fecha": "2026-10-13T10:50:02.000Z",
     "estado": "pendiente"
   }
 ]
