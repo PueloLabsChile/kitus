@@ -1,5 +1,15 @@
 [
   {
+    "id": "the-conversation-espana-jc2lc9",
+    "titulo": "Siempre ha habido inundaciones en el Mediterráneo, ¿son ahora excepcionales?",
+    "resumen": "Entre 1900 y 2020 se registraron en Cataluña 228 episodios de inundaciones, causando 1 167 víctimas mortales y daños materiales considerables; en algunas ocasiones, catastróficos(https://agora.ub.edu/portal-historic/). La mayor parte se…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/siempre-ha-habido-inundaciones-en-el-mediterraneo-son-ahora-excepcionales-294910",
+    "fecha": "2026-10-21T23:39:09.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-5lpa5x",
     "titulo": "Este jueves 29, Taller Contacto con tu sentido de vida. ¡Despierta!",
     "resumen": "La búsqueda del Sentido de la vida no es un asunto de una minoría, ni de personas con cualidades excepcionales. Es una posibilidad asequible para cualquier persona, es un acto intencional que no admite imposición, realizarlo justifica la…",
@@ -1187,16 +1197,6 @@
     "medio": "Global Voices",
     "enlace": "https://es.globalvoices.org/2026/10/13/puede-una-neva-politica-de-paz-nacional-solucionar-los-problemas-de-seguridad-en-nigeria/",
     "fecha": "2026-10-13T06:00:19.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-ksptqc",
-    "titulo": "(Perú) Comunicadores alternativos: “Somos tremendamente incómodos al poder”",
-    "resumen": "Hombres y mujeres de prensa, provenientes de Lima y provincias del Perú, denunciaron actos de criminalización que sufren en el ejercicio del periodismo. El encuentro se realizó en el Foro “Prensa Concentrada y Criminalización de la Prensa…",
-    "seccion": "derechos",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/peru-comunicadores-alternativos-somos-tremendamente-incomodos-al-poder/",
-    "fecha": "2026-10-13T05:09:50.000Z",
     "estado": "pendiente"
   }
 ]
