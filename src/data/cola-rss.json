@@ -1,5 +1,15 @@
 [
   {
+    "id": "pressenza-1qc03nx",
+    "titulo": "Jugando con fuego y fe interna",
+    "resumen": "Desde los primeros encuentros de la humanidad con el fuego hasta los movimientos juveniles de hoy, el coraje para enfrentar lo desconocido puede ser esencial para la transformación humana.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/jugando-con-fuego-y-fe-interna/",
+    "fecha": "2026-10-22T22:57:18.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-txkkbe",
     "titulo": "Francia al borde del estallido social: cuando la crisis económica toma las calles",
     "resumen": "Las protestas comenzaron entre estudiantes de secundaria, se extendieron a los universitarios y terminaron sumando a familias y a la clase trabajadora. Muchas de sus reivindicaciones evocan o coinciden con las de los Chalecos Amarillos…",
@@ -1187,16 +1197,6 @@
     "medio": "Global Voices",
     "enlace": "https://es.globalvoices.org/2026/10/14/lo-que-las-protestas-de-las-cucarachas-de-la-india-revelan-sobre-el-autoritarismo-digital/",
     "fecha": "2026-10-14T06:00:48.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1tf1klt",
-    "titulo": "En el Perú la tasa de denuncias por corrupción se duplicó",
-    "resumen": "Entre los años 2018 y 2025 el Perú duplicó la tasa de denuncias por corrupción, según lo señala el Instituto Peruano de Economía (IPE) e INCORE (Índice de Competitividad Regional). La investigación encontró que las denuncias se refieren al…",
-    "seccion": "economia",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/en-el-peru-la-tasa-de-denuncias-por-corrupcion-se-duplico/",
-    "fecha": "2026-10-14T03:50:41.000Z",
     "estado": "pendiente"
   }
 ]
