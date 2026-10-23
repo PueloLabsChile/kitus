@@ -13,6 +13,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/10/23/tras-las-inundaciones-nepal-necesita-cifras-claras-sobre-la-ayuda-recibida-y-un-plan-de-reconstruccion/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-koycqg.webp"
+creditoPortada: "Foto: Global Voices"
 ---
 *Las comunidades nepalíes viven bajo amenazas naturales, y el miedo y la incertidumbre son realidades cotidianas.*
 

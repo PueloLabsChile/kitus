@@ -1,5 +1,25 @@
 [
   {
+    "id": "pressenza-7iw82y",
+    "titulo": "El presidente y el periodista: cuando el poder les tiene miedo a las preguntas",
+    "resumen": "Hay presidentes que responden preguntas y presidentes que prefieren insultar a quien las formula. Javier Milei, durante su paso por Madrid, volvió a poner esa diferencia sobre la mesa. Frente a una periodista de Cadena SER, Julia Molina…",
+    "seccion": "politica",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/el-presidente-y-el-periodista-cuando-el-poder-les-tiene-miedo-a-las-preguntas/",
+    "fecha": "2026-10-23T12:39:25.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-p3uozu",
+    "titulo": "Suplemento cultural: la parodia entra en campaña",
+    "resumen": "Una versión de este texto se publicó por primera vez en nuestro boletín Suplemento cultural, un resumen quincenal de la actualidad cultural y una selección de los mejores artículos de historia, literatura, cine, arte o música. Si quiere…",
+    "seccion": "cultura",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/suplemento-cultural-la-parodia-entra-en-campana-294786",
+    "fecha": "2026-10-23T11:18:01.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "global-voices-1a5iqil",
     "titulo": "De norte a sur, protestas arrasan en Túnez: ¿Se viene el cambio?",
     "resumen": "Los manifestantes exigen desarrollo, trabajo y dignidad, los mismos lemas que llevaron a la revolución de 2011",
@@ -1177,26 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/el-inicio-de-curso/",
     "fecha": "2026-10-14T15:09:35.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "dialogue-earth-1i00n4",
-    "titulo": "Brazil rare earth deal proves militaries’ long-held interest in minerals",
-    "resumen": "In 1939, the term “critical minerals” entered the legislative lexicon of the US when the country passed its Strategic and Critical Materials Stock Piling Act. They became defined as materials needed to supply military and industrial needs…",
-    "seccion": "internacional",
-    "medio": "Dialogue Earth",
-    "enlace": "https://dialogue.earth/es/negocios/brazil-rare-earth-deal-proves-militaries-long-held-interest-in-minerals/",
-    "fecha": "2026-10-14T15:01:18.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "dialogue-earth-8k3fus",
-    "titulo": "La inversión de EE.UU. en tierras raras de Brasil evidencia el interés militar por los minerales",
-    "resumen": "En 1939, el término “minerales críticos” entró en el léxico legislativo de Estados Unidos cuando el país aprobó su Ley de Acumulación de Materiales Estratégicos y Críticos. Se definieron como materiales necesarios para satisfacer las…",
-    "seccion": "internacional",
-    "medio": "Dialogue Earth",
-    "enlace": "https://dialogue.earth/es/negocios/inversion-tierras-raras-eeuu-brasil-evidencia-interes-militar-minerales/",
-    "fecha": "2026-10-14T15:01:18.000Z",
     "estado": "pendiente"
   }
 ]
