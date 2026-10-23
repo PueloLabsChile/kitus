@@ -1,5 +1,35 @@
 [
   {
+    "id": "global-voices-1a5iqil",
+    "titulo": "De norte a sur, protestas arrasan en Túnez: ¿Se viene el cambio?",
+    "resumen": "Los manifestantes exigen desarrollo, trabajo y dignidad, los mismos lemas que llevaron a la revolución de 2011",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/23/de-norte-a-sur-protestas-arrasan-en-tunez-se-viene-el-cambio/",
+    "fecha": "2026-10-23T07:00:13.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-koycqg",
+    "titulo": "Tras las inundaciones, Nepal necesita cifras claras sobre la ayuda recibida y un plan de reconstrucción",
+    "resumen": "Las comunidades nepalíes viven bajo amenazas naturales, y el miedo y la incertidumbre son realidades cotidianas.",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/23/tras-las-inundaciones-nepal-necesita-cifras-claras-sobre-la-ayuda-recibida-y-un-plan-de-reconstruccion/",
+    "fecha": "2026-10-23T06:00:58.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-qs7gdf",
+    "titulo": "Perú: Facultades legislativas y presencia militar de EE.UU.",
+    "resumen": "En el programa “Al Filo” el director Javier Torres Seoane, junto a Martin Sarmiento, periodista de La Mula, y Ricardo Soberón, reconocido abogado internacionalista, abordaron los entretelones y alcances de la aprobación de facultades…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/peru-facultades-legislativas-y-presencia-militar-de-ee-uu/",
+    "fecha": "2026-10-23T04:43:50.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-ka81ss",
     "titulo": "Avizorando una nueva sociedad",
     "resumen": "Líderes ausentes",
@@ -1167,36 +1197,6 @@
     "medio": "Dialogue Earth",
     "enlace": "https://dialogue.earth/es/negocios/inversion-tierras-raras-eeuu-brasil-evidencia-interes-militar-minerales/",
     "fecha": "2026-10-14T15:01:18.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1c4h4ls",
-    "titulo": "El precio de la violencia",
-    "resumen": "Quizás uno de los desarrollos más reveladores de nuestro tiempo es el creciente número de jóvenes que cuestionan las prioridades de las sociedades en las que viven.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/el-precio-de-la-violencia/",
-    "fecha": "2026-10-14T14:22:50.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1vg8djv",
-    "titulo": "¿Qué hace eficaz a una diplomacia?  De la precisión de los instrumentos a la coherencia de los objetivos",
-    "resumen": "El segundo artículo de esta serie(https://www.pressenza.com/es/2026/09/que-cuenta-como-seguridad-takaichi-vista-desde-el-pacifismo-y-los-medios-alternativos/) concluía con una palabra casi desaparecida del centro del discurso sobre…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/que-hace-eficaz-a-una-diplomacia-de-la-precision-de-los-instrumentos-a-la-coherencia-de-los-objetivos/",
-    "fecha": "2026-10-14T11:42:40.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-dor1k5",
-    "titulo": "Cuando el fútbol apaga internet: el impacto de los bloqueos indiscriminados de IP",
-    "resumen": "Al principio de internet, cada web podía compararse con una casa que tenía una dirección propia: la dirección IP(https://es.wikipedia.org/wiki/Direcci%C3%B3nIP). El listín en el cual podemos encontrar la IP de una web es el DNS. Hoy, la…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/cuando-el-futbol-apaga-internet-el-impacto-de-los-bloqueos-indiscriminados-de-ip-292390",
-    "fecha": "2026-10-14T10:58:43.000Z",
     "estado": "pendiente"
   }
 ]
