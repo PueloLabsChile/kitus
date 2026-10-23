@@ -1,5 +1,55 @@
 [
   {
+    "id": "the-conversation-espana-1n7pp7r",
+    "titulo": "US midterms: what a new Congress could – and could not – change for Europe",
+    "resumen": "US midterm elections traditionally attract fewer voters than presidential contests. But this year’s vote is drawing considerable attention at home and abroad, especially in Europe.",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/us-midterms-what-a-new-congress-could-and-could-not-change-for-europe-295007",
+    "fecha": "2026-10-23T15:26:18.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "democraciaabierta-zm8xix",
+    "titulo": "La IA de Amazon contra los sindicatos",
+    "resumen": "- Amazon usa un modelo de IA para vigilar si sus trabajadores están en ‘riesgo’ de sindicalización - Periodismo en México: Asesinatos, persecución y desiertos informativos - Elecciones en Brasil: Qué hay detrás de la ‘moderación’ de Flávio…",
+    "seccion": "economia",
+    "medio": "democraciaAbierta",
+    "enlace": "https://www.opendemocracy.net/la-ia-de-amazon-contra-los-sindicatos/",
+    "fecha": "2026-10-23T15:00:00.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-nvzgpr",
+    "titulo": "Míchigan, a dos semanas de las elecciones: ¿quién tiene derecho a definir a un candidato?",
+    "resumen": "A dos semanas de la votación del 3 de noviembre, la campaña al Senado en Míchigan parece haber entrado en una nueva fase. Tres semanas antes habíamos planteado una pregunta: ¿quién logrará definir lo que representa Abdul El-Sayed? Donald…",
+    "seccion": "politica",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/michigan-a-dos-semanas-de-las-elecciones-quien-tiene-derecho-a-definir-a-un-candidato/",
+    "fecha": "2026-10-23T14:03:17.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1dkv6c3",
+    "titulo": "Los ahorros previsionales no son una apuesta. La seguridad social es un derecho humano",
+    "resumen": "El Partido Humanista de Chile expresa su más enérgico rechazo e indignación frente a las gravísimas pérdidas registradas en los fondos de pensiones entre enero y septiembre de 2026, que han golpeado con especial dureza a los afiliados de…",
+    "seccion": "politica",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/los-ahorros-previsionales-no-son-una-apuesta-la-seguridad-social-es-un-derecho-humano/",
+    "fecha": "2026-10-23T13:58:13.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-17j07ik",
+    "titulo": "Primer caso de infección humana por el virus Shamonda: ¿a qué nos enfrentamos?",
+    "resumen": "Las autoridades sanitarias francesas han notificado el primer caso conocido de infección humana por el virus Shamonda en un paciente francés que estaba hospitalizado en los Hospices Civils de Lyon(https://www.chu-lyon.fr/) con…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/primer-caso-de-infeccion-humana-por-el-virus-shamonda-a-que-nos-enfrentamos-295001",
+    "fecha": "2026-10-23T12:59:39.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-7iw82y",
     "titulo": "El presidente y el periodista: cuando el poder les tiene miedo a las preguntas",
     "resumen": "Hay presidentes que responden preguntas y presidentes que prefieren insultar a quien las formula. Javier Milei, durante su paso por Madrid, volvió a poner esa diferencia sobre la mesa. Frente a una periodista de Cadena SER, Julia Molina…",
@@ -1147,56 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/la-furia-ilustrada-convoco-a-32-mil-personas-y-aumento-su-publico-en-un-130/",
     "fecha": "2026-10-14T16:30:58.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1ivrd52",
-    "titulo": "El ayuno 16:8 podría ser más flexible de lo que pensábamos",
-    "resumen": "Es difícil mirar a nuestro alrededor y no encontrar a alguien que esté practicando ayuno intermitente(https://theconversation.com/topics/ayuno-intermitente-73641). El secreto del éxito de estas estrategias, que han calado con fuerza en la…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/el-ayuno-16-8-podria-ser-mas-flexible-de-lo-que-pensabamos-293128",
-    "fecha": "2026-10-14T16:21:47.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-9iqd20",
-    "titulo": "Dormir para no olvidar",
-    "resumen": "Desde tiempos inmemoriales, el sueño se ha considerado uno de los grandes pilares de la salud. Ya en el año 1607, William Vaughan(https://en.wikipedia.org/wiki/WilliamVaughan(writer)) lo describía como una cura para fortalecer el espíritu…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/dormir-para-no-olvidar-292826",
-    "fecha": "2026-10-14T16:21:43.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-15opo08",
-    "titulo": "Los gatos en la calle generan riesgos para la salud pública",
-    "resumen": "El gato doméstico (Felis catus(https://es.wikipedia.org/wiki/Feliscatus)) es una de las mascotas más frecuentes en el mundo, que se estima que alberga entre 600 y 1000 millones de…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/los-gatos-en-la-calle-generan-riesgos-para-la-salud-publica-293583",
-    "fecha": "2026-10-14T16:21:33.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-rsgpzs",
-    "titulo": "¿Quiénes pagarán la cuenta? Quebec, la prudencia y el norte que no queremos ver",
-    "resumen": "Por Claudia Aranda",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/quienes-pagaran-la-cuenta-quebec-la-prudencia-y-el-norte-que-no-queremos-ver/",
-    "fecha": "2026-10-14T15:42:39.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-d0wk9t",
-    "titulo": "El inicio de curso",
-    "resumen": "En estos últimos días de septiembre, dejamos atrás el verano, y con ello, a muchos detalles que nos ofrece esta temporada estival, como las horas de luz, el calor, vacaciones, sitios especiales, momentos de cuidado y descanso. Y también…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/el-inicio-de-curso/",
-    "fecha": "2026-10-14T15:09:35.000Z",
     "estado": "pendiente"
   }
 ]
