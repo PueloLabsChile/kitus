@@ -1,5 +1,25 @@
 [
   {
+    "id": "pressenza-ka81ss",
+    "titulo": "Avizorando una nueva sociedad",
+    "resumen": "Líderes ausentes",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/avizorando-una-nueva-sociedad/",
+    "fecha": "2026-10-23T00:49:03.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1dd5m3p",
+    "titulo": "La rebaja de la vergüenza: cuando el estado les abre la puerta a los violadores de niños",
+    "resumen": "Hay noticias que no deberían leerse con la indiferencia de quien revisa el precio del pan o el resultado de un partido de fútbol. Hay noticias que obligan a detenerse, cerrar el diario y preguntarse en qué clase de país se está…",
+    "seccion": "politica",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/la-rebaja-de-la-verguenza-cuando-el-estado-les-abre-la-puerta-a-los-violadores-de-ninos-2/",
+    "fecha": "2026-10-22T23:52:28.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-1qc03nx",
     "titulo": "Jugando con fuego y fe interna",
     "resumen": "Desde los primeros encuentros de la humanidad con el fuego hasta los movimientos juveniles de hoy, el coraje para enfrentar lo desconocido puede ser esencial para la transformación humana.",
@@ -1177,26 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/cuando-el-futbol-apaga-internet-el-impacto-de-los-bloqueos-indiscriminados-de-ip-292390",
     "fecha": "2026-10-14T10:58:43.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-1wyhj8",
-    "titulo": "El largo camino de «indígena» a ciudadano en Mozambique",
-    "resumen": "De «indígena» a obtener la ciudadanía: la historia de resistencia, transformación y derechos en Mozambique",
-    "seccion": "derechos",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/14/el-largo-camino-de-indigena-a-ciudadano-en-mozambique/",
-    "fecha": "2026-10-14T07:00:25.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-fm1rge",
-    "titulo": "Lo que las protestas de las «Cucarachas» de India revelan sobre el autoritarismo digital",
-    "resumen": "Las protestas del Partido Popular Cucaracha suponen una advertencia y un motivo de optimismo democrático",
-    "seccion": "politica",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/14/lo-que-las-protestas-de-las-cucarachas-de-la-india-revelan-sobre-el-autoritarismo-digital/",
-    "fecha": "2026-10-14T06:00:48.000Z",
     "estado": "pendiente"
   }
 ]
