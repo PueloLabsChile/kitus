@@ -1,5 +1,35 @@
 [
   {
+    "id": "global-voices-7cdaj7",
+    "titulo": "En elecciones de Brasil, políticas de transparencia y cooperación de gigantes tecnológicos se traducen como lavada de cara a la gobernanza, según experta",
+    "resumen": "El NetLab de la Universidad Federal de Río de Janeiro ha estado siguiendo de cerca cómo se desarrolla esta elección en las redes sociales",
+    "seccion": "politica",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/24/en-elecciones-de-brasil-politicas-de-transparencia-y-cooperacion-de-gigantes-tecnologicos-se-traducen-como-lavada-de-cara-a-la-gobernanza-segun-experta/",
+    "fecha": "2026-10-24T22:00:15.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1y858ob",
+    "titulo": "La Generación Z está despierta, por un futuro con dignidad",
+    "resumen": "Vivienda asequible, buena educación, paz y participación política: En las últimas semanas, la gente en numerosos países ha ocupado lugares públicos, bloqueado escuelas y organizado manifestaciones. Los jóvenes dan un impulso crucial a…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/la-generacion-z-esta-despierta-por-un-futuro-con-dignidad/",
+    "fecha": "2026-10-24T21:57:20.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1vitiwj",
+    "titulo": "Elecciones en Serbia: la lista de los estudiantes desafía a Aleksandar Vučić",
+    "resumen": "El año pasado dimos espacio al movimiento de protesta(https://www.pressenza.com/es/2025/03/el-despertar-de-serbia-historica-protesta-por-la-libertad-y-la-democracia-el-15-de-marzo/) estudiantil serbio contra una clase política corrupta y…",
+    "seccion": "politica",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/elecciones-en-serbia-la-lista-de-los-estudiantes-desafia-a-aleksandar-vucic/",
+    "fecha": "2026-10-24T21:31:57.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-h8o6ch",
     "titulo": "St Mandé es una escuela secundaria privilegiada",
     "resumen": "Fue durante la manifestación estudiantil del 24 de octubre que una madre me habló del siguiente texto. Su hijo, que representa a su clase y después de la consulta, escribió esta carta. Es importante, se trata de un gran y profundo cambio…",
@@ -1167,36 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/ley-de-nietos-es-discriminatorio-suspender-el-voto-a-ciudadanos-espanoles-de-pleno-derecho-294288",
     "fecha": "2026-10-15T20:28:09.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-a5e4se",
-    "titulo": "Parada cardiaca: las ventilaciones también salvan vidas",
-    "resumen": "Imagine que una persona se desploma delante de usted. No responde cuando le habla ni respira con normalidad. ¿Sabría qué hacer hasta que llegue la ambulancia? En una parada cardiaca, cada minuto sin reanimación reduce las posibilidades de…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/parada-cardiaca-las-ventilaciones-tambien-salvan-vidas-294416",
-    "fecha": "2026-10-15T20:22:34.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-atq7wf",
-    "titulo": "Las familias de presos políticos saharauis alertan del peligro que amenaza su vida y exigen su liberación inmediata",
-    "resumen": "En una rueda de prensa para medios internacionales, organizada por Équipe Media, este jueves 15 de octubre las familias de los presos políticos saharauis del grupo de Gdeim Izik han lanzando un comunicado de prensa que reproducimos…",
-    "seccion": "derechos",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/las-familias-de-presos-politicos-saharauis-alertan-del-peligro-que-amenaza-su-vida-y-exigen-su-liberacion-inmediata/",
-    "fecha": "2026-10-15T19:35:17.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-6ofef7",
-    "titulo": "Vivienda en la UVPT 2026: De la protesta a la propuesta",
-    "resumen": "Derecho a la vivienda, movimientos sociales y construcción de alternativas.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/vivienda-en-la-uvpt-2026-de-la-protesta-a-la-propuesta/",
-    "fecha": "2026-10-15T19:07:11.000Z",
     "estado": "pendiente"
   }
 ]
