@@ -1,5 +1,55 @@
 [
   {
+    "id": "global-voices-1djrtlt",
+    "titulo": "Tras cinco años de guerra, ¿cómo se mantienen los pequeños comercios en Ucrania?",
+    "resumen": "Tal vez los pequeños comercios pasen desapercibidos, pero para los hogares representan la independencia. Hablamos con Victoria Belim-Frolova.",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/24/tras-cinco-anos-de-guerra-como-se-mantienen-los-pequenos-comercios-en-ucrania/",
+    "fecha": "2026-10-24T06:00:27.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1qnpmbd",
+    "titulo": "Las revueltas globales y el divorcio de la política",
+    "resumen": "Alrededor del mundo se repite la misma imagen: calles llenas, pueblos en marcha, revueltas que estallan sin aviso. Desde Santiago a París, desde Buenos Aires a Teherán, el fenómeno es el mismo, aunque las consignas cambien.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/las-revueltas-globales-y-el-divorcio-de-la-politica/",
+    "fecha": "2026-10-24T03:41:16.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1tkoy1t",
+    "titulo": "Estados Unidos nunca ha sido aliado de Chile (V)",
+    "resumen": "La humillación efectuada por Estados Unidos a Chile en 1892 por el asunto del Baltimore no terminó con las reparaciones convenidas en favor de los marinos afectados. Además, ambos países acordaron ese año el establecimiento de un juzgado…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/estados-unidos-nunca-ha-sido-aliado-de-chile-v/",
+    "fecha": "2026-10-24T03:27:28.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-bw40nr",
+    "titulo": "El Presidente y el periodista: cuando el poder le tiene miedo a las preguntas",
+    "resumen": "Hay presidentes que responden preguntas y presidentes que prefieren insultar a quien las formula. Javier Milei, durante su paso por Madrid, volvió a poner esa diferencia sobre la mesa. Frente a una periodista de Cadena SER, Julia Molina…",
+    "seccion": "politica",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/el-presidente-y-el-periodista-cuando-el-poder-le-tiene-miedo-a-las-preguntas/",
+    "fecha": "2026-10-24T03:19:14.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1yzopn2",
+    "titulo": "AFP: la apuesta de los winners",
+    "resumen": "Hay algo profundamente inmoral en jugar con el dinero ajeno, especialmente cuando representa los ahorros de toda una vida de trabajo que necesitan seguridad, no especulaciones financieras. Lo que hicieron fue como ir al casino y jugar con…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/afp-la-apuesta-de-los-winners/",
+    "fecha": "2026-10-24T03:06:04.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-mjkuq6",
     "titulo": "La hibakusha Michiko Kodama a su paso por Madrid: «Hiroshima, nunca más»",
     "resumen": "La hibakusha Michiko Kodama, víctima de la bomba nuclear lanzada sobre Hiroshima y secretaria general de Nihon Hidankyo (Premio Nobel de la Paz 2024), ha pasado por Madrid, donde ha lanzado un mensaje al gobierno y al pueblo españoles…",
@@ -1147,56 +1197,6 @@
     "medio": "Global Voices",
     "enlace": "https://es.globalvoices.org/2026/10/15/libro-de-poesia-promociona-el-chabacano-unica-lengua-criolla-de-asia-derivada-del-espanol/",
     "fecha": "2026-10-15T15:00:12.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "democraciaabierta-ejpo2y",
-    "titulo": "Brasil: Flávio, el ‘moderado’ del clan Bolsonaro, capitaliza el desgaste de Lula",
-    "resumen": "La segunda vuelta presidencial de Brasil, que se celebrará el 25 de octubre, se perfila muy cuesta arriba para el presidente Luiz Inácio Lula da Silva.",
-    "seccion": "politica",
-    "medio": "democraciaAbierta",
-    "enlace": "https://www.opendemocracy.net/es/brasil-lula-dinastia-bolsonaro-democracia-ultraderecha/",
-    "fecha": "2026-10-15T14:13:55.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1jgf0t2",
-    "titulo": "Los libros de Sally Rooney se retiran de la venta en el Reino Unido debido a su apoyo a Palestine Action",
-    "resumen": "La existosa novelista irlandesa Sally Rooney ha anunciado(https://www.theguardian.com/uk-news/2026/oct/14/sally-rooney-says-she-can-no-longer-sell-books-in-the-uk-because-of-palestine-action-support) que se ve obligada a retirar sus libros…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/los-libros-de-sally-rooney-se-retiran-de-la-venta-en-el-reino-unido-debido-a-su-apoyo-a-palestine-action-294518",
-    "fecha": "2026-10-15T12:13:50.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-19lg1jx",
-    "titulo": "Bangladesh Las protestas pueden cambiar gobiernos ¿pero pueden fortalecer la democracia?",
-    "resumen": "Tras haber elegido un nuevo gobierno, ¿qué tanto han cambiado las estructuras e instituciones del Estado?",
-    "seccion": "politica",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/15/bangladesh-las-protestas-pueden-cambiar-gobiernos-pero-pueden-fortalecer-la-democracia/",
-    "fecha": "2026-10-15T07:00:57.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-15lydo1",
-    "titulo": "La lucha contra las importaciones occidentales: La justificación de la agenda anti-LGBTQ+ en África",
-    "resumen": "Legisladores africanos promueven legislación anti-LGBTQ+ con el argumento de que protege «valores tradicionales africanos»",
-    "seccion": "derechos",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/15/la-lucha-contra-las-importaciones-occidentales-la-justificacion-de-la-agenda-anti-lgbtq-en-africa/",
-    "fecha": "2026-10-15T06:00:42.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1y808z8",
-    "titulo": "Perú: Sociedad civil exige Plan de Contingencia para enfrentar Fenómeno El Niño",
-    "resumen": "Ante la inminente llegada del Fenómeno El Niño (FEL), que tendrá según todos los pronósticos, una magnitud “extraordinaria” y de “muy fuerte” en el Pacífico central, la sociedad civil se organiza para prevenir sus impactos: lluvias y…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/peru-sociedad-civil-exige-plan-de-contingencia-para-enfrentar-fenomeno-el-nino/",
-    "fecha": "2026-10-15T03:10:36.000Z",
     "estado": "pendiente"
   }
 ]
