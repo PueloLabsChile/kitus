@@ -1,5 +1,25 @@
 [
   {
+    "id": "pressenza-h8o6ch",
+    "titulo": "St Mandé es una escuela secundaria privilegiada",
+    "resumen": "Fue durante la manifestación estudiantil del 24 de octubre que una madre me habló del siguiente texto. Su hijo, que representa a su clase y después de la consulta, escribió esta carta. Es importante, se trata de un gran y profundo cambio…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/st-mande-es-una-escuela-secundaria-privilegiada/",
+    "fecha": "2026-10-24T21:07:12.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1p2d9a3",
+    "titulo": "Se estrena corto documental «Relatos de la Cuenca» sobre activismo ambiental en el sur de Chile",
+    "resumen": "Este jueves 22 de octubre en la Casa de la Memoria, Valdivia (Chile), se estrenó el cortometraje «Relatos de la Cuenca«. El video documental presenta testimonios desde la región de Los Ríos, en el marco del Día Internacional de Acción…",
+    "seccion": "derechos",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/se-estrena-corto-documental-relatos-de-la-cuenca-sobre-activismo-ambiental-en-el-sur-de-chile/",
+    "fecha": "2026-10-24T20:35:54.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-tq7tca",
     "titulo": "Ley de grandes simios",
     "resumen": "España pierde una oportunidad histórica y nuestros hermanos evolutivos vuelven a quedar esclavizados por la acción política",
@@ -1177,26 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/vivienda-en-la-uvpt-2026-de-la-protesta-a-la-propuesta/",
     "fecha": "2026-10-15T19:07:11.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-19o4joa",
-    "titulo": "Nuestras experiencias se pueden transmitir a los hijos: así funciona la epigenética",
-    "resumen": "“¡Que me quiten lo bailao!” es un dicho conocido que usamos para justificar nuestros excesos, creyendo que las consecuencias terminan exclusivamente en nosotros. Sin embargo, la ciencia apunta a que nos equivocamos.",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/nuestras-experiencias-se-pueden-transmitir-a-los-hijos-asi-funciona-la-epigenetica-290450",
-    "fecha": "2026-10-15T16:02:26.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-emyky8",
-    "titulo": "¿Deberíamos ponernos mascarillas cada otoño para evitar contagios?",
-    "resumen": "Una vez superada la emergencia que supuso la llegada de un virus nuevo, hemos entrado en una etapa distinta en la que convivimos con infecciones respiratorias agudas ya…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/deberiamos-ponernos-mascarillas-cada-otono-para-evitar-contagios-293711",
-    "fecha": "2026-10-15T16:02:19.000Z",
     "estado": "pendiente"
   }
 ]
