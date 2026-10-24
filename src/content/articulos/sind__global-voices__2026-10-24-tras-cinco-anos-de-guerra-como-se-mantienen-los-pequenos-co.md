@@ -13,6 +13,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/10/24/tras-cinco-anos-de-guerra-como-se-mantienen-los-pequenos-comercios-en-ucrania/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-1djrtlt.jpg"
+creditoPortada: "Foto: Global Voices"
 ---
 *Tal vez los pequeños comercios pasen desapercibidos, pero para los hogares representan la independencia. Hablamos con Victoria Belim-Frolova.*
 

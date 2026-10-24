@@ -1,5 +1,25 @@
 [
   {
+    "id": "pressenza-tq7tca",
+    "titulo": "Ley de grandes simios",
+    "resumen": "España pierde una oportunidad histórica y nuestros hermanos evolutivos vuelven a quedar esclavizados por la acción política",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/ley-de-grandes-simios-2/",
+    "fecha": "2026-10-24T17:32:25.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-wlckz5",
+    "titulo": "Continentes y Contenidos #38 22/10/26 Balotaje en Brasil",
+    "resumen": "Con el politólogo Daniel Cara hablamos sobre la segunda vuelta electoral entre Lula Da Silva y Flavio Bolsonaro.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/continentes-y-contenidos-38-22-10-26-balotaje-en-brasil/",
+    "fecha": "2026-10-24T16:35:24.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-1672kur",
     "titulo": "TPNW – El mundo ante la amenaza nuclear: la Conferencia de Nueva York llama a los gobiernos a la responsabilidad",
     "resumen": "El desarme nuclear vuelve a ser una cuestión decisiva para el futuro de la humanidad dado el actual contexto internacional, marcado por la escalada de los conflictos, el retorno de la amenaza nuclear al discurso oficial y la narrativa…",
@@ -1177,26 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/deberiamos-ponernos-mascarillas-cada-otono-para-evitar-contagios-293711",
     "fecha": "2026-10-15T16:02:19.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1d3ywxy",
-    "titulo": "¿Se está tropicalizando el mar Mediterráneo? Estas señales sugieren que sí",
-    "resumen": "Ningún lugar de la península ibérica ni de las Islas Baleares tiene un clima tropical. Para ello, su temperatura media del mes más frío tendría que ser igual o superior a 18 ºC. El contraste térmico entre el invierno y el verano y la…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/se-esta-tropicalizando-el-mar-mediterraneo-estas-senales-sugieren-que-si-294497",
-    "fecha": "2026-10-15T15:53:11.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "agencia-tierra-viva-ee2xeo",
-    "titulo": "\"Creemos en la potencia política de los feminismos para sembrar semillas de esperanza\"",
-    "resumen": "Desde Córdoba",
-    "seccion": "derechos",
-    "medio": "Agencia Tierra Viva",
-    "enlace": "https://agenciatierraviva.com.ar/creemos-en-la-potencia-politica-de-los-feminismos-para-sembrar-semillas-de-esperanza/",
-    "fecha": "2026-10-15T15:29:37.000Z",
     "estado": "pendiente"
   }
 ]
