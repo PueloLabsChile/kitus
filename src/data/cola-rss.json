@@ -1,5 +1,15 @@
 [
   {
+    "id": "global-voices-sf7wy6",
+    "titulo": "Vuela alto, Birdie: A los 91 años muere el rey mundial del calipso",
+    "resumen": "Haber dedicado su vida al calipso lo moldeó como un maestro del género y un perfecto caribeño",
+    "seccion": "derechos",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/25/vuela-alto-birdie-a-los-91-anos-muere-el-rey-mundial-del-calipso/",
+    "fecha": "2026-10-25T06:00:52.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "global-voices-7cdaj7",
     "titulo": "En elecciones de Brasil, políticas de transparencia y cooperación de gigantes tecnológicos se traducen como lavada de cara a la gobernanza, según experta",
     "resumen": "El NetLab de la Universidad Federal de Río de Janeiro ha estado siguiendo de cerca cómo se desarrolla esta elección en las redes sociales",
@@ -1187,16 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/el-virtuosismo-de-la-grafica-en-manos-de-boris-campos-ernst/",
     "fecha": "2026-10-15T23:22:49.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1jv39s5",
-    "titulo": "Ley de nietos: ¿es discriminatorio suspender el voto a ciudadanos españoles de pleno derecho?",
-    "resumen": "La llamada “ley de nietos” –establecida en la disposición adicional octava(https://www.boe.es/eli/es/l/2022/10/19/20/conda-8) de la Ley 20/2022, de Memoria Democrática– permite otorgar la nacionalidad a descendientes de españoles exiliados.",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/ley-de-nietos-es-discriminatorio-suspender-el-voto-a-ciudadanos-espanoles-de-pleno-derecho-294288",
-    "fecha": "2026-10-15T20:28:09.000Z",
     "estado": "pendiente"
   }
 ]
