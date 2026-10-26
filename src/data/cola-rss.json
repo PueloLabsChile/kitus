@@ -1,5 +1,25 @@
 [
   {
+    "id": "global-voices-1nylash",
+    "titulo": "Policía de Hong Kong presenta plataforma de seguridad nacional impulsada por IA para escolares",
+    "resumen": "Que las semillas de la seguridad nacional echen raíces y broten en los corazones de los alumnos…",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/26/policia-de-hong-kong-presenta-plataforma-de-seguridad-nacional-impulsada-por-ia-para-escolares/",
+    "fecha": "2026-10-26T07:00:35.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-16d2urf",
+    "titulo": "Cómo dos elecciones moldearon la frontera entre India y Bangladesh",
+    "resumen": "Los intentos de incursión de las Fuerzas de Seguridad Fronteriza indias se extienden a lo largo de la frontera terrestre de Bangladesh, y afecta los cuatro extremos del mapa",
+    "seccion": "politica",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/26/como-dos-elecciones-moldearon-la-frontera-entre-india-y-bangladesh/",
+    "fecha": "2026-10-26T06:00:27.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "global-voices-1cqh37v",
     "titulo": "Votar temprano, pero gobernar muy tarde: Juventud de África occidental a las puertas del poder",
     "resumen": "Se vota a los 18 años, pero el acceso a la presidencia se negocia a edades muy diferentes.",
@@ -1177,26 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/alzamiento-del-pueblo-wichi/",
     "fecha": "2026-10-17T15:14:48.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-13cil2s",
-    "titulo": "“Un lugar de silencio, contemplación y belleza también puede volverse una forma de resistencia”, en conversación con el artista catalán Jaume Amigó",
-    "resumen": "«Los artistas no pueden escapar del estado actual del mundo. Con mi trabajo, intento buscar otra realidad…».",
-    "seccion": "cultura",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/17/un-lugar-de-silencio-contemplacion-y-belleza-tambien-puede-volverse-una-forma-de-resistencia-en-conversacion-con-el-artista-catalan-jaume-amigo/",
-    "fecha": "2026-10-17T06:00:18.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1tmj6ju",
-    "titulo": "Otro 18 de Octubre",
-    "resumen": "Año a año, numerosos sectores populares celebran uno de los acontecimientos más maravillosos de la moderna historia de Chile: el estallido de 18 de octubre de 2019. Es justo que lo celebremos. Es nuestra ‘revolución de octubre’ aunque…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/otro-18-de-octubre/",
-    "fecha": "2026-10-17T03:27:58.000Z",
     "estado": "pendiente"
   }
 ]
