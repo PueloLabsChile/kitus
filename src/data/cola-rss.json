@@ -1,5 +1,35 @@
 [
   {
+    "id": "the-conversation-espana-1sx1sbs",
+    "titulo": "Ceuta, dos meses después: ¿cómo está funcionando la primera ‘situación de interés para la seguridad nacional’?",
+    "resumen": "El 26 de octubre se han cumplido dos meses desde su entrada en vigor. Ha sido la primera situación de interés para la seguridad nacional (SISN)(https://doi.org/10.64628/AAO.wmch7wy6f) declarada en España. Desde entonces se han sucedido…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/ceuta-dos-meses-despues-como-esta-funcionando-la-primera-situacion-de-interes-para-la-seguridad-nacional-295015",
+    "fecha": "2026-10-26T17:20:44.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-12z3et7",
+    "titulo": "Descuartizadores, vampiros y caníbales: por qué debemos comprender (antes que vender) a los monstruos",
+    "resumen": "La cultura popular contemporánea empuja al público a entretenerse con remozadas historias de vampiros, caníbales y toda suerte de criminales exagerados y grotescos. No es un género nuevo, pero en las últimas décadas, impulsado por el…",
+    "seccion": "derechos",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/descuartizadores-vampiros-y-canibales-por-que-debemos-comprender-antes-que-vender-a-los-monstruos-293055",
+    "fecha": "2026-10-26T17:20:41.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1s71k7i",
+    "titulo": "Las medidas de adaptación al calor han evitado miles de muertes este verano",
+    "resumen": "Según la Agencia Estatal de Meteorología(https://www.aemet.es/es/noticias/2026/09/resumenverano2026) (AEMET), el verano de 2026 (desde el 1 de junio al 31 de agosto) ha sido el más cálido desde el año 1961, superando en 0,3 °C al verano de…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/las-medidas-de-adaptacion-al-calor-han-evitado-miles-de-muertes-este-verano-294795",
+    "fecha": "2026-10-26T17:05:28.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "the-conversation-espana-uc0ts9",
     "titulo": "Los más pequeños buscan respuestas en Granada",
     "resumen": "Nada más cruzar la puerta del Parque de las Ciencias de Andalucía(https://www.parqueciencias.com), salta a la vista que Antonio (7 años) llega con ansias de saber. Su mirada curiosa le delata. “¿Qué te interesa más, el espacio, la…",
@@ -1167,36 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/peru-proponen-medidas-para-combatir-economias-ilegales-en-la-amazonia/",
     "fecha": "2026-10-18T03:40:46.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1gi05ij",
-    "titulo": "La revuelta no necesita quién la conduzca",
-    "resumen": "por Alejandro Mora Donoso",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/la-revuelta-no-necesita-quien-la-conduzca/",
-    "fecha": "2026-10-18T01:21:58.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1o3ngql",
-    "titulo": "La sombra cerrada de la IA",
-    "resumen": "Lo que se pretende es adaptar la IA a nuestros espacios políticos, sociales y académicos, dar un salto cualitativo al fracaso, como mecanismo de aprendizaje. No cerrarnos en el facilismo programático, que lo único que hace es volver al ser…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/la-sombra-cerrada-de-la-ia/",
-    "fecha": "2026-10-18T00:44:35.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-nhnj1i",
-    "titulo": "Jornada de protestas en Córdoba: Facultades tomadas.",
-    "resumen": "En el marco de la lucha universitaria por el cumplimiento efectivo de la Ley de Financiamiento Universitario, se desarrolló en la última semana en la ciudad de Córdoba un plan de movilización previo a la 5ta Marcha Federal Universitaria.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/jornada-de-protestas-en-cordoba-facultades-tomadas/",
-    "fecha": "2026-10-17T21:23:19.000Z",
     "estado": "pendiente"
   }
 ]
