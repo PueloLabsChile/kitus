@@ -1,5 +1,25 @@
 [
   {
+    "id": "the-conversation-espana-uc0ts9",
+    "titulo": "Los más pequeños buscan respuestas en Granada",
+    "resumen": "Nada más cruzar la puerta del Parque de las Ciencias de Andalucía(https://www.parqueciencias.com), salta a la vista que Antonio (7 años) llega con ansias de saber. Su mirada curiosa le delata. “¿Qué te interesa más, el espacio, la…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/los-mas-pequenos-buscan-respuestas-en-granada-295128",
+    "fecha": "2026-10-26T12:07:27.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-w4j6f2",
+    "titulo": "Tras ganar unas elecciones ‘milagrosas’ en Brasil, Lula se enfrenta a lo más difícil: volver a encarrilar el país",
+    "resumen": "Hace tres semanas, ya se habían escrito todas las necrológicas políticas(https://theconversation.com/brazils-new-republic-is-dead-and-what-comes-next-has-not-yet-been-born-293545) del presidente brasileño Luiz Inácio Lula da Silva.",
+    "seccion": "politica",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/tras-ganar-unas-elecciones-milagrosas-en-brasil-lula-se-enfrenta-a-lo-mas-dificil-volver-a-encarrilar-el-pais-295186",
+    "fecha": "2026-10-26T10:25:42.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "global-voices-1nylash",
     "titulo": "Policía de Hong Kong presenta plataforma de seguridad nacional impulsada por IA para escolares",
     "resumen": "Que las semillas de la seguridad nacional echen raíces y broten en los corazones de los alumnos…",
@@ -1177,26 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/jornada-de-protestas-en-cordoba-facultades-tomadas/",
     "fecha": "2026-10-17T21:23:19.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-jxdf0y",
-    "titulo": "Gaza registra 1,4 millones de personas en riesgo alimentario",
-    "resumen": "En un comunicado divulgado con motivo del Día Mundial de la Alimentación, que se conmemora cada 16 de octubre, la institución alertó sobre el impacto de la escasez de alimentos en menores, mujeres embarazadas y lactantes, adultos mayores y…",
-    "seccion": "derechos",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/gaza-registra-14-millones-de-personas-en-riesgo-alimentario/",
-    "fecha": "2026-10-17T15:56:57.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-5rio2s",
-    "titulo": "Alzamiento del pueblo Wichi",
-    "resumen": "Formosa y Chaco, Argentina: Hay momentos en los que el silencio deja de ser una opción. El pasado 12 de octubre de 2026, mientras buena parte del mundo recordaba una fecha que para los pueblos originarios representa precisamente el…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/alzamiento-del-pueblo-wichi/",
-    "fecha": "2026-10-17T15:14:48.000Z",
     "estado": "pendiente"
   }
 ]
