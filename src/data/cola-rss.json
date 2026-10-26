@@ -1,5 +1,45 @@
 [
   {
+    "id": "global-voices-1cqh37v",
+    "titulo": "Votar temprano, pero gobernar muy tarde: Juventud de África occidental a las puertas del poder",
+    "resumen": "Se vota a los 18 años, pero el acceso a la presidencia se negocia a edades muy diferentes.",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/26/votar-temprano-pero-gobernar-muy-tarde-juventud-de-africa-occidental-a-las-puertas-del-poder/",
+    "fecha": "2026-10-26T01:00:00.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-5zccct",
+    "titulo": "A 2 años de la desaparición de Julia Chuñil, su memoria presidirá el reencuentro en Santiago y otras ciudades",
+    "resumen": "Santiago, 25 de octubre de 2026",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/a-2-anos-de-la-desaparicion-de-julia-chunil-su-memoria-presidira-el-reencuentro-en-santiago-y-otras-ciudades/",
+    "fecha": "2026-10-26T00:48:29.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-o3ccyd",
+    "titulo": "Gaza / Israel: reflexiones sobre el documental Naza y la verdadera saga observada con respecto a su proyección en Costa Rica",
+    "resumen": "Introducción",
+    "seccion": "cultura",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/gaza-israel-reflexiones-sobre-el-documental-naza-y-la-verdadera-saga-observada-con-respecto-a-su-proyeccion-en-costa-rica/",
+    "fecha": "2026-10-26T00:43:16.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1hxpkp",
+    "titulo": "¡¡Ganó Lula!!",
+    "resumen": "Durante este domingo se realizaron las elecciones de segunda vuelta presidencial en Brasil, enfrentando a Lula Da Silva (Partido de los Trabajadores o PT) con Flavio Bolsonaro (Partido Liberal, PL) quien venció por poco margen la primera…",
+    "seccion": "economia",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/gano-lula/",
+    "fecha": "2026-10-26T00:13:29.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-19ax1hy",
     "titulo": "Introducción a un enfoque mediante la terapia de escritura: del espejo roto al mosaico",
     "resumen": "En el libro titulado «Starke Frauen zwischen Gewalt und Diskriminierung Ein schreibtherapeutischer Ansatz» («Mujeres fuertes entre la violencia y la discriminación. Un enfoque desde la terapia de escritura»), intento crear un proyecto…",
@@ -1157,46 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/otro-18-de-octubre/",
     "fecha": "2026-10-17T03:27:58.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1su8r1d",
-    "titulo": "Concesiones: ganar-ganar con más transparencia y equidad",
-    "resumen": "El sistema de concesiones ha sido una de las políticas públicas más exitosas de Chile. Gracias a la colaboración público-privada, nuestro país experimentó una transformación extraordinaria en infraestructura vial, portuaria y…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/concesiones-ganar-ganar-con-mas-transparencia-y-equidad/",
-    "fecha": "2026-10-17T02:55:48.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-x1hbbe",
-    "titulo": "Estados Unidos nunca ha sido aliado de Chile (IV)",
-    "resumen": "El antagonismo entre Chile y Estados Unidos llegó a su máxima gravedad con ocasión del desenlace de nuestra guerra civil de 1891. Estados Unidos había manifestado claramente sus simpatías por Balmaceda, resultado de lo cual decenas de…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/estados-unidos-nunca-ha-sido-aliado-de-chile-iv/",
-    "fecha": "2026-10-17T02:16:31.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-18bunlr",
-    "titulo": "Cómo una red extremista difundió una mentira que vinculaba al presidente brasileño Lula con el abuso infantil en X",
-    "resumen": "El análisis de 1819 publicaciones reveló que usuarios de extrema derecha intentaron manipular a Grok, la herramienta de IA de X",
-    "seccion": "politica",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/17/como-una-red-extremista-difundio-una-mentira-que-vinculaba-al-presidente-brasileno-lula-con-el-abuso-infantil-en-x/",
-    "fecha": "2026-10-17T01:00:24.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-rhdksz",
-    "titulo": "La Nación Humana Universal: Del mito social a la vereda de nuestro barrio",
-    "resumen": "Frente a la crisis de un mundo fragmentado, la Nación Humana Universal emerge no como una utopía lejana, sino como un mito movilizador necesario. Un recorrido desde Silo hasta la vereda del barrio para transformar la aspiración global en…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/la-nacion-humana-universal-del-mito-social-a-la-vereda-de-nuestro-barrio/",
-    "fecha": "2026-10-16T23:43:24.000Z",
     "estado": "pendiente"
   }
 ]
