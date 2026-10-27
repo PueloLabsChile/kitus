@@ -1,5 +1,25 @@
 [
   {
+    "id": "pressenza-jj7096",
+    "titulo": "Lula: ganamos el futuro",
+    "resumen": "Sao Paulo, Brasil",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/lula-ganamos-el-futuro/",
+    "fecha": "2026-10-27T03:01:09.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-1m8aq1g",
+    "titulo": "Médiums queer del culto a María Lionza redefinen binariedad de género en la montaña sagrada de Venezuela",
+    "resumen": "Diversidad de género, resistencia y travestismo ritual en el culto sagrado de Venezuela",
+    "seccion": "derechos",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/27/mediums-queer-del-culto-a-maria-lionza-redefinen-binariedad-de-genero-en-la-montana-sagrada-de-venezuela/",
+    "fecha": "2026-10-27T01:00:41.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-7goz6l",
     "titulo": "Glifosato en la comida escolar y una alerta que Perú necesita escuchar",
     "resumen": "Para un niño que vive en un internado amazónico, la comida del Estado puede ser su desayuno, almuerzo y cena. Un estudio reportó glifosato en tres de cuatro muestras de Qali Warma recogidas en la provincia de Condorcanqui. Se hizo sin…",
@@ -1177,26 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/quien-tiene-derecho-a-representar-a-la-comunidad-al-completo-la-batalla-politica-en-michigan/",
     "fecha": "2026-10-18T22:03:13.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1uqpk6x",
-    "titulo": "La mancha del Quijote de la Mancha: Don Álvaro, Sancho y el espejo de la conciencia",
-    "resumen": "Por: Dr. Rodrigo Díaz Bermúdez",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/la-mancha-del-quijote-de-la-mancha-don-alvaro-sancho-y-el-espejo-de-la-conciencia/",
-    "fecha": "2026-10-18T15:40:16.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1rlhxag",
-    "titulo": "Isabel Allende un premio y críticas a ultraderecha",
-    "resumen": "Los premios tienen la virtud de dar mayor visibilidad a los vencedores y aunque Isabel Allende no la necesita, sus críticas a la ultraderecha internacional cobran mayor relevancia.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/isabel-allende-un-premio-y-criticas-a-ultraderecha/",
-    "fecha": "2026-10-18T15:32:11.000Z",
     "estado": "pendiente"
   }
 ]
