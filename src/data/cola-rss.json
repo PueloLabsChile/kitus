@@ -1,5 +1,35 @@
 [
   {
+    "id": "the-conversation-espana-1p8q393",
+    "titulo": "Ser capaz de evaluarse: una habilidad que mejora el aprendizaje y la madurez",
+    "resumen": "Imaginemos una clase de Ciencias de 2º de ESO con estudiantes de 13 y 14 años que están aprendiendo a formular hipótesis científicas. El profesor explica que una hipótesis tiene que proponer una posible explicación a un fenómeno, permitir…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/ser-capaz-de-evaluarse-una-habilidad-que-mejora-el-aprendizaje-y-la-madurez-286782",
+    "fecha": "2026-10-27T18:24:23.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-192kz3r",
+    "titulo": "¿Hasta qué punto puede un electroencefalograma ‘adivinar’ nuestras emociones?",
+    "resumen": "Imagine que se coloca un casco con pequeños sensores(https://theconversation.com/rafael-yuste-nos-hallamos-al-comienzo-de-una-revolucion-darwiniana-de-la-neurociencia-270091), ve una película y, al terminar, alguien “adivina” cuánto miedo…",
+    "seccion": "cultura",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/hasta-que-punto-puede-un-electroencefalograma-adivinar-nuestras-emociones-294605",
+    "fecha": "2026-10-27T18:23:06.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-9q2q0w",
+    "titulo": "Qué es la ‘crisis de replicación’ de la ciencia y cómo solucionarla",
+    "resumen": "Cuando tratamos de entender el mundo que nos rodea, tendemos a buscar explicaciones en la ciencia. ¿Está ese hecho comprobado científicamente? Así intentamos dar solidez a nuestros argumentos y guiarnos sobre lo que conocemos sobre nuestro…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/que-es-la-crisis-de-replicacion-de-la-ciencia-y-como-solucionarla-270096",
+    "fecha": "2026-10-27T18:22:51.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-28glat",
     "titulo": "Activarnos para detener el genocidio en Palestina: memoria, justicia y solidaridad",
     "resumen": "Encuéntame en las Ondas | Radio Guiniguada | 21 de octubre de 2026",
@@ -1167,36 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/si-los-robots-no-tienen-genero-por-que-siguen-reproduciendo-estereotipos-292916",
     "fecha": "2026-10-19T16:39:06.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1vhyt6w",
-    "titulo": "Ropa destinada al vertedero: la industria textil en la era de la moda rápida",
-    "resumen": "La producción mundial de fibras alcanzó los 1 132 millones de toneladas (Mt) en 2024(https://textileexchange.org/knowledge-center/reports/materials-market-report-2025/) y continúa creciendo. Las fibras son materias primas que se hilan y…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/ropa-destinada-al-vertedero-la-industria-textil-en-la-era-de-la-moda-rapida-292322",
-    "fecha": "2026-10-19T16:07:32.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-12y18x2",
-    "titulo": "El genoma humano cumple 25 años: una carrera de infarto y un futuro fascinante",
-    "resumen": "En febrero del año 2001, hace 25 años(https://web.ub.edu/es/web/25-anys-genoma/), se publicaban de forma conjunta en Nature y Science los resultados de la secuenciación del genoma humano obtenidos por el consorcio público internacional…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/el-genoma-humano-cumple-25-anos-una-carrera-de-infarto-y-un-futuro-fascinante-293591",
-    "fecha": "2026-10-19T16:03:18.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-eejd8v",
-    "titulo": "Chile. A 7 años del 18 de octubre: lucha y debate",
-    "resumen": "A 7 años de la revuelta social, este domingo 18 de octubre, a las 12:00 horas en Santiago, diversas agrupaciones de trabajadores, estudiantes y activos territoriales se dieron cita en la Alameda con Ahumada, a una cuadra de La Moneda, para…",
-    "seccion": "economia",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/chile-a-7-anos-del-18-de-octubre-lucha-y-debate/",
-    "fecha": "2026-10-19T12:12:45.000Z",
     "estado": "pendiente"
   }
 ]
