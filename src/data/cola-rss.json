@@ -1,5 +1,35 @@
 [
   {
+    "id": "the-conversation-espana-bz1pr8",
+    "titulo": "Warmer seas and shifting pressure systems: the signs that suggest the Mediterranean’s climate is ‘tropicalising’",
+    "resumen": "Nowhere in the Iberian Peninsula or the Balearic Islands has a tropical climate – for this to be the case, the average temperature in the coldest month would have to be 18°C or higher. The contrast between Spain’s winters and summers, and…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/warmer-seas-and-shifting-pressure-systems-the-signs-that-suggest-the-mediterraneans-climate-is-tropicalising-295197",
+    "fecha": "2026-10-27T08:18:29.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-c2lxva",
+    "titulo": "Energía de oeste a este, cómputo de este a oeste: El costo uigur del orden digital de China",
+    "resumen": "Pekín califica a la región uigur de «base nacional estratégica de seguridad energética y de recursos»",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/27/energia-de-oeste-a-este-computo-de-este-a-oeste-el-costo-uigur-del-orden-digital-de-china/",
+    "fecha": "2026-10-27T07:00:09.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-1wroujh",
+    "titulo": "Cómo se exageró en línea una protesta de agricultores en Bucarest y luego se le dio otro giro",
+    "resumen": "Un problema económico real se convirtió en combustible para las narrativas antisistema que ya existían en Rumania",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/27/como-se-exagero-en-linea-una-protesta-de-agricultores-en-bucarest-y-luego-se-le-dio-otro-giro/",
+    "fecha": "2026-10-27T06:00:25.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-jj7096",
     "titulo": "Lula: ganamos el futuro",
     "resumen": "Sao Paulo, Brasil",
@@ -1167,36 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/los-misteriosos-anillos-de-chariklo-una-pieza-mas-del-puzle-291913",
     "fecha": "2026-10-19T04:26:09.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1ysdz74",
-    "titulo": "Un mensaje cálido y cercano escrito por IA, ¿demuestra la empatía del humano que lo firma?",
-    "resumen": "Un amigo nos cuenta por WhatsApp que está atravesando un momento difícil. Queremos responder, pero no encontramos las palabras. Pedimos a un sistema de inteligencia artificial que nos ayude a redactar un mensaje empático. El resultado es…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/un-mensaje-calido-y-cercano-escrito-por-ia-demuestra-la-empatia-del-humano-que-lo-firma-292007",
-    "fecha": "2026-10-19T04:25:31.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-2eccl",
-    "titulo": "Los Medios de comunicación ven rabia en el movimiento juvenil francés, cuando en las grandes ciudades solo se canta y se baila",
-    "resumen": "Veo a jóvenes que quieren ser reconocidos como seres humanos. De hecho, el ser humano, por encima de todo, tiene que ver con la libertad de elegir el propio futuro y las condiciones en las que se desea vivir. La juventud no necesita un…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/los-medios-de-comunicacion-ven-rabia-en-el-movimiento-juvenil-frances-cuando-en-las-grandes-ciudades-solo-se-canta-y-se-baila/",
-    "fecha": "2026-10-18T23:32:08.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1dxu1ic",
-    "titulo": "¿Quién tiene derecho a representar a la comunidad al completo? La batalla política en Míchigan",
-    "resumen": "A tres semanas de las elecciones generales del 3 de noviembre, la carrera al Senado en Míchigan ha entrado en una fase diferente.",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/quien-tiene-derecho-a-representar-a-la-comunidad-al-completo-la-batalla-politica-en-michigan/",
-    "fecha": "2026-10-18T22:03:13.000Z",
     "estado": "pendiente"
   }
 ]
