@@ -1,5 +1,15 @@
 [
   {
+    "id": "pressenza-qs2rb0",
+    "titulo": "¡El triunfo de Lula y el pueblo brasileño nos convoca: unidos por la soberanía popular y la transformación de América Latina!",
+    "resumen": "Desde el Partido Humanista de Chile enviamos un afectuoso abrazo al pueblo de Brasil y a su presidente, Luiz Inácio Lula da Silva.",
+    "seccion": "politica",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/el-triunfo-de-lula-y-el-pueblo-brasileno-nos-convoca-unidos-por-la-soberania-popular-y-la-transformacion-de-america-latina/",
+    "fecha": "2026-10-27T21:32:41.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "the-conversation-espana-1p8q393",
     "titulo": "Ser capaz de evaluarse: una habilidad que mejora el aprendizaje y la madurez",
     "resumen": "Imaginemos una clase de Ciencias de 2º de ESO con estudiantes de 13 y 14 años que están aprendiendo a formular hipótesis científicas. El profesor explica que una hipótesis tiene que proponer una posible explicación a un fenómeno, permitir…",
@@ -1187,16 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/cisjordania-el-terror-tambien-sirve-para-robar-la-tierra/",
     "fecha": "2026-10-19T16:48:36.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-jzwwaf",
-    "titulo": "Si los robots no tienen género, ¿por qué siguen reproduciendo estereotipos?",
-    "resumen": "Los robots sociales son máquinas con un cuerpo físico, diseñadas para interactuar y comunicarse con las personas. Estos cuerpos no tienen género. Aun así, las imágenes que nos llegan a través de la prensa siguen reproduciendo estereotipos…",
-    "seccion": "derechos",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/si-los-robots-no-tienen-genero-por-que-siguen-reproduciendo-estereotipos-292916",
-    "fecha": "2026-10-19T16:39:06.000Z",
     "estado": "pendiente"
   }
 ]
