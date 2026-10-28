@@ -550,6 +550,16 @@
     "estado": "pendiente"
   },
   {
+    "id": "dialogue-earth-1ravalg",
+    "titulo": "Nueva planta siderúrgica pone a prueba el régimen de inversiones de Argentina",
+    "resumen": "San Nicolás de los Arroyos, en el noreste de Argentina, es una ciudad ribereña con décadas de tradición siderúrgica. El ruido de la maquinaria pesada que emana de un terreno de 15 hectáreas es el sonido de su próxima era tomando forma. Se…",
+    "seccion": "internacional",
+    "medio": "Dialogue Earth",
+    "enlace": "https://dialogue.earth/es/negocios/nueva-planta-siderurgica-regimen-de-inversiones-argentina/",
+    "fecha": "2026-10-23T15:54:48.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "the-conversation-espana-1n7pp7r",
     "titulo": "US midterms: what a new Congress could – and could not – change for Europe",
     "resumen": "US midterm elections traditionally attract fewer voters than presidential contests. But this year’s vote is drawing considerable attention at home and abroad, especially in Europe.",
@@ -717,6 +727,16 @@
     "medio": "democraciaAbierta",
     "enlace": "https://www.opendemocracy.net/es/onu-secretaria-general-mujer-latinoamericana-independencia-sociedad-civil/",
     "fecha": "2026-10-22T18:26:55.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "dialogue-earth-eu9qk4",
+    "titulo": "El año de los derrames de petróleo en México aviva creciente preocupación",
+    "resumen": "A principios de marzo, Andrés Palma observaba a sus hijos construir un castillo de arena en la playa de El Bosque, al sureste de México. El pescador pronto se dio cuenta de que algo no estaba del todo bien. Sus hijos jugaban en arena…",
+    "seccion": "economia",
+    "medio": "Dialogue Earth",
+    "enlace": "https://dialogue.earth/es/oceanos/ano-derrames-petroleo-mexico-preocupacion/",
+    "fecha": "2026-10-22T17:27:37.000Z",
     "estado": "pendiente"
   },
   {
@@ -1177,26 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/el-bolero-de-los-que-ya-no-saben-amar/",
     "fecha": "2026-10-19T17:19:52.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-10jtyv",
-    "titulo": "Manifiesto del pacto político que anhelo en mi país",
-    "resumen": "Estimados ciudadanos de mi país:",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/manifiesto-del-pacto-politico-que-anhelo-en-mi-pais/",
-    "fecha": "2026-10-19T17:01:34.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1xnvtke",
-    "titulo": "Cisjordania: El terror también sirve para robar la tierra",
-    "resumen": "Por Patricio Luco Torres",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/cisjordania-el-terror-tambien-sirve-para-robar-la-tierra/",
-    "fecha": "2026-10-19T16:48:36.000Z",
     "estado": "pendiente"
   }
 ]
