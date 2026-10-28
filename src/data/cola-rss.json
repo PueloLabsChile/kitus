@@ -1,5 +1,45 @@
 [
   {
+    "id": "the-conversation-espana-drdpzv",
+    "titulo": "Barcelona unrest: how to fabricate a protest in the age of TikTok",
+    "resumen": "Imagine coming across a TikTok post calling you to protest for better public schools. You scan a QR code to get more information, and find yourself in a private chat where the instructions are not about education or political organising…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/barcelona-unrest-how-to-fabricate-a-protest-in-the-age-of-tiktok-295263",
+    "fecha": "2026-10-28T08:01:51.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-1l4b2dc",
+    "titulo": "Cuando el derecho a protestar sigue vigente, pero manifestarse tiene un precio",
+    "resumen": "Los activistas climáticos son especialmente vulnerables a detenciones y persecuciones",
+    "seccion": "derechos",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/28/cuando-el-derecho-a-protestar-sigue-vigente-pero-manifestarse-tiene-un-precio/",
+    "fecha": "2026-10-28T07:00:40.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-14nexnh",
+    "titulo": "Qué podría significar la minería en aguas profundas para los pescadores de Jamaica",
+    "resumen": "«Cualquier actividad que altere la salud de los océanos podría tener consecuencias a largo plazo…»",
+    "seccion": "economia",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/28/que-podria-significar-la-mineria-en-aguas-profundas-para-los-pescadores-de-jamaica/",
+    "fecha": "2026-10-28T06:00:24.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-8qbvcb",
+    "titulo": "Perú: Duro golpe a la justicia en caso de Esterilizaciones Forzadas",
+    "resumen": "Inaudito. La Fiscalía del Perú archivó la investigación del caso de Esterilizaciones Forzadas ocurrido entre los años 1990 y 2000, en el gobierno de Alberto Fujimori. En este caso, considerado de lesa humanidad, aproximadamente más de 314…",
+    "seccion": "politica",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/peru-duro-golpe-a-la-justicia-en-caso-de-esterilizaciones-forzadas/",
+    "fecha": "2026-10-28T04:18:02.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-qs2rb0",
     "titulo": "¡El triunfo de Lula y el pueblo brasileño nos convoca: unidos por la soberanía popular y la transformación de América Latina!",
     "resumen": "Desde el Partido Humanista de Chile enviamos un afectuoso abrazo al pueblo de Brasil y a su presidente, Luiz Inácio Lula da Silva.",
@@ -1157,46 +1197,6 @@
     "medio": "Global Voices",
     "enlace": "https://es.globalvoices.org/2026/10/19/anthropic-revelo-operacion-de-ia-que-los-periodistas-de-republica-democratica-del-congo-no-conocian/",
     "fecha": "2026-10-19T21:00:28.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-bqz005",
-    "titulo": "En la ‘disuasión nuclear’: ¿quiénes son los verdaderos «Osos Amorosos»?",
-    "resumen": "A los partidarios del desarme nuclear se les despacha con frecuencia, por parte de los defensores a ultranza de la disuasión nuclear (nuclear deterrence), como ingenuos e irrealistas, utópicos o incluso irresponsables. Sin embargo, esa…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/en-la-disuasion-nuclear-quienes-son-los-verdaderos-osos-amorosos/",
-    "fecha": "2026-10-19T20:55:04.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-sbn1xm",
-    "titulo": "Las mujeres están más satisfechas con sus vidas, pero sienten más emociones negativas en su día a día",
-    "resumen": "¿Es posible estar satisfecho con la vida(https://es.wikipedia.org/wiki/Satisfacci%C3%B3nconlavida) y, al mismo tiempo, experimentar estrés, ansiedad o tristeza? Los datos muestran que sí, y que esta aparente contradicción aparece de forma…",
-    "seccion": "derechos",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/las-mujeres-estan-mas-satisfechas-con-sus-vidas-pero-sienten-mas-emociones-negativas-en-su-dia-a-dia-292560",
-    "fecha": "2026-10-19T17:24:24.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-kx7a78",
-    "titulo": "De Berlusconi a Donald Trump: los líderes que eligen mujeres destinadas a caer",
-    "resumen": "Katie Zacharia(https://www.youtube.com/watch?v=GVhMHHivVkQ) subió al atril de la Casa Blanca el pasado 13 de octubre para dar su primera rueda de prensa como portavoz. Duró 14 minutos y solo tres medios hicieron…",
-    "seccion": "derechos",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/de-berlusconi-a-donald-trump-los-lideres-que-eligen-mujeres-destinadas-a-caer-294734",
-    "fecha": "2026-10-19T17:24:17.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1iwznjs",
-    "titulo": "El bolero de los que ya no saben amar",
-    "resumen": "Por Rodrigo Díaz Bermúdez",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/el-bolero-de-los-que-ya-no-saben-amar/",
-    "fecha": "2026-10-19T17:19:52.000Z",
     "estado": "pendiente"
   }
 ]
