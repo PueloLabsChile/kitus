@@ -1,5 +1,55 @@
 [
   {
+    "id": "the-conversation-espana-qvb6xp",
+    "titulo": "En Urda, el sistema de bloqueo y las órdenes del puesto de mando fueron insuficientes para evitar un nuevo accidente ferroviario",
+    "resumen": "Pasadas las 8 de la mañana, dos trenes de alta velocidad partieron de la madrileña estación de Atocha con destino a la de Sevilla-Santa Justa, pero nunca llegaron a su destino. La caída del sistema de bloqueo…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/en-urda-el-sistema-de-bloqueo-y-las-ordenes-del-puesto-de-mando-fueron-insuficientes-para-evitar-un-nuevo-accidente-ferroviario-295405",
+    "fecha": "2026-10-28T23:54:06.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-329dpo",
+    "titulo": "Propiedad privada (de las AFP)",
+    "resumen": "Por Javiera Aravena Araneda",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/propiedad-privada-de-las-afp/",
+    "fecha": "2026-10-28T22:38:54.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-140rmxh",
+    "titulo": "Constituyen en Santa Clara sección cubana del Fórum Red Intercultural",
+    "resumen": "Santa Clara, 22 oct (ACN) El Fórum Red Intercultural (FRI) constituyó su sección cubana para las jornadas FRI-ICAP, entre el 19 al 22 de octubre en la sede del Instituto Cubano de Amistad con los Pueblos (ICAP), en Santa Clara, con…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/constituyen-en-santa-clara-seccion-cubana-del-forum-red-intercultural/",
+    "fecha": "2026-10-28T22:08:22.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-42jxz4",
+    "titulo": "Melissa Parke: «Que España firme el TPAN solo depende de voluntad política»",
+    "resumen": "«Que España rompa filas cambia lo que es pensable para el resto y pega en el corazón de la creencia de que estas armas otorgan seguridad y status», ha afirmado Parke en Madrid.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/melissa-parke-que-espana-firme-el-tpan-solo-depende-de-voluntad-politica/",
+    "fecha": "2026-10-28T21:28:30.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-ek18z",
+    "titulo": "Lula remonta conectando WhatsApp con la calle, pero tendrá que pactar para gobernar",
+    "resumen": "La victoria de Luiz Inácio Lula da Silva en las elecciones brasileñas supone un revés para la familia Bolsonaro y para las expectativas de Trump de contar con un gobierno brasileño más próximo a Washington. También refuerza a Lula como…",
+    "seccion": "politica",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/lula-remonta-conectando-whatsapp-con-la-calle-pero-tendra-que-pactar-para-gobernar-295309",
+    "fecha": "2026-10-28T21:19:38.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-1f0vztf",
     "titulo": "Llamamiento de Combatientes por la Paz para detener la destrucción y los desplazamientos forzosos en Cisjordania",
     "resumen": "El 23 de octubre, dos hombres armados palestinos mataron a dos soldados israelíes cerca de Hebrón. En respuesta, el primer ministro israelí, Benjamin Netanyahu, anunció planes para destruir el barrio del que procedían. Declarando, —«En…",
@@ -1147,56 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/por-que-todos-los-carteles-hechos-con-ia-son-iguales-293759",
     "fecha": "2026-10-20T16:01:57.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1o5yldd",
-    "titulo": "Pronunciamiento humanista sobre las elecciones en Brasil",
-    "resumen": "El proceso electoral brasileño trasciende las fronteras nacionales y se inscribe en una encrucijada histórica mundial: la pugna entre el proyecto humanizador y la escalada internacional del antihumanismo. Esa misma dinámica destructiva…",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/pronunciamiento-humanista-sobre-las-elecciones-en-brasil/",
-    "fecha": "2026-10-20T15:01:51.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1kxrex3",
-    "titulo": "¿El asesinato del chavismo?",
-    "resumen": "Puede sorprender la campaña que desde los medios hegemónicos y declaraciones de políticos y opinadores se ha desatado contra el chavismo, habida cuenta que la operación estadounidense del 3 de enero, que terminó con el secuestro del…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/el-asesinato-del-chavismo/",
-    "fecha": "2026-10-20T13:03:15.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "dialogue-earth-ur7rx2",
-    "titulo": "Cartas sobre la Antártica: ‘Nos preocupa el mismo tema’",
-    "resumen": "Esta semana, los gobiernos se reúnen en Australia para debatir cómo gestionar la Antártica y sus vastos recursos.",
-    "seccion": "internacional",
-    "medio": "Dialogue Earth",
-    "enlace": "https://dialogue.earth/es/naturaleza/cartas-antartica-nos-preocupa-el-mismo-tema/",
-    "fecha": "2026-10-20T09:57:21.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-pcy9lg",
-    "titulo": "Parques infantiles",
-    "resumen": "No juguemos con la salud de nuestros niños",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/parques-infantiles/",
-    "fecha": "2026-10-20T09:05:02.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-13yaxzw",
-    "titulo": "Francia 2026: ¿Estamos a las puertas de otro Mayo del 68?",
-    "resumen": "La crisis política francesa tiene su propia historia y su propia cultura. La calle lleva mucho tiempo siendo una forma de diálogo entre la sociedad y el Estado, y la huelga general, una manera de hacerle entender al poder aquello que no…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/francia-2026-estamos-a-las-puertas-de-otro-mayo-del-68-294728",
-    "fecha": "2026-10-20T08:38:51.000Z",
     "estado": "pendiente"
   }
 ]
