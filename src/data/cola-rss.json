@@ -1,5 +1,55 @@
 [
   {
+    "id": "agencia-tierra-viva-czxmzi",
+    "titulo": "Rosa Amorim: \"Hablar de reforma agraria en Brasil es hablar de un proyecto de dignidad de vida\"",
+    "resumen": "“Com a barriga vazia não consigo dormir, E com o bucho mais cheio, comecei a pensar. Que eu me organizando posso desorganizar Que eu desorganizando posso me organizar Que eu me organizando posso desorganizar”. Da lama ao caos, Nação Zumbi…",
+    "seccion": "internacional",
+    "medio": "Agencia Tierra Viva",
+    "enlace": "https://agenciatierraviva.com.ar/rosa-amorim-hablar-de-reforma-agraria-en-brasil-es-hablar-de-un-proyecto-de-dignidad-de-vida/",
+    "fecha": "2026-10-29T20:48:42.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1jgiizj",
+    "titulo": "Melissa Parke, directora de ICAN: «Necesitamos ver que se toman medidas y que España se adhiere al TPAN»",
+    "resumen": "Melissa Parke, directora ejecutiva de ICAN (campaña que recibió el Premio Nobel de la Paz 2017), ha visitado nuestro país para promover que el gobierno español firme el Tratado para la Prohibición de las Armas Nucleares. Durante la…",
+    "seccion": "politica",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/melissa-parke-directora-de-ican-necesitamos-ver-que-se-toman-medidas-y-que-espana-se-adhiere-al-tpan/",
+    "fecha": "2026-10-29T20:41:52.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-9nnj5h",
+    "titulo": "El riego por aspersión y Legionella: un peligro hasta ahora invisible",
+    "resumen": "Cuando pensamos en los riesgos sanitarios asociados a la agricultura, solemos evocar la exposición a pesticidas, las enfermedades transmitidas por animales (zoonosis) o la seguridad alimentaria de los vegetales que llegan a nuestra mesa…",
+    "seccion": "derechos",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/el-riego-por-aspersion-y-legionella-un-peligro-hasta-ahora-invisible-294969",
+    "fecha": "2026-10-29T19:12:04.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1vrjurm",
+    "titulo": "La herencia de Netanyahu: cuando votar no basta para recuperar la democracia israelí",
+    "resumen": "El instituto V-Dem marca el 2023 como el año en que Israel perdió la condición de democracia liberal(https://www.v-dem.net/documents/75/V-DemInstituteDemocracyReport2026lowres.pdf), categoría que exige, además de elecciones libres…",
+    "seccion": "politica",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/la-herencia-de-netanyahu-cuando-votar-no-basta-para-recuperar-la-democracia-israeli-295042",
+    "fecha": "2026-10-29T19:08:33.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-zsriia",
+    "titulo": "¿Quién tiene la culpa? La política de la responsabilidad tras las grandes tragedias en España",
+    "resumen": "En los últimos años, España ha experimentado una sucesión de acontecimientos de enorme impacto colectivo: la pandemia de la covid-19; grandes incendios forestales en…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/quien-tiene-la-culpa-la-politica-de-la-responsabilidad-tras-las-grandes-tragedias-en-espana-295489",
+    "fecha": "2026-10-29T19:08:27.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-1suklli",
     "titulo": "Michiko Kodama, sobreviviente de Hiroshima: «NO rotundo a la guerra y NO a poseer armas nucleares»",
     "resumen": "Con motivo del acto «Hiroshima nunca más. El papel de España en el desarme nuclear«, hemos podido conversar con Michiko Kodama (Kodama-san), sobreviviente de Hiroshima y secretaria general de Nihon Hidankyo, Confederación de Asociaciones…",
@@ -1147,56 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/elena-montes-debuta-en-la-novela-con-hacia-falta-una-inquietante-exploracion-de-la-muerte-la-identidad-y-los-vinculos-familiares/",
     "fecha": "2026-10-21T19:17:53.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-pfkoat",
-    "titulo": "¿Por qué cuesta cada vez más acceder a una vivienda?",
-    "resumen": "El problema de la dificultad de acceso a una vivienda digna lleva meses en el centro del debate público en España. No obstante, fue el desahucio de la octogenaria Maricarmen…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/por-que-cuesta-cada-vez-mas-acceder-a-una-vivienda-294604",
-    "fecha": "2026-10-21T16:06:37.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1fwsh8c",
-    "titulo": "El modelo de bienestar basado en el consumo choca con la sostenibilidad del planeta",
-    "resumen": "El desarrollo humano consiste, en esencia, en mejorar el bienestar de las personas ampliando sus capacidades y sus opciones vitales, y se mide habitualmente mediante indicadores de salud, educación y renta.",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/el-modelo-de-bienestar-basado-en-el-consumo-choca-con-la-sostenibilidad-del-planeta-282787",
-    "fecha": "2026-10-21T16:06:23.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1t5uxx6",
-    "titulo": "Del pigmento al pixel: ¿el color digital es también color?",
-    "resumen": "Durante siglos, hemos contemplado sin cuestionamientos los vestigios escultóricos de la Antigüedad en un pulcro blanco. Sin embargo, las investigaciones más recientes sobre…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/del-pigmento-al-pixel-el-color-digital-es-tambien-color-289836",
-    "fecha": "2026-10-21T16:04:37.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "dialogue-earth-1nhaq85",
-    "titulo": "Sin financiación de EE.UU., la Reserva de la Biósfera Maya de Guatemala enfrenta retos",
-    "resumen": "Amanece en el pueblo de Carmelita, en el corazón de la Reserva de la Biósfera Maya de Guatemala. La luz del sol se cuela entre los árboles de sapodilla (Manilkara zapota) que se mecen mientras los gallos comienzan a cantar. Con machetes en…",
-    "seccion": "internacional",
-    "medio": "Dialogue Earth",
-    "enlace": "https://dialogue.earth/es/bosques/reserva-biosfera-maya-de-guatemala-enfrenta-retos/",
-    "fecha": "2026-10-21T15:48:42.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1bm61y",
-    "titulo": "Del prejuicio a la discriminación",
-    "resumen": "El concepto de prejuicio encuentra su raíz etimológica en el latín praeiudicium, entendido como ‘juicio previo’ o ‘decisión prematura’. Se le define en dos acepciones complementarias. Uno, como la acción y efecto de prejuzgar; y dos, como…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/del-prejuicio-a-la-discriminacion/",
-    "fecha": "2026-10-21T15:34:40.000Z",
     "estado": "pendiente"
   }
 ]
