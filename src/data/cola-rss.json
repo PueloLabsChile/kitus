@@ -1,5 +1,55 @@
 [
   {
+    "id": "pressenza-1suklli",
+    "titulo": "Michiko Kodama, sobreviviente de Hiroshima: «NO rotundo a la guerra y NO a poseer armas nucleares»",
+    "resumen": "Con motivo del acto «Hiroshima nunca más. El papel de España en el desarme nuclear«, hemos podido conversar con Michiko Kodama (Kodama-san), sobreviviente de Hiroshima y secretaria general de Nihon Hidankyo, Confederación de Asociaciones…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/michiko-kodama-sobreviviente-de-hiroshima-no-rotundo-a-la-guerra-y-no-a-poseer-armas-nucleares/",
+    "fecha": "2026-10-29T19:06:01.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-pms1km",
+    "titulo": "¿Por qué disfrutamos con los sustos? La ciencia explica qué cantidad de miedo nos divierte",
+    "resumen": "Cada Halloween convertimos en motivo de celebración aquello que normalmente asociamos con el miedo. Nos disfrazamos de monstruos, asistimos a fiestas repletas de zombis y decoramos nuestras casas con esqueletos y fantasmas. También nos…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/por-que-disfrutamos-con-los-sustos-la-ciencia-explica-que-cantidad-de-miedo-nos-divierte-293057",
+    "fecha": "2026-10-29T19:00:39.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-15swrey",
+    "titulo": "De la fosa común de Pico Reja al laboratorio: biología molecular contra la desmemoria histórica",
+    "resumen": "Todo el mundo comprende la inmensa tragedia del Holocausto(https://es.wikipedia.org/wiki/Holocausto) gracias a El diario de Ana Frank(https://es.wikipedia.org/wiki/DiariodeAnaFrank). A través de las palabras de una niña escondida en una…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/de-la-fosa-comun-de-pico-reja-al-laboratorio-biologia-molecular-contra-la-desmemoria-historica-294130",
+    "fecha": "2026-10-29T19:00:28.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1bweu76",
+    "titulo": "¿Es más peligroso viajar en tren hoy? Los datos detrás de las tragedias",
+    "resumen": "Ynés vigila un vaso de agua en la mesita de su asiento con la gravedad que otros reservan para un eclipse. El tren cruza la meseta y el líquido apenas tiembla.",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/es-mas-peligroso-viajar-en-tren-hoy-los-datos-detras-de-las-tragedias-295468",
+    "fecha": "2026-10-29T19:00:22.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-ud6k9k",
+    "titulo": "Kast y Zelenski: ¿qué hay detrás de la posible cooperación entre Chile y Ucrania?",
+    "resumen": "Las declaraciones del embajador ucraniano Yurii Diudin abren interrogantes sobre el alcance de los vínculos que Kiev busca desarrollar con Chile. Más allá de la seguridad y la tecnología de drones, el diplomático plantea una relación que…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/kast-y-zelenski-que-hay-detras-de-la-posible-cooperacion-entre-chile-y-ucrania/",
+    "fecha": "2026-10-29T13:49:36.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-m9di74",
     "titulo": "Honduras: vuelve la ofensiva para privatizar zonas enteras del país",
     "resumen": "Las ZEDE permiten a empresas extranjeras administrar territorios con sus propias reglas, tribunales y sistemas fiscales. Los movimientos populares se movilizan contra la cesión de la soberanía nacional. Uno de los temas centrales que…",
@@ -1147,56 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/del-prejuicio-a-la-discriminacion/",
     "fecha": "2026-10-21T15:34:40.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-hkjqrh",
-    "titulo": "Pía Figueroa: el temple de las mujeres que transforman la adversidad",
-    "resumen": "¿Qué descubrimos de nosotros mismos cuando la vida nos enfrenta a aquello que parece imposible de superar? ¿De dónde surge la fuerza para seguir adelante cuando la historia, las circunstancias o el dolor parecen decidir por nosotros? Estas…",
-    "seccion": "derechos",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/pia-figueroa-el-temple-de-las-mujeres-que-transforman-la-adversidad/",
-    "fecha": "2026-10-21T15:23:53.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1sauvzz",
-    "titulo": "French students are showing us what protest looks like in the age of viral spectacle",
-    "resumen": "The recent wave of protests in Europe have left us with two striking, viral spectacles of violence and joy. As Limoges’ historic town hall went up in flames, the Orchestre du Nouveau Monde was playing classical music in Paris’ central…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/french-students-are-showing-us-what-protest-looks-like-in-the-age-of-viral-spectacle-294879",
-    "fecha": "2026-10-21T14:47:21.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-t4utwn",
-    "titulo": "La conversación docente: Lea, repita y vuelva a leer",
-    "resumen": "El título de hoy de nuestra newsletter describe lo que hacemos de manera instintiva cuando queremos aprendernos algo de memoria. Pensamos que releer, repetirlo en voz alta o escribirlo varias veces son estrategias que contribuyen a su…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/la-conversacion-docente-lea-repita-y-vuelva-a-leer-294886",
-    "fecha": "2026-10-21T09:04:43.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-sqp910",
-    "titulo": "Jóvenes crean puente sobre la brecha climática entre Oceania y el Caribe",
-    "resumen": "Cuando se incluye a las comunidades, cuando las soluciones se debaten, se comprenden y resultan pertinentes a nivel local, surgen la colaboración y la participación.",
-    "seccion": "derechos",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/21/jovenes-crean-puente-sobre-la-brecha-climatica-entre-oceania-y-el-caribe/",
-    "fecha": "2026-10-21T07:00:35.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-1m9f400",
-    "titulo": "El sonido de la resistencia",
-    "resumen": "Artículo colaborativo sobre distintas formas de música de protesta a lo largo del tiempo y la geografía",
-    "seccion": "cultura",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/21/el-sonido-de-la-resistencia/",
-    "fecha": "2026-10-21T06:00:41.000Z",
     "estado": "pendiente"
   }
 ]
