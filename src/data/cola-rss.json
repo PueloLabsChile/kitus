@@ -1,5 +1,55 @@
 [
   {
+    "id": "pressenza-m9di74",
+    "titulo": "Honduras: vuelve la ofensiva para privatizar zonas enteras del país",
+    "resumen": "Las ZEDE permiten a empresas extranjeras administrar territorios con sus propias reglas, tribunales y sistemas fiscales. Los movimientos populares se movilizan contra la cesión de la soberanía nacional. Uno de los temas centrales que…",
+    "seccion": "derechos",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/honduras-vuelve-la-ofensiva-para-privatizar-zonas-enteras-del-pais/",
+    "fecha": "2026-10-29T13:36:04.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "agencia-tierra-viva-1d3pmy1",
+    "titulo": "Aparicio exonerada en el INTA: “Vamos a ir a la justicia para que revise lo absurdo e irregular de todo el procedimiento”",
+    "resumen": "El Consejo Directivo del INTA, presidido por Nicolás Bronzovich —miembro de la Asociación Argentina de Productores en Siembra Directa (Aapresid) y de la Sociedad Rural de Balcarce—, exoneró a la investigadora Virginia Aparicio, la mayor…",
+    "seccion": "internacional",
+    "medio": "Agencia Tierra Viva",
+    "enlace": "https://agenciatierraviva.com.ar/aparicio-exonerada-en-el-inta-vamos-a-ir-a-la-justicia-para-que-revise-lo-absurdo-e-irregular-de-todo-el-procedimiento/",
+    "fecha": "2026-10-29T12:05:11.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-gv8b5b",
+    "titulo": "Spain’s high-speed train network is plagued by old signalling systems. They may have caused the deadly crash",
+    "resumen": "Shortly after 8am, two high-speed trains set off from Madrid’s Atocha station bound for Seville Santa Justa, but neither reached their destination. A failure in the LZB system(https://en.wikipedia.org/wiki/LZB) – an automatic safety…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/spains-high-speed-train-network-is-plagued-by-old-signalling-systems-they-may-have-caused-the-deadly-crash-295465",
+    "fecha": "2026-10-29T11:52:36.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-pp71sn",
+    "titulo": "El fenómeno Blocus: de la movilización en redes a las protestas y los disturbios en la calle",
+    "resumen": "En los últimos días hay un término que acapara la atención de la sociedad y de los medios de comunicación. Se trata de Blocus, una palabra francesa que significa “bloqueo” y la etiqueta bajo la que se han organizado las protestas…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/el-fenomeno-blocus-de-la-movilizacion-en-redes-a-las-protestas-y-los-disturbios-en-la-calle-295408",
+    "fecha": "2026-10-29T08:37:14.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-zubm2",
+    "titulo": "Activistas instan a Pakistán a reconocer y apoyar a personas con albinismo",
+    "resumen": "Pakistán no tiene registro de personas con albinismo, lo que deja desatendidas sus necesidades escolares, de salud y laborales.",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/29/activistas-instan-a-pakistan-a-reconocer-y-apoyar-a-personas-con-albinismo/",
+    "fecha": "2026-10-29T07:00:58.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "global-voices-18ehb59",
     "titulo": "Más allá de la protesta: Violencia colectiva y lucha por una respuesta institucional en Bangladesh",
     "resumen": "«El pueblo no tiene la seguridad de que se le hará justicia».",
@@ -1147,56 +1197,6 @@
     "medio": "Global Voices",
     "enlace": "https://es.globalvoices.org/2026/10/21/el-sonido-de-la-resistencia/",
     "fecha": "2026-10-21T06:00:41.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-11zgyi4",
-    "titulo": "Perú: Comisión de Constitución del Senado aprueba facultades legislativas con 7 puntos adicionales",
-    "resumen": "Ingrata noticia. La Comisión de Constitución de la Cámara de Senadores del Congreso de la República aprobó las facultades legislativas solicitadas por el gobierno de Keiko Fujimori, con la adición de siete puntos adicionales, que no fueron…",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/peru-comision-de-constitucion-del-senado-aprueba-facultades-legislativas-con-7-puntos-adicionales/",
-    "fecha": "2026-10-21T03:54:13.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-133aiei",
-    "titulo": "Lo que necesitamos aprender y desaprender sobre China",
-    "resumen": "77 años después de la fundación de la República Popular, América Latina, como gran parte del mundo , sigue aprendiendo a relacionarse con una China competente, ambiciosa y que no comparte las reglas que muchos aún llaman universales. Desde…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/lo-que-necesitamos-aprender-y-desaprender-sobre-china/",
-    "fecha": "2026-10-21T00:49:38.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "agencia-tierra-viva-usezfg",
-    "titulo": "Elecciones en Brasil: deforestación, frontera agrícola y ultraderecha",
-    "resumen": "“La frontera agrícola avanza expropiando, y la expropiación necesita de apoyo político”, escribe el abogado en derechos humanos Diogo Cabral en un trabajo que cruza datos para intentar comprender dónde y cómo se produce el avance de la…",
-    "seccion": "derechos",
-    "medio": "Agencia Tierra Viva",
-    "enlace": "https://agenciatierraviva.com.ar/elecciones-en-brasil-deforestacion-frontera-agricola-y-ultraderecha/",
-    "fecha": "2026-10-20T22:29:53.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1478pjq",
-    "titulo": "Manifiesto del pacto político que anhelo en mi país",
-    "resumen": "Estimados ciudadanos de mi país:",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/manifiesto-del-pacto-politico-que-anhelo-en-mi-pais-2/",
-    "fecha": "2026-10-20T20:40:13.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1riii2w",
-    "titulo": "Lo que los disturbios de Francia enseñan a España sobre la gestión de emergencias",
-    "resumen": "Una ambulancia necesita llegar a una vivienda, pero la calle está cortada. A unas manzanas, los bomberos atienden un incendio mientras llegan nuevos avisos. En otro barrio, una persona espera asistencia por un problema de salud ajeno a los…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/lo-que-los-disturbios-de-francia-ensenan-a-espana-sobre-la-gestion-de-emergencias-294749",
-    "fecha": "2026-10-20T16:48:59.000Z",
     "estado": "pendiente"
   }
 ]
