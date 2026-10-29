@@ -1,5 +1,35 @@
 [
   {
+    "id": "global-voices-18ehb59",
+    "titulo": "Más allá de la protesta: Violencia colectiva y lucha por una respuesta institucional en Bangladesh",
+    "resumen": "«El pueblo no tiene la seguridad de que se le hará justicia».",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/29/mas-alla-de-la-protesta-violencia-colectiva-y-lucha-por-una-respuesta-institucional-en-bangladesh/",
+    "fecha": "2026-10-29T06:00:12.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-ka92rf",
+    "titulo": "Perú: Jóvenes Ts+uni piden creación de Comisión de la Verdad para la Amazonía por crímenes en la época del caucho",
+    "resumen": "Día decisivo. Este 28 de octubre, en Nauta, Loreto (oriente amazónico del Perú) 30 jóvenes de los pueblos originarios kukama, maijuna, secoya, achuar, murui, bora, tikuna, awajún, arabela y wampis expusieron ante los jueces, su pedido de…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/peru-jovenes-tsuni-piden-creacion-de-comision-de-la-verdad-para-la-amazonia-por-crimenes-en-la-epoca-del-caucho/",
+    "fecha": "2026-10-29T04:00:25.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-l7wf5d",
+    "titulo": "Venezuela enfrenta crisis energética cada vez más grave mientras aumentan las protestas",
+    "resumen": "Para la mayor parte de la población, el suministro eléctrico inestable se ha convertido en un problema crónico de la vida cotidiana",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/29/venezuela-enfrenta-crisis-energetica-cada-vez-mas-grave-mientras-aumentan-las-protestas/",
+    "fecha": "2026-10-29T03:00:42.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "the-conversation-espana-qvb6xp",
     "titulo": "En Urda, el sistema de bloqueo y las órdenes del puesto de mando fueron insuficientes para evitar un nuevo accidente ferroviario",
     "resumen": "Pasadas las 8 de la mañana, dos trenes de alta velocidad partieron de la madrileña estación de Atocha con destino a la de Sevilla-Santa Justa, pero nunca llegaron a su destino. La caída del sistema de bloqueo…",
@@ -1167,36 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/lo-que-los-disturbios-de-francia-ensenan-a-espana-sobre-la-gestion-de-emergencias-294749",
     "fecha": "2026-10-20T16:48:59.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-suzm6u",
-    "titulo": "Elderly women are often victims of gender-based violence. Why is it so hard for them to get help?",
-    "resumen": "In 1997, Ana Orantes appeared on an Andalusian television programme to recount a lifetime of abuse at the hands of her husband. Just a few days after her harrowing testimony, she was brutally murdered by her…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/elderly-women-are-often-victims-of-gender-based-violence-why-is-it-so-hard-for-them-to-get-help-294742",
-    "fecha": "2026-10-20T16:42:33.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "democraciaabierta-5xn6xc",
-    "titulo": "Periodismo en México: Anatomía de un silencio",
-    "resumen": "Esta es una versión traducida y editada de un artículo publicado originalmente(https://lab.imedd.org/en/journalism-in-mexico-anatomy-of-a-silence/?ref=opendemocracy.net) en iMEdD(https://www.imedd.org/?ref=opendemocracy.net) (Incubator for…",
-    "seccion": "internacional",
-    "medio": "democraciaAbierta",
-    "enlace": "https://www.opendemocracy.net/es/mexico-periodismo-asesinatos-persecucion-crimen-organizado-gobierno-censura-silencio/",
-    "fecha": "2026-10-20T16:04:14.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-12mqqoh",
-    "titulo": "¿Por qué todos los carteles hechos con IA son iguales?",
-    "resumen": "Ayuntamientos, asociaciones vecinales, comisiones de fiestas y pequeños negocios presentan carteles para anunciar sus actividades. Algo está llamando la atención: muchos parecen pertenecer a un mismo universo visual.",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/por-que-todos-los-carteles-hechos-con-ia-son-iguales-293759",
-    "fecha": "2026-10-20T16:01:57.000Z",
     "estado": "pendiente"
   }
 ]
