@@ -1,5 +1,35 @@
 [
   {
+    "id": "the-conversation-espana-1ezxp43",
+    "titulo": "Volveremos a coger trenes como si nada hubiera pasado",
+    "resumen": "El andén amanece bajo el mismo compás metálico de siempre: el silbato de salida, el cierre neumático de las puertas y esa prisa matinal, casi coreografiada, de quienes aceleran el paso para no quedarse fuera. Para un observador ajeno, nada…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/volveremos-a-coger-trenes-como-si-nada-hubiera-pasado-295570",
+    "fecha": "2026-10-30T10:54:18.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-41tqqm",
+    "titulo": "Cuando la tierra era nuestra hermana",
+    "resumen": "Hace aproximadamente ochocientos años, un hombre casi ciego, enfermo y próximo al final de su vida fue capaz de mirar mucho más lejos que quienes tenían los ojos abiertos. Se llamaba Francisco de Asís.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/cuando-la-tierra-era-nuestra-hermana/",
+    "fecha": "2026-10-30T10:53:24.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-z8wy2",
+    "titulo": "He desertado. No tenemos motivo para combatirnos",
+    "resumen": "Por cuarta noche voy a cenar al mismo bistró; es un sitio económico, aunque está en el centro, pero ahora no hay casi nadie porque llueve y sopla un viento helado. Dentro, sin embargo, hace calor y las dos chicas que trabajan aquí son…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/he-desertado-no-tenemos-motivo-para-combatirnos/",
+    "fecha": "2026-10-30T10:16:14.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "the-conversation-espana-ka4pfx",
     "titulo": "Qué pasa cuando la seguridad que damos por sentada se rompe: psicología social tras el accidente de Urda",
     "resumen": "La colisión de dos trenes de alta velocidad(https://theconversation.com/topics/accidente-urda-194963) ocurrida el 28 de octubre en las proximidades de Urda (Toledo) ha conmocionado a la sociedad española. La magnitud de la tragedia, con…",
@@ -127,6 +157,16 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/es-mas-peligroso-viajar-en-tren-hoy-los-datos-detras-de-las-tragedias-295468",
     "fecha": "2026-10-29T19:00:22.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "dialogue-earth-1t80jgn",
+    "titulo": "Fondo para proteger los bosques tropicales cumple un año, aún lejos de su meta",
+    "resumen": "Es una idea sencilla: ¿cómo se puede ayudar a los países que cuentan con los bosques más ricos en biodiversidad del mundo, pero que no tienen los recursos para protegerlos? Creando un fondo de inversión de 125 mil millones de dólares que…",
+    "seccion": "internacional",
+    "medio": "Dialogue Earth",
+    "enlace": "https://dialogue.earth/es/bosques/fondo-bosques-tropicales-lejos-meta-financiacion/",
+    "fecha": "2026-10-29T18:45:01.000Z",
     "estado": "pendiente"
   },
   {
@@ -1157,46 +1197,6 @@
     "medio": "Agencia Tierra Viva",
     "enlace": "https://agenciatierraviva.com.ar/miguel-mirra-cuando-la-comunidad-participa-en-contar-su-historia-la-recupera-para-la-lucha/",
     "fecha": "2026-10-22T11:48:50.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-fe0efr",
-    "titulo": "Demasiado jóvenes para postular, suficientemente adultos para protestar: Inconcluso pacto democrático de África occidental",
-    "resumen": "Los jóvenes nigerianos siguen teniendo obstáculos estructurales y financieros para postular y ganar elecciones",
-    "seccion": "politica",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/22/demasiado-jovenes-para-postular-suficientemente-adultos-para-protestar-inconcluso-pacto-democratico-de-africa-occidental/",
-    "fecha": "2026-10-22T06:00:56.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-zzjrcc",
-    "titulo": "¿Quién provoca la violencia en Francia y en varios países de Europa?",
-    "resumen": "Siempre que hay una manifestación popular, en ella se cuelan provocadores y delincuentes. Pasó en Chile durante el estallido social y pasa a cada rato en México: los delincuentes se meten en cualquier manifestación, con el objeto de…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/quien-provoca-la-violencia-en-francia-y-en-varios-paises-de-europa/",
-    "fecha": "2026-10-22T03:25:53.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-2t8m6g",
-    "titulo": "Perú: Aprueban derogar dos leyes pro-crimen en la Cámara de Diputados",
-    "resumen": "Trascendental decisión. La Comisión de Justicia y Derechos Humanos de la Cámara de Diputados, presidida por Catherine Palomino, aprobó derogar las dos primeras leyes pro-crimen demandadas por la población, la Ley N° 32130 y la Ley N°…",
-    "seccion": "derechos",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/peru-aprueban-derogar-dos-leyes-pro-crimen-en-la-camara-de-diputados/",
-    "fecha": "2026-10-22T03:00:17.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-njvnha",
-    "titulo": "Sembrando, comunidades mapuche y campesinas esperan respuesta a su recurso de protección contra el SAG",
-    "resumen": "Huerteras, guardadores de semillas y comunidades mapuche del Lavkenmapu, junto a organizaciones sociales y personas naturales, esperan respuesta de la Corte de Apelaciones de Santiago al recurso de protección (ROL 22200-2026) interpuesto…",
-    "seccion": "derechos",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/sembrando-comunidades-mapuche-y-campesinas-esperan-respuesta-a-su-recurso-de-proteccion-contra-el-sag/",
-    "fecha": "2026-10-22T02:57:36.000Z",
     "estado": "pendiente"
   }
 ]
