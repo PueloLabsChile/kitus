@@ -1,5 +1,35 @@
 [
   {
+    "id": "the-conversation-espana-ka4pfx",
+    "titulo": "Qué pasa cuando la seguridad que damos por sentada se rompe: psicología social tras el accidente de Urda",
+    "resumen": "La colisión de dos trenes de alta velocidad(https://theconversation.com/topics/accidente-urda-194963) ocurrida el 28 de octubre en las proximidades de Urda (Toledo) ha conmocionado a la sociedad española. La magnitud de la tragedia, con…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/que-pasa-cuando-la-seguridad-que-damos-por-sentada-se-rompe-psicologia-social-tras-el-accidente-de-urda-295525",
+    "fecha": "2026-10-30T07:55:31.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-ypc9k0",
+    "titulo": "Esperanza digital, poder real: De conexión a acción colectiva",
+    "resumen": "Comprender como los derechos digitales evolucionan requiere observar de cerca a las comunidades que lo moldean",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/30/esperanza-digital-poder-real-de-conexion-a-accion-colectiva/",
+    "fecha": "2026-10-30T07:00:21.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-1b0cz1s",
+    "titulo": "Cables submarinos y oleoductos: Infraestructura que une IA, imperio y ocupación",
+    "resumen": "La política de infraestructuras de internet es un tema de discusión cada vez más presente en el debate sobre estrategia militar y en la toma de decisiones políticas.",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/30/cables-submarinos-y-oleoductos-la-infraestructura-que-une-ia-imperio-y-ocupacion/",
+    "fecha": "2026-10-30T06:00:23.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-tegd2x",
     "titulo": "Contra la crueldad: una educación humanizada y humanizadora",
     "resumen": "Sao Paulo, Brasil.",
@@ -1167,36 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/sembrando-comunidades-mapuche-y-campesinas-esperan-respuesta-a-su-recurso-de-proteccion-contra-el-sag/",
     "fecha": "2026-10-22T02:57:36.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-jc2lc9",
-    "titulo": "Siempre ha habido inundaciones en el Mediterráneo, ¿son ahora excepcionales?",
-    "resumen": "Entre 1900 y 2020 se registraron en Cataluña 228 episodios de inundaciones, causando 1 167 víctimas mortales y daños materiales considerables; en algunas ocasiones, catastróficos(https://agora.ub.edu/portal-historic/). La mayor parte se…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/siempre-ha-habido-inundaciones-en-el-mediterraneo-son-ahora-excepcionales-294910",
-    "fecha": "2026-10-21T23:39:09.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-5lpa5x",
-    "titulo": "Este jueves 29, Taller Contacto con tu sentido de vida. ¡Despierta!",
-    "resumen": "La búsqueda del Sentido de la vida no es un asunto de una minoría, ni de personas con cualidades excepcionales. Es una posibilidad asequible para cualquier persona, es un acto intencional que no admite imposición, realizarlo justifica la…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/este-jueves-29-taller-contacto-con-tu-sentido-de-vida-despierta/",
-    "fecha": "2026-10-21T23:04:37.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1p4p48q",
-    "titulo": "Marianne con las manos mutiladas",
-    "resumen": "Hay días en que la República se mira al espejo y no reconoce su propio rostro. Francia, esa vieja señora de la libertad, la igualdad y la fraternidad, ha terminado por contemplar cómo sus hijos trepan por las piernas de sus monumentos para…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/marianne-con-las-manos-mutiladas/",
-    "fecha": "2026-10-21T19:29:56.000Z",
     "estado": "pendiente"
   }
 ]
