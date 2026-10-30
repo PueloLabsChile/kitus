@@ -1,5 +1,105 @@
 [
   {
+    "id": "pressenza-rznhvw",
+    "titulo": "Clavel Rojo en Roma: cuando la memoria chilena cruza las fronteras",
+    "resumen": "Hay historias que no caben dentro de las fronteras de un país. Historias que, aunque nacen en una geografía determinada, terminan perteneciendo a todos aquellos que alguna vez conocieron el miedo, la persecución, la injusticia o la…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/clavel-rojo-en-roma-cuando-la-memoria-chilena-cruza-las-fronteras/",
+    "fecha": "2026-10-30T20:14:26.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1n0z8e4",
+    "titulo": "Meta, el cáncer de la democracia",
+    "resumen": "Por Enrique Dans(https://www.enriquedans.com/curriculum)",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/meta-el-cancer-de-la-democracia/",
+    "fecha": "2026-10-30T20:02:50.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-irsqx2",
+    "titulo": "Chile. 1.055 años de cautiverio colonial por recuperar tierra lavkenche: Entrevista con vocero de presos políticos mapuche del caso Grollmus",
+    "resumen": "La red de comunidades mapuche lavkenche autorganizadas se ha dedicado los últimos 10 a 15 años a llevar a cabo procesos de recuperación territorial en la cordillera de Nahuelbuta hacia el mar. La cordillera de la Costa es un bastión…",
+    "seccion": "derechos",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/chile-1-055-anos-de-cautiverio-colonial-por-recuperar-tierra-lavkenche-entrevista-con-vocero-de-presos-politicos-mapuche-del-caso-grollmus/",
+    "fecha": "2026-10-30T20:02:47.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1kd4fma",
+    "titulo": "¿Qué significan las elecciones de medio mandato para América Latina?",
+    "resumen": "El pasado 25 de octubre, los brasileños decidieron renovar su confianza en Lula da Silva(https://www.americasquarterly.org/article/reaction-lula-wins-brazils-presidency-in-historic-comeback/), que remontó en la segunda vuelta y frenó la…",
+    "seccion": "politica",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/que-significan-las-elecciones-de-medio-mandato-para-america-latina-295284",
+    "fecha": "2026-10-30T19:28:38.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-v1nlny",
+    "titulo": "Elecciones de medio mandato: cómo intenta Trump conservar el Congreso y qué pasará si lo pierde",
+    "resumen": "En una convención republicana celebrada en Dallas el pasado 9 de septiembre, Donald Trump prometió 5 000 dólares a cada ciudadano…",
+    "seccion": "politica",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/elecciones-de-medio-mandato-como-intenta-trump-conservar-el-congreso-y-que-pasara-si-lo-pierde-295044",
+    "fecha": "2026-10-30T19:27:58.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "agencia-tierra-viva-9iy0x8",
+    "titulo": "El suelo como espejo de la relación entre humanidad y naturaleza",
+    "resumen": "Somos muchas las personas, organizaciones e instituciones que reconocemos estar atravesando una crisis civilizatoria muy profunda. Hay tantísima evidencia que muestra cómo estamos sobrepasando los límites físicos que permiten nuestra…",
+    "seccion": "internacional",
+    "medio": "Agencia Tierra Viva",
+    "enlace": "https://agenciatierraviva.com.ar/el-suelo-como-espejo-de-la-relacion-entre-humanidad-y-naturaleza/",
+    "fecha": "2026-10-30T18:23:58.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-jmvs7g",
+    "titulo": "UVPT 2026: La renta básica universal, como fundamento material para una revolución noviolenta",
+    "resumen": "Hoy reproducimos la mesa redonda sobre renta básica universal e incondicional, que tuvo lugar dentro de la Universidad de Verano del Humanismo Universalista 2026 del Parque Toledo. Fue organizada por la coordinadora Eureka.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/uvpt-2026-la-renta-basica-universal-como-fundamento-material-para-una-revolucion-noviolenta/",
+    "fecha": "2026-10-30T18:12:49.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "dialogue-earth-1v8slak",
+    "titulo": "Lula versus el Congreso: tras la reelección, el líder de Brasil se enfrenta a una batalla ambiental",
+    "resumen": "La agenda climática estuvo prácticamente ausente de las campañas de los dos candidatos en las elecciones brasileñas de 2026.",
+    "seccion": "derechos",
+    "medio": "Dialogue Earth",
+    "enlace": "https://dialogue.earth/es/bosques/lula-versus-el-congreso-tras-reeleccion-lider-brasil-enfrenta-batalla-ambiental/",
+    "fecha": "2026-10-30T17:27:05.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-o13y7f",
+    "titulo": "Las lecciones que deja el robo de más de 6 000 millones de dólares en criptomonedas",
+    "resumen": "El jueves 29 de octubre, a las 20:05 hora UTC, empezaron a vaciarse los monederos de Binance, la mayor plataforma de intercambio de criptomonedas del mundo. Un único hacker movió unos 6 360 millones de…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/las-lecciones-que-deja-el-robo-de-mas-de-6-000-millones-de-dolares-en-criptomonedas-295585",
+    "fecha": "2026-10-30T17:00:16.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "agencia-tierra-viva-1s16txy",
+    "titulo": "Cuidar la vida en el territorio: la deuda pendiente con las mujeres del campo",
+    "resumen": "OPINIÓN",
+    "seccion": "economia",
+    "medio": "Agencia Tierra Viva",
+    "enlace": "https://agenciatierraviva.com.ar/cuidar-la-vida-en-el-territorio-la-deuda-pendiente-con-las-mujeres-del-campo/",
+    "fecha": "2026-10-30T16:17:22.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "the-conversation-espana-1ezxp43",
     "titulo": "Volveremos a coger trenes como si nada hubiera pasado",
     "resumen": "El andén amanece bajo el mismo compás metálico de siempre: el silbato de salida, el cierre neumático de las puertas y esa prisa matinal, casi coreografiada, de quienes aceleran el paso para no quedarse fuera. Para un observador ajeno, nada…",
@@ -1097,106 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/jugando-con-fuego-y-fe-interna/",
     "fecha": "2026-10-22T22:57:18.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-txkkbe",
-    "titulo": "Francia al borde del estallido social: cuando la crisis económica toma las calles",
-    "resumen": "Las protestas comenzaron entre estudiantes de secundaria, se extendieron a los universitarios y terminaron sumando a familias y a la clase trabajadora. Muchas de sus reivindicaciones evocan o coinciden con las de los Chalecos Amarillos…",
-    "seccion": "economia",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/francia-al-borde-del-estallido-social-cuando-la-crisis-economica-toma-las-calles/",
-    "fecha": "2026-10-22T20:14:27.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1tgszuu",
-    "titulo": "La rebaja de la vergüenza: cuando el estado les abre la puerta a los violadores de niños",
-    "resumen": "Hay noticias que no deberían leerse con la indiferencia de quien revisa el precio del pan o el resultado de un partido de fútbol. Hay noticias que obligan a detenerse, cerrar el diario y preguntarse en qué clase de país se está…",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/la-rebaja-de-la-verguenza-cuando-el-estado-les-abre-la-puerta-a-los-violadores-de-ninos/",
-    "fecha": "2026-10-22T19:56:41.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1s5zees",
-    "titulo": "¿Cómo medir a un político?: Abdul El-Sayed ante la paz, noviolencia, DDHH y democracia",
-    "resumen": "Un método de análisis sin partir de la conclusión preconcebida",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/como-medir-a-un-politico-abdul-el-sayed-ante-la-paz-noviolencia-ddhh-y-democracia/",
-    "fecha": "2026-10-22T18:52:45.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "democraciaabierta-ow99kp",
-    "titulo": "‘Nosotros, los pueblos’: la ONU necesita una líder para la gente, no para las superpotencias",
-    "resumen": "Por primera vez en la historia, una mujer latinoamericana encabeza la carrera para ocupar la Secretaría General de las Naciones Unidas(https://1for8billion.org/straw-polls-2026?ref=opendemocracy.net). Tras más de ocho décadas de liderazgo…",
-    "seccion": "derechos",
-    "medio": "democraciaAbierta",
-    "enlace": "https://www.opendemocracy.net/es/onu-secretaria-general-mujer-latinoamericana-independencia-sociedad-civil/",
-    "fecha": "2026-10-22T18:26:55.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "dialogue-earth-eu9qk4",
-    "titulo": "El año de los derrames de petróleo en México aviva creciente preocupación",
-    "resumen": "A principios de marzo, Andrés Palma observaba a sus hijos construir un castillo de arena en la playa de El Bosque, al sureste de México. El pescador pronto se dio cuenta de que algo no estaba del todo bien. Sus hijos jugaban en arena…",
-    "seccion": "economia",
-    "medio": "Dialogue Earth",
-    "enlace": "https://dialogue.earth/es/oceanos/ano-derrames-petroleo-mexico-preocupacion/",
-    "fecha": "2026-10-22T17:27:37.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1qlbb4v",
-    "titulo": "La transparencia informativa obliga a las empresas a mejorar sus prácticas sostenibles",
-    "resumen": "Bip, bip. “Última hora: la moda rápida en el punto de mira”, boicot.",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/la-transparencia-informativa-obliga-a-las-empresas-a-mejorar-sus-practicas-sostenibles-279269",
-    "fecha": "2026-10-22T16:34:49.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-18is18h",
-    "titulo": "Los estudiantes franceses nos muestran cómo son las protestas en la era del espectáculo viral",
-    "resumen": "La reciente ola de protestas en Europa nos ha dejado dos imágenes impactantes y virales que combinan violencia y alegría. Mientras el histórico ayuntamiento de Limoges (Francia) ardía en llamas, la Orchestre du Nouveau Monde interpretaba…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/los-estudiantes-franceses-nos-muestran-como-son-las-protestas-en-la-era-del-espectaculo-viral-294962",
-    "fecha": "2026-10-22T16:28:33.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-p6wwaq",
-    "titulo": "Siete citas imprescindibles con la historia y la cultura para entender por qué París arde otra vez",
-    "resumen": "Francia está de revuelta(https://www.elconfidencial.com/mundo/europa/2026-10-19/1qrt-que-esta-pasando-francia-por-que-protestas-quien-detras-italia-albania4447720/), y nunca mejor dicho. Vuelven las multitudinarias manifestaciones, huelgas…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/siete-citas-imprescindibles-con-la-historia-y-la-cultura-para-entender-por-que-paris-arde-otra-vez-294729",
-    "fecha": "2026-10-22T16:28:28.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "democraciaabierta-19akovj",
-    "titulo": "Amazon usa la IA para impedir que sus trabajadores se sindicalicen",
-    "resumen": "Garfield Hylton, un trabajador de Amazon, sabe desde hace tiempo que la empresa monitorea y registra minuto a minuto su jornada laboral. Cada producto que escanea, cada segundo que transcurre entre un escaneo y otro, cada vez que su…",
-    "seccion": "economia",
-    "medio": "democraciaAbierta",
-    "enlace": "https://www.opendemocracy.net/es/amazon-trabajadores-ia-sindicalizacion-vigilancia-control-derechos/",
-    "fecha": "2026-10-22T16:23:58.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "agencia-tierra-viva-18twtw4",
-    "titulo": "Miguel Mirra: \"Cuando la comunidad participa en contar su historia, la recupera para la lucha\"",
-    "resumen": "Desde mediados de la década del 80 Miguel Mirra trabaja una filmografía que recupera lo que suele quedar por fuera del plano de las narrativas industriales: las luchas de los pueblos originarios, los conflictos territoriales y las…",
-    "seccion": "internacional",
-    "medio": "Agencia Tierra Viva",
-    "enlace": "https://agenciatierraviva.com.ar/miguel-mirra-cuando-la-comunidad-participa-en-contar-su-historia-la-recupera-para-la-lucha/",
-    "fecha": "2026-10-22T11:48:50.000Z",
     "estado": "pendiente"
   }
 ]
