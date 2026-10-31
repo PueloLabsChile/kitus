@@ -1,5 +1,15 @@
 [
   {
+    "id": "global-voices-w56srw",
+    "titulo": "Cómo las calles y un ejército de redes sociales llevaron a Lula a una histórica victoria en Brasil",
+    "resumen": "Por primera vez en el país, un candidato logró dar la vuelta a los resultados en la segunda vuelta",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/10/30/como-las-calles-y-un-ejercito-de-redes-sociales-llevaron-a-lula-a-una-historica-victoria-en-brasil/",
+    "fecha": "2026-10-30T21:00:23.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-rznhvw",
     "titulo": "Clavel Rojo en Roma: cuando la memoria chilena cruza las fronteras",
     "resumen": "Hay historias que no caben dentro de las fronteras de un país. Historias que, aunque nacen en una geografía determinada, terminan perteneciendo a todos aquellos que alguna vez conocieron el miedo, la persecución, la injusticia o la…",
@@ -1187,16 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/la-rebaja-de-la-verguenza-cuando-el-estado-les-abre-la-puerta-a-los-violadores-de-ninos-2/",
     "fecha": "2026-10-22T23:52:28.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1qc03nx",
-    "titulo": "Jugando con fuego y fe interna",
-    "resumen": "Desde los primeros encuentros de la humanidad con el fuego hasta los movimientos juveniles de hoy, el coraje para enfrentar lo desconocido puede ser esencial para la transformación humana.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/jugando-con-fuego-y-fe-interna/",
-    "fecha": "2026-10-22T22:57:18.000Z",
     "estado": "pendiente"
   }
 ]
