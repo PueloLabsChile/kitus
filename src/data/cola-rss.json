@@ -1,5 +1,35 @@
 [
   {
+    "id": "pressenza-sggg9o",
+    "titulo": "Urda, donde la fragilidad de la vida nos devuelve a lo esencial",
+    "resumen": "Por Martica Lozano Rivas.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/urda-donde-la-fragilidad-de-la-vida-nos-devuelve-a-lo-esencial/",
+    "fecha": "2026-10-31T19:56:30.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1i2cbmm",
+    "titulo": "Italia: decenas de miles de personas en la huelga y los bloqueos portuarios del 30 de octubre: las imágenes",
+    "resumen": "El 30 de octubre se cruzaron en Italia dos iniciativas: el bloqueo mundial de los trabajadores portuarios en numerosos puertos de todo el mundo y la huelga general convocada por la USB y otros sindicatos de base, que llenaron los puertos y…",
+    "seccion": "economia",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/italia-decenas-de-miles-de-personas-en-la-huelga-y-los-bloqueos-portuarios-del-30-de-octubre-las-imagenes/",
+    "fecha": "2026-10-31T18:06:06.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-xv4y8v",
+    "titulo": "Yo saltaría",
+    "resumen": "Si alguien piensa que han sido las políticas de regularización de la Moncloa (seguidas también, en gran medida, por otros gobiernos europeos, como el de Meloni) las causantes del asalto a la frontera de Ceuta son, como poco, unos ingenuos…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/yo-saltaria/",
+    "fecha": "2026-10-31T18:00:45.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-1487gro",
     "titulo": "Strategien gegen rechte Strategen",
     "resumen": "Por la Redacción",
@@ -1167,36 +1197,6 @@
     "medio": "Dialogue Earth",
     "enlace": "https://dialogue.earth/es/negocios/nueva-planta-siderurgica-regimen-de-inversiones-argentina/",
     "fecha": "2026-10-23T15:54:48.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1n7pp7r",
-    "titulo": "US midterms: what a new Congress could – and could not – change for Europe",
-    "resumen": "US midterm elections traditionally attract fewer voters than presidential contests. But this year’s vote is drawing considerable attention at home and abroad, especially in Europe.",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/us-midterms-what-a-new-congress-could-and-could-not-change-for-europe-295007",
-    "fecha": "2026-10-23T15:26:18.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "democraciaabierta-zm8xix",
-    "titulo": "La IA de Amazon contra los sindicatos",
-    "resumen": "- Amazon usa un modelo de IA para vigilar si sus trabajadores están en ‘riesgo’ de sindicalización - Periodismo en México: Asesinatos, persecución y desiertos informativos - Elecciones en Brasil: Qué hay detrás de la ‘moderación’ de Flávio…",
-    "seccion": "economia",
-    "medio": "democraciaAbierta",
-    "enlace": "https://www.opendemocracy.net/la-ia-de-amazon-contra-los-sindicatos/",
-    "fecha": "2026-10-23T15:00:00.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-nvzgpr",
-    "titulo": "Míchigan, a dos semanas de las elecciones: ¿quién tiene derecho a definir a un candidato?",
-    "resumen": "A dos semanas de la votación del 3 de noviembre, la campaña al Senado en Míchigan parece haber entrado en una nueva fase. Tres semanas antes habíamos planteado una pregunta: ¿quién logrará definir lo que representa Abdul El-Sayed? Donald…",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/michigan-a-dos-semanas-de-las-elecciones-quien-tiene-derecho-a-definir-a-un-candidato/",
-    "fecha": "2026-10-23T14:03:17.000Z",
     "estado": "pendiente"
   }
 ]
