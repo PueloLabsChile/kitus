@@ -1,5 +1,35 @@
 [
   {
+    "id": "pressenza-13rf1jw",
+    "titulo": "Valdivia marcha: cuando la naturaleza se niega a convertirse en mercancía",
+    "resumen": "Hay ciudades que salen a la calle para reclamar derechos. Otras lo hacen para defender su memoria, su territorio y aquello que todavía permanece vivo frente a la voracidad de quienes creen que todo puede comprarse, venderse y explotarse…",
+    "seccion": "derechos",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/valdivia-marcha-cuando-la-naturaleza-se-niega-a-convertirse-en-mercancia/",
+    "fecha": "2026-10-31T22:39:39.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1km631s",
+    "titulo": "UVPT2026: “Entendemos la espiritualidad y lo social como una unidad”",
+    "resumen": "Durante la 4ª edición de la Universidad de Verano del Humanismo Universalista, también estuvo presente la espiritualidad. Dentro de este espacio, entre otras actividades, tuvo lugar la mesa redonda “Revolución Interna para una Revolución…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/uvpt2026-entendemos-la-espiritualidad-y-lo-social-como-una-unidad/",
+    "fecha": "2026-10-31T21:53:25.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-x1hlwq",
+    "titulo": "Estados Unidos nunca ha sido aliado de Chile (VI)",
+    "resumen": "Como era de esperarse, la humillación estadounidense de Chile con el ultimátum respecto del caso Baltimore, acentuó enormemente la desconfianza y aversión hacia el país del norte. Así, Chile no asistió a la gran exposición de Chicago de…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/estados-unidos-nunca-ha-sido-aliado-de-chile-vi/",
+    "fecha": "2026-10-31T21:15:52.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-sggg9o",
     "titulo": "Urda, donde la fragilidad de la vida nos devuelve a lo esencial",
     "resumen": "Por Martica Lozano Rivas.",
@@ -1167,36 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/afp-la-apuesta-de-los-winners/",
     "fecha": "2026-10-24T03:06:04.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-mjkuq6",
-    "titulo": "La hibakusha Michiko Kodama a su paso por Madrid: «Hiroshima, nunca más»",
-    "resumen": "La hibakusha Michiko Kodama, víctima de la bomba nuclear lanzada sobre Hiroshima y secretaria general de Nihon Hidankyo (Premio Nobel de la Paz 2024), ha pasado por Madrid, donde ha lanzado un mensaje al gobierno y al pueblo españoles…",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/la-hibakusha-michiko-kodama-a-su-paso-por-madrid-hiroshima-nunca-mas/",
-    "fecha": "2026-10-23T20:37:25.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-1y423jq",
-    "titulo": "Entre dos orillas: «Monhés», nacionalidad y lugar de pertenencia en Mozambique",
-    "resumen": "Entre océanos y generaciones, ser mozambiqueño es sentir que uno pertenece, más allá del origen, la apariencia o el apellido",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/23/entre-dos-orillas-monhes-nacionalidad-y-lugar-de-pertenencia-en-mozambique/",
-    "fecha": "2026-10-23T20:00:08.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "dialogue-earth-1ravalg",
-    "titulo": "Nueva planta siderúrgica pone a prueba el régimen de inversiones de Argentina",
-    "resumen": "San Nicolás de los Arroyos, en el noreste de Argentina, es una ciudad ribereña con décadas de tradición siderúrgica. El ruido de la maquinaria pesada que emana de un terreno de 15 hectáreas es el sonido de su próxima era tomando forma. Se…",
-    "seccion": "internacional",
-    "medio": "Dialogue Earth",
-    "enlace": "https://dialogue.earth/es/negocios/nueva-planta-siderurgica-regimen-de-inversiones-argentina/",
-    "fecha": "2026-10-23T15:54:48.000Z",
     "estado": "pendiente"
   }
 ]
