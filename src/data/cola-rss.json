@@ -1,5 +1,45 @@
 [
   {
+    "id": "pressenza-1487gro",
+    "titulo": "Strategien gegen rechte Strategen",
+    "resumen": "Por la Redacción",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/strategien-gegen-rechte-strategen/",
+    "fecha": "2026-10-31T16:54:59.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-123ioad",
+    "titulo": "Ucrania: las víctimas civiles de la guerra",
+    "resumen": "En esta guerra, las grandes ciudades ucranianas se han librado en lo esencial; de hecho, no ha habido bombardeos indiscriminados como los ocurridos desde la Guerra Civil española hasta nuestros días, allí donde estuviera implicado un país…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/ucrania-las-victimas-civiles-de-la-guerra/",
+    "fecha": "2026-10-31T16:14:32.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-oj4ccb",
+    "titulo": "EE.UU. – Carina Cedrechi: una generación envejece a ritmo de perro mientras los políticos le roban los mejores años",
+    "resumen": "Por Carina Cedrech",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/ee-uu-carina-cedrechi-una-generacion-envejece-a-ritmo-de-perro-mientras-los-politicos-le-roban-los-mejores-anos/",
+    "fecha": "2026-10-31T15:26:41.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-e50ehx",
+    "titulo": "Más allá del conocido camino de la violencia: la reconciliación y la posibilidad de un nuevo futuro",
+    "resumen": "A medida que los europeos se enfrentan a sus contradicciones históricas y las generaciones más jóvenes cuestionan el futuro que heredan, la reconciliación y la no violencia activa ofrecen la posibilidad de una transformación humana más…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/10/mas-alla-del-conocido-camino-de-la-violencia-la-reconciliacion-y-la-posibilidad-de-un-nuevo-futuro/",
+    "fecha": "2026-10-31T15:15:56.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "global-voices-1fxhhbq",
     "titulo": "Cuando la radio encuentra una nueva voz digital: Llevar la cultura y lengua romaní en línea en Kosovo",
     "resumen": "La preservación del idioma y la inclusión digital pueden ir de la mano",
@@ -1157,46 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/michigan-a-dos-semanas-de-las-elecciones-quien-tiene-derecho-a-definir-a-un-candidato/",
     "fecha": "2026-10-23T14:03:17.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1dkv6c3",
-    "titulo": "Los ahorros previsionales no son una apuesta. La seguridad social es un derecho humano",
-    "resumen": "El Partido Humanista de Chile expresa su más enérgico rechazo e indignación frente a las gravísimas pérdidas registradas en los fondos de pensiones entre enero y septiembre de 2026, que han golpeado con especial dureza a los afiliados de…",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/los-ahorros-previsionales-no-son-una-apuesta-la-seguridad-social-es-un-derecho-humano/",
-    "fecha": "2026-10-23T13:58:13.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-17j07ik",
-    "titulo": "Primer caso de infección humana por el virus Shamonda: ¿a qué nos enfrentamos?",
-    "resumen": "Las autoridades sanitarias francesas han notificado el primer caso conocido de infección humana por el virus Shamonda en un paciente francés que estaba hospitalizado en los Hospices Civils de Lyon(https://www.chu-lyon.fr/) con…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/primer-caso-de-infeccion-humana-por-el-virus-shamonda-a-que-nos-enfrentamos-295001",
-    "fecha": "2026-10-23T12:59:39.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-7iw82y",
-    "titulo": "El presidente y el periodista: cuando el poder les tiene miedo a las preguntas",
-    "resumen": "Hay presidentes que responden preguntas y presidentes que prefieren insultar a quien las formula. Javier Milei, durante su paso por Madrid, volvió a poner esa diferencia sobre la mesa. Frente a una periodista de Cadena SER, Julia Molina…",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/el-presidente-y-el-periodista-cuando-el-poder-les-tiene-miedo-a-las-preguntas/",
-    "fecha": "2026-10-23T12:39:25.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-p3uozu",
-    "titulo": "Suplemento cultural: la parodia entra en campaña",
-    "resumen": "Una versión de este texto se publicó por primera vez en nuestro boletín Suplemento cultural, un resumen quincenal de la actualidad cultural y una selección de los mejores artículos de historia, literatura, cine, arte o música. Si quiere…",
-    "seccion": "cultura",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/suplemento-cultural-la-parodia-entra-en-campana-294786",
-    "fecha": "2026-10-23T11:18:01.000Z",
     "estado": "pendiente"
   }
 ]
