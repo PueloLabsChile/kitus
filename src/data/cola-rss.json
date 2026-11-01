@@ -1,5 +1,45 @@
 [
   {
+    "id": "pressenza-1e5so6m",
+    "titulo": "Tel Aviv: manifestación por el diálogo con los partidos árabes",
+    "resumen": "El sábado 31 de octubre se celebró en Tel Aviv una manifestación para pedir un pacto entre el bloque político anti-Netanyahu y los partidos árabes.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/tel-aviv-manifestacion-por-el-dialogo-con-los-partidos-arabes/",
+    "fecha": "2026-11-01T20:46:45.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-13u04o5",
+    "titulo": "31 de octubre: protesta de la Generación Z en 34 ciudades alemanas",
+    "resumen": "El sábado 31 de octubre, 120 000 jóvenes (y no solo jóvenes) se manifestaron en 34 ciudades alemanas —desde Berlín hasta Múnich, desde Hamburgo hasta Colonia, desde Fráncfort hasta Hannover, Stuttgart, Erfurt, Dortmund y muchas otras…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/31-de-octubre-protesta-de-la-generacion-z-en-34-ciudades-alemanas/",
+    "fecha": "2026-11-01T20:19:33.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-30arqd",
+    "titulo": "Silo y las ciencias cognitivas corporizadas del siglo XXI",
+    "resumen": "Por Fernando Estrada",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/silo-y-las-ciencias-cognitivas-corporizadas-del-siglo-xxi/",
+    "fecha": "2026-11-01T19:07:37.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-vofvml",
+    "titulo": "Impulsar otra paz alternativa a la que nos prometen en el nuevo ciclo electoral del 29N",
+    "resumen": "El 15 de mayo de 2026 se hizo público el manifiesto Otra Paz es Posible, impulsado por personas y colectivos comprometidos con las luchas antimilitaristas del pasado y el presente. Más de 400 personas y 60 colectivos firmaron este…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/impulsar-otra-paz-alternativa-a-la-que-nos-prometen-en-el-nuevo-ciclo-electoral-del-29n/",
+    "fecha": "2026-11-01T18:38:52.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-1h0rgd2",
     "titulo": "Las exacciones de Israel en el territorio palestino ocupado: a propósito del nuevo informe de la comisión de investigación de Naciones Unidas sobre el genocidio en curso",
     "resumen": "Se acaban de cumplir hace pocas semanas tres años desde el inicio de las operaciones de destrucción total de la Franja de Gaza por parte de Israel, en «venganza» al ataque perpetrado por el Hamás el 7 de octubre del 2023: se trata de…",
@@ -1157,46 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/st-mande-es-una-escuela-secundaria-privilegiada/",
     "fecha": "2026-10-24T21:07:12.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1p2d9a3",
-    "titulo": "Se estrena corto documental «Relatos de la Cuenca» sobre activismo ambiental en el sur de Chile",
-    "resumen": "Este jueves 22 de octubre en la Casa de la Memoria, Valdivia (Chile), se estrenó el cortometraje «Relatos de la Cuenca«. El video documental presenta testimonios desde la región de Los Ríos, en el marco del Día Internacional de Acción…",
-    "seccion": "derechos",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/se-estrena-corto-documental-relatos-de-la-cuenca-sobre-activismo-ambiental-en-el-sur-de-chile/",
-    "fecha": "2026-10-24T20:35:54.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-tq7tca",
-    "titulo": "Ley de grandes simios",
-    "resumen": "España pierde una oportunidad histórica y nuestros hermanos evolutivos vuelven a quedar esclavizados por la acción política",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/ley-de-grandes-simios-2/",
-    "fecha": "2026-10-24T17:32:25.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-wlckz5",
-    "titulo": "Continentes y Contenidos #38 22/10/26 Balotaje en Brasil",
-    "resumen": "Con el politólogo Daniel Cara hablamos sobre la segunda vuelta electoral entre Lula Da Silva y Flavio Bolsonaro.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/continentes-y-contenidos-38-22-10-26-balotaje-en-brasil/",
-    "fecha": "2026-10-24T16:35:24.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1672kur",
-    "titulo": "TPNW – El mundo ante la amenaza nuclear: la Conferencia de Nueva York llama a los gobiernos a la responsabilidad",
-    "resumen": "El desarme nuclear vuelve a ser una cuestión decisiva para el futuro de la humanidad dado el actual contexto internacional, marcado por la escalada de los conflictos, el retorno de la amenaza nuclear al discurso oficial y la narrativa…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/tpnw-el-mundo-ante-la-amenaza-nuclear-la-conferencia-de-nueva-york-llama-a-los-gobiernos-a-la-responsabilidad/",
-    "fecha": "2026-10-24T15:29:38.000Z",
     "estado": "pendiente"
   }
 ]
