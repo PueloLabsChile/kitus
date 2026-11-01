@@ -1,5 +1,45 @@
 [
   {
+    "id": "pressenza-1h0rgd2",
+    "titulo": "Las exacciones de Israel en el territorio palestino ocupado: a propósito del nuevo informe de la comisión de investigación de Naciones Unidas sobre el genocidio en curso",
+    "resumen": "Se acaban de cumplir hace pocas semanas tres años desde el inicio de las operaciones de destrucción total de la Franja de Gaza por parte de Israel, en «venganza» al ataque perpetrado por el Hamás el 7 de octubre del 2023: se trata de…",
+    "seccion": "derechos",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/las-exacciones-de-israel-en-el-territorio-palestino-ocupado-a-proposito-del-nuevo-informe-de-la-comision-de-investigacion-de-naciones-unidas-sobre-el-genocidio-en-curso/",
+    "fecha": "2026-11-01T15:50:11.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1qg7026",
+    "titulo": "Perú conquista el paladar del planeta",
+    "resumen": "Del 2 al 4 de noviembre de 2026, Lima recibirá a los grandes protagonistas de la gastronomía internacional. Con una cocina que reúne sabores de cuatro continentes, miles de restaurantes en el extranjero, una hospitalidad reconocida y…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/peru-conquista-el-paladar-del-planeta/",
+    "fecha": "2026-11-01T15:38:01.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-fvh5je",
+    "titulo": "José María Franco Niezen: «La Lima que yo veo es una Lima inevitablemente ligada a mi nostalgia»",
+    "resumen": "Por Sol Pozzi-Escot",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/jose-maria-franco-niezen-la-lima-que-yo-veo-es-una-lima-inevitablemente-ligada-a-mi-nostalgia/",
+    "fecha": "2026-11-01T15:01:48.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-g19e69",
+    "titulo": "Bangladesh – 33 millones de niños menores de diez años viven aquí – (18,5%) – Pueblo sin compasión",
+    "resumen": "",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/bangladesh-33-millones-de-ninos-menores-de-diez-anos-viven-aqui-185-pueblo-sin-compasion/",
+    "fecha": "2026-11-01T14:24:26.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "global-voices-1hb7y7f",
     "titulo": "Rusia usa arte religioso de Pskov como propaganda para la invasión de Ucrania",
     "resumen": "En las obras de arte de las iglesias ortodoxas rusas aparecen soldados rusos junto a los santos",
@@ -1157,46 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/tpnw-el-mundo-ante-la-amenaza-nuclear-la-conferencia-de-nueva-york-llama-a-los-gobiernos-a-la-responsabilidad/",
     "fecha": "2026-10-24T15:29:38.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-1djrtlt",
-    "titulo": "Tras cinco años de guerra, ¿cómo se mantienen los pequeños comercios en Ucrania?",
-    "resumen": "Tal vez los pequeños comercios pasen desapercibidos, pero para los hogares representan la independencia. Hablamos con Victoria Belim-Frolova.",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/24/tras-cinco-anos-de-guerra-como-se-mantienen-los-pequenos-comercios-en-ucrania/",
-    "fecha": "2026-10-24T06:00:27.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1qnpmbd",
-    "titulo": "Las revueltas globales y el divorcio de la política",
-    "resumen": "Alrededor del mundo se repite la misma imagen: calles llenas, pueblos en marcha, revueltas que estallan sin aviso. Desde Santiago a París, desde Buenos Aires a Teherán, el fenómeno es el mismo, aunque las consignas cambien.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/las-revueltas-globales-y-el-divorcio-de-la-politica/",
-    "fecha": "2026-10-24T03:41:16.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1tkoy1t",
-    "titulo": "Estados Unidos nunca ha sido aliado de Chile (V)",
-    "resumen": "La humillación efectuada por Estados Unidos a Chile en 1892 por el asunto del Baltimore no terminó con las reparaciones convenidas en favor de los marinos afectados. Además, ambos países acordaron ese año el establecimiento de un juzgado…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/estados-unidos-nunca-ha-sido-aliado-de-chile-v/",
-    "fecha": "2026-10-24T03:27:28.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-bw40nr",
-    "titulo": "El Presidente y el periodista: cuando el poder le tiene miedo a las preguntas",
-    "resumen": "Hay presidentes que responden preguntas y presidentes que prefieren insultar a quien las formula. Javier Milei, durante su paso por Madrid, volvió a poner esa diferencia sobre la mesa. Frente a una periodista de Cadena SER, Julia Molina…",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/el-presidente-y-el-periodista-cuando-el-poder-le-tiene-miedo-a-las-preguntas/",
-    "fecha": "2026-10-24T03:19:14.000Z",
     "estado": "pendiente"
   }
 ]
