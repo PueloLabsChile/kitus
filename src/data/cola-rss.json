@@ -1,5 +1,15 @@
 [
   {
+    "id": "global-voices-1hb7y7f",
+    "titulo": "Rusia usa arte religioso de Pskov como propaganda para la invasión de Ucrania",
+    "resumen": "En las obras de arte de las iglesias ortodoxas rusas aparecen soldados rusos junto a los santos",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/01/rusia-usa-arte-religioso-de-pskov-como-propaganda-para-la-invasion-de-ucrania/",
+    "fecha": "2026-11-01T06:00:32.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-13rf1jw",
     "titulo": "Valdivia marcha: cuando la naturaleza se niega a convertirse en mercancía",
     "resumen": "Hay ciudades que salen a la calle para reclamar derechos. Otras lo hacen para defender su memoria, su territorio y aquello que todavía permanece vivo frente a la voracidad de quienes creen que todo puede comprarse, venderse y explotarse…",
@@ -1187,16 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/el-presidente-y-el-periodista-cuando-el-poder-le-tiene-miedo-a-las-preguntas/",
     "fecha": "2026-10-24T03:19:14.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1yzopn2",
-    "titulo": "AFP: la apuesta de los winners",
-    "resumen": "Hay algo profundamente inmoral en jugar con el dinero ajeno, especialmente cuando representa los ahorros de toda una vida de trabajo que necesitan seguridad, no especulaciones financieras. Lo que hicieron fue como ir al casino y jugar con…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/afp-la-apuesta-de-los-winners/",
-    "fecha": "2026-10-24T03:06:04.000Z",
     "estado": "pendiente"
   }
 ]
