@@ -1,5 +1,55 @@
 [
   {
+    "id": "pressenza-1uvod0y",
+    "titulo": "El poder de la primera entrega",
+    "resumen": "Por Rubén Basay Roberts",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/el-poder-de-la-primera-entrega/",
+    "fecha": "2026-11-02T13:56:24.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1rxz0lx",
+    "titulo": "Seis paradojas de Borges",
+    "resumen": "A Daniel C. Testta, que ronda en mi literatura",
+    "seccion": "cultura",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/seis-paradojas-de-borges/",
+    "fecha": "2026-11-02T12:05:14.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-69qvup",
+    "titulo": "El conocimiento superador de prejuicios",
+    "resumen": "El principio número 4 del Humanismo Universalista fue formulado por Silo en 2005 de esta manera: el Nuevo Humanismo «auspicia la tendencia al desarrollo del conocimiento por encima de todas las limitaciones impuestas al pensamiento por…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/el-conocimiento-superador-de-prejuicios/",
+    "fecha": "2026-11-02T08:02:04.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-1j62fpi",
+    "titulo": "Jóvenes japoneses encuentran nuevas formas de expresar activismo por la paz entre crecientes tensiones en el Pacífico",
+    "resumen": "Activistas juveniles están transformando las protestas en algo accesible, individual y no jerárquico",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/02/jovenes-japoneses-encuentran-nuevas-formas-de-expresar-activismo-por-la-paz-entre-crecientes-tensiones-en-el-pacifico/",
+    "fecha": "2026-11-02T07:00:12.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-7s6xm8",
+    "titulo": "La protesta como pilar de la democracia",
+    "resumen": "Las protestas ayudan a cerrar la brecha entre la promesa de democracia y las estructuras formales que tenemos",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/02/la-protesta-como-pilar-de-la-democracia/",
+    "fecha": "2026-11-02T07:00:07.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "the-conversation-espana-40jbjd",
     "titulo": "Un nuevo dinosaurio británico de garras largas es el primero de su especie en Europa",
     "resumen": "El cráneo fosilizado de una nueva especie de misterioso dinosaurio carnívoro procedente de la Isla de Wight ha sido redescubierto en las colecciones del Museo de Historia Natural de Londres, tras pasar más de 100 años almacenado.",
@@ -1147,56 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/bolso-o-concierto-de-bad-bunny-el-consumo-adolescente-se-hace-adulto-pero-no-al-mismo-ritmo-para-todos-los-productos-293738",
     "fecha": "2026-10-25T22:41:34.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-x1tuhc",
-    "titulo": "Cuando los colonos británicos de América arrojaron el té al mar en Boston – 1773",
-    "resumen": "Del té de Boston al petróleo venezolano, pasando por Luisiana, México, los pueblos indígenas, Hawái y Filipinas: la historia de una nación que nació desafiando a un imperio y terminó adquiriendo el poder de uno.",
-    "seccion": "economia",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/cuando-los-colonos-britanicos-de-america-arrojaron-el-te-al-mar-en-boston/",
-    "fecha": "2026-10-25T15:37:56.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-l2ub2o",
-    "titulo": "[Perú] Fedra, escrita por Gonzalo Rodrígues y Marcela Cossíos, en el ICPNA",
-    "resumen": "DIRIGIDA POR JORGE ROBINET, CONTINÚA SU TEMPORADA TEATRAL Y PASA A SU CUARTA SEMANA DE ÉXITO",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/peru-fedra-escrita-por-gonzalo-rodrigues-y-marcela-cossios-en-el-icpna/",
-    "fecha": "2026-10-25T15:24:38.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-13bt7b8",
-    "titulo": "[Perú] Javier Valdés conquista Trujillo: el Fecit 2026 le rinde homenaje y el público lo acoge con aplausos por su gran trayectoria",
-    "resumen": "El reconocido actor y director teatral fue homenajeado por su destacada trayectoria artística durante el 13.º Festival de Cine de Trujillo. La proyección de Dos besos, de Francisco Lombardi, dio paso a un entrañable conversatorio en el que…",
-    "seccion": "cultura",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/peru-javier-valdes-conquista-trujillo-el-fecit-2026-le-rinde-homenaje-y-el-publico-lo-acoge-con-aplausos-por-su-gran-trayectoria/",
-    "fecha": "2026-10-25T15:18:49.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-5hqy07",
-    "titulo": "Conoce las nuevas caras del cine peruano desde hoy en Los Inocentes",
-    "resumen": "PELÍCULA DIRIGIDA POR GERMÁN TEJADA INSPIRADA EN EL LIBRO DE OSWALDO REYNOSO",
-    "seccion": "cultura",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/conoce-las-nuevas-caras-del-cine-peruano-desde-hoy-en-los-inocentes/",
-    "fecha": "2026-10-25T15:11:17.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-sf7wy6",
-    "titulo": "Vuela alto, Birdie: A los 91 años muere el rey mundial del calipso",
-    "resumen": "Haber dedicado su vida al calipso lo moldeó como un maestro del género y un perfecto caribeño",
-    "seccion": "derechos",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/25/vuela-alto-birdie-a-los-91-anos-muere-el-rey-mundial-del-calipso/",
-    "fecha": "2026-10-25T06:00:52.000Z",
     "estado": "pendiente"
   }
 ]
