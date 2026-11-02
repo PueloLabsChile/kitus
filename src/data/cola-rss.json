@@ -1,5 +1,75 @@
 [
   {
+    "id": "the-conversation-espana-798a2w",
+    "titulo": "Incendios forestales: ¿abandono rural o cambio climático?",
+    "resumen": "En los dos últimos veranos se han intensificado los incendios en España. En 2025 se quemaron más de 390 000 ha y, en entre enro y septiembre de 2026 llevamos más de 300…",
+    "seccion": "derechos",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/incendios-forestales-abandono-rural-o-cambio-climatico-294371",
+    "fecha": "2026-11-02T21:10:57.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1tcw6wu",
+    "titulo": "El nuevo mapa del dolor de la endometriosis",
+    "resumen": "La endometriosis(https://www.who.int/es/news-room/fact-sheets/detail/endometriosis) es una enfermedad inflamatoria crónica en la que un tejido similar al que recubre el interior del útero aparece fuera de él, especialmente en los…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/el-nuevo-mapa-del-dolor-de-la-endometriosis-293847",
+    "fecha": "2026-11-02T21:01:46.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-12wbay2",
+    "titulo": "Si la IA me ayuda a hacerlo: ¿me siento más o menos capaz?",
+    "resumen": "Imaginemos que estamos en clase de Historia, y entregamos un trabajo sobre la Restauración Borbónica; lo hemos realizado con ayuda de una inteligencia artificial y ha quedado un texto bien organizado, que responde a lo pedido y suena…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/si-la-ia-me-ayuda-a-hacerlo-me-siento-mas-o-menos-capaz-292942",
+    "fecha": "2026-11-02T21:01:03.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-182xfj2",
+    "titulo": "Flavio huyó de la mano de Trump y Milei y despreció a 60 millones de electores",
+    "resumen": "En nombre de la dedocracia (no confundir con la vieja democracia), la huida de Flávio Bolsonaro, auspiciada por Donald Trump y Javier Milei, desprecia a los casi 60 millones de brasileños que lo votaron. Esa noche de domingo se le cayó la…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/flavio-huyo-de-la-mano-de-trump-y-milei-y-desprecio-a-60-millones-de-electores/",
+    "fecha": "2026-11-02T20:14:14.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-wgda6k",
+    "titulo": "La tiranía del dinero",
+    "resumen": "Este verso tiene exactamente ochocientos años. Forma parte del Códex Buranus, también conocido como Carmina Burana, porque fue encontrado en el monasterio de Beuern, Alemania. El manuscrito reúne una serie de poemas o cantos compuestos por…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/la-tirania-del-dinero/",
+    "fecha": "2026-11-02T20:11:30.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-jfyq43",
+    "titulo": "La humanidad que sigue trabajando junta",
+    "resumen": "La espectacularidad de un anuncio no hace justicia a la importancia de un avance científico. A veces, lo que merece nuestra atención es una modificación casi invisible de un material, una comparación paciente entre tratamientos o un…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/la-humanidad-que-sigue-trabajando-junta/",
+    "fecha": "2026-11-02T18:23:37.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1g4quzf",
+    "titulo": "Irán bajo sanciones, Ucrania bajo protección: petróleo y el doble estándar de Estados Unidos.",
+    "resumen": "Mientras Washington mantiene una extensa arquitectura de sanciones económicas contra Irán y persigue sus redes de comercialización petrolera, sus propias declaraciones frente a Ucrania revelan otro estándar, basado en la protección de los…",
+    "seccion": "economia",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/iran-bajo-sanciones-ucrania-bajo-proteccion-petroleo-y-el-doble-estandar-de-estados-unidos/",
+    "fecha": "2026-11-02T18:15:06.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-1uvod0y",
     "titulo": "El poder de la primera entrega",
     "resumen": "Por Rubén Basay Roberts",
@@ -516,6 +586,16 @@
     "seccion": "internacional",
     "medio": "Agencia Tierra Viva",
     "enlace": "https://agenciatierraviva.com.ar/rosa-amorim-hablar-de-reforma-agraria-en-brasil-es-hablar-de-un-proyecto-de-dignidad-de-vida/",
+    "fecha": "2026-10-29T20:48:42.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "agencia-tierra-viva-i42178",
+    "titulo": "Rosa Amorim: \"Hablar de reforma agraria es hablar de un proyecto de dignidad de vida\"",
+    "resumen": "“Con la panza vacía no puedo dormir, Con el buche más lleno, empecé a pensar. Que desorganizándome puedo organizar Que organizando me puedo desorganizar Que desorganizándome puedo organizar”",
+    "seccion": "internacional",
+    "medio": "Agencia Tierra Viva",
+    "enlace": "https://agenciatierraviva.com.ar/rosa-amorim-hablar-de-reforma-agraria-es-hablar-de-un-proyecto-de-dignidad-de-vida/",
     "fecha": "2026-10-29T20:48:42.000Z",
     "estado": "pendiente"
   },
@@ -1117,86 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/a-2-anos-de-la-desaparicion-de-julia-chunil-su-memoria-presidira-el-reencuentro-en-santiago-y-otras-ciudades/",
     "fecha": "2026-10-26T00:48:29.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-o3ccyd",
-    "titulo": "Gaza / Israel: reflexiones sobre el documental Naza y la verdadera saga observada con respecto a su proyección en Costa Rica",
-    "resumen": "Introducción",
-    "seccion": "cultura",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/gaza-israel-reflexiones-sobre-el-documental-naza-y-la-verdadera-saga-observada-con-respecto-a-su-proyeccion-en-costa-rica/",
-    "fecha": "2026-10-26T00:43:16.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1hxpkp",
-    "titulo": "¡¡Ganó Lula!!",
-    "resumen": "Durante este domingo se realizaron las elecciones de segunda vuelta presidencial en Brasil, enfrentando a Lula Da Silva (Partido de los Trabajadores o PT) con Flavio Bolsonaro (Partido Liberal, PL) quien venció por poco margen la primera…",
-    "seccion": "economia",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/gano-lula/",
-    "fecha": "2026-10-26T00:13:29.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-19ax1hy",
-    "titulo": "Introducción a un enfoque mediante la terapia de escritura: del espejo roto al mosaico",
-    "resumen": "En el libro titulado «Starke Frauen zwischen Gewalt und Diskriminierung Ein schreibtherapeutischer Ansatz» («Mujeres fuertes entre la violencia y la discriminación. Un enfoque desde la terapia de escritura»), intento crear un proyecto…",
-    "seccion": "derechos",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/introduccion-a-un-enfoque-mediante-la-terapia-de-escritura-del-espejo-roto-al-mosaico/",
-    "fecha": "2026-10-25T23:22:57.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-3n04d2",
-    "titulo": "Serbia: Vucic reconoce derrota ante Lista de Estudiantes en elecciones legislativas",
-    "resumen": "El líder derechista Aleksandar Vucic reconoció la derrota en las elecciones legislativas realizadas hoy domingo en Serbia, diciendo: “Todavía no tenemos resultados definitivos. Basándonos en una muestra, está claro que hemos perdido estas…",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/serbia-vucic-reconoce-derrota-ante-lista-de-estudiantes-en-elecciones-legislativas/",
-    "fecha": "2026-10-25T23:12:42.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-kgbk2o",
-    "titulo": "La cultura no pide permiso: sale a la calle",
-    "resumen": "Ayer, sábado 24 de octubre, el canto, los aplausos y la alegría se apoderaron del Coliseo Monumental de La Serena. No solo cantaban los músicos y los intérpretes líricos. También cantaba el público, ese público diverso que, por unas horas…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/la-cultura-no-pide-permiso-sale-a-la-calle/",
-    "fecha": "2026-10-25T22:52:09.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-5eyy9q",
-    "titulo": "Cómo traer la evidencia científica a las aulas para enseñar mejor",
-    "resumen": "“No hay enseñanza sin investigación ni investigación sin enseñanza”, escribió el pedagogo y filósofo de la educación Paulo Freire(https://es.wikipedia.org/wiki/PauloFreire). La investigación permite comprender cómo pueden mejorarse las…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/como-traer-la-evidencia-cientifica-a-las-aulas-para-ensenar-mejor-291007",
-    "fecha": "2026-10-25T22:43:03.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-14p3k36",
-    "titulo": "¿Por qué no debería chupar el suelo de un hospital?",
-    "resumen": "Todos hemos tomado alguna vez una decisión donde claramente sabíamos que íbamos a salir perdiendo: apurar esa última copa a las cinco de la mañana, aceptar el reto de probar algo exageradamente picante o montarnos en una atracción que nos…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/por-que-no-deberia-chupar-el-suelo-de-un-hospital-294602",
-    "fecha": "2026-10-25T22:42:04.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-p4j4f9",
-    "titulo": "¿Bolso o concierto de Bad Bunny? El consumo adolescente se hace adulto, pero no al mismo ritmo para todos los productos",
-    "resumen": "Una niña deja de querer una mochila y pide un bolso para ir a la escuela(https://www.heraldo.es/noticias/salud/2025/11/11/bolsos-shopper-arrasan-adolescentes-moda-dolorosa-1868127.html). Es posible que en casa aparezca entonces una frase…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/bolso-o-concierto-de-bad-bunny-el-consumo-adolescente-se-hace-adulto-pero-no-al-mismo-ritmo-para-todos-los-productos-293738",
-    "fecha": "2026-10-25T22:41:34.000Z",
     "estado": "pendiente"
   }
 ]
