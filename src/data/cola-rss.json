@@ -1,5 +1,35 @@
 [
   {
+    "id": "the-conversation-espana-40jbjd",
+    "titulo": "Un nuevo dinosaurio británico de garras largas es el primero de su especie en Europa",
+    "resumen": "El cráneo fosilizado de una nueva especie de misterioso dinosaurio carnívoro procedente de la Isla de Wight ha sido redescubierto en las colecciones del Museo de Historia Natural de Londres, tras pasar más de 100 años almacenado.",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/un-nuevo-dinosaurio-britanico-de-garras-largas-es-el-primero-de-su-especie-en-europa-295527",
+    "fecha": "2026-11-02T01:12:20.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1j2qgnu",
+    "titulo": "¿Está la IA volviéndonos menos inteligentes? Diferencias entre atención, memoria y cociente intelectual",
+    "resumen": "Tener en la palma de la mano una herramienta que puede responder a cualquier duda o pregunta de manera lógica y rapidísima (aunque no siempre correcta), y usarla a menudo, ¿cambia nuestra capacidad de pensar y razonar de manera…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/esta-la-ia-volviendonos-menos-inteligentes-diferencias-entre-atencion-memoria-y-cociente-intelectual-293728",
+    "fecha": "2026-11-02T01:11:51.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-10e4ahx",
+    "titulo": "Elecciones de medio mandato en EE. UU.: ¿castigarán los votantes a Trump por saltarse las normas democráticas?",
+    "resumen": "El próximo 3 de noviembre se celebran en Estados Unidos las elecciones de medio mandato(https://efe.com/mundo/2026-10-27/estados-unidos-elecciones-medio-mandato-historial-partido-presidente-trump/). Se renueva toda la Cámara de…",
+    "seccion": "politica",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/elecciones-de-medio-mandato-en-ee-uu-castigaran-los-votantes-a-trump-por-saltarse-las-normas-democraticas-295283",
+    "fecha": "2026-11-02T01:10:53.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-1hz6ubz",
     "titulo": "Encuéntame en las Ondas: parar el genocidio y conectar los pueblos desde la cultura y la comunicación",
     "resumen": "Canarias, 28 de octubre de 2026.",
@@ -1167,36 +1197,6 @@
     "medio": "Global Voices",
     "enlace": "https://es.globalvoices.org/2026/10/25/vuela-alto-birdie-a-los-91-anos-muere-el-rey-mundial-del-calipso/",
     "fecha": "2026-10-25T06:00:52.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-7cdaj7",
-    "titulo": "En elecciones de Brasil, políticas de transparencia y cooperación de gigantes tecnológicos se traducen como lavada de cara a la gobernanza, según experta",
-    "resumen": "El NetLab de la Universidad Federal de Río de Janeiro ha estado siguiendo de cerca cómo se desarrolla esta elección en las redes sociales",
-    "seccion": "politica",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/24/en-elecciones-de-brasil-politicas-de-transparencia-y-cooperacion-de-gigantes-tecnologicos-se-traducen-como-lavada-de-cara-a-la-gobernanza-segun-experta/",
-    "fecha": "2026-10-24T22:00:15.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1y858ob",
-    "titulo": "La Generación Z está despierta, por un futuro con dignidad",
-    "resumen": "Vivienda asequible, buena educación, paz y participación política: En las últimas semanas, la gente en numerosos países ha ocupado lugares públicos, bloqueado escuelas y organizado manifestaciones. Los jóvenes dan un impulso crucial a…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/la-generacion-z-esta-despierta-por-un-futuro-con-dignidad/",
-    "fecha": "2026-10-24T21:57:20.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1vitiwj",
-    "titulo": "Elecciones en Serbia: la lista de los estudiantes desafía a Aleksandar Vučić",
-    "resumen": "El año pasado dimos espacio al movimiento de protesta(https://www.pressenza.com/es/2025/03/el-despertar-de-serbia-historica-protesta-por-la-libertad-y-la-democracia-el-15-de-marzo/) estudiantil serbio contra una clase política corrupta y…",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/elecciones-en-serbia-la-lista-de-los-estudiantes-desafia-a-aleksandar-vucic/",
-    "fecha": "2026-10-24T21:31:57.000Z",
     "estado": "pendiente"
   }
 ]
