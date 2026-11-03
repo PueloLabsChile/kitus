@@ -1,5 +1,45 @@
 [
   {
+    "id": "agencia-tierra-viva-ucwny1",
+    "titulo": "Del cautiverio doméstico al tráfico de especies: “La fauna silvestre no es mascota”",
+    "resumen": "Una tortuga en un patio, un loro en una jaula o un animal exótico dentro de una casa pueden parecer escenas inocentes, hasta pintorescas. Pero detrás del mascotismo de fauna silvestre hay pérdida de biodiversidad, riesgos sanitarios y un…",
+    "seccion": "internacional",
+    "medio": "Agencia Tierra Viva",
+    "enlace": "https://agenciatierraviva.com.ar/del-cautiverio-domestico-al-trafico-de-especies-la-fauna-silvestre-no-es-mascota/",
+    "fecha": "2026-11-03T11:16:35.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1d5fpnn",
+    "titulo": "La conversación docente: la IA no nos hace más ‘tontos’, pero sí más inseguros",
+    "resumen": "¿Alguna vez se ha sentido tonto, o más tonto, simplemente por estar rodeado de un grupo de personas que aparentemente saben mucho más que usted? Puede ser una sensación deprimente, y de hecho, experimentos en lo que la psicología social…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/la-conversacion-docente-la-ia-no-nos-hace-mas-tontos-pero-si-mas-inseguros-295607",
+    "fecha": "2026-11-03T10:42:01.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-ulbizj",
+    "titulo": "Estudiantes macedonios expresan descontento anónimamente en línea, mientras la mayoría considera emigrar",
+    "resumen": "‘Los estudiantes no tienen que ser miembros de un partido político para generar cambios’, dice el fundador de la plataforma de medios.",
+    "seccion": "politica",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/03/estudiantes-macedonios-expresan-descontento-anonimamente-en-linea-mientras-la-mayoria-considera-emigrar/",
+    "fecha": "2026-11-03T07:00:25.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-15hjuu4",
+    "titulo": "Qué significa conmemorar 235 años de Bois Caïman para la memoria y el futuro de Haití",
+    "resumen": "Personas esclavizadas se unieron para resistir el dominio colonial",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/03/que-significa-la-conmemoracion-de-los-235-anos-de-bois-caiman-para-la-memoria-y-el-futuro-de-haiti/",
+    "fecha": "2026-11-03T06:00:19.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-e4y9fk",
     "titulo": "Perú: Comunidad Campesina de Canta denuncia intento de desalojo por entidades del Estado",
     "resumen": "Comuneros de la Comunidad Campesina de Canta, ubicada en la zona rural de la región Lima, denunciaron el intento de desalojo del predio denominado “Coso Taurino” de su propiedad, para la construcción de una vía nacional que tiene…",
@@ -1157,46 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/los-mas-pequenos-buscan-respuestas-en-granada-295128",
     "fecha": "2026-10-26T12:07:27.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-w4j6f2",
-    "titulo": "Tras ganar unas elecciones ‘milagrosas’ en Brasil, Lula se enfrenta a lo más difícil: volver a encarrilar el país",
-    "resumen": "Hace tres semanas, ya se habían escrito todas las necrológicas políticas(https://theconversation.com/brazils-new-republic-is-dead-and-what-comes-next-has-not-yet-been-born-293545) del presidente brasileño Luiz Inácio Lula da Silva.",
-    "seccion": "politica",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/tras-ganar-unas-elecciones-milagrosas-en-brasil-lula-se-enfrenta-a-lo-mas-dificil-volver-a-encarrilar-el-pais-295186",
-    "fecha": "2026-10-26T10:25:42.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-1nylash",
-    "titulo": "Policía de Hong Kong presenta plataforma de seguridad nacional impulsada por IA para escolares",
-    "resumen": "Que las semillas de la seguridad nacional echen raíces y broten en los corazones de los alumnos…",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/26/policia-de-hong-kong-presenta-plataforma-de-seguridad-nacional-impulsada-por-ia-para-escolares/",
-    "fecha": "2026-10-26T07:00:35.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-16d2urf",
-    "titulo": "Cómo dos elecciones moldearon la frontera entre India y Bangladesh",
-    "resumen": "Los intentos de incursión de las Fuerzas de Seguridad Fronteriza indias se extienden a lo largo de la frontera terrestre de Bangladesh, y afecta los cuatro extremos del mapa",
-    "seccion": "politica",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/26/como-dos-elecciones-moldearon-la-frontera-entre-india-y-bangladesh/",
-    "fecha": "2026-10-26T06:00:27.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-1cqh37v",
-    "titulo": "Votar temprano, pero gobernar muy tarde: Juventud de África occidental a las puertas del poder",
-    "resumen": "Se vota a los 18 años, pero el acceso a la presidencia se negocia a edades muy diferentes.",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/26/votar-temprano-pero-gobernar-muy-tarde-juventud-de-africa-occidental-a-las-puertas-del-poder/",
-    "fecha": "2026-10-26T01:00:00.000Z",
     "estado": "pendiente"
   }
 ]
