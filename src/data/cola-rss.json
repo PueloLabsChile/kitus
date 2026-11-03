@@ -1,5 +1,85 @@
 [
   {
+    "id": "pressenza-aszd7w",
+    "titulo": "Generación renta básica",
+    "resumen": "El problema no es solo que nos falte dinero para comprar un piso. Es que las condiciones que nos tendrían que permitir construir un proyecto vital han dejado de ser previsibles.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/generacion-renta-basica/",
+    "fecha": "2026-11-03T18:19:18.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-17imfni",
+    "titulo": "¿Qué muestra el baremo cuando se aplica a Abdul El-Sayed? Políticas e ideas en comparación con Zohran Mamdani",
+    "resumen": "En el primer artículo de esta serie construimos el baremo antes de utilizarlo. En este segundo aplicamos la primera parte del modelo —políticas e ideas— a Abdul El-Sayed, utilizando a Zohran Mamdani como punto de referencia. No para…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/que-muestra-el-baremo-cuando-se-aplica-a-abdul-el-sayed-politicas-e-ideas-en-comparacion-con-zohran-mamdani/",
+    "fecha": "2026-11-03T17:24:14.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-e28wz7",
+    "titulo": "¿Para qué sirven las cumbres? Los límites de la cooperación iberoamericana en Madrid",
+    "resumen": "Madrid acogerá los días 4 y 5 de noviembre la XXX Cumbre Iberoamericana de Jefes de Estado y de Gobierno(https://segib.org/es/cumbre/xxx-cumbre-iberoamericana/). La comunidad iberoamericana está formada por 22 países: España, Portugal…",
+    "seccion": "politica",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/para-que-sirven-las-cumbres-los-limites-de-la-cooperacion-iberoamericana-en-madrid-295798",
+    "fecha": "2026-11-03T17:23:31.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-6jq23v",
+    "titulo": "¿Por qué es esencial estudiar los lagos que nos dan de beber? El caso de Chapala en México",
+    "resumen": "Muy pocos sabrían decir qué hace un limnólogo, aunque su trabajo tiene que ver con el agua que usamos cada día, sin la que no podríamos vivir. La limnología(https://es.wikipedia.org/wiki/Limnolog%C3%ADa) estudia las aguas continentales…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/por-que-es-esencial-estudiar-los-lagos-que-nos-dan-de-beber-el-caso-de-chapala-en-mexico-294983",
+    "fecha": "2026-11-03T17:21:59.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1gy79yj",
+    "titulo": "Nuestros datos podrían condicionar la vida de las generaciones futuras: los retos de la información genómica",
+    "resumen": "La investigación genómica está transformando nuestra forma de entender la salud. Grandes proyectos internacionales como UK Biobank(https://www.nature.com/articles/s41586-018-0579-z) y All of…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/nuestros-datos-podrian-condicionar-la-vida-de-las-generaciones-futuras-los-retos-de-la-informacion-genomica-294943",
+    "fecha": "2026-11-03T17:19:05.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-17vx7ce",
+    "titulo": "Alberto Montt, Paulina Palacios, Raquel Riba Rossy y José Maza encabezan la tercera versión de Planeta Cómic Fest",
+    "resumen": "- El evento gratuito, organizado por Grupo Planeta y la Fundación Cultural de Providencia, se llevará a cabo el sábado 14 de noviembre desde las 11:00 horas.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/alberto-montt-paulina-palacios-raquel-riba-rossy-y-jose-maza-encabezan-la-tercera-version-de-planeta-comic-fest/",
+    "fecha": "2026-11-03T17:02:18.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-bfa8w0",
+    "titulo": "COPEHU convoca a construir una nueva etapa para la educación humanizadora",
+    "resumen": "El 7 de noviembre, personas y equipos de distintos países se encontrarán para proyectar las acciones de 2027 y abrir nuevas formas de participación",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/copehu-convoca-a-construir-una-nueva-etapa-para-la-educacion-humanizadora/",
+    "fecha": "2026-11-03T16:08:24.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "dialogue-earth-1fa5emn",
+    "titulo": "COP17: la cumbre biodiversidad no estuvo a la altura de la urgencia de la crisis",
+    "resumen": "Se suponía que sería un momento para corregir el rumbo, una oportunidad para ponerse de acuerdo sobre cómo abordar los factores que provocan el declive y la desaparición de especies, la diversidad genética y los ecosistemas.",
+    "seccion": "internacional",
+    "medio": "Dialogue Earth",
+    "enlace": "https://dialogue.earth/es/naturaleza/cop17-cumbre-biodiversidad-no-estuvo-altura-crisis/",
+    "fecha": "2026-11-03T13:18:54.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "agencia-tierra-viva-ucwny1",
     "titulo": "Del cautiverio doméstico al tráfico de especies: “La fauna silvestre no es mascota”",
     "resumen": "Una tortuga en un patio, un loro en una jaula o un animal exótico dentro de una casa pueden parecer escenas inocentes, hasta pintorescas. Pero detrás del mascotismo de fauna silvestre hay pérdida de biodiversidad, riesgos sanitarios y un…",
@@ -1117,86 +1197,6 @@
     "medio": "Global Voices",
     "enlace": "https://es.globalvoices.org/2026/10/27/mediums-queer-del-culto-a-maria-lionza-redefinen-binariedad-de-genero-en-la-montana-sagrada-de-venezuela/",
     "fecha": "2026-10-27T01:00:41.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-7goz6l",
-    "titulo": "Glifosato en la comida escolar y una alerta que Perú necesita escuchar",
-    "resumen": "Para un niño que vive en un internado amazónico, la comida del Estado puede ser su desayuno, almuerzo y cena. Un estudio reportó glifosato en tres de cuatro muestras de Qali Warma recogidas en la provincia de Condorcanqui. Se hizo sin…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/glifosato-en-la-comida-escolar-y-una-alerta-que-peru-necesita-escuchar/",
-    "fecha": "2026-10-26T23:19:09.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-17csyx",
-    "titulo": "Lula hace historia al entrar en su cuarto mandato",
-    "resumen": "En la segunda vuelta de las elecciones presidenciales de Brasil, celebrada el 25 de octubre, el actual presidente y candidato del Partido de los Trabajadores (PT), Luiz Inácio Lula da Silva, derrotó al candidato del Partido Liberal (PL)…",
-    "seccion": "economia",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/lula-hace-historia-al-entrar-en-su-cuarto-mandato/",
-    "fecha": "2026-10-26T23:02:51.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-11s1ir1",
-    "titulo": "Disciplina escolar y derechos fundamentales: ¿restituir la autoridad docente o imponer una obediencia sin límites?",
-    "resumen": "La disciplina escolar es necesaria para garantizar el aprendizaje, la convivencia y la seguridad. Sin embargo, el debate sobre el proyecto de Lineamientos para la Gestión de la Disciplina Escolar en la Educación Básica, publicado por el…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/disciplina-escolar-y-derechos-fundamentales-restituir-la-autoridad-docente-o-imponer-una-obediencia-sin-limites/",
-    "fecha": "2026-10-26T22:59:26.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-167b1ed",
-    "titulo": "Lula frena a la ultraderecha: América Latina no está derrotada",
-    "resumen": "El triunfo de Luiz Inácio Lula da Silva en Brasil tiene un significado que va mucho más allá de una elección presidencial. Es una oportunidad para frenar el avance de la ultraderecha en América Latina y defender una democracia amenazada…",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/lula-frena-a-la-ultraderecha-america-latina-no-esta-derrotada/",
-    "fecha": "2026-10-26T22:35:19.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1sx1sbs",
-    "titulo": "Ceuta, dos meses después: ¿cómo está funcionando la primera ‘situación de interés para la seguridad nacional’?",
-    "resumen": "El 26 de octubre se han cumplido dos meses desde su entrada en vigor. Ha sido la primera situación de interés para la seguridad nacional (SISN)(https://doi.org/10.64628/AAO.wmch7wy6f) declarada en España. Desde entonces se han sucedido…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/ceuta-dos-meses-despues-como-esta-funcionando-la-primera-situacion-de-interes-para-la-seguridad-nacional-295015",
-    "fecha": "2026-10-26T17:20:44.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-12z3et7",
-    "titulo": "Descuartizadores, vampiros y caníbales: por qué debemos comprender (antes que vender) a los monstruos",
-    "resumen": "La cultura popular contemporánea empuja al público a entretenerse con remozadas historias de vampiros, caníbales y toda suerte de criminales exagerados y grotescos. No es un género nuevo, pero en las últimas décadas, impulsado por el…",
-    "seccion": "derechos",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/descuartizadores-vampiros-y-canibales-por-que-debemos-comprender-antes-que-vender-a-los-monstruos-293055",
-    "fecha": "2026-10-26T17:20:41.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1s71k7i",
-    "titulo": "Las medidas de adaptación al calor han evitado miles de muertes este verano",
-    "resumen": "Según la Agencia Estatal de Meteorología(https://www.aemet.es/es/noticias/2026/09/resumenverano2026) (AEMET), el verano de 2026 (desde el 1 de junio al 31 de agosto) ha sido el más cálido desde el año 1961, superando en 0,3 °C al verano de…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/las-medidas-de-adaptacion-al-calor-han-evitado-miles-de-muertes-este-verano-294795",
-    "fecha": "2026-10-26T17:05:28.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-uc0ts9",
-    "titulo": "Los más pequeños buscan respuestas en Granada",
-    "resumen": "Nada más cruzar la puerta del Parque de las Ciencias de Andalucía(https://www.parqueciencias.com), salta a la vista que Antonio (7 años) llega con ansias de saber. Su mirada curiosa le delata. “¿Qué te interesa más, el espacio, la…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/los-mas-pequenos-buscan-respuestas-en-granada-295128",
-    "fecha": "2026-10-26T12:07:27.000Z",
     "estado": "pendiente"
   }
 ]
