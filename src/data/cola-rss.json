@@ -1,5 +1,15 @@
 [
   {
+    "id": "pressenza-e4y9fk",
+    "titulo": "Perú: Comunidad Campesina de Canta denuncia intento de desalojo por entidades del Estado",
+    "resumen": "Comuneros de la Comunidad Campesina de Canta, ubicada en la zona rural de la región Lima, denunciaron el intento de desalojo del predio denominado “Coso Taurino” de su propiedad, para la construcción de una vía nacional que tiene…",
+    "seccion": "derechos",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/peru-comunidad-campesina-de-canta-denuncia-intento-de-desalojo-por-entidades-del-estado/",
+    "fecha": "2026-11-03T03:24:09.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "the-conversation-espana-798a2w",
     "titulo": "Incendios forestales: ¿abandono rural o cambio climático?",
     "resumen": "En los dos últimos veranos se han intensificado los incendios en España. En 2025 se quemaron más de 390 000 ha y, en entre enro y septiembre de 2026 llevamos más de 300…",
@@ -1187,16 +1197,6 @@
     "medio": "Global Voices",
     "enlace": "https://es.globalvoices.org/2026/10/26/votar-temprano-pero-gobernar-muy-tarde-juventud-de-africa-occidental-a-las-puertas-del-poder/",
     "fecha": "2026-10-26T01:00:00.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-5zccct",
-    "titulo": "A 2 años de la desaparición de Julia Chuñil, su memoria presidirá el reencuentro en Santiago y otras ciudades",
-    "resumen": "Santiago, 25 de octubre de 2026",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/a-2-anos-de-la-desaparicion-de-julia-chunil-su-memoria-presidira-el-reencuentro-en-santiago-y-otras-ciudades/",
-    "fecha": "2026-10-26T00:48:29.000Z",
     "estado": "pendiente"
   }
 ]
