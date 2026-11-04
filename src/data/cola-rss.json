@@ -1,5 +1,15 @@
 [
   {
+    "id": "pressenza-js1zqd",
+    "titulo": "Las investigaciones por corrupción han llegado a los colaboradores más estrechos del presidente Zelensky",
+    "resumen": "No hay una investigación penal directa contra el presidente Zelensky en persona, pero desde noviembre de 2025 una ola de investigaciones ha golpeado a su círculo más estrecho.",
+    "seccion": "politica",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/corrupcion-entorno-zelensky-nabu-sapo/",
+    "fecha": "2026-11-04T03:19:14.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-gacj2u",
     "titulo": "Llamado urgente para detener la crueldad y garantizar el derecho a la educación",
     "resumen": "São Paulo, Brasil.",
@@ -1187,16 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/brasil-izquierda-march/",
     "fecha": "2026-10-27T13:00:53.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-34y0xh",
-    "titulo": "La selección: El eterno retorno de Francia a la lucha en las calles",
-    "resumen": "Los que peinamos alguna que otra cana tenemos grabadas en nuestra memoria las imágenes de Mayo del 68(https://theconversation.com/francia-2026-estamos-a-las-puertas-de-otro-mayo-del-68-294728) y un lema: “la imaginación al poder”. Imaginar…",
-    "seccion": "politica",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/la-seleccion-el-eterno-retorno-de-francia-a-la-lucha-en-las-calles-295093",
-    "fecha": "2026-10-27T11:59:30.000Z",
     "estado": "pendiente"
   }
 ]
