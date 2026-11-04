@@ -1,5 +1,85 @@
 [
   {
+    "id": "the-conversation-espana-1jf0s34",
+    "titulo": "Las ciudades del acero cambiaron de voto una generación después de perder sus fábricas",
+    "resumen": "El 19 de septiembre de 1977 todavía se recuerda en Ohio como el “lunes negro”. Ese día, la compañía Youngstown Sheet and Tube anunció el cierre de su gran acería en…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/las-ciudades-del-acero-cambiaron-de-voto-una-generacion-despues-de-perder-sus-fabricas-295911",
+    "fecha": "2026-11-04T18:06:19.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-7earr",
+    "titulo": "De la jornada de 9 horas al derecho a la vivienda: más de un siglo de huelgas generales en España",
+    "resumen": "El próximo 11 de noviembre está convocada una huelga general en protesta por el coste de la vivienda y la evolución de los salarios en términos reales. Las organizaciones convocantes son Comisiones Obreras (CC…",
+    "seccion": "economia",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/de-la-jornada-de-9-horas-al-derecho-a-la-vivienda-mas-de-un-siglo-de-huelgas-generales-en-espana-295419",
+    "fecha": "2026-11-04T18:06:14.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1kunglb",
+    "titulo": "Normas para usar el móvil: ¿por qué no siempre funcionan?",
+    "resumen": "La crianza digital ha pasado en pocos años a convertirse en una preocupación fundamental de las familias: cómo educar a sus hijos e hijas en el uso correcto de móviles, internet y redes sociales o cuándo y cómo permitir el acceso a estos…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/normas-para-usar-el-movil-por-que-no-siempre-funcionan-287392",
+    "fecha": "2026-11-04T18:03:02.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "dialogue-earth-1nq6vz9",
+    "titulo": "Entrevista: ‘Debemos mirar al océano para encontrar soluciones climáticas’",
+    "resumen": "El océano ha absorbido alrededor del 90% del calor generado por la dependencia de la humanidad de los combustibles fósiles. Sin embargo, en las grandes conferencias de la ONU sobre el clima, ha sido, en el mejor de los casos, una cuestión…",
+    "seccion": "derechos",
+    "medio": "Dialogue Earth",
+    "enlace": "https://dialogue.earth/es/oceanos/debemos-mirar-oceano-encontrar-soluciones-climaticas-cop31/",
+    "fecha": "2026-11-04T16:01:52.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1e89ko6",
+    "titulo": "Los sótanos de Kiev: cuando la guerra también tortura a los suyos",
+    "resumen": "Notas sobre la dignidad humana, el poder militar y los derechos que no pueden quedar suspendidos por una guerra.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/los-sotanos-de-kiev-cuando-la-guerra-tambien-tortura-a-los-suyos/",
+    "fecha": "2026-11-04T15:23:58.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-nogad9",
+    "titulo": "Las mujeres vuelven a la calle: el cuerpo de la resistencia frente al gobierno de Kast",
+    "resumen": "Hay gobiernos que gobiernan con decretos y otros que pretenden gobernar también sobre la memoria, los cuerpos y los derechos conquistados. El gobierno de José Antonio Kast parece empeñado en demostrar que el retroceso puede vestirse de…",
+    "seccion": "derechos",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/las-mujeres-vuelven-a-la-calle-el-cuerpo-de-la-resistencia-frente-al-gobierno-de-kast/",
+    "fecha": "2026-11-04T15:13:01.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-gv0pgd",
+    "titulo": "«La próxima guerra con EE. UU. será corta y devastadora», prevé estratega iraní",
+    "resumen": "Por Marco Fernándes(https://www.brasildefato.com.br)",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/la-proxima-guerra-con-ee-uu-sera-corta-y-devastadora-preve-estratega-irani/",
+    "fecha": "2026-11-04T14:57:30.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1863f5",
+    "titulo": "Perú: A 100 días del nuevo gobierno fujimorista, la nota es de regular a mala",
+    "resumen": "Se cumplieron los primeros 100 días de gobierno fujimorista, esta vez de la mano de Keiko Fujimori y la población ya le puso nota de “regular” (47%) o “mala” (38%); y el 51% opina que no está demostrando capacidad para gobernar, según una…",
+    "seccion": "politica",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/peru-a-100-dias-del-nuevo-gobierno-fujimorista-la-nota-es-de-regular-a-mala/",
+    "fecha": "2026-11-04T14:11:00.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "the-conversation-espana-xgehpk",
     "titulo": "Speaking in a second language may shift your moral compass – but it can’t overpower it",
     "resumen": "In today’s interconnected world, millions of people move between two or more languages every day. They may negotiate at work in one language, speak with family in another, and follow news, entertainment and social media across several…",
@@ -1117,86 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/la-comunicacion-de-los-riesgos-de-inundaciones-mas-alla-de-los-sistemas-de-alerta-para-proteger-a-la-poblacion-295266",
     "fecha": "2026-10-28T17:26:59.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-drdpzv",
-    "titulo": "Barcelona unrest: how to fabricate a protest in the age of TikTok",
-    "resumen": "Imagine coming across a TikTok post calling you to protest for better public schools. You scan a QR code to get more information, and find yourself in a private chat where the instructions are not about education or political organising…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/barcelona-unrest-how-to-fabricate-a-protest-in-the-age-of-tiktok-295263",
-    "fecha": "2026-10-28T08:01:51.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-1l4b2dc",
-    "titulo": "Cuando el derecho a protestar sigue vigente, pero manifestarse tiene un precio",
-    "resumen": "Los activistas climáticos son especialmente vulnerables a detenciones y persecuciones",
-    "seccion": "derechos",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/28/cuando-el-derecho-a-protestar-sigue-vigente-pero-manifestarse-tiene-un-precio/",
-    "fecha": "2026-10-28T07:00:40.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-14nexnh",
-    "titulo": "Qué podría significar la minería en aguas profundas para los pescadores de Jamaica",
-    "resumen": "«Cualquier actividad que altere la salud de los océanos podría tener consecuencias a largo plazo…»",
-    "seccion": "economia",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/28/que-podria-significar-la-mineria-en-aguas-profundas-para-los-pescadores-de-jamaica/",
-    "fecha": "2026-10-28T06:00:24.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-8qbvcb",
-    "titulo": "Perú: Duro golpe a la justicia en caso de Esterilizaciones Forzadas",
-    "resumen": "Inaudito. La Fiscalía del Perú archivó la investigación del caso de Esterilizaciones Forzadas ocurrido entre los años 1990 y 2000, en el gobierno de Alberto Fujimori. En este caso, considerado de lesa humanidad, aproximadamente más de 314…",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/peru-duro-golpe-a-la-justicia-en-caso-de-esterilizaciones-forzadas/",
-    "fecha": "2026-10-28T04:18:02.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-qs2rb0",
-    "titulo": "¡El triunfo de Lula y el pueblo brasileño nos convoca: unidos por la soberanía popular y la transformación de América Latina!",
-    "resumen": "Desde el Partido Humanista de Chile enviamos un afectuoso abrazo al pueblo de Brasil y a su presidente, Luiz Inácio Lula da Silva.",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/el-triunfo-de-lula-y-el-pueblo-brasileno-nos-convoca-unidos-por-la-soberania-popular-y-la-transformacion-de-america-latina/",
-    "fecha": "2026-10-27T21:32:41.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1p8q393",
-    "titulo": "Ser capaz de evaluarse: una habilidad que mejora el aprendizaje y la madurez",
-    "resumen": "Imaginemos una clase de Ciencias de 2º de ESO con estudiantes de 13 y 14 años que están aprendiendo a formular hipótesis científicas. El profesor explica que una hipótesis tiene que proponer una posible explicación a un fenómeno, permitir…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/ser-capaz-de-evaluarse-una-habilidad-que-mejora-el-aprendizaje-y-la-madurez-286782",
-    "fecha": "2026-10-27T18:24:23.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-192kz3r",
-    "titulo": "¿Hasta qué punto puede un electroencefalograma ‘adivinar’ nuestras emociones?",
-    "resumen": "Imagine que se coloca un casco con pequeños sensores(https://theconversation.com/rafael-yuste-nos-hallamos-al-comienzo-de-una-revolucion-darwiniana-de-la-neurociencia-270091), ve una película y, al terminar, alguien “adivina” cuánto miedo…",
-    "seccion": "cultura",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/hasta-que-punto-puede-un-electroencefalograma-adivinar-nuestras-emociones-294605",
-    "fecha": "2026-10-27T18:23:06.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-9q2q0w",
-    "titulo": "Qué es la ‘crisis de replicación’ de la ciencia y cómo solucionarla",
-    "resumen": "Cuando tratamos de entender el mundo que nos rodea, tendemos a buscar explicaciones en la ciencia. ¿Está ese hecho comprobado científicamente? Así intentamos dar solidez a nuestros argumentos y guiarnos sobre lo que conocemos sobre nuestro…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/que-es-la-crisis-de-replicacion-de-la-ciencia-y-como-solucionarla-270096",
-    "fecha": "2026-10-27T18:22:51.000Z",
     "estado": "pendiente"
   }
 ]
