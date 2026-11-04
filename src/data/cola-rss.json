@@ -1,5 +1,45 @@
 [
   {
+    "id": "the-conversation-espana-xgehpk",
+    "titulo": "Speaking in a second language may shift your moral compass – but it can’t overpower it",
+    "resumen": "In today’s interconnected world, millions of people move between two or more languages every day. They may negotiate at work in one language, speak with family in another, and follow news, entertainment and social media across several…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/speaking-in-a-second-language-may-shift-your-moral-compass-but-it-cant-overpower-it-294614",
+    "fecha": "2026-11-04T09:52:15.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1ywxw8i",
+    "titulo": "Los republicanos de Donald Trump sufren una derrota aplastante: qué significa para el mundo",
+    "resumen": "El Partido Republicano de Donald Trump ha recibido una contundente derrota en las elecciones de mitad de legislatura de EE. UU. Los republicanos comenzaron la noche con la esperanza de que las encuestas se equivocaran y de que, al menos…",
+    "seccion": "politica",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/los-republicanos-de-donald-trump-sufren-una-derrota-aplastante-que-significa-para-el-mundo-295887",
+    "fecha": "2026-11-04T08:44:30.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-1j3yfxo",
+    "titulo": "Cuando la libertad de expresión tiene un precio: Voces de los jóvenes de Mozambique",
+    "resumen": "Cuando la libertad de expresión tiene consecuencias, los jóvenes recurren a la música para hacer frente al silencio político",
+    "seccion": "cultura",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/04/cuando-la-libertad-de-expresion-tiene-un-precio-voces-de-los-jovenes-de-mozambique/",
+    "fecha": "2026-11-04T07:00:33.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-1tfd1u2",
+    "titulo": "Cómo la ley camboyana de «parques de la libertad» restringió el derecho ciudadano a manifestarse",
+    "resumen": "Solo se ha identificado un parque de la libertad en el país",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/04/como-la-ley-camboyana-de-parques-de-la-libertad-restringio-el-derecho-ciudadano-a-manifestarse/",
+    "fecha": "2026-11-04T06:00:45.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-js1zqd",
     "titulo": "Las investigaciones por corrupción han llegado a los colaboradores más estrechos del presidente Zelensky",
     "resumen": "No hay una investigación penal directa contra el presidente Zelensky en persona, pero desde noviembre de 2025 una ola de investigaciones ha golpeado a su círculo más estrecho.",
@@ -1157,46 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/que-es-la-crisis-de-replicacion-de-la-ciencia-y-como-solucionarla-270096",
     "fecha": "2026-10-27T18:22:51.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-28glat",
-    "titulo": "Activarnos para detener el genocidio en Palestina: memoria, justicia y solidaridad",
-    "resumen": "Encuéntame en las Ondas | Radio Guiniguada | 21 de octubre de 2026",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/activarnos-para-detener-el-genocidio-en-palestina-memoria-justicia-y-solidaridad/",
-    "fecha": "2026-10-27T14:33:41.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1x5kso4",
-    "titulo": "“Abrir el futuro: El cambio es posible y depende de nuestra acción”, el alentador lema de la Sexta Asamblea abierta del Foro Humanista Mundial.",
-    "resumen": "Atravesamos una época paradójica. Mientras las posibilidades humanas parecen ampliarse en una dimensión y velocidad nunca experimentadas antes, la humanidad en su conjunto no encuentra salidas a situaciones apremiantes como la guerra, la…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/abrir-el-futuro-el-cambio-es-posible-y-depende-de-nuestra-accion-el-alentador-lema-de-la-sexta-asamblea-abierta-del-foro-humanista-mundial/",
-    "fecha": "2026-10-27T14:33:27.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1t01kv7",
-    "titulo": "Generación Z: la rebelión de los que se niegan a heredar el mundo",
-    "resumen": "Serbia y el despertar de una generación que comienza a cuestionar los cimientos de una civilización que convirtió el dinero en medida del éxito, la competencia en forma de vida y la indiferencia en una costumbre social.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/generacion-z-la-rebelion-de-los-que-se-niegan-a-heredar-el-mundo/",
-    "fecha": "2026-10-27T14:13:20.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-ofs99l",
-    "titulo": "Brasil: Izquierda, march…",
-    "resumen": "No todo està perdido, vengo a entregar mi corazón (Fito Páez)",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/brasil-izquierda-march/",
-    "fecha": "2026-10-27T13:00:53.000Z",
     "estado": "pendiente"
   }
 ]
