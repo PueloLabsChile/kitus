@@ -1,5 +1,65 @@
 [
   {
+    "id": "pressenza-wgiziy",
+    "titulo": "Veto ruso en la ONU a favor de la autodeterminación del Sáhara Occidental",
+    "resumen": "Después de 35 años de presencia de la ONU en el Sahara Occidental, la Misión de las Naciones Unidas para la Celebración de un Referéndum (Minurso), ha puesto fin a su presencia después de un tenso debate en el Consejo de Seguridad que…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/veto-ruso-en-la-onu-a-favor-de-la-autodeterminacion-del-sahara-occidental/",
+    "fecha": "2026-11-05T19:03:49.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "dialogue-earth-8n6lfo",
+    "titulo": "Una América Latina fragmentada se dirige a la COP31 en Antalya",
+    "resumen": "Latinoamérica se dirige a la cumbre climática de la ONU de este año con menos respaldo político para la agenda que impulsó hace un año en Brasil.",
+    "seccion": "derechos",
+    "medio": "Dialogue Earth",
+    "enlace": "https://dialogue.earth/es/clima/una-america-latina-fragmentada-se-dirige-a-antalya-cop31/",
+    "fecha": "2026-11-05T18:38:24.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-x3r1tn",
+    "titulo": "Dos puertos pueden ser muy similares pero no por ello igual de eficientes",
+    "resumen": "Cuando pensamos en un puerto, solemos imaginar grúas, contenedores y grandes buques. Pero no todos los puertos son iguales. Tampoco cumplen la misma función. Un gran puerto conectado con las rutas del comercio mundial poco tiene que ver…",
+    "seccion": "economia",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/dos-puertos-pueden-ser-muy-similares-pero-no-por-ello-igual-de-eficientes-290086",
+    "fecha": "2026-11-05T18:03:17.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-14l5tqh",
+    "titulo": "Huelga general del 11N: preámbulo de las elecciones generales, pero no predictor de sus resultados",
+    "resumen": "La huelga general de 24 horas por la crisis de la vivienda del próximo 11 de noviembre será la primera respaldada conjuntamente por Comisiones Obreras (CC. OO.) y la Unión General de Trabajadores…",
+    "seccion": "economia",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/huelga-general-del-11n-preambulo-de-las-elecciones-generales-pero-no-predictor-de-sus-resultados-294913",
+    "fecha": "2026-11-05T18:01:17.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-13vmibu",
+    "titulo": "Videos: El internacionalismo y la cooperación internacional",
+    "resumen": "Las Jornadas F.R.I celebradas los días 20, 21 y 22 de octubre en Santa Clara (Cuba) constituyeron un espacio de encuentro, articulación y proyección internacional que reunió a representantes de entidades, intelectuales, artistas y…",
+    "seccion": "cultura",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/el-internacionalismo-y-la-cooperacion-internacional/",
+    "fecha": "2026-11-05T17:59:04.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-15v57am",
+    "titulo": "Tengo una discapacidad, ¿puedo ser docente en la universidad?",
+    "resumen": "Cuando hablamos de discapacidad en la universidad, solemos pensar en el acceso del alumnado y en las adaptaciones de aulas y exámenes. Pero las personas con discapacidad también terminan sus estudios y tienen derecho a acceder al empleo…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/tengo-una-discapacidad-puedo-ser-docente-en-la-universidad-290866",
+    "fecha": "2026-11-05T16:41:51.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "agencia-tierra-viva-1ppjkyy",
     "titulo": "Las Tres Ecologías y la disputa por el espacio público en Rosario",
     "resumen": "Más allá de la oferta gastronómica-cultural y del paisaje ribereño —por ahora accesible para todas y todos— en la costa de Rosario falta el Almacén de Las Tres Ecologías. Es un emprendimiento autogestivo donde, por más de una década…",
@@ -1137,66 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/honduras-vuelve-la-ofensiva-para-privatizar-zonas-enteras-del-pais/",
     "fecha": "2026-10-29T13:36:04.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "agencia-tierra-viva-1d3pmy1",
-    "titulo": "Aparicio exonerada en el INTA: “Vamos a ir a la justicia para que revise lo absurdo e irregular de todo el procedimiento”",
-    "resumen": "El Consejo Directivo del INTA, presidido por Nicolás Bronzovich —miembro de la Asociación Argentina de Productores en Siembra Directa (Aapresid) y de la Sociedad Rural de Balcarce—, exoneró a la investigadora Virginia Aparicio, la mayor…",
-    "seccion": "internacional",
-    "medio": "Agencia Tierra Viva",
-    "enlace": "https://agenciatierraviva.com.ar/aparicio-exonerada-en-el-inta-vamos-a-ir-a-la-justicia-para-que-revise-lo-absurdo-e-irregular-de-todo-el-procedimiento/",
-    "fecha": "2026-10-29T12:05:11.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-gv8b5b",
-    "titulo": "Spain’s high-speed train network is plagued by old signalling systems. They may have caused the deadly crash",
-    "resumen": "Shortly after 8am, two high-speed trains set off from Madrid’s Atocha station bound for Seville Santa Justa, but neither reached their destination. A failure in the LZB system(https://en.wikipedia.org/wiki/LZB) – an automatic safety…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/spains-high-speed-train-network-is-plagued-by-old-signalling-systems-they-may-have-caused-the-deadly-crash-295465",
-    "fecha": "2026-10-29T11:52:36.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-pp71sn",
-    "titulo": "El fenómeno Blocus: de la movilización en redes a las protestas y los disturbios en la calle",
-    "resumen": "En los últimos días hay un término que acapara la atención de la sociedad y de los medios de comunicación. Se trata de Blocus, una palabra francesa que significa “bloqueo” y la etiqueta bajo la que se han organizado las protestas…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/el-fenomeno-blocus-de-la-movilizacion-en-redes-a-las-protestas-y-los-disturbios-en-la-calle-295408",
-    "fecha": "2026-10-29T08:37:14.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-zubm2",
-    "titulo": "Activistas instan a Pakistán a reconocer y apoyar a personas con albinismo",
-    "resumen": "Pakistán no tiene registro de personas con albinismo, lo que deja desatendidas sus necesidades escolares, de salud y laborales.",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/29/activistas-instan-a-pakistan-a-reconocer-y-apoyar-a-personas-con-albinismo/",
-    "fecha": "2026-10-29T07:00:58.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-18ehb59",
-    "titulo": "Más allá de la protesta: Violencia colectiva y lucha por una respuesta institucional en Bangladesh",
-    "resumen": "«El pueblo no tiene la seguridad de que se le hará justicia».",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/29/mas-alla-de-la-protesta-violencia-colectiva-y-lucha-por-una-respuesta-institucional-en-bangladesh/",
-    "fecha": "2026-10-29T06:00:12.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-ka92rf",
-    "titulo": "Perú: Jóvenes Ts+uni piden creación de Comisión de la Verdad para la Amazonía por crímenes en la época del caucho",
-    "resumen": "Día decisivo. Este 28 de octubre, en Nauta, Loreto (oriente amazónico del Perú) 30 jóvenes de los pueblos originarios kukama, maijuna, secoya, achuar, murui, bora, tikuna, awajún, arabela y wampis expusieron ante los jueces, su pedido de…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/peru-jovenes-tsuni-piden-creacion-de-comision-de-la-verdad-para-la-amazonia-por-crimenes-en-la-epoca-del-caucho/",
-    "fecha": "2026-10-29T04:00:25.000Z",
     "estado": "pendiente"
   }
 ]
