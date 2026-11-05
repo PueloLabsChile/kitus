@@ -1,5 +1,45 @@
 [
   {
+    "id": "agencia-tierra-viva-1ppjkyy",
+    "titulo": "Las Tres Ecologías y la disputa por el espacio público en Rosario",
+    "resumen": "Más allá de la oferta gastronómica-cultural y del paisaje ribereño —por ahora accesible para todas y todos— en la costa de Rosario falta el Almacén de Las Tres Ecologías. Es un emprendimiento autogestivo donde, por más de una década…",
+    "seccion": "internacional",
+    "medio": "Agencia Tierra Viva",
+    "enlace": "https://agenciatierraviva.com.ar/las-tres-ecologias-y-la-disputa-por-el-espacio-publico-en-rosario/",
+    "fecha": "2026-11-05T12:03:16.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1yl096y",
+    "titulo": "Con el control del Congreso, ¿podrían los demócratas detener la guerra de Trump en Irán?",
+    "resumen": "La apabullante victoria de los demócratas en las elecciones de medio mandato de Estados Unidos(https://theconversation.com/los-republicanos-de-donald-trump-sufren-una-derrota-aplastante-que-significa-para-el-mundo-295887) les sitúa en una…",
+    "seccion": "politica",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/con-el-control-del-congreso-podrian-los-democratas-detener-la-guerra-de-trump-en-iran-295990",
+    "fecha": "2026-11-05T10:18:27.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-14jblxw",
+    "titulo": "Ni el frigorífico del supermercado está a salvo de ciberataques",
+    "resumen": "A finales de octubre(https://www.securityweek.com/supermarket-refrigeration-attack-widens-to-copeland-dixell-controllers/) alguien manipuló las neveras y congeladores de diferentes supermercados en Francia y Países Bajos para alterar la…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/ni-el-frigorifico-del-supermercado-esta-a-salvo-de-ciberataques-295803",
+    "fecha": "2026-11-05T09:50:09.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-8iiob",
+    "titulo": "Empresa de telecomunicaciones noruega Telenor enfrenta denuncia por entregar datos de usuarios a la junta militar de Myanmar",
+    "resumen": "Se acusa a la empresa pública de promover crímenes contra la humanidad",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/05/empresa-de-telecomunicaciones-noruega-telenor-enfrenta-una-denuncia-por-dar-datos-de-usuarios-a-la-junta-militar-de-myanmar/",
+    "fecha": "2026-11-05T07:00:33.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "global-voices-1wfilg1",
     "titulo": "«Ya no podemos aguantar más»: Vendedores informales de Haití protestan por guerra entre pandillas",
     "resumen": "«Gobierno, di algo… necesitamos justicia, necesitamos seguridad… el hambre nos está matando»",
@@ -1157,46 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/peru-jovenes-tsuni-piden-creacion-de-comision-de-la-verdad-para-la-amazonia-por-crimenes-en-la-epoca-del-caucho/",
     "fecha": "2026-10-29T04:00:25.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-l7wf5d",
-    "titulo": "Venezuela enfrenta crisis energética cada vez más grave mientras aumentan las protestas",
-    "resumen": "Para la mayor parte de la población, el suministro eléctrico inestable se ha convertido en un problema crónico de la vida cotidiana",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/29/venezuela-enfrenta-crisis-energetica-cada-vez-mas-grave-mientras-aumentan-las-protestas/",
-    "fecha": "2026-10-29T03:00:42.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-qvb6xp",
-    "titulo": "En Urda, el sistema de bloqueo y las órdenes del puesto de mando fueron insuficientes para evitar un nuevo accidente ferroviario",
-    "resumen": "Pasadas las 8 de la mañana, dos trenes de alta velocidad partieron de la madrileña estación de Atocha con destino a la de Sevilla-Santa Justa, pero nunca llegaron a su destino. La caída del sistema de bloqueo…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/en-urda-el-sistema-de-bloqueo-y-las-ordenes-del-puesto-de-mando-fueron-insuficientes-para-evitar-un-nuevo-accidente-ferroviario-295405",
-    "fecha": "2026-10-28T23:54:06.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-329dpo",
-    "titulo": "Propiedad privada (de las AFP)",
-    "resumen": "Por Javiera Aravena Araneda",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/propiedad-privada-de-las-afp/",
-    "fecha": "2026-10-28T22:38:54.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-140rmxh",
-    "titulo": "Constituyen en Santa Clara sección cubana del Fórum Red Intercultural",
-    "resumen": "Santa Clara, 22 oct (ACN) El Fórum Red Intercultural (FRI) constituyó su sección cubana para las jornadas FRI-ICAP, entre el 19 al 22 de octubre en la sede del Instituto Cubano de Amistad con los Pueblos (ICAP), en Santa Clara, con…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/constituyen-en-santa-clara-seccion-cubana-del-forum-red-intercultural/",
-    "fecha": "2026-10-28T22:08:22.000Z",
     "estado": "pendiente"
   }
 ]
