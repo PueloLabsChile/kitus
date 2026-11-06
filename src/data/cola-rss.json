@@ -1,5 +1,25 @@
 [
   {
+    "id": "pressenza-1ym2uil",
+    "titulo": "Chile se abstuvo en la votación sobre Cuba en Naciones Unidas",
+    "resumen": "Eso nunca había ocurrido, los únicos que votaban a favor del bloqueo eran Estados Unidos e Israel. Ningún otro país lo aprobaba y ninguno se abstenía.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/chile-se-abstuvo-en-la-votacion-sobre-cuba-en-naciones-unidas/",
+    "fecha": "2026-11-06T01:00:33.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-1z13us0",
+    "titulo": "Gabón: El regreso de las redes sociales tiene un precio",
+    "resumen": "Son 248 días sin acceso a Facebook, Instagram, TikTok y YouTube.",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/06/gabon-el-regreso-de-las-redes-sociales-tiene-un-precio/",
+    "fecha": "2026-11-06T01:00:07.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-wgiziy",
     "titulo": "Veto ruso en la ONU a favor de la autodeterminación del Sáhara Occidental",
     "resumen": "Después de 35 años de presencia de la ONU en el Sahara Occidental, la Misión de las Naciones Unidas para la Celebración de un Referéndum (Minurso), ha puesto fin a su presencia después de un tenso debate en el Consejo de Seguridad que…",
@@ -1177,26 +1197,6 @@
     "medio": "Dialogue Earth",
     "enlace": "https://dialogue.earth/es/bosques/fondo-bosques-tropicales-lejos-meta-financiacion/",
     "fecha": "2026-10-29T18:45:01.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-ud6k9k",
-    "titulo": "Kast y Zelenski: ¿qué hay detrás de la posible cooperación entre Chile y Ucrania?",
-    "resumen": "Las declaraciones del embajador ucraniano Yurii Diudin abren interrogantes sobre el alcance de los vínculos que Kiev busca desarrollar con Chile. Más allá de la seguridad y la tecnología de drones, el diplomático plantea una relación que…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/kast-y-zelenski-que-hay-detras-de-la-posible-cooperacion-entre-chile-y-ucrania/",
-    "fecha": "2026-10-29T13:49:36.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-m9di74",
-    "titulo": "Honduras: vuelve la ofensiva para privatizar zonas enteras del país",
-    "resumen": "Las ZEDE permiten a empresas extranjeras administrar territorios con sus propias reglas, tribunales y sistemas fiscales. Los movimientos populares se movilizan contra la cesión de la soberanía nacional. Uno de los temas centrales que…",
-    "seccion": "derechos",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/honduras-vuelve-la-ofensiva-para-privatizar-zonas-enteras-del-pais/",
-    "fecha": "2026-10-29T13:36:04.000Z",
     "estado": "pendiente"
   }
 ]
