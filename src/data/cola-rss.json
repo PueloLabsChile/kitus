@@ -1,5 +1,45 @@
 [
   {
+    "id": "pressenza-n4o1c6",
+    "titulo": "Noreste de China: Cooperativas agrícolas para un beneficio colectivo",
+    "resumen": "En la ciudad de Heihe, China, se encuentra la aldea Aihui, fronteriza con Rusia, ubicada a 32 kilómetros del área urbana, en la provincia de Heilongjiang, del noreste de China donde habitan minorías étnicas.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/noreste-de-china-cooperativas-agricolas-para-un-beneficio-colectivo/",
+    "fecha": "2026-11-06T13:12:28.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "agencia-tierra-viva-1w5ebtq",
+    "titulo": "La salud no es lo primero: en Argentina se utilizan 167 agrotóxicos prohibidos en otros países",
+    "resumen": "Los plaguicidas autorizados en Argentina que están prohibidos o no autorizados en otros países alcanzan la cifra de 167 productos, y 35 de ellos son Plaguicidas Altamente Peligrosos (PAP) según los criterios establecidos por la FAO…",
+    "seccion": "derechos",
+    "medio": "Agencia Tierra Viva",
+    "enlace": "https://agenciatierraviva.com.ar/la-salud-no-es-lo-primero-en-argentina-se-utilizan-167-agrotoxicos-prohibidos-en-otros-paises/",
+    "fecha": "2026-11-06T13:09:38.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1mja2d7",
+    "titulo": "Why Europe is building both a digital euro and a new mobile payment network",
+    "resumen": "Sending money from your phone seems simple: just choose a contact, enter an amount, and press confirm. But behind these apparently simple actions lie national payment systems that are not always interoperable.",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/why-europe-is-building-both-a-digital-euro-and-a-new-mobile-payment-network-295895",
+    "fecha": "2026-11-06T10:05:38.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-17cqcio",
+    "titulo": "Madrid 2026: los acuerdos técnicos rescatan la apuesta iberoamericana pese al contexto hostil y las ausencias",
+    "resumen": "Treinta y cinco años después de la I Cumbre Iberoamericana celebrada en Guadalajara en 1991, Madrid acogió la XXX edición, con Nicolás Maduro preso en Nueva York, la doctrina…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/madrid-2026-los-acuerdos-tecnicos-rescatan-la-apuesta-iberoamericana-pese-al-contexto-hostil-y-las-ausencias-296061",
+    "fecha": "2026-11-06T08:55:34.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "global-voices-aqw2y6",
     "titulo": "Palestina ya está viviendo bajo el autoritarismo de las grandes empresas tecnológicas que se le está vendiendo al mundo",
     "resumen": "Las tecnologías emergentes se han convertido en un elemento central de los sistemas de coacción y control",
@@ -1157,46 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/la-herencia-de-netanyahu-cuando-votar-no-basta-para-recuperar-la-democracia-israeli-295042",
     "fecha": "2026-10-29T19:08:33.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-zsriia",
-    "titulo": "¿Quién tiene la culpa? La política de la responsabilidad tras las grandes tragedias en España",
-    "resumen": "En los últimos años, España ha experimentado una sucesión de acontecimientos de enorme impacto colectivo: la pandemia de la covid-19; grandes incendios forestales en…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/quien-tiene-la-culpa-la-politica-de-la-responsabilidad-tras-las-grandes-tragedias-en-espana-295489",
-    "fecha": "2026-10-29T19:08:27.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1suklli",
-    "titulo": "Michiko Kodama, sobreviviente de Hiroshima: «NO rotundo a la guerra y NO a poseer armas nucleares»",
-    "resumen": "Con motivo del acto «Hiroshima nunca más. El papel de España en el desarme nuclear«, hemos podido conversar con Michiko Kodama (Kodama-san), sobreviviente de Hiroshima y secretaria general de Nihon Hidankyo, Confederación de Asociaciones…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/michiko-kodama-sobreviviente-de-hiroshima-no-rotundo-a-la-guerra-y-no-a-poseer-armas-nucleares/",
-    "fecha": "2026-10-29T19:06:01.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-pms1km",
-    "titulo": "¿Por qué disfrutamos con los sustos? La ciencia explica qué cantidad de miedo nos divierte",
-    "resumen": "Cada Halloween convertimos en motivo de celebración aquello que normalmente asociamos con el miedo. Nos disfrazamos de monstruos, asistimos a fiestas repletas de zombis y decoramos nuestras casas con esqueletos y fantasmas. También nos…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/por-que-disfrutamos-con-los-sustos-la-ciencia-explica-que-cantidad-de-miedo-nos-divierte-293057",
-    "fecha": "2026-10-29T19:00:39.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-15swrey",
-    "titulo": "De la fosa común de Pico Reja al laboratorio: biología molecular contra la desmemoria histórica",
-    "resumen": "Todo el mundo comprende la inmensa tragedia del Holocausto(https://es.wikipedia.org/wiki/Holocausto) gracias a El diario de Ana Frank(https://es.wikipedia.org/wiki/DiariodeAnaFrank). A través de las palabras de una niña escondida en una…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/de-la-fosa-comun-de-pico-reja-al-laboratorio-biologia-molecular-contra-la-desmemoria-historica-294130",
-    "fecha": "2026-10-29T19:00:28.000Z",
     "estado": "pendiente"
   }
 ]
