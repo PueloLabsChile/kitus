@@ -1,5 +1,15 @@
 [
   {
+    "id": "global-voices-14uq67p",
+    "titulo": "Venezuela recibe a la líder opositora María Corina Machado",
+    "resumen": "Machado regresa a una nación llena de esperanza, pero cautelosa",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/06/venezuela-recibe-a-la-lider-opositora-maria-corina-machado/",
+    "fecha": "2026-11-06T21:00:31.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-n4o1c6",
     "titulo": "Noreste de China: Cooperativas agrícolas para un beneficio colectivo",
     "resumen": "En la ciudad de Heihe, China, se encuentra la aldea Aihui, fronteriza con Rusia, ubicada a 32 kilómetros del área urbana, en la provincia de Heilongjiang, del noreste de China donde habitan minorías étnicas.",
@@ -1187,16 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/el-riego-por-aspersion-y-legionella-un-peligro-hasta-ahora-invisible-294969",
     "fecha": "2026-10-29T19:12:04.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1vrjurm",
-    "titulo": "La herencia de Netanyahu: cuando votar no basta para recuperar la democracia israelí",
-    "resumen": "El instituto V-Dem marca el 2023 como el año en que Israel perdió la condición de democracia liberal(https://www.v-dem.net/documents/75/V-DemInstituteDemocracyReport2026lowres.pdf), categoría que exige, además de elecciones libres…",
-    "seccion": "politica",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/la-herencia-de-netanyahu-cuando-votar-no-basta-para-recuperar-la-democracia-israeli-295042",
-    "fecha": "2026-10-29T19:08:33.000Z",
     "estado": "pendiente"
   }
 ]
