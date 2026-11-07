@@ -1,5 +1,15 @@
 [
   {
+    "id": "pressenza-v0io01",
+    "titulo": "Hagamos retrospectiva: ¿Cómo fue que entramos al nuevo milenio? Tres miradas agotadas y el desafío del humanismo para lo que viene",
+    "resumen": "Entre el repliegue ecologista, el futurismo de las redes y la resistencia popular, todas las invenciones fueron apropiadas por el capital concentrado. La salida no vendrá de otro armazón importado, sino de una idea nacida del contacto en…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/hagamos-retrospectiva-como-fue-que-entramos-al-nuevo-milenio-tres-miradas-agotadas-y-el-desafio-del-humanismo-para-lo-que-viene/",
+    "fecha": "2026-11-07T00:00:07.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "global-voices-14uq67p",
     "titulo": "Venezuela recibe a la líder opositora María Corina Machado",
     "resumen": "Machado regresa a una nación llena de esperanza, pero cautelosa",
@@ -1187,16 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/melissa-parke-directora-de-ican-necesitamos-ver-que-se-toman-medidas-y-que-espana-se-adhiere-al-tpan/",
     "fecha": "2026-10-29T20:41:52.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-9nnj5h",
-    "titulo": "El riego por aspersión y Legionella: un peligro hasta ahora invisible",
-    "resumen": "Cuando pensamos en los riesgos sanitarios asociados a la agricultura, solemos evocar la exposición a pesticidas, las enfermedades transmitidas por animales (zoonosis) o la seguridad alimentaria de los vegetales que llegan a nuestra mesa…",
-    "seccion": "derechos",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/el-riego-por-aspersion-y-legionella-un-peligro-hasta-ahora-invisible-294969",
-    "fecha": "2026-10-29T19:12:04.000Z",
     "estado": "pendiente"
   }
 ]
