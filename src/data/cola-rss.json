@@ -1,5 +1,65 @@
 [
   {
+    "id": "global-voices-bibehu",
+    "titulo": "Escándalos y sospechosos relacionados con Flávio Bolsonaro, según la prensa brasileña",
+    "resumen": "Tras su derrota electoral, el senador huyó a Estados Unidos con su familia",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/07/escandalos-y-sospechosos-relacionados-con-flavio-bolsonaro-segun-la-prensa-brasilena/",
+    "fecha": "2026-11-07T07:00:50.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-ro2qyz",
+    "titulo": "Espacio positivo y de apoyo para profesionales independientes: Entrevista con las fundadoras de #TeamTranslator",
+    "resumen": "«También muchas conexiones increíbles y maravillosas ocurrieron por la comunidad»",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/07/espacio-positivo-y-de-apoyo-para-profesionales-independientes-entrevista-con-las-fundadoras-de-teamtranslator/",
+    "fecha": "2026-11-07T06:00:23.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-11klcec",
+    "titulo": "Perú: Indígenas anuncian conflicto sino se respetan acuerdos en Lote 192",
+    "resumen": "En conferencia de prensa, dirigentes indígenas de más de cien comunidades nativas afectadas por derrames petroleros exigieron al Estado peruano que garantice el cumplimiento de los acuerdos establecidos sobre Consulta Previa y respeto a…",
+    "seccion": "economia",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/peru-indigenas-anuncian-conflicto-sino-se-respetan-acuerdos-en-lote-192/",
+    "fecha": "2026-11-07T04:42:36.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1daouys",
+    "titulo": "Jesús, Jesús, Jesús. Un nombre tres veces perseguido",
+    "resumen": "Más que un nombre, tres hombres citados, alabados y denostados, ayer en la tierra imperial y hoy en la era digital.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/jesus-jesus-jesus-un-nombre-tres-veces-perseguido/",
+    "fecha": "2026-11-07T03:37:11.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-xn1gsr",
+    "titulo": "Continentes y Contenidos #39 06/11/26 Alianza por el desarme nuclear",
+    "resumen": "Hablamos desde España con Carlos Umaña, integrante de la Alianza por el desarme nuclear, ICAN y la Asociación Internacional de Médicos para la Prevención de la Guerra Nuclear.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/continentes-y-contenidos-39-06-11-26-alianza-por-el-desarme-nuclear/",
+    "fecha": "2026-11-07T03:29:14.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-r9s1wo",
+    "titulo": "Sentir el dolor de otros: el verdadero desafío de la democracia",
+    "resumen": "«Si sientes dolor en tu cuerpo, estás vivo. Si sientes el dolor de otros, eres humano». Esta reflexión, atribuida a León Tolstói, encierra una verdad profunda que debiera estar en el corazón de la política y de nuestra democracia.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/sentir-el-dolor-de-otros-el-verdadero-desafio-de-la-democracia/",
+    "fecha": "2026-11-07T03:23:58.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-v0io01",
     "titulo": "Hagamos retrospectiva: ¿Cómo fue que entramos al nuevo milenio? Tres miradas agotadas y el desafío del humanismo para lo que viene",
     "resumen": "Entre el repliegue ecologista, el futurismo de las redes y la resistencia popular, todas las invenciones fueron apropiadas por el capital concentrado. La salida no vendrá de otro armazón importado, sino de una idea nacida del contacto en…",
@@ -1137,66 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/que-pasa-cuando-la-seguridad-que-damos-por-sentada-se-rompe-psicologia-social-tras-el-accidente-de-urda-295525",
     "fecha": "2026-10-30T07:55:31.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-ypc9k0",
-    "titulo": "Esperanza digital, poder real: De conexión a acción colectiva",
-    "resumen": "Comprender como los derechos digitales evolucionan requiere observar de cerca a las comunidades que lo moldean",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/30/esperanza-digital-poder-real-de-conexion-a-accion-colectiva/",
-    "fecha": "2026-10-30T07:00:21.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-1b0cz1s",
-    "titulo": "Cables submarinos y oleoductos: Infraestructura que une IA, imperio y ocupación",
-    "resumen": "La política de infraestructuras de internet es un tema de discusión cada vez más presente en el debate sobre estrategia militar y en la toma de decisiones políticas.",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/30/cables-submarinos-y-oleoductos-la-infraestructura-que-une-ia-imperio-y-ocupacion/",
-    "fecha": "2026-10-30T06:00:23.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-tegd2x",
-    "titulo": "Contra la crueldad: una educación humanizada y humanizadora",
-    "resumen": "Sao Paulo, Brasil.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/contra-la-crueldad-una-educacion-humanizada-y-humanizadora/",
-    "fecha": "2026-10-30T02:44:54.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "agencia-tierra-viva-czxmzi",
-    "titulo": "Rosa Amorim: \"Hablar de reforma agraria en Brasil es hablar de un proyecto de dignidad de vida\"",
-    "resumen": "“Com a barriga vazia não consigo dormir, E com o bucho mais cheio, comecei a pensar. Que eu me organizando posso desorganizar Que eu desorganizando posso me organizar Que eu me organizando posso desorganizar”. Da lama ao caos, Nação Zumbi…",
-    "seccion": "internacional",
-    "medio": "Agencia Tierra Viva",
-    "enlace": "https://agenciatierraviva.com.ar/rosa-amorim-hablar-de-reforma-agraria-en-brasil-es-hablar-de-un-proyecto-de-dignidad-de-vida/",
-    "fecha": "2026-10-29T20:48:42.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "agencia-tierra-viva-i42178",
-    "titulo": "Rosa Amorim: \"Hablar de reforma agraria es hablar de un proyecto de dignidad de vida\"",
-    "resumen": "“Con la panza vacía no puedo dormir, Con el buche más lleno, empecé a pensar. Que desorganizándome puedo organizar Que organizando me puedo desorganizar Que desorganizándome puedo organizar”",
-    "seccion": "internacional",
-    "medio": "Agencia Tierra Viva",
-    "enlace": "https://agenciatierraviva.com.ar/rosa-amorim-hablar-de-reforma-agraria-es-hablar-de-un-proyecto-de-dignidad-de-vida/",
-    "fecha": "2026-10-29T20:48:42.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1jgiizj",
-    "titulo": "Melissa Parke, directora de ICAN: «Necesitamos ver que se toman medidas y que España se adhiere al TPAN»",
-    "resumen": "Melissa Parke, directora ejecutiva de ICAN (campaña que recibió el Premio Nobel de la Paz 2017), ha visitado nuestro país para promover que el gobierno español firme el Tratado para la Prohibición de las Armas Nucleares. Durante la…",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/melissa-parke-directora-de-ican-necesitamos-ver-que-se-toman-medidas-y-que-espana-se-adhiere-al-tpan/",
-    "fecha": "2026-10-29T20:41:52.000Z",
     "estado": "pendiente"
   }
 ]
