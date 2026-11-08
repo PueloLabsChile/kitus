@@ -1,5 +1,15 @@
 [
   {
+    "id": "global-voices-1cyk7tv",
+    "titulo": "Ritmos en tiempos de derechos de propiedad intelectual",
+    "resumen": "Desde hace tiempo, al Caribe se le explota en el escenario mundial, y la ley de derechos de autor no es la excepción",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/08/ritmos-en-tiempos-de-derechos-de-propiedad-intelectual/",
+    "fecha": "2026-11-08T06:00:32.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-j6umbh",
     "titulo": "Fifty Fun Facts sobre Olivia [mi madre]: El lenguaje del silencio",
     "resumen": "Son las tres de la mañana. Ayer —o hoy, según cómo se cuenten las horas— pasé demasiado tiempo deslizando el dedo por la pantalla de mi teléfono, viendo un video tras otro: las elecciones, la guerra, la corrupción, tipos sexis, una receta…",
@@ -1187,16 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/cuando-la-tierra-era-nuestra-hermana/",
     "fecha": "2026-10-30T10:53:24.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-z8wy2",
-    "titulo": "He desertado. No tenemos motivo para combatirnos",
-    "resumen": "Por cuarta noche voy a cenar al mismo bistró; es un sitio económico, aunque está en el centro, pero ahora no hay casi nadie porque llueve y sopla un viento helado. Dentro, sin embargo, hace calor y las dos chicas que trabajan aquí son…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/he-desertado-no-tenemos-motivo-para-combatirnos/",
-    "fecha": "2026-10-30T10:16:14.000Z",
     "estado": "pendiente"
   }
 ]
