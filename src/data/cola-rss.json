@@ -1,5 +1,15 @@
 [
   {
+    "id": "pressenza-j6umbh",
+    "titulo": "Fifty Fun Facts sobre Olivia [mi madre]: El lenguaje del silencio",
+    "resumen": "Son las tres de la mañana. Ayer —o hoy, según cómo se cuenten las horas— pasé demasiado tiempo deslizando el dedo por la pantalla de mi teléfono, viendo un video tras otro: las elecciones, la guerra, la corrupción, tipos sexis, una receta…",
+    "seccion": "politica",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/fifty-fun-facts-sobre-olivia-mi-madre-el-lenguaje-del-silencio/",
+    "fecha": "2026-11-08T00:12:41.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "global-voices-bibehu",
     "titulo": "Escándalos y sospechosos relacionados con Flávio Bolsonaro, según la prensa brasileña",
     "resumen": "Tras su derrota electoral, el senador huyó a Estados Unidos con su familia",
@@ -1187,16 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/he-desertado-no-tenemos-motivo-para-combatirnos/",
     "fecha": "2026-10-30T10:16:14.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-ka4pfx",
-    "titulo": "Qué pasa cuando la seguridad que damos por sentada se rompe: psicología social tras el accidente de Urda",
-    "resumen": "La colisión de dos trenes de alta velocidad(https://theconversation.com/topics/accidente-urda-194963) ocurrida el 28 de octubre en las proximidades de Urda (Toledo) ha conmocionado a la sociedad española. La magnitud de la tragedia, con…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/que-pasa-cuando-la-seguridad-que-damos-por-sentada-se-rompe-psicologia-social-tras-el-accidente-de-urda-295525",
-    "fecha": "2026-10-30T07:55:31.000Z",
     "estado": "pendiente"
   }
 ]
