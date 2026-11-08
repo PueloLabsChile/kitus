@@ -1,5 +1,35 @@
 [
   {
+    "id": "the-conversation-espana-1ckx0dh",
+    "titulo": "Objetivos de Desarrollo Sostenible: la brecha entre saber y actuar en educación",
+    "resumen": "¿Recuerda la película El día de mañana(https://www.filmaffinity.com/es/film377460.html)? Trasladémonos a una de sus escenas más incómodas: un climatólogo lleva años advirtiendo del colapso climático ante gobiernos y organismos…",
+    "seccion": "derechos",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/objetivos-de-desarrollo-sostenible-la-brecha-entre-saber-y-actuar-en-educacion-293369",
+    "fecha": "2026-11-08T18:14:02.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-ogn044",
+    "titulo": "¿Por qué recordamos el pasado y no el futuro?",
+    "resumen": "Recordamos lo que hicimos ayer, pero no lo que haremos mañana. Encontramos fotografías de nuestra infancia, huellas de animales que ya pasaron o cráteres dejados por impactos antiguos, pero nunca registros de acontecimientos que todavía no…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/por-que-recordamos-el-pasado-y-no-el-futuro-291713",
+    "fecha": "2026-11-08T18:13:50.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-kqf9pq",
+    "titulo": "¿Los colegios bilingües nos hacen bilingües?",
+    "resumen": "Muchas familias eligen colegios bilingües para que sus hijos aprendan bien inglés. Esperan y desean que lo hablen con soltura, casi como si fuera su lengua materna. Sin embargo, estudiar algunas asignaturas en inglés no significa…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/los-colegios-bilingues-nos-hacen-bilingues-294973",
+    "fecha": "2026-11-08T18:13:16.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-1gr0buf",
     "titulo": "La urgencia de recuperar las terrazas agrícolas del Atlas marroquí",
     "resumen": "Por Yossef Ben-Meir",
@@ -1167,36 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/elecciones-de-medio-mandato-como-intenta-trump-conservar-el-congreso-y-que-pasara-si-lo-pierde-295044",
     "fecha": "2026-10-30T19:27:58.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "agencia-tierra-viva-9iy0x8",
-    "titulo": "El suelo como espejo de la relación entre humanidad y naturaleza",
-    "resumen": "Somos muchas las personas, organizaciones e instituciones que reconocemos estar atravesando una crisis civilizatoria muy profunda. Hay tantísima evidencia que muestra cómo estamos sobrepasando los límites físicos que permiten nuestra…",
-    "seccion": "internacional",
-    "medio": "Agencia Tierra Viva",
-    "enlace": "https://agenciatierraviva.com.ar/el-suelo-como-espejo-de-la-relacion-entre-humanidad-y-naturaleza/",
-    "fecha": "2026-10-30T18:23:58.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-jmvs7g",
-    "titulo": "UVPT 2026: La renta básica universal, como fundamento material para una revolución noviolenta",
-    "resumen": "Hoy reproducimos la mesa redonda sobre renta básica universal e incondicional, que tuvo lugar dentro de la Universidad de Verano del Humanismo Universalista 2026 del Parque Toledo. Fue organizada por la coordinadora Eureka.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/uvpt-2026-la-renta-basica-universal-como-fundamento-material-para-una-revolucion-noviolenta/",
-    "fecha": "2026-10-30T18:12:49.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "dialogue-earth-1v8slak",
-    "titulo": "Lula versus el Congreso: tras la reelección, el líder de Brasil se enfrenta a una batalla ambiental",
-    "resumen": "La agenda climática estuvo prácticamente ausente de las campañas de los dos candidatos en las elecciones brasileñas de 2026.",
-    "seccion": "derechos",
-    "medio": "Dialogue Earth",
-    "enlace": "https://dialogue.earth/es/bosques/lula-versus-el-congreso-tras-reeleccion-lider-brasil-enfrenta-batalla-ambiental/",
-    "fecha": "2026-10-30T17:27:05.000Z",
     "estado": "pendiente"
   }
 ]
