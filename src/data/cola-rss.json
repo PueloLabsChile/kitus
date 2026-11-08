@@ -1,5 +1,45 @@
 [
   {
+    "id": "pressenza-1gr0buf",
+    "titulo": "La urgencia de recuperar las terrazas agrícolas del Atlas marroquí",
+    "resumen": "Por Yossef Ben-Meir",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/la-urgencia-de-recuperar-las-terrazas-agricolas-del-atlas-marroqui/",
+    "fecha": "2026-11-08T13:19:51.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-h4yplb",
+    "titulo": "[Perú] Arturo Corcuera: nuevo documental explora la vida del poeta",
+    "resumen": "La película Arturo Corcuera: Poeta reúne a familiares, escritores y artistas para explorar cómo la obra del poeta peruano continúa adquiriendo nuevos significados tras su muerte en 2017. El estreno será el 6 de diciembre en Jazz Zone.",
+    "seccion": "cultura",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/peru-arturo-corcuera-nuevo-documental-explora-la-vida-del-poeta/",
+    "fecha": "2026-11-08T12:36:15.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-oj55qa",
+    "titulo": "Mochilazo: cuando los estudiantes vuelven a poner el cuerpo",
+    "resumen": "Hay algo que el poder nunca termina de entender: los estudiantes tienen la mala costumbre de no quedarse callados. Y cuando salen a la calle, con sus mochilas cargadas de cuadernos, rabia y futuro, los escritorios ministeriales comienzan a…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/mochilazo-cuando-los-estudiantes-vuelven-a-poner-el-cuerpo/",
+    "fecha": "2026-11-08T12:29:20.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-cpmzc7",
+    "titulo": "Los gigantes del océano reaparecen en las costas del mundo",
+    "resumen": "Los hallazgos en Patagonia y Rapa Nui nos devuelven la esperanza: podemos proteger a los gigantes del océano.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/los-gigantes-del-oceano-reaparecen-en-las-costas-del-mundo/",
+    "fecha": "2026-11-08T12:24:35.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "global-voices-1cyk7tv",
     "titulo": "Ritmos en tiempos de derechos de propiedad intelectual",
     "resumen": "Desde hace tiempo, al Caribe se le explota en el escenario mundial, y la ley de derechos de autor no es la excepción",
@@ -1157,46 +1197,6 @@
     "medio": "Dialogue Earth",
     "enlace": "https://dialogue.earth/es/bosques/lula-versus-el-congreso-tras-reeleccion-lider-brasil-enfrenta-batalla-ambiental/",
     "fecha": "2026-10-30T17:27:05.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-o13y7f",
-    "titulo": "Las lecciones que deja el robo de más de 6 000 millones de dólares en criptomonedas",
-    "resumen": "El jueves 29 de octubre, a las 20:05 hora UTC, empezaron a vaciarse los monederos de Binance, la mayor plataforma de intercambio de criptomonedas del mundo. Un único hacker movió unos 6 360 millones de…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/las-lecciones-que-deja-el-robo-de-mas-de-6-000-millones-de-dolares-en-criptomonedas-295585",
-    "fecha": "2026-10-30T17:00:16.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "agencia-tierra-viva-1s16txy",
-    "titulo": "Cuidar la vida en el territorio: la deuda pendiente con las mujeres del campo",
-    "resumen": "OPINIÓN",
-    "seccion": "economia",
-    "medio": "Agencia Tierra Viva",
-    "enlace": "https://agenciatierraviva.com.ar/cuidar-la-vida-en-el-territorio-la-deuda-pendiente-con-las-mujeres-del-campo/",
-    "fecha": "2026-10-30T16:17:22.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1ezxp43",
-    "titulo": "Volveremos a coger trenes como si nada hubiera pasado",
-    "resumen": "El andén amanece bajo el mismo compás metálico de siempre: el silbato de salida, el cierre neumático de las puertas y esa prisa matinal, casi coreografiada, de quienes aceleran el paso para no quedarse fuera. Para un observador ajeno, nada…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/volveremos-a-coger-trenes-como-si-nada-hubiera-pasado-295570",
-    "fecha": "2026-10-30T10:54:18.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-41tqqm",
-    "titulo": "Cuando la tierra era nuestra hermana",
-    "resumen": "Hace aproximadamente ochocientos años, un hombre casi ciego, enfermo y próximo al final de su vida fue capaz de mirar mucho más lejos que quienes tenían los ojos abiertos. Se llamaba Francisco de Asís.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/cuando-la-tierra-era-nuestra-hermana/",
-    "fecha": "2026-10-30T10:53:24.000Z",
     "estado": "pendiente"
   }
 ]
