@@ -1,5 +1,45 @@
 [
   {
+    "id": "pressenza-239256",
+    "titulo": "Pensar: El último acto revolucionario",
+    "resumen": "Cuando pensar se convierte en una forma de resistencia",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/pensar-el-ultimo-acto-revolucionario/",
+    "fecha": "2026-11-09T21:30:42.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1c744ce",
+    "titulo": "El-Sayed: estilo y conducta política, con Mamdani como referencia",
+    "resumen": "En el primer artículo de esta serie construimos la vara de medir (o baremo) antes de usarla (para evaluar/entender el perfil político de El-Sayed). En el segundo aplicamos a Abdul El-Sayed, senador demócrata electo por Míchigan, el primer…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/el-sayed-estilo-y-conducta-politica-con-mamdani-como-referencia/",
+    "fecha": "2026-11-09T20:00:37.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-18fwfi6",
+    "titulo": "Tradición y creencia religiosa ante la muerte",
+    "resumen": "La muerte es un hecho inequívoco de la vida. No existe la una sin la otra y nos afecta a todos. Ya sea con la muerte de un abuelo, un hermano, una tía muy querida o un amigo íntimo que ha fallecido en un accidente. Para todos nosotros…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/tradicion-y-creencia-religiosa-ante-la-muerte/",
+    "fecha": "2026-11-09T17:22:27.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-d4rtvm",
+    "titulo": "¿Estamos a las puertas de un momento humanista mundial?",
+    "resumen": "Para algunos, este titular puede resultar temerario o ingenuo, simple expresión de deseo, incluso mera propaganda.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/estamos-a-las-puertas-de-un-momento-humanista-mundial/",
+    "fecha": "2026-11-09T13:40:15.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "the-conversation-espana-1hrpgjr",
     "titulo": "Hacia dónde van las negociaciones sobre el clima de la COP31: más electricidad para salvar el mundo",
     "resumen": "Esta semana, unos 80 líderes mundiales se darán cita en la ciudad costera turca de Antalya con motivo de la cumbre anual de las Naciones Unidas sobre el clima, COP31(https://unfccc.int/cop31). Por primera vez, las funciones de la cumbre se…",
@@ -1157,46 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/yo-saltaria/",
     "fecha": "2026-10-31T18:00:45.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1487gro",
-    "titulo": "Strategien gegen rechte Strategen",
-    "resumen": "Por la Redacción",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/strategien-gegen-rechte-strategen/",
-    "fecha": "2026-10-31T16:54:59.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-123ioad",
-    "titulo": "Ucrania: las víctimas civiles de la guerra",
-    "resumen": "En esta guerra, las grandes ciudades ucranianas se han librado en lo esencial; de hecho, no ha habido bombardeos indiscriminados como los ocurridos desde la Guerra Civil española hasta nuestros días, allí donde estuviera implicado un país…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/ucrania-las-victimas-civiles-de-la-guerra/",
-    "fecha": "2026-10-31T16:14:32.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-oj4ccb",
-    "titulo": "EE.UU. – Carina Cedrechi: una generación envejece a ritmo de perro mientras los políticos le roban los mejores años",
-    "resumen": "Por Carina Cedrech",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/ee-uu-carina-cedrechi-una-generacion-envejece-a-ritmo-de-perro-mientras-los-politicos-le-roban-los-mejores-anos/",
-    "fecha": "2026-10-31T15:26:41.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-e50ehx",
-    "titulo": "Más allá del conocido camino de la violencia: la reconciliación y la posibilidad de un nuevo futuro",
-    "resumen": "A medida que los europeos se enfrentan a sus contradicciones históricas y las generaciones más jóvenes cuestionan el futuro que heredan, la reconciliación y la no violencia activa ofrecen la posibilidad de una transformación humana más…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/mas-alla-del-conocido-camino-de-la-violencia-la-reconciliacion-y-la-posibilidad-de-un-nuevo-futuro/",
-    "fecha": "2026-10-31T15:15:56.000Z",
     "estado": "pendiente"
   }
 ]
