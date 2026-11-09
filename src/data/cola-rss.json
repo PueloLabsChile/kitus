@@ -1,5 +1,55 @@
 [
   {
+    "id": "the-conversation-espana-1hrpgjr",
+    "titulo": "Hacia dónde van las negociaciones sobre el clima de la COP31: más electricidad para salvar el mundo",
+    "resumen": "Esta semana, unos 80 líderes mundiales se darán cita en la ciudad costera turca de Antalya con motivo de la cumbre anual de las Naciones Unidas sobre el clima, COP31(https://unfccc.int/cop31). Por primera vez, las funciones de la cumbre se…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/hacia-donde-van-las-negociaciones-sobre-el-clima-de-la-cop31-mas-electricidad-para-salvar-el-mundo-296161",
+    "fecha": "2026-11-09T10:54:28.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1tev7qp",
+    "titulo": "El alba del 7 de noviembre: desde Kiev, en directo y tal como la viví",
+    "resumen": "Noche de guerra en Kiev y ya han pasado las seis de la mañana; el toque de queda ha terminado y ya es el alba del 7 de noviembre. Llevo horas sin oír explosiones y salgo del hotel a dar un paseo y fumarme un cigarro.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/el-alba-del-7-de-noviembre-desde-kiev-en-directo-y-tal-como-la-vivi/",
+    "fecha": "2026-11-09T07:46:09.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-hv0eip",
+    "titulo": "En Kirguistán, personas con discapacidad recopilan evidencia de barreras físicas para exigir responsabilidades al gobierno",
+    "resumen": "Los más afectados exponen las barreras físicas",
+    "seccion": "politica",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/09/en-kirguistan-personas-con-discapacidad-recopilan-evidencia-de-barreras-fisicas-para-exigir-responsabilidades-al-gobierno/",
+    "fecha": "2026-11-09T07:00:44.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-150adds",
+    "titulo": "¿Quién puede hablar en nombre del pueblo? Nuevas fronteras de protesta en el Sahel",
+    "resumen": "¿Puede existir una democracia sin el derecho a discrepar?",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/09/quien-habla-en-nombre-del-pueblo-nuevas-fronteras-de-protesta-en-el-sahel/",
+    "fecha": "2026-11-09T06:00:57.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1mo5vun",
+    "titulo": "Italia: la protesta bajo sospecha reabre el debate sobre el espacio cívico y la tecnovigilancia",
+    "resumen": "Los hechos no suceden en el vacío: la vigilancia como marco europeo",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/italia-la-protesta-bajo-sospecha-reabre-el-debate-sobre-el-espacio-civico-y-la-tecnovigilancia/",
+    "fecha": "2026-11-09T03:05:43.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-11ocim",
     "titulo": "Cuba frente al cerco de Washington",
     "resumen": "Solidaridad en la Cumbre Iberoamericana y respaldo en la ONU",
@@ -1147,56 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/mas-alla-del-conocido-camino-de-la-violencia-la-reconciliacion-y-la-posibilidad-de-un-nuevo-futuro/",
     "fecha": "2026-10-31T15:15:56.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-1fxhhbq",
-    "titulo": "Cuando la radio encuentra una nueva voz digital: Llevar la cultura y lengua romaní en línea en Kosovo",
-    "resumen": "La preservación del idioma y la inclusión digital pueden ir de la mano",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/31/cuando-la-radio-encuentra-una-nueva-voz-digital-llevar-la-cultura-y-lengua-romani-en-linea-en-kosovo/",
-    "fecha": "2026-10-31T06:00:22.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-4jnahu",
-    "titulo": "Un gran triunfo internacional en los cielos chilenos",
-    "resumen": "Un extraordinario descubrimiento astronómico reúne el talento de científicos de distintas naciones y nos entrega una esperanza: si la cooperación mundial es posible en la ciencia, también podemos aspirar a construir la paz entre los…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/un-gran-triunfo-internacional-en-los-cielos-chilenos/",
-    "fecha": "2026-10-31T05:52:30.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1r3j7oq",
-    "titulo": "Guerra sucia contra la Corte Penal Internacional",
-    "resumen": "“Narcolanchas” y Nobel de la Paz en ataques de Trump y Rubio a la CPI",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/guerra-sucia-contra-la-corte-penal-internacional/",
-    "fecha": "2026-10-31T05:31:50.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-i1rel8",
-    "titulo": "Mano dura para unos, mano blanda para otros",
-    "resumen": "El presidente José Antonio Kast llegó a La Moneda prometiendo mano dura contra la delincuencia, los vándalos y la ineficiencia del Estado. Prometió eliminar la grasa del aparato público, administrar responsablemente los recursos y no tocar…",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/mano-dura-para-unos-mano-blanda-para-otros/",
-    "fecha": "2026-10-31T04:47:48.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1f7pojg",
-    "titulo": "Estructura interna de la realidad",
-    "resumen": "¿Y si el presente fuera una trama que tejemos con herramientas del pasado? Un recorrido filosófico y sociológico sobre cómo actualizamos nuestra mirada para habitar el mundo hoy.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/estructura-interna-de-la-realidad/",
-    "fecha": "2026-10-31T04:18:53.000Z",
     "estado": "pendiente"
   }
 ]
