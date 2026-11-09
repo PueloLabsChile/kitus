@@ -1,5 +1,25 @@
 [
   {
+    "id": "pressenza-11ocim",
+    "titulo": "Cuba frente al cerco de Washington",
+    "resumen": "Solidaridad en la Cumbre Iberoamericana y respaldo en la ONU",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/cuba-frente-al-cerco-de-washington/",
+    "fecha": "2026-11-09T01:30:01.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-5u0ewr",
+    "titulo": "Protestas en Ecuador: «Gobierno vs. Pueblo»",
+    "resumen": "Por Rodrigo Muñoz Contreras.",
+    "seccion": "politica",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/protestas-en-ecuador-gobierno-vs-pueblo/",
+    "fecha": "2026-11-09T01:10:19.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "the-conversation-espana-gjyb0q",
     "titulo": "El escollo insalvable de dividir por cero: por qué las matemáticas permiten entender el universo pero no coinciden con él",
     "resumen": "En los años sesenta del pasado siglo, el físico y premio Nobel Eugene Wigner(https://webhomes.maths.ed.ac.uk/%7Ev1ranick/papers/wigner.pdf) inmortalizó una pregunta que aún continúa quitando el sueño: ¿por qué una serie de símbolos…",
@@ -1177,26 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/10/estructura-interna-de-la-realidad/",
     "fecha": "2026-10-31T04:18:53.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-w56srw",
-    "titulo": "Cómo las calles y un ejército de redes sociales llevaron a Lula a una histórica victoria en Brasil",
-    "resumen": "Por primera vez en el país, un candidato logró dar la vuelta a los resultados en la segunda vuelta",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/10/30/como-las-calles-y-un-ejercito-de-redes-sociales-llevaron-a-lula-a-una-historica-victoria-en-brasil/",
-    "fecha": "2026-10-30T21:00:23.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-rznhvw",
-    "titulo": "Clavel Rojo en Roma: cuando la memoria chilena cruza las fronteras",
-    "resumen": "Hay historias que no caben dentro de las fronteras de un país. Historias que, aunque nacen en una geografía determinada, terminan perteneciendo a todos aquellos que alguna vez conocieron el miedo, la persecución, la injusticia o la…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/10/clavel-rojo-en-roma-cuando-la-memoria-chilena-cruza-las-fronteras/",
-    "fecha": "2026-10-30T20:14:26.000Z",
     "estado": "pendiente"
   }
 ]
