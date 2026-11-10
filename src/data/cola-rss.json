@@ -1,5 +1,85 @@
 [
   {
+    "id": "pressenza-1vrfihk",
+    "titulo": "Consecuencias del Niño 2027",
+    "resumen": "Los océanos se calientan y Latinoamérica se debe prepara para un año difícil",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/consecuencias-del-nino-2027/",
+    "fecha": "2026-11-10T19:04:48.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-1bqzlqw",
+    "titulo": "Madagascar protege sus zonas marinas como parte de su biodiversidad",
+    "resumen": "En Madagascar, las metas en materia de biodiversidad enfrentan el reto de financiación y realidades locales",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/10/madagascar-se-compromete-con-la-biodiversidad-a-traves-de-la-proteccion-des-zonas-marinas/",
+    "fecha": "2026-11-10T18:00:04.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-2y4v0g",
+    "titulo": "El lenguaje de los árboles. La comunicación secreta de los seres vivos",
+    "resumen": "El cine vuelve a invitarnos a escuchar la naturaleza",
+    "seccion": "cultura",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/el-lenguaje-de-los-arboles-la-comunicacion-secreta-de-los-seres-vivos/",
+    "fecha": "2026-11-10T17:39:06.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-8neqog",
+    "titulo": "“Queremos que vuelva”: por qué recuperar a un cliente no siempre es una buena idea",
+    "resumen": "Llega un correo de una empresa cuyos servicios hemos dejado de utilizar diciendo: “Le echamos de menos”. El mensaje incluye un descuento, una oferta especial o una invitación a retomar el contacto. Pero, si nos marchamos porque el servicio…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/queremos-que-vuelva-por-que-recuperar-a-un-cliente-no-siempre-es-una-buena-idea-295049",
+    "fecha": "2026-11-10T17:01:49.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1qftiy1",
+    "titulo": "¿Es la Escuela de Salamanca la cuna de los derechos humanos?",
+    "resumen": "El 19 de octubre de 1526, el dominico Francisco de Vitoria(https://theconversation.com/topics/francisco-de-vitoria-188431) se estrenó como profesor de la Universidad de Salamanca, tras ganar la plaza de Prima de Teología frente al…",
+    "seccion": "derechos",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/es-la-escuela-de-salamanca-la-cuna-de-los-derechos-humanos-290201",
+    "fecha": "2026-11-10T16:57:13.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1qrya0u",
+    "titulo": "Riesgo permitido y responsabilidad penal: ¿era fútbol el rodillazo del portero, aunque resultara letal?",
+    "resumen": "La desgraciada muerte del futbolista Jesús de Miguel(https://www.rtve.es/deportes/20261103/muere-delantero-jesus-miguel-tenerife-andorra/17297081.shtml) el pasado 3 de noviembre, tras el impacto sufrido durante el partido entre el CD…",
+    "seccion": "politica",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/riesgo-permitido-y-responsabilidad-penal-era-futbol-el-rodillazo-del-portero-aunque-resultara-letal-296003",
+    "fecha": "2026-11-10T16:57:07.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-lza9by",
+    "titulo": "COPEHU: nueve países unidos para profundizar en la Pedagogía de la Intencionalidad y planificar el 2027",
+    "resumen": "El II Encuentro Internacional virtual reunió a participantes de nueve países para compartir experiencias y abrir nuevas posibilidades de acciones, estudio e investigación en torno a una educación humanizadora.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/copehu-nueve-paises-unidos-para-profundizar-en-la-pedagogia-de-la-intencionalidad-y-planificar-el-2027/",
+    "fecha": "2026-11-10T16:03:30.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1829mu3",
+    "titulo": "Anna Skorokhod: una parlamentaria valiente en la Rada ucraniana",
+    "resumen": "Hay una sola diputada en toda la Verkhovna Rada (el Parlamento ucraniano) que, en los últimos tres años, ha pisado los cuarteles y los centros de reclutamiento. Se llama Anna Kostiantynivna Skorokhod, nació el 14 de enero de 1990 en…",
+    "seccion": "politica",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/anna-skorokhod-una-parlamentaria-valiente-en-la-rada-ucraniana/",
+    "fecha": "2026-11-10T16:00:42.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "global-voices-w36n9e",
     "titulo": "Voluntarios de Polonia recuerdan cómo los polacos abrieron sus hogares a los refugiados ucranianos en 2022",
     "resumen": "Ahora, la desinformación rusa aviva el recuerdo de conflictos históricos violentos, y la empatía polaca se está agotando",
@@ -1117,86 +1197,6 @@
     "medio": "Global Voices",
     "enlace": "https://es.globalvoices.org/2026/11/02/jovenes-japoneses-encuentran-nuevas-formas-de-expresar-activismo-por-la-paz-entre-crecientes-tensiones-en-el-pacifico/",
     "fecha": "2026-11-02T07:00:12.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-7s6xm8",
-    "titulo": "La protesta como pilar de la democracia",
-    "resumen": "Las protestas ayudan a cerrar la brecha entre la promesa de democracia y las estructuras formales que tenemos",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/11/02/la-protesta-como-pilar-de-la-democracia/",
-    "fecha": "2026-11-02T07:00:07.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-40jbjd",
-    "titulo": "Un nuevo dinosaurio británico de garras largas es el primero de su especie en Europa",
-    "resumen": "El cráneo fosilizado de una nueva especie de misterioso dinosaurio carnívoro procedente de la Isla de Wight ha sido redescubierto en las colecciones del Museo de Historia Natural de Londres, tras pasar más de 100 años almacenado.",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/un-nuevo-dinosaurio-britanico-de-garras-largas-es-el-primero-de-su-especie-en-europa-295527",
-    "fecha": "2026-11-02T01:12:20.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1j2qgnu",
-    "titulo": "¿Está la IA volviéndonos menos inteligentes? Diferencias entre atención, memoria y cociente intelectual",
-    "resumen": "Tener en la palma de la mano una herramienta que puede responder a cualquier duda o pregunta de manera lógica y rapidísima (aunque no siempre correcta), y usarla a menudo, ¿cambia nuestra capacidad de pensar y razonar de manera…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/esta-la-ia-volviendonos-menos-inteligentes-diferencias-entre-atencion-memoria-y-cociente-intelectual-293728",
-    "fecha": "2026-11-02T01:11:51.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-10e4ahx",
-    "titulo": "Elecciones de medio mandato en EE. UU.: ¿castigarán los votantes a Trump por saltarse las normas democráticas?",
-    "resumen": "El próximo 3 de noviembre se celebran en Estados Unidos las elecciones de medio mandato(https://efe.com/mundo/2026-10-27/estados-unidos-elecciones-medio-mandato-historial-partido-presidente-trump/). Se renueva toda la Cámara de…",
-    "seccion": "politica",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/elecciones-de-medio-mandato-en-ee-uu-castigaran-los-votantes-a-trump-por-saltarse-las-normas-democraticas-295283",
-    "fecha": "2026-11-02T01:10:53.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1hz6ubz",
-    "titulo": "Encuéntame en las Ondas: parar el genocidio y conectar los pueblos desde la cultura y la comunicación",
-    "resumen": "Canarias, 28 de octubre de 2026.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/encuentame-en-las-ondas-parar-el-genocidio-y-conectar-los-pueblos-desde-la-cultura-y-la-comunicacion/",
-    "fecha": "2026-11-01T21:45:11.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1e5so6m",
-    "titulo": "Tel Aviv: manifestación por el diálogo con los partidos árabes",
-    "resumen": "El sábado 31 de octubre se celebró en Tel Aviv una manifestación para pedir un pacto entre el bloque político anti-Netanyahu y los partidos árabes.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/tel-aviv-manifestacion-por-el-dialogo-con-los-partidos-arabes/",
-    "fecha": "2026-11-01T20:46:45.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-13u04o5",
-    "titulo": "31 de octubre: protesta de la Generación Z en 34 ciudades alemanas",
-    "resumen": "El sábado 31 de octubre, 120 000 jóvenes (y no solo jóvenes) se manifestaron en 34 ciudades alemanas —desde Berlín hasta Múnich, desde Hamburgo hasta Colonia, desde Fráncfort hasta Hannover, Stuttgart, Erfurt, Dortmund y muchas otras…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/31-de-octubre-protesta-de-la-generacion-z-en-34-ciudades-alemanas/",
-    "fecha": "2026-11-01T20:19:33.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-30arqd",
-    "titulo": "Silo y las ciencias cognitivas corporizadas del siglo XXI",
-    "resumen": "Por Fernando Estrada",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/silo-y-las-ciencias-cognitivas-corporizadas-del-siglo-xxi/",
-    "fecha": "2026-11-01T19:07:37.000Z",
     "estado": "pendiente"
   }
 ]
