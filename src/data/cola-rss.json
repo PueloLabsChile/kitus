@@ -1,5 +1,25 @@
 [
   {
+    "id": "global-voices-fpgxi8",
+    "titulo": "Reformas en contratación entre Bangladesh y Malasia reavivan viejas preguntas sobre costos de la migración",
+    "resumen": "Reiteradas interrupciones generan inquietudes sobre transparencia en reclutamiento y protección de los trabajadores migrantes frente a la explotación.",
+    "seccion": "economia",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/11/reformas-en-contratacion-entre-bangladesh-y-malasia-reavivan-viejas-preguntas-sobre-costos-de-la-migracion/",
+    "fecha": "2026-11-11T06:00:08.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1mrqgr4",
+    "titulo": "Perú: La otra agenda del Papa León XIV",
+    "resumen": "A pocas horas de la llegada del Papa León XIV al Perú, hoy miércoles 11 de noviembre, los miles de fieles se preparan para recibirlo en las diferentes ciudades del norte, centro y oriente del país. Unidos a los fieles, colectivos de la…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/peru-la-otra-agenda-del-papa-leon-xiv/",
+    "fecha": "2026-11-11T04:15:08.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-1po02ag",
     "titulo": "«Los Sueños, una entrada hacia otros mundos» publicado en Portugués, presentado por Pía Figueroa en Sao Paulo",
     "resumen": "En el ambiente distendido de la librería Tapera Tapera, todavía inmersa en la desbordante alegría del pueblo brasilero tras la re-elección de su Presidente Lula Da Silva, fue presentada la edición en Portugués del libro de Pía Figueroa…",
@@ -1177,26 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/11/iran-bajo-sanciones-ucrania-bajo-proteccion-petroleo-y-el-doble-estandar-de-estados-unidos/",
     "fecha": "2026-11-02T18:15:06.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1uvod0y",
-    "titulo": "El poder de la primera entrega",
-    "resumen": "Por Rubén Basay Roberts",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/el-poder-de-la-primera-entrega/",
-    "fecha": "2026-11-02T13:56:24.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1rxz0lx",
-    "titulo": "Seis paradojas de Borges",
-    "resumen": "A Daniel C. Testta, que ronda en mi literatura",
-    "seccion": "cultura",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/seis-paradojas-de-borges/",
-    "fecha": "2026-11-02T12:05:14.000Z",
     "estado": "pendiente"
   }
 ]
