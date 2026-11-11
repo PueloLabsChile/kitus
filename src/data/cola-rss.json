@@ -1,5 +1,25 @@
 [
   {
+    "id": "pressenza-1po02ag",
+    "titulo": "«Los Sueños, una entrada hacia otros mundos» publicado en Portugués, presentado por Pía Figueroa en Sao Paulo",
+    "resumen": "En el ambiente distendido de la librería Tapera Tapera, todavía inmersa en la desbordante alegría del pueblo brasilero tras la re-elección de su Presidente Lula Da Silva, fue presentada la edición en Portugués del libro de Pía Figueroa…",
+    "seccion": "derechos",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/los-suenos-una-entrada-hacia-otros-mundos-publicado-en-portugues-presentado-por-pia-figueroa-en-sao-paulo/",
+    "fecha": "2026-11-10T22:35:11.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1uty666",
+    "titulo": "El final de la trampa financiera: entre el vaciamiento de Asunción, el espejismo de Buenos Aires y la advertencia humanista",
+    "resumen": "Por Daniel C. Robaldo",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/el-final-de-la-trampa-financiera-entre-el-vaciamiento-de-asuncion-el-espejismo-de-buenos-aires-y-la-advertencia-humanista/",
+    "fecha": "2026-11-10T21:53:20.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-1vrfihk",
     "titulo": "Consecuencias del Niño 2027",
     "resumen": "Los océanos se calientan y Latinoamérica se debe prepara para un año difícil",
@@ -1177,26 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/11/seis-paradojas-de-borges/",
     "fecha": "2026-11-02T12:05:14.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-69qvup",
-    "titulo": "El conocimiento superador de prejuicios",
-    "resumen": "El principio número 4 del Humanismo Universalista fue formulado por Silo en 2005 de esta manera: el Nuevo Humanismo «auspicia la tendencia al desarrollo del conocimiento por encima de todas las limitaciones impuestas al pensamiento por…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/el-conocimiento-superador-de-prejuicios/",
-    "fecha": "2026-11-02T08:02:04.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-1j62fpi",
-    "titulo": "Jóvenes japoneses encuentran nuevas formas de expresar activismo por la paz entre crecientes tensiones en el Pacífico",
-    "resumen": "Activistas juveniles están transformando las protestas en algo accesible, individual y no jerárquico",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/11/02/jovenes-japoneses-encuentran-nuevas-formas-de-expresar-activismo-por-la-paz-entre-crecientes-tensiones-en-el-pacifico/",
-    "fecha": "2026-11-02T07:00:12.000Z",
     "estado": "pendiente"
   }
 ]
