@@ -1,5 +1,95 @@
 [
   {
+    "id": "pressenza-iwe5f4",
+    "titulo": "11N, huelga general en España por los derechos de la ciudadanía",
+    "resumen": "El 11N en Cataluña: seguimiento y dimensión de la convocatoria",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/11n-huelga-general-en-espana-por-los-derechos-de-la-ciudadania/",
+    "fecha": "2026-11-11T20:45:52.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-8cal1e",
+    "titulo": "Más allá de las playas: República Dominicana y el debate global sobre minería submarina",
+    "resumen": "El desafío no es solo declarar nuevas zonas protegidas, sino asegurar que se gestione efectivamente.",
+    "seccion": "economia",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/11/mas-alla-de-las-playas-republica-dominicana-y-el-debate-global-sobre-mineria-submarina/",
+    "fecha": "2026-11-11T19:00:47.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-8dbz3a",
+    "titulo": "Andrés Delich, secretario general electo de la OEI: “Reconocemos poco el valor de la ciencia en Iberoamérica”",
+    "resumen": "Iberoamérica vive en dos registros: los mismos alumnos que estudian sin luz o mal alimentados usan la inteligencia artificial en su día a día. Así lo describe el sociólogo argentino Andrés Delich, exministro de Educación de Argentina con…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/andres-delich-secretario-general-electo-de-la-oei-reconocemos-poco-el-valor-de-la-ciencia-en-iberoamerica-296377",
+    "fecha": "2026-11-11T18:07:29.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-olcud5",
+    "titulo": "TikTok y sus malas prácticas: ¿hemos normalizado ya los riesgos y las alertas sobre la red social?",
+    "resumen": "Una reciente investigación publicada por Maldita.es(https://maldita.es/investigaciones/20261109/denunciamos-tiktok-videos-abuso-infantil/) vuelve a situar a TikTok en el ojo del huracán. Un equipo de periodistas ha identificado más de 1…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/tiktok-y-sus-malas-practicas-hemos-normalizado-ya-los-riesgos-y-las-alertas-sobre-la-red-social-296356",
+    "fecha": "2026-11-11T18:06:58.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1iii4wi",
+    "titulo": "León XIV, la encíclica y el territorio",
+    "resumen": "Viernes 6 de noviembre de 2026. Un avión con el fuselaje pintado de azul, la escalerilla pegada a la puerta y, en el umbral, un hombre de blanco con una mano en alto. Atrás flamean dos banderas, la vaticana y la uruguaya. En la cabina, un…",
+    "seccion": "derechos",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/leon-xiv-la-enciclica-y-el-territorio/",
+    "fecha": "2026-11-11T17:53:18.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1tupnoq",
+    "titulo": "Los algoritmos ignoran la evolución vital de las personas",
+    "resumen": "Tendemos a considerar a las audiencias como entidades estáticas, y de usuarios o espectadores, como si sus necesidades cognitivas y emocionales fueran fijas. En realidad, unas y otros evolucionan de manera continua, y no siempre de forma…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/los-algoritmos-ignoran-la-evolucion-vital-de-las-personas-283248",
+    "fecha": "2026-11-11T16:54:12.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "dialogue-earth-1xa8mj3",
+    "titulo": "Trump promete una bonanza petrolera en Venezuela, pero ¿en beneficio de quién?",
+    "resumen": "El mayor acuerdo petrolero de la historia mundial”. Así fue anunciado(https://www.bbc.com/mundo/articles/cwyz1d15w9go) el 28 de agosto el trato entre los gobiernos de Donald Trump y Delcy Rodríguez sobre el control de Washington sobre 17…",
+    "seccion": "economia",
+    "medio": "Dialogue Earth",
+    "enlace": "https://dialogue.earth/es/energia/trump-promete-bonanza-petrolera-venezuela-en-beneficio-de-quien/",
+    "fecha": "2026-11-11T15:16:28.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1tlrk13",
+    "titulo": "La atención mundial se centra en Shenzhen: ¿cómo se vive en la ciudad del futuro?",
+    "resumen": "Un creador de contenido egipcio quedó sorprendido al ver drones que entregan pedidos en el parque Lianhuashan y probar un vehículo inteligente en una tienda de Huawei. Su conclusión: Shenzhen es «la ciudad del futuro». Un turista británico…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/la-atencion-mundial-se-centra-en-shenzhen-como-se-vive-en-la-ciudad-del-futuro/",
+    "fecha": "2026-11-11T15:15:47.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-gryvxy",
+    "titulo": "No es solamente el precio de la bencina, es el costo de vivir",
+    "resumen": "Desde Arica hasta Punta Arenas, las movilizaciones que hoy reúnen a transportistas, conductores, organizaciones como No+TAG y otros sectores de la ciudadanía expresan un malestar que trasciende al transporte. No es un reclamo aislado, es…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/no-es-solamente-el-precio-de-la-bencina-es-el-costo-de-vivir/",
+    "fecha": "2026-11-11T15:04:34.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-5wxoqb",
     "titulo": "Tribunal Ambiental suspende “Pascua Lama 2.0” y frena sondajes cercanos a glaciares de Alto del Carmen",
     "resumen": "El Segundo Tribunal Ambiental acogió la cautelar del Comité Ambiental Comunal de Alto del Carmen y suspendió la RCA del proyecto “Prospección Minera El Alto”, que pretendía perforar en el área clausurada de Pascua Lama cercana a los…",
@@ -1107,96 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/11/copehu-convoca-a-construir-una-nueva-etapa-para-la-educacion-humanizadora/",
     "fecha": "2026-11-03T16:08:24.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "dialogue-earth-1fa5emn",
-    "titulo": "COP17: la cumbre biodiversidad no estuvo a la altura de la urgencia de la crisis",
-    "resumen": "Se suponía que sería un momento para corregir el rumbo, una oportunidad para ponerse de acuerdo sobre cómo abordar los factores que provocan el declive y la desaparición de especies, la diversidad genética y los ecosistemas.",
-    "seccion": "internacional",
-    "medio": "Dialogue Earth",
-    "enlace": "https://dialogue.earth/es/naturaleza/cop17-cumbre-biodiversidad-no-estuvo-altura-crisis/",
-    "fecha": "2026-11-03T13:18:54.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "agencia-tierra-viva-ucwny1",
-    "titulo": "Del cautiverio doméstico al tráfico de especies: “La fauna silvestre no es mascota”",
-    "resumen": "Una tortuga en un patio, un loro en una jaula o un animal exótico dentro de una casa pueden parecer escenas inocentes, hasta pintorescas. Pero detrás del mascotismo de fauna silvestre hay pérdida de biodiversidad, riesgos sanitarios y un…",
-    "seccion": "internacional",
-    "medio": "Agencia Tierra Viva",
-    "enlace": "https://agenciatierraviva.com.ar/del-cautiverio-domestico-al-trafico-de-especies-la-fauna-silvestre-no-es-mascota/",
-    "fecha": "2026-11-03T11:16:35.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1d5fpnn",
-    "titulo": "La conversación docente: la IA no nos hace más ‘tontos’, pero sí más inseguros",
-    "resumen": "¿Alguna vez se ha sentido tonto, o más tonto, simplemente por estar rodeado de un grupo de personas que aparentemente saben mucho más que usted? Puede ser una sensación deprimente, y de hecho, experimentos en lo que la psicología social…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/la-conversacion-docente-la-ia-no-nos-hace-mas-tontos-pero-si-mas-inseguros-295607",
-    "fecha": "2026-11-03T10:42:01.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-ulbizj",
-    "titulo": "Estudiantes macedonios expresan descontento anónimamente en línea, mientras la mayoría considera emigrar",
-    "resumen": "‘Los estudiantes no tienen que ser miembros de un partido político para generar cambios’, dice el fundador de la plataforma de medios.",
-    "seccion": "politica",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/11/03/estudiantes-macedonios-expresan-descontento-anonimamente-en-linea-mientras-la-mayoria-considera-emigrar/",
-    "fecha": "2026-11-03T07:00:25.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-15hjuu4",
-    "titulo": "Qué significa conmemorar 235 años de Bois Caïman para la memoria y el futuro de Haití",
-    "resumen": "Personas esclavizadas se unieron para resistir el dominio colonial",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/11/03/que-significa-la-conmemoracion-de-los-235-anos-de-bois-caiman-para-la-memoria-y-el-futuro-de-haiti/",
-    "fecha": "2026-11-03T06:00:19.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-e4y9fk",
-    "titulo": "Perú: Comunidad Campesina de Canta denuncia intento de desalojo por entidades del Estado",
-    "resumen": "Comuneros de la Comunidad Campesina de Canta, ubicada en la zona rural de la región Lima, denunciaron el intento de desalojo del predio denominado “Coso Taurino” de su propiedad, para la construcción de una vía nacional que tiene…",
-    "seccion": "derechos",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/peru-comunidad-campesina-de-canta-denuncia-intento-de-desalojo-por-entidades-del-estado/",
-    "fecha": "2026-11-03T03:24:09.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-798a2w",
-    "titulo": "Incendios forestales: ¿abandono rural o cambio climático?",
-    "resumen": "En los dos últimos veranos se han intensificado los incendios en España. En 2025 se quemaron más de 390 000 ha y, en entre enro y septiembre de 2026 llevamos más de 300…",
-    "seccion": "derechos",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/incendios-forestales-abandono-rural-o-cambio-climatico-294371",
-    "fecha": "2026-11-02T21:10:57.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1tcw6wu",
-    "titulo": "El nuevo mapa del dolor de la endometriosis",
-    "resumen": "La endometriosis(https://www.who.int/es/news-room/fact-sheets/detail/endometriosis) es una enfermedad inflamatoria crónica en la que un tejido similar al que recubre el interior del útero aparece fuera de él, especialmente en los…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/el-nuevo-mapa-del-dolor-de-la-endometriosis-293847",
-    "fecha": "2026-11-02T21:01:46.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-12wbay2",
-    "titulo": "Si la IA me ayuda a hacerlo: ¿me siento más o menos capaz?",
-    "resumen": "Imaginemos que estamos en clase de Historia, y entregamos un trabajo sobre la Restauración Borbónica; lo hemos realizado con ayuda de una inteligencia artificial y ha quedado un texto bien organizado, que responde a lo pedido y suena…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/si-la-ia-me-ayuda-a-hacerlo-me-siento-mas-o-menos-capaz-292942",
-    "fecha": "2026-11-02T21:01:03.000Z",
     "estado": "pendiente"
   }
 ]
