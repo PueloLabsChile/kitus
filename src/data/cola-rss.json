@@ -1,5 +1,45 @@
 [
   {
+    "id": "the-conversation-espana-1029maq",
+    "titulo": "La selección: el vértigo informativo de un otoño histórico",
+    "resumen": "Es difícil encontrar un momento de la historia reciente en el que hayan ocurrido tantos acontecimientos de impacto en tan poco tiempo. Haga el ejercicio de echar la vista atrás al último mes y medio y quedará sin aliento leyendo grandes…",
+    "seccion": "politica",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/la-seleccion-el-vertigo-informativo-de-un-otono-historico-296031",
+    "fecha": "2026-11-12T08:36:26.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-diwvuf",
+    "titulo": "Lo que dejan las empresas de telecomunicaciones cuando se van de un país",
+    "resumen": "Cuando las empresas de telecomunicaciones se retiran de un mercado, los compromisos de protección de datos y derechos humanos suelen desaparecer",
+    "seccion": "derechos",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/12/lo-que-dejan-las-empresas-de-telecomunicaciones-cuando-se-van-de-un-pais/",
+    "fecha": "2026-11-12T07:00:21.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-wxrlfm",
+    "titulo": "Hechos para vivir en barco, a la deriva en tierra firme: La comunidad bede de Bangladesh tiene dificultades con el sistema de domicilio fijo",
+    "resumen": "«No podemos cambiar el curso del río, ni podemos dejar de avanzar»",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/12/hecha-para-vivir-en-barco-a-la-deriva-en-tierra-firme-la-comunidad-bede-de-bangladesh-tiene-dificultades-con-el-sistema-de-domicilio-fijo/",
+    "fecha": "2026-11-12T06:00:18.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1gz6ov9",
+    "titulo": "Perú: Jóvenes GZ envían potente mensaje a Papa León XIV",
+    "resumen": "Con la presencia del Papa León XIV en el Perú, los jóvenes de la Generación Z enviaron una carta al líder de la Iglesia Católica que expone las diversas problemáticas socioeconómicas que enfrentan las familias peruanas y, que han sido…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/peru-jovenes-gz-envian-mensaje-a-papa-leon-xiv/",
+    "fecha": "2026-11-12T05:12:48.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "agencia-tierra-viva-e17870",
     "titulo": "Repudio europeo al INTA por la exoneración de Virginia Aparicio: \"Los hallazgos de la investigación no fueron convenientes para muchas personas y sectores\"",
     "resumen": "Violette Geissen, profesora de la Universidad de Wageningen (Países Bajos) y coordinadora general del proyecto internacional Sprint (Transición Sostenible de Protección Vegetal, por sus siglas en inglés), calificó de “injusta” la…",
@@ -1157,46 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/11/que-muestra-el-baremo-cuando-se-aplica-a-abdul-el-sayed-politicas-e-ideas-en-comparacion-con-zohran-mamdani/",
     "fecha": "2026-11-03T17:24:14.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-e28wz7",
-    "titulo": "¿Para qué sirven las cumbres? Los límites de la cooperación iberoamericana en Madrid",
-    "resumen": "Madrid acogerá los días 4 y 5 de noviembre la XXX Cumbre Iberoamericana de Jefes de Estado y de Gobierno(https://segib.org/es/cumbre/xxx-cumbre-iberoamericana/). La comunidad iberoamericana está formada por 22 países: España, Portugal…",
-    "seccion": "politica",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/para-que-sirven-las-cumbres-los-limites-de-la-cooperacion-iberoamericana-en-madrid-295798",
-    "fecha": "2026-11-03T17:23:31.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-6jq23v",
-    "titulo": "¿Por qué es esencial estudiar los lagos que nos dan de beber? El caso de Chapala en México",
-    "resumen": "Muy pocos sabrían decir qué hace un limnólogo, aunque su trabajo tiene que ver con el agua que usamos cada día, sin la que no podríamos vivir. La limnología(https://es.wikipedia.org/wiki/Limnolog%C3%ADa) estudia las aguas continentales…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/por-que-es-esencial-estudiar-los-lagos-que-nos-dan-de-beber-el-caso-de-chapala-en-mexico-294983",
-    "fecha": "2026-11-03T17:21:59.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1gy79yj",
-    "titulo": "Nuestros datos podrían condicionar la vida de las generaciones futuras: los retos de la información genómica",
-    "resumen": "La investigación genómica está transformando nuestra forma de entender la salud. Grandes proyectos internacionales como UK Biobank(https://www.nature.com/articles/s41586-018-0579-z) y All of…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/nuestros-datos-podrian-condicionar-la-vida-de-las-generaciones-futuras-los-retos-de-la-informacion-genomica-294943",
-    "fecha": "2026-11-03T17:19:05.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-17vx7ce",
-    "titulo": "Alberto Montt, Paulina Palacios, Raquel Riba Rossy y José Maza encabezan la tercera versión de Planeta Cómic Fest",
-    "resumen": "- El evento gratuito, organizado por Grupo Planeta y la Fundación Cultural de Providencia, se llevará a cabo el sábado 14 de noviembre desde las 11:00 horas.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/alberto-montt-paulina-palacios-raquel-riba-rossy-y-jose-maza-encabezan-la-tercera-version-de-planeta-comic-fest/",
-    "fecha": "2026-11-03T17:02:18.000Z",
     "estado": "pendiente"
   }
 ]
