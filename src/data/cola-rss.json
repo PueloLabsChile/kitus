@@ -1,5 +1,35 @@
 [
   {
+    "id": "the-conversation-espana-1c6wbez",
+    "titulo": "El coste oculto de la violencia en las protestas",
+    "resumen": "Una manifestación termina. Las cámaras se marchan. Se apagan los contenedores incendiados, se retiran los cristales y las calles recuperan poco a poco su aspecto habitual. Pero el conflicto no desaparece con la última imagen del…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/el-coste-oculto-de-la-violencia-en-las-protestas-296529",
+    "fecha": "2026-11-13T10:33:26.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-q96nq7",
+    "titulo": "Cómo los Estados autoritarios están creando un mercado internacional de vigilancia digital",
+    "resumen": "El principal peligro de la inteligencia artificial en los regímenes autoritarios es su capacidad para reprimir cualquier protesta.",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/13/como-los-estados-autoritarios-estan-creando-un-mercado-internacional-de-vigilancia-digital/",
+    "fecha": "2026-11-13T07:00:17.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-1507kpd",
+    "titulo": "Qué pueden aprender las elecciones africanas del sistema gada de los borana",
+    "resumen": "¿Puede el sistema gada de los borana servir de inspiración para elecciones más justas, transiciones pacíficas y una democracia más sólida en toda África?",
+    "seccion": "politica",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/13/que-pueden-aprender-las-elecciones-africanas-del-sistema-gada-de-los-borana/",
+    "fecha": "2026-11-13T06:00:18.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "global-voices-17grsr2",
     "titulo": "Jóvenes ecuatorianos se unen contra modelo neoliberal y violencia estatal",
     "resumen": "Los estudiantes piden un futuro justo para todos",
@@ -1167,36 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/11/la-proxima-guerra-con-ee-uu-sera-corta-y-devastadora-preve-estratega-irani/",
     "fecha": "2026-11-04T14:57:30.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1863f5",
-    "titulo": "Perú: A 100 días del nuevo gobierno fujimorista, la nota es de regular a mala",
-    "resumen": "Se cumplieron los primeros 100 días de gobierno fujimorista, esta vez de la mano de Keiko Fujimori y la población ya le puso nota de “regular” (47%) o “mala” (38%); y el 51% opina que no está demostrando capacidad para gobernar, según una…",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/peru-a-100-dias-del-nuevo-gobierno-fujimorista-la-nota-es-de-regular-a-mala/",
-    "fecha": "2026-11-04T14:11:00.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-xgehpk",
-    "titulo": "Speaking in a second language may shift your moral compass – but it can’t overpower it",
-    "resumen": "In today’s interconnected world, millions of people move between two or more languages every day. They may negotiate at work in one language, speak with family in another, and follow news, entertainment and social media across several…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/speaking-in-a-second-language-may-shift-your-moral-compass-but-it-cant-overpower-it-294614",
-    "fecha": "2026-11-04T09:52:15.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1ywxw8i",
-    "titulo": "Los republicanos de Donald Trump sufren una derrota aplastante: qué significa para el mundo",
-    "resumen": "El Partido Republicano de Donald Trump ha recibido una contundente derrota en las elecciones de mitad de legislatura de EE. UU. Los republicanos comenzaron la noche con la esperanza de que las encuestas se equivocaran y de que, al menos…",
-    "seccion": "politica",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/los-republicanos-de-donald-trump-sufren-una-derrota-aplastante-que-significa-para-el-mundo-295887",
-    "fecha": "2026-11-04T08:44:30.000Z",
     "estado": "pendiente"
   }
 ]
