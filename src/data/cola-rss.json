@@ -1,5 +1,45 @@
 [
   {
+    "id": "global-voices-17grsr2",
+    "titulo": "Jóvenes ecuatorianos se unen contra modelo neoliberal y violencia estatal",
+    "resumen": "Los estudiantes piden un futuro justo para todos",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/13/la-juventud-ecuatoriana-se-une-contra-el-modelo-neoliberal-y-la-violencia-estatal/",
+    "fecha": "2026-11-13T02:00:01.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-c7t7mz",
+    "titulo": "La crueldad y el rostro político del poder",
+    "resumen": "Es precisamente aquí donde la reflexión sobre la crueldad abandona las páginas del poeta Lautréamont y comienza a caminar por nuestras propias calles. Ya no estamos solamente frente a un personaje literario que ha decidido convertir la…",
+    "seccion": "cultura",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/la-crueldad-y-el-rostro-politico-del-poder/",
+    "fecha": "2026-11-13T00:38:27.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1ip54l9",
+    "titulo": "Estados unidos nunca ha sido aliado de Chile (VIII)",
+    "resumen": "Estados Unidos llevó nuevamente a una extrema tensión sus relaciones con Chile, a comienzos del siglo XX, por el “Caso Alsop”. Alsop y Cía. era una firma formada por siete socios estadounidenses que se había constituido en Valparaíso e…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/estados-unidos-nunca-ha-sido-aliado-de-chile-viii/",
+    "fecha": "2026-11-13T00:30:19.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-t70zyo",
+    "titulo": "Ignacio Fritz publica Factoría de brutalidades. Una novela sobre la memoria, la violencia y los delirios de la historia",
+    "resumen": "El escritor chileno publica con Das Kapital una obra que mezcla ciencia ficción, pulp, sátira negra y memoria histórica para narrar la experiencia de un militante de la Unidad Popular sometido a tortura tras el Golpe de Estado de 1973. El…",
+    "seccion": "politica",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/ignacio-fritz-publica-factoria-de-brutalidades-una-novela-sobre-la-memoria-la-violencia-y-los-delirios-de-la-historia/",
+    "fecha": "2026-11-13T00:22:12.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "the-conversation-espana-1x658d2",
     "titulo": "El tornillo de Arquímides: un invento de la Antigüedad para la industria acuícola del siglo XXI",
     "resumen": "El giro, o movimiento de rotación, puede manifestarse como un bucle destructivo o como una solución técnica brillante, dependiendo de cómo se aplique. Aunque solemos asociar la idea de “dar vueltas” a la mente humana —como ocurre en la…",
@@ -1157,46 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/los-republicanos-de-donald-trump-sufren-una-derrota-aplastante-que-significa-para-el-mundo-295887",
     "fecha": "2026-11-04T08:44:30.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-1j3yfxo",
-    "titulo": "Cuando la libertad de expresión tiene un precio: Voces de los jóvenes de Mozambique",
-    "resumen": "Cuando la libertad de expresión tiene consecuencias, los jóvenes recurren a la música para hacer frente al silencio político",
-    "seccion": "cultura",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/11/04/cuando-la-libertad-de-expresion-tiene-un-precio-voces-de-los-jovenes-de-mozambique/",
-    "fecha": "2026-11-04T07:00:33.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-1tfd1u2",
-    "titulo": "Cómo la ley camboyana de «parques de la libertad» restringió el derecho ciudadano a manifestarse",
-    "resumen": "Solo se ha identificado un parque de la libertad en el país",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/11/04/como-la-ley-camboyana-de-parques-de-la-libertad-restringio-el-derecho-ciudadano-a-manifestarse/",
-    "fecha": "2026-11-04T06:00:45.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-js1zqd",
-    "titulo": "Las investigaciones por corrupción han llegado a los colaboradores más estrechos del presidente Zelensky",
-    "resumen": "No hay una investigación penal directa contra el presidente Zelensky en persona, pero desde noviembre de 2025 una ola de investigaciones ha golpeado a su círculo más estrecho.",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/corrupcion-entorno-zelensky-nabu-sapo/",
-    "fecha": "2026-11-04T03:19:14.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-gacj2u",
-    "titulo": "Llamado urgente para detener la crueldad y garantizar el derecho a la educación",
-    "resumen": "São Paulo, Brasil.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/llamado-urgente-para-detener-la-crueldad-y-garantizar-el-derecho-a-la-educacion/",
-    "fecha": "2026-11-03T21:52:57.000Z",
     "estado": "pendiente"
   }
 ]
