@@ -1,5 +1,25 @@
 [
   {
+    "id": "agencia-tierra-viva-1jen4zq",
+    "titulo": "Saquear y fugar: el mito del desarrollo a partir de las exportaciones",
+    "resumen": "El discurso dominante de la política económica argentina defiende la “inserción internacional” y la reprimarización de la economía. Sin embargo, un estudio reciente del Instituto de Pensamiento y Políticas Públicas (IPyPP) demuestra cómo…",
+    "seccion": "economia",
+    "medio": "Agencia Tierra Viva",
+    "enlace": "https://agenciatierraviva.com.ar/saquear-y-fugar-el-mito-del-desarrollo-a-partir-de-las-exportaciones/",
+    "fecha": "2026-11-13T13:05:19.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-vp2b75",
+    "titulo": "De la libertad de expresión al discurso de odio en el aula: ¿cómo pueden actuar los docentes?",
+    "resumen": "Un insulto en mitad de una clase de secundaria o de bachillerato es relativamente fácil de identificar. Más complejo resulta detectar una burla sutil sobre el origen cultural de un compañero, un meme compartido sin pensar desde redes…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/de-la-libertad-de-expresion-al-discurso-de-odio-en-el-aula-como-pueden-actuar-los-docentes-293849",
+    "fecha": "2026-11-13T13:00:29.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "the-conversation-espana-1c6wbez",
     "titulo": "El coste oculto de la violencia en las protestas",
     "resumen": "Una manifestación termina. Las cámaras se marchan. Se apagan los contenedores incendiados, se retiran los cristales y las calles recuperan poco a poco su aspecto habitual. Pero el conflicto no desaparece con la última imagen del…",
@@ -1177,26 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/11/los-sotanos-de-kiev-cuando-la-guerra-tambien-tortura-a-los-suyos/",
     "fecha": "2026-11-04T15:23:58.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-nogad9",
-    "titulo": "Las mujeres vuelven a la calle: el cuerpo de la resistencia frente al gobierno de Kast",
-    "resumen": "Hay gobiernos que gobiernan con decretos y otros que pretenden gobernar también sobre la memoria, los cuerpos y los derechos conquistados. El gobierno de José Antonio Kast parece empeñado en demostrar que el retroceso puede vestirse de…",
-    "seccion": "derechos",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/las-mujeres-vuelven-a-la-calle-el-cuerpo-de-la-resistencia-frente-al-gobierno-de-kast/",
-    "fecha": "2026-11-04T15:13:01.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-gv0pgd",
-    "titulo": "«La próxima guerra con EE. UU. será corta y devastadora», prevé estratega iraní",
-    "resumen": "Por Marco Fernándes(https://www.brasildefato.com.br)",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/la-proxima-guerra-con-ee-uu-sera-corta-y-devastadora-preve-estratega-irani/",
-    "fecha": "2026-11-04T14:57:30.000Z",
     "estado": "pendiente"
   }
 ]
