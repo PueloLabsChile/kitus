@@ -1,5 +1,55 @@
 [
   {
+    "id": "pressenza-m515n2",
+    "titulo": "Mercenarios Chilenos: reclutados para morir en Ucrania",
+    "resumen": "Entre promesas de empleo y el silencio de las autoridades.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/mercenarios-chilenos-reclutados-para-morir-en-ucrania/",
+    "fecha": "2026-11-14T00:10:45.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1qe5or8",
+    "titulo": "Matar en nombre de la seguridad",
+    "resumen": "Una sociedad que necesita matar para sentirse segura ha perdido el sentido de la humanidad. Matar en nombre de la seguridad se ha convertido en una práctica aceptada y hasta aplaudida. Israel justifica el genocidio en Gaza, con más de…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/matar-en-nombre-de-la-seguridad/",
+    "fecha": "2026-11-13T23:36:37.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-uh0hc",
+    "titulo": "La imparcialidad y la responsabilidad política y espiritual",
+    "resumen": "“No importas en qué bando te hayan puesto las circunstancias, lo importante es que comprendas que tú no has elegido ningún bando”. Silo",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/la-imparcialidad-y-la-responsabilidad-politica-y-espiritual/",
+    "fecha": "2026-11-13T23:16:13.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1ybkxcu",
+    "titulo": "Un anclaje en medio de las revueltas",
+    "resumen": "En medio del ruido, un anclaje posible.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/un-anclaje-en-medio-de-las-revueltas/",
+    "fecha": "2026-11-13T22:31:41.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-1h86dfw",
+    "titulo": "Negligencia médica llevó a la muerte a Alfredo Díaz en una prisión venezolana",
+    "resumen": "El Estado negó atención médica a un exgobernador pese a claras señales de alerta",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/13/negligencia-medica-llevo-a-la-muerte-a-alfredo-diaz-en-una-prision-venezolana/",
+    "fecha": "2026-11-13T21:00:27.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "agencia-tierra-viva-1jen4zq",
     "titulo": "Saquear y fugar: el mito del desarrollo a partir de las exportaciones",
     "resumen": "El discurso dominante de la política económica argentina defiende la “inserción internacional” y la reprimarización de la economía. Sin embargo, un estudio reciente del Instituto de Pensamiento y Políticas Públicas (IPyPP) demuestra cómo…",
@@ -1147,56 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/11/los-derechos-de-los-pueblos-indigenas-entraron-en-el-debate-iberoamericano-en-madrid/",
     "fecha": "2026-11-04T19:59:34.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1jf0s34",
-    "titulo": "Las ciudades del acero cambiaron de voto una generación después de perder sus fábricas",
-    "resumen": "El 19 de septiembre de 1977 todavía se recuerda en Ohio como el “lunes negro”. Ese día, la compañía Youngstown Sheet and Tube anunció el cierre de su gran acería en…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/las-ciudades-del-acero-cambiaron-de-voto-una-generacion-despues-de-perder-sus-fabricas-295911",
-    "fecha": "2026-11-04T18:06:19.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-7earr",
-    "titulo": "De la jornada de 9 horas al derecho a la vivienda: más de un siglo de huelgas generales en España",
-    "resumen": "El próximo 11 de noviembre está convocada una huelga general en protesta por el coste de la vivienda y la evolución de los salarios en términos reales. Las organizaciones convocantes son Comisiones Obreras (CC…",
-    "seccion": "economia",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/de-la-jornada-de-9-horas-al-derecho-a-la-vivienda-mas-de-un-siglo-de-huelgas-generales-en-espana-295419",
-    "fecha": "2026-11-04T18:06:14.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1kunglb",
-    "titulo": "Normas para usar el móvil: ¿por qué no siempre funcionan?",
-    "resumen": "La crianza digital ha pasado en pocos años a convertirse en una preocupación fundamental de las familias: cómo educar a sus hijos e hijas en el uso correcto de móviles, internet y redes sociales o cuándo y cómo permitir el acceso a estos…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/normas-para-usar-el-movil-por-que-no-siempre-funcionan-287392",
-    "fecha": "2026-11-04T18:03:02.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "dialogue-earth-1nq6vz9",
-    "titulo": "Entrevista: ‘Debemos mirar al océano para encontrar soluciones climáticas’",
-    "resumen": "El océano ha absorbido alrededor del 90% del calor generado por la dependencia de la humanidad de los combustibles fósiles. Sin embargo, en las grandes conferencias de la ONU sobre el clima, ha sido, en el mejor de los casos, una cuestión…",
-    "seccion": "derechos",
-    "medio": "Dialogue Earth",
-    "enlace": "https://dialogue.earth/es/oceanos/debemos-mirar-oceano-encontrar-soluciones-climaticas-cop31/",
-    "fecha": "2026-11-04T16:01:52.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1e89ko6",
-    "titulo": "Los sótanos de Kiev: cuando la guerra también tortura a los suyos",
-    "resumen": "Notas sobre la dignidad humana, el poder militar y los derechos que no pueden quedar suspendidos por una guerra.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/los-sotanos-de-kiev-cuando-la-guerra-tambien-tortura-a-los-suyos/",
-    "fecha": "2026-11-04T15:23:58.000Z",
     "estado": "pendiente"
   }
 ]
