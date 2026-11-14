@@ -1,5 +1,25 @@
 [
   {
+    "id": "pressenza-1aryxuu",
+    "titulo": "Leonardo García en las Jornadas FRI-ICAP",
+    "resumen": "En el segundo día de las Jornadas FRI-ICAP celebradas los días 20, 21 y 22 de octubre en Santa Clara (Cuba) se contó con la participación de destacados artistas, como Leonardo García Rodríguez, cantautor, compositor e instrumentista…",
+    "seccion": "cultura",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/leonardo-garcia-en-las-jornadas-fri-icap/",
+    "fecha": "2026-11-14T09:47:39.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-117mq76",
+    "titulo": "¿Quién protege a quienes nos protegen?",
+    "resumen": "Guardia Civil, Policía Nacional y Fuerzas Armadas: el reconocimiento pendiente de una profesión de riesgo",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/quien-protege-a-quienes-nos-protegen/",
+    "fecha": "2026-11-14T09:15:51.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "global-voices-4fwklj",
     "titulo": "En Bosnia Herzegovina, niños con síndrome de Down usan videojuego para navegar internet en forma segura",
     "resumen": "Una asistente virtual llamada La Lechuza Sol guía a los niños en el juego.",
@@ -1177,26 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/11/el-despertar-transnacional-de-las-juventudes-sao-paulo-septiembre-de-2026/",
     "fecha": "2026-11-05T04:06:22.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-utmu6o",
-    "titulo": "Una cosa es con guitarra y otra con cajón: «Los 100 primeros días de gobierno de Keiko»",
-    "resumen": "Por: Bahuer Gilmar López Tucto.",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/una-cosa-es-con-guitarra-y-otra-con-cajon-los-100-primeros-dias-de-gobierno-de-keiko/",
-    "fecha": "2026-11-05T03:50:15.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-15g27g9",
-    "titulo": "Adiós a la luchadora infatigable Alicia Aonzo",
-    "resumen": "Tengo la certeza de que todos los que hayan conocido a mi abuela tendrán algo que agradecerle. Así de bondadosa fue, así de sabia, así de fuerte.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/adios-a-la-luchadora-infatigable-alicia-aonzo/",
-    "fecha": "2026-11-05T03:10:09.000Z",
     "estado": "pendiente"
   }
 ]
