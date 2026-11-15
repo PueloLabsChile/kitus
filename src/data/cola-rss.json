@@ -1,5 +1,45 @@
 [
   {
+    "id": "pressenza-gaup40",
+    "titulo": "Continentes y Contenidos #40 Elecciones de medio término en Estados Unidos",
+    "resumen": "Analizamos junto a Mariana Fernández los resultados electorales y su impacto en las elecciones de medio término en los Estados Unidos.",
+    "seccion": "politica",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/continentes-y-contenidos-40-elecciones-de-medio-termino-en-estados-unidos/",
+    "fecha": "2026-11-15T15:09:29.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-yih34j",
+    "titulo": "Editorial de Rapa Nui en Feria del Libro de Santiago de Chile",
+    "resumen": "El título Hetu’u-Estrellas es una de las novedades de la editorial Rapanui Press en la Feria Internacional del Libro de Santiago, que sesiona hoy en el Centro Cultural Estación Mapocho de la capital chilena.",
+    "seccion": "cultura",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/editorial-de-rapa-nui-en-feria-del-libro-de-santiago-de-chile/",
+    "fecha": "2026-11-15T12:56:15.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-lg0ba1",
+    "titulo": "El FECIT 2026 culminó en Trujillo premiando a las películas «Punku» y «Manuales de supervivencia» y a las mejores producciones del cine peruano",
+    "resumen": "Nueve días, más de 50 producciones cinematográficas y múltiples historias provenientes de distintas regiones del país, marcaron la decimotercera edición del Festival de Cine de Trujillo (FECIT 2026), que llegó a su fin el sábado 24 de…",
+    "seccion": "cultura",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/el-fecit-2026-culmino-en-trujillo-premiando-a-las-peliculas-punku-y-manuales-de-supervivencia-y-a-las-mejores-producciones-del-cine-peruano/",
+    "fecha": "2026-11-15T12:52:20.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-ru81ak",
+    "titulo": "La Habana, 507 años: el corazón musical del planeta",
+    "resumen": "Un homenaje desde Chile a la ciudad que convirtió sus calles, sus encuentros y su memoria en ritmos que viajaron por el mundo. Cuatro acontecimientos de noviembre reúnen el reconocimiento internacional a Celia Cruz, el aniversario de La…",
+    "seccion": "cultura",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/la-habana-507-anos-el-corazon-musical-del-planeta/",
+    "fecha": "2026-11-15T12:48:09.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "global-voices-5pblt5",
     "titulo": "En Albania, jóvenes de zonas rurales hacen campaña para resolver problemas ambientales",
     "resumen": "Su pedido a las autoridades ya tiene más de 500 firmas.",
@@ -1157,46 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/11/el-internacionalismo-y-la-cooperacion-internacional/",
     "fecha": "2026-11-05T17:59:04.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-15v57am",
-    "titulo": "Tengo una discapacidad, ¿puedo ser docente en la universidad?",
-    "resumen": "Cuando hablamos de discapacidad en la universidad, solemos pensar en el acceso del alumnado y en las adaptaciones de aulas y exámenes. Pero las personas con discapacidad también terminan sus estudios y tienen derecho a acceder al empleo…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/tengo-una-discapacidad-puedo-ser-docente-en-la-universidad-290866",
-    "fecha": "2026-11-05T16:41:51.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "agencia-tierra-viva-1ppjkyy",
-    "titulo": "Las Tres Ecologías y la disputa por el espacio público en Rosario",
-    "resumen": "Más allá de la oferta gastronómica-cultural y del paisaje ribereño —por ahora accesible para todas y todos— en la costa de Rosario falta el Almacén de Las Tres Ecologías. Es un emprendimiento autogestivo donde, por más de una década…",
-    "seccion": "internacional",
-    "medio": "Agencia Tierra Viva",
-    "enlace": "https://agenciatierraviva.com.ar/las-tres-ecologias-y-la-disputa-por-el-espacio-publico-en-rosario/",
-    "fecha": "2026-11-05T12:03:16.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1yl096y",
-    "titulo": "Con el control del Congreso, ¿podrían los demócratas detener la guerra de Trump en Irán?",
-    "resumen": "La apabullante victoria de los demócratas en las elecciones de medio mandato de Estados Unidos(https://theconversation.com/los-republicanos-de-donald-trump-sufren-una-derrota-aplastante-que-significa-para-el-mundo-295887) les sitúa en una…",
-    "seccion": "politica",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/con-el-control-del-congreso-podrian-los-democratas-detener-la-guerra-de-trump-en-iran-295990",
-    "fecha": "2026-11-05T10:18:27.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-14jblxw",
-    "titulo": "Ni el frigorífico del supermercado está a salvo de ciberataques",
-    "resumen": "A finales de octubre(https://www.securityweek.com/supermarket-refrigeration-attack-widens-to-copeland-dixell-controllers/) alguien manipuló las neveras y congeladores de diferentes supermercados en Francia y Países Bajos para alterar la…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/ni-el-frigorifico-del-supermercado-esta-a-salvo-de-ciberataques-295803",
-    "fecha": "2026-11-05T09:50:09.000Z",
     "estado": "pendiente"
   }
 ]
