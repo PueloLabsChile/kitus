@@ -1,5 +1,25 @@
 [
   {
+    "id": "global-voices-5pblt5",
+    "titulo": "En Albania, jóvenes de zonas rurales hacen campaña para resolver problemas ambientales",
+    "resumen": "Su pedido a las autoridades ya tiene más de 500 firmas.",
+    "seccion": "derechos",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/15/en-albania-jovenes-de-zonas-rurales-hacen-campana-para-resolver-problemas-ambientales/",
+    "fecha": "2026-11-15T06:00:43.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-xq9jym",
+    "titulo": "Irán: ¿compromiso o catástrofe?",
+    "resumen": "No hay una solución militar duradera al conflicto de Estados Unidos e Israel con Irán. Los bombardeos pueden destruir instalaciones, pero no pueden borrar el conocimiento científico, apagar el orgullo nacional ni crear un acuerdo político…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/iran-compromiso-o-catastrofe/",
+    "fecha": "2026-11-15T02:42:39.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-kk0ues",
     "titulo": "«Pasos noviolentos en el mundo» en la Universidad «La Sapienza» de Roma",
     "resumen": "Se ha inaugurado en la Universidad «La Sapienza» de Roma la exposición promovida por Energia per i Diritti Umani APS. Un recorrido por las vidas de quienes han optado por la noviolencia para transformar la sociedad, entrelazando memoria…",
@@ -1177,26 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/ni-el-frigorifico-del-supermercado-esta-a-salvo-de-ciberataques-295803",
     "fecha": "2026-11-05T09:50:09.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-8iiob",
-    "titulo": "Empresa de telecomunicaciones noruega Telenor enfrenta denuncia por entregar datos de usuarios a la junta militar de Myanmar",
-    "resumen": "Se acusa a la empresa pública de promover crímenes contra la humanidad",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/11/05/empresa-de-telecomunicaciones-noruega-telenor-enfrenta-una-denuncia-por-dar-datos-de-usuarios-a-la-junta-militar-de-myanmar/",
-    "fecha": "2026-11-05T07:00:33.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-1wfilg1",
-    "titulo": "«Ya no podemos aguantar más»: Vendedores informales de Haití protestan por guerra entre pandillas",
-    "resumen": "«Gobierno, di algo… necesitamos justicia, necesitamos seguridad… el hambre nos está matando»",
-    "seccion": "politica",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/11/05/ya-no-podemos-aguantar-mas-vendedores-informales-de-haiti-protestan-por-guerra-entre-pandillas/",
-    "fecha": "2026-11-05T06:00:26.000Z",
     "estado": "pendiente"
   }
 ]
