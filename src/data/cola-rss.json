@@ -1,5 +1,25 @@
 [
   {
+    "id": "pressenza-b1fmfi",
+    "titulo": "Serbia paraliza comercio de armas y producción de drones con Israel, anuncia la Lista de los Estudiantes",
+    "resumen": "Durante la campaña electoral, la Lista de los Estudiantes había condenado sin rodeos el genocidio perpetrado por Israel en Gaza. Tras su rotunda victoria en las elecciones del 25 de octubre y a pocos días de la constitución del nuevo…",
+    "seccion": "economia",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/serbia-paraliza-comercio-de-armas-y-produccion-de-drones-con-israel-anuncia-la-lista-de-los-estudiantes/",
+    "fecha": "2026-11-15T20:58:43.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-5unwrl",
+    "titulo": "Lo que Cuba no tiene",
+    "resumen": "Javier Belda.-",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/lo-que-cuba-no-tiene/",
+    "fecha": "2026-11-15T18:11:34.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-gaup40",
     "titulo": "Continentes y Contenidos #40 Elecciones de medio término en Estados Unidos",
     "resumen": "Analizamos junto a Mariana Fernández los resultados electorales y su impacto en las elecciones de medio término en los Estados Unidos.",
@@ -1177,26 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/dos-puertos-pueden-ser-muy-similares-pero-no-por-ello-igual-de-eficientes-290086",
     "fecha": "2026-11-05T18:03:17.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-14l5tqh",
-    "titulo": "Huelga general del 11N: preámbulo de las elecciones generales, pero no predictor de sus resultados",
-    "resumen": "La huelga general de 24 horas por la crisis de la vivienda del próximo 11 de noviembre será la primera respaldada conjuntamente por Comisiones Obreras (CC. OO.) y la Unión General de Trabajadores…",
-    "seccion": "economia",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/huelga-general-del-11n-preambulo-de-las-elecciones-generales-pero-no-predictor-de-sus-resultados-294913",
-    "fecha": "2026-11-05T18:01:17.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-13vmibu",
-    "titulo": "Videos: El internacionalismo y la cooperación internacional",
-    "resumen": "Las Jornadas F.R.I celebradas los días 20, 21 y 22 de octubre en Santa Clara (Cuba) constituyeron un espacio de encuentro, articulación y proyección internacional que reunió a representantes de entidades, intelectuales, artistas y…",
-    "seccion": "cultura",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/el-internacionalismo-y-la-cooperacion-internacional/",
-    "fecha": "2026-11-05T17:59:04.000Z",
     "estado": "pendiente"
   }
 ]
