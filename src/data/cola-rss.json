@@ -1,5 +1,75 @@
 [
   {
+    "id": "pressenza-7fa50d",
+    "titulo": "¿Y si tratar el cáncer implica mirar más allá del tumor?",
+    "resumen": "Después de más de quince años investigando medicina integrativa, Carolina Bezamat presenta El cuerpo recuerda, publicado por Editorial Forja, un libro que aborda el cáncer desde una perspectiva que reúne ciencia, medicina convencional…",
+    "seccion": "cultura",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/y-si-tratar-el-cancer-implica-mirar-mas-alla-del-tumor/",
+    "fecha": "2026-11-16T18:45:58.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1jouiep",
+    "titulo": "Aunque no compensa los efectos negativos, el humo de los incendios ayuda a fertilizar la selva amazónica",
+    "resumen": "El humo generado por los incendios en los trópicos puede viajar miles de kilómetros(https://pubmed.ncbi.nlm.nih.gov/31358622/), impulsado por el flujo de viento de la zona. Durante este transporte, dicho humo es capaz de arrastrar…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/aunque-no-compensa-los-efectos-negativos-el-humo-de-los-incendios-ayuda-a-fertilizar-la-selva-amazonica-295406",
+    "fecha": "2026-11-16T17:09:51.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1fzg9dl",
+    "titulo": "¿Qué votamos en las elecciones generales del 29-N?",
+    "resumen": "El próximo 29 de noviembre, tras la disolución de las Cortes Generales y convocatoria de elecciones generales por Real Decreto 806/2026, de 5 de octubre(https://www.boe.es/diarioboe/txt.php?id=BOE-A-2026-20742), tendremos la posibilidad de…",
+    "seccion": "politica",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/que-votamos-en-las-elecciones-generales-del-29-n-294026",
+    "fecha": "2026-11-16T17:03:07.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-r6fj7t",
+    "titulo": "Violencia sexual contra la infancia y la adolescencia: cómo prevenirla antes de la primera agresión",
+    "resumen": "La violencia sexual contra niños, niñas y adolescentes es una grave vulneración de derechos y un problema de salud pública que genera profunda preocupación social. Sus consecuencias pueden afectar al desarrollo de las víctimas y…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/violencia-sexual-contra-la-infancia-y-la-adolescencia-como-prevenirla-antes-de-la-primera-agresion-295939",
+    "fecha": "2026-11-16T17:03:03.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-125xcsi",
+    "titulo": "Alarma científica por fenómeno del Niño: «Tenemos siete meses»",
+    "resumen": "Los científicos y expertos climáticos advirtieron esta semana en el Parlamento Europeo de que Europa debe urgentemente prepararse para las consecuencias del fenómeno de El Niño de los años 2026-2027, que, según sus previsiones, será…",
+    "seccion": "derechos",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/alarma-cientifica-por-fenomeno-del-nino-tenemos-siete-meses/",
+    "fecha": "2026-11-16T16:46:23.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-qwrs38",
+    "titulo": "MOSACAT y OLCA denuncian en el Consejo Regional los impactos que tendría el data center de Google en Cerrillos y la falta de regulación",
+    "resumen": "por Comunicaciones OLCA",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/mosacat-y-olca-denuncian-en-el-consejo-regional-los-impactos-que-tendria-el-data-center-de-google-en-cerrillos-y-la-falta-de-regulacion/",
+    "fecha": "2026-11-16T16:17:31.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-uxt1ff",
+    "titulo": "Integración de cadenas productivas y transferencia tecnológica deben marcar nueva etapa de APEC",
+    "resumen": "El valor de la próxima Reunión de Líderes Económicos del Foro de Cooperación Económica Asia-Pacífico (APEC) es lograr una integración de las cadenas de suministro, producción y tecnología, que permita traducir la apertura económica en…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/integracion-de-cadenas-productivas-y-transferencia-tecnologica-deben-marcar-nueva-etapa-de-apec/",
+    "fecha": "2026-11-16T13:43:07.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "global-voices-16jfsap",
     "titulo": "«Acuerdos de Comercio Recíproco» de Trump amenazan acceso equitativo a internet en países en desarrollo",
     "resumen": "Esta disposición podría darle a Estados Unidos el poder de excluir a proveedores chinos de tecnologías de la información en los países firmantes",
@@ -1127,76 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/11/continentes-y-contenidos-39-06-11-26-alianza-por-el-desarme-nuclear/",
     "fecha": "2026-11-07T03:29:14.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-r9s1wo",
-    "titulo": "Sentir el dolor de otros: el verdadero desafío de la democracia",
-    "resumen": "«Si sientes dolor en tu cuerpo, estás vivo. Si sientes el dolor de otros, eres humano». Esta reflexión, atribuida a León Tolstói, encierra una verdad profunda que debiera estar en el corazón de la política y de nuestra democracia.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/sentir-el-dolor-de-otros-el-verdadero-desafio-de-la-democracia/",
-    "fecha": "2026-11-07T03:23:58.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-v0io01",
-    "titulo": "Hagamos retrospectiva: ¿Cómo fue que entramos al nuevo milenio? Tres miradas agotadas y el desafío del humanismo para lo que viene",
-    "resumen": "Entre el repliegue ecologista, el futurismo de las redes y la resistencia popular, todas las invenciones fueron apropiadas por el capital concentrado. La salida no vendrá de otro armazón importado, sino de una idea nacida del contacto en…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/hagamos-retrospectiva-como-fue-que-entramos-al-nuevo-milenio-tres-miradas-agotadas-y-el-desafio-del-humanismo-para-lo-que-viene/",
-    "fecha": "2026-11-07T00:00:07.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-14uq67p",
-    "titulo": "Venezuela recibe a la líder opositora María Corina Machado",
-    "resumen": "Machado regresa a una nación llena de esperanza, pero cautelosa",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/11/06/venezuela-recibe-a-la-lider-opositora-maria-corina-machado/",
-    "fecha": "2026-11-06T21:00:31.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-n4o1c6",
-    "titulo": "Noreste de China: Cooperativas agrícolas para un beneficio colectivo",
-    "resumen": "En la ciudad de Heihe, China, se encuentra la aldea Aihui, fronteriza con Rusia, ubicada a 32 kilómetros del área urbana, en la provincia de Heilongjiang, del noreste de China donde habitan minorías étnicas.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/noreste-de-china-cooperativas-agricolas-para-un-beneficio-colectivo/",
-    "fecha": "2026-11-06T13:12:28.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "agencia-tierra-viva-1w5ebtq",
-    "titulo": "La salud no es lo primero: en Argentina se utilizan 167 agrotóxicos prohibidos en otros países",
-    "resumen": "Los plaguicidas autorizados en Argentina que están prohibidos o no autorizados en otros países alcanzan la cifra de 167 productos, y 35 de ellos son Plaguicidas Altamente Peligrosos (PAP) según los criterios establecidos por la FAO…",
-    "seccion": "derechos",
-    "medio": "Agencia Tierra Viva",
-    "enlace": "https://agenciatierraviva.com.ar/la-salud-no-es-lo-primero-en-argentina-se-utilizan-167-agrotoxicos-prohibidos-en-otros-paises/",
-    "fecha": "2026-11-06T13:09:38.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1mja2d7",
-    "titulo": "Why Europe is building both a digital euro and a new mobile payment network",
-    "resumen": "Sending money from your phone seems simple: just choose a contact, enter an amount, and press confirm. But behind these apparently simple actions lie national payment systems that are not always interoperable.",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/why-europe-is-building-both-a-digital-euro-and-a-new-mobile-payment-network-295895",
-    "fecha": "2026-11-06T10:05:38.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-17cqcio",
-    "titulo": "Madrid 2026: los acuerdos técnicos rescatan la apuesta iberoamericana pese al contexto hostil y las ausencias",
-    "resumen": "Treinta y cinco años después de la I Cumbre Iberoamericana celebrada en Guadalajara en 1991, Madrid acogió la XXX edición, con Nicolás Maduro preso en Nueva York, la doctrina…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/madrid-2026-los-acuerdos-tecnicos-rescatan-la-apuesta-iberoamericana-pese-al-contexto-hostil-y-las-ausencias-296061",
-    "fecha": "2026-11-06T08:55:34.000Z",
     "estado": "pendiente"
   }
 ]
