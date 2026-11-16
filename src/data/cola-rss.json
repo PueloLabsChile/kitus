@@ -1,5 +1,35 @@
 [
   {
+    "id": "the-conversation-espana-wy3ff0",
+    "titulo": "Los dientes de caballos fósiles revelan cómo cambió el clima en la península ibérica hace 9 millones de años",
+    "resumen": "¿Es posible reconstruir los cambios estacionales del clima de hace millones de años a partir de dientes fósiles? La respuesta es afirmativa. El análisis de su composición química nos permite detectar variaciones ambientales registradas…",
+    "seccion": "derechos",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/los-dientes-de-caballos-fosiles-revelan-como-cambio-el-clima-en-la-peninsula-iberica-hace-9-millones-de-anos-296100",
+    "fecha": "2026-11-15T22:34:05.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1w4ooic",
+    "titulo": "Cultura no solo hay una: cuatro formas de definirla (y vivirla)",
+    "resumen": "A veces hablamos de cultura utilizando un mismo término para prácticas y lógicas muy diferentes.",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/cultura-no-solo-hay-una-cuatro-formas-de-definirla-y-vivirla-290465",
+    "fecha": "2026-11-15T22:28:36.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-117mhil",
+    "titulo": "¿Cómo ayudar a nuestros hijos con los deberes de Lengua?",
+    "resumen": "Un martes por la tarde, Mario, de 10 años, necesita ayuda. Su profesora de Lengua le ha encargado que escriba una redacción sobre un miembro de su familia al que admire. El niño, después de darle muchas vueltas, y con algunas sugerencias…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/como-ayudar-a-nuestros-hijos-con-los-deberes-de-lengua-294549",
+    "fecha": "2026-11-15T22:28:16.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-b1fmfi",
     "titulo": "Serbia paraliza comercio de armas y producción de drones con Israel, anuncia la Lista de los Estudiantes",
     "resumen": "Durante la campaña electoral, la Lista de los Estudiantes había condenado sin rodeos el genocidio perpetrado por Israel en Gaza. Tras su rotunda victoria en las elecciones del 25 de octubre y a pocos días de la constitución del nuevo…",
@@ -1167,36 +1197,6 @@
     "medio": "Global Voices",
     "enlace": "https://es.globalvoices.org/2026/11/06/gabon-el-regreso-de-las-redes-sociales-tiene-un-precio/",
     "fecha": "2026-11-06T01:00:07.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-wgiziy",
-    "titulo": "Veto ruso en la ONU a favor de la autodeterminación del Sáhara Occidental",
-    "resumen": "Después de 35 años de presencia de la ONU en el Sahara Occidental, la Misión de las Naciones Unidas para la Celebración de un Referéndum (Minurso), ha puesto fin a su presencia después de un tenso debate en el Consejo de Seguridad que…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/veto-ruso-en-la-onu-a-favor-de-la-autodeterminacion-del-sahara-occidental/",
-    "fecha": "2026-11-05T19:03:49.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "dialogue-earth-8n6lfo",
-    "titulo": "Una América Latina fragmentada se dirige a la COP31 en Antalya",
-    "resumen": "Latinoamérica se dirige a la cumbre climática de la ONU de este año con menos respaldo político para la agenda que impulsó hace un año en Brasil.",
-    "seccion": "derechos",
-    "medio": "Dialogue Earth",
-    "enlace": "https://dialogue.earth/es/clima/una-america-latina-fragmentada-se-dirige-a-antalya-cop31/",
-    "fecha": "2026-11-05T18:38:24.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-x3r1tn",
-    "titulo": "Dos puertos pueden ser muy similares pero no por ello igual de eficientes",
-    "resumen": "Cuando pensamos en un puerto, solemos imaginar grúas, contenedores y grandes buques. Pero no todos los puertos son iguales. Tampoco cumplen la misma función. Un gran puerto conectado con las rutas del comercio mundial poco tiene que ver…",
-    "seccion": "economia",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/dos-puertos-pueden-ser-muy-similares-pero-no-por-ello-igual-de-eficientes-290086",
-    "fecha": "2026-11-05T18:03:17.000Z",
     "estado": "pendiente"
   }
 ]
