@@ -1,5 +1,45 @@
 [
   {
+    "id": "global-voices-16jfsap",
+    "titulo": "«Acuerdos de Comercio Recíproco» de Trump amenazan acceso equitativo a internet en países en desarrollo",
+    "resumen": "Esta disposición podría darle a Estados Unidos el poder de excluir a proveedores chinos de tecnologías de la información en los países firmantes",
+    "seccion": "economia",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/16/acuerdos-de-comercio-reciproco-de-trump-amenazan-acceso-equitativo-a-internet-en-paises-en-desarrollo/",
+    "fecha": "2026-11-16T07:00:36.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-sllg0w",
+    "titulo": "¿Por qué huele mal el sudor?",
+    "resumen": "¿A qué huele el sudor humano? Aunque le cueste creerlo, la respuesta es: a nada. El sudor humano secretado de forma natural es inodoro. El característico olor corporal surge cuando los microorganismos comensales de la piel metabolizan los…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/por-que-huele-mal-el-sudor-295478",
+    "fecha": "2026-11-16T06:29:22.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-1fsycbp",
+    "titulo": "El periodismo independiente está sitiado en Georgia",
+    "resumen": "La necesidad de unidad se volvió urgente en abril de 2025, tras la ley sobre la aprobación de donaciones extranjeras",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/16/el-periodismo-independiente-esta-sitiado-en-georgia/",
+    "fecha": "2026-11-16T06:00:44.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-vrmn31",
+    "titulo": "El peaje de los tres euros: la tasa que no ha echado a Temu y Shein de Europa, pero les ha cambiado la ruta",
+    "resumen": "Acaba de pasar el 11 del 11, el Día del Soltero, la gran campaña china de compras por internet. Este año tenía una novedad en la aduana. Por primera vez, lo que plataformas como AliExpress, Temu o Shein envían a la Unión Europea desde…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/el-peaje-de-los-tres-euros-la-tasa-que-no-ha-echado-a-temu-y-shein-de-europa-pero-les-ha-cambiado-la-ruta-296623",
+    "fecha": "2026-11-16T01:03:11.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "the-conversation-espana-wy3ff0",
     "titulo": "Los dientes de caballos fósiles revelan cómo cambió el clima en la península ibérica hace 9 millones de años",
     "resumen": "¿Es posible reconstruir los cambios estacionales del clima de hace millones de años a partir de dientes fósiles? La respuesta es afirmativa. El análisis de su composición química nos permite detectar variaciones ambientales registradas…",
@@ -1157,46 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/madrid-2026-los-acuerdos-tecnicos-rescatan-la-apuesta-iberoamericana-pese-al-contexto-hostil-y-las-ausencias-296061",
     "fecha": "2026-11-06T08:55:34.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-aqw2y6",
-    "titulo": "Palestina ya está viviendo bajo el autoritarismo de las grandes empresas tecnológicas que se le está vendiendo al mundo",
-    "resumen": "Las tecnologías emergentes se han convertido en un elemento central de los sistemas de coacción y control",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/11/06/palestina-ya-esta-viviendo-bajo-el-autoritarismo-de-las-grandes-empresas-tecnologicas-que-se-le-esta-vendiendo-al-mundo/",
-    "fecha": "2026-11-06T07:00:44.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-1ql7zjb",
-    "titulo": "Alibaba denuncia al Pentágono por haberlo clasificado como afiliado al Ejército chino",
-    "resumen": "El modelo de gobernanza de las grandes empresas tecnológicas de China se cierne sobre la demanda de Alibaba contra el Pentágono",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/11/06/alibaba-denuncia-al-pentagono-por-haberlo-clasificado-como-afiliado-al-ejercito-chino/",
-    "fecha": "2026-11-06T06:00:56.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1ym2uil",
-    "titulo": "Chile se abstuvo en la votación sobre Cuba en Naciones Unidas",
-    "resumen": "Eso nunca había ocurrido, los únicos que votaban a favor del bloqueo eran Estados Unidos e Israel. Ningún otro país lo aprobaba y ninguno se abstenía.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/chile-se-abstuvo-en-la-votacion-sobre-cuba-en-naciones-unidas/",
-    "fecha": "2026-11-06T01:00:33.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-1z13us0",
-    "titulo": "Gabón: El regreso de las redes sociales tiene un precio",
-    "resumen": "Son 248 días sin acceso a Facebook, Instagram, TikTok y YouTube.",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/11/06/gabon-el-regreso-de-las-redes-sociales-tiene-un-precio/",
-    "fecha": "2026-11-06T01:00:07.000Z",
     "estado": "pendiente"
   }
 ]
