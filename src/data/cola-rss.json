@@ -1,5 +1,35 @@
 [
   {
+    "id": "global-voices-qgeyr6",
+    "titulo": "Desglose de la puntuación del Estado de derecho de Hong Kong según la clasificación del World Justice Project",
+    "resumen": "Hong Kong está en el puesto 24 en el Índice de Estado de Derecho y está en tendencia a la baja.",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/17/desglose-de-la-puntuacion-del-estado-de-derecho-de-hong-kong-segun-la-clasificacion-del-world-justice-project/",
+    "fecha": "2026-11-17T07:00:40.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-aan1dc",
+    "titulo": "Publicación digital ilustra el sistema penitenciario de Turquía",
+    "resumen": "«No existía ningún organismo independiente que supervisara periódicamente la situación en las prisiones y comunicara esta información al público mediante datos».",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/17/publicacion-digital-ilustra-el-sistema-penitenciario-de-turquia/",
+    "fecha": "2026-11-17T06:00:44.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1anoph3",
+    "titulo": "Perú: El mensaje que dejó el Papa León XIV",
+    "resumen": "El Papa León XIV finalizó su visita al Perú, donde estuvo desde el 11 al 16 de noviembre y visitó las ciudades de Lima, Callao, Chiclayo, Cajamarca, Santa Cruz de Succhabamba, Zaña, Cusco y Pucallpa, con la asistencia masiva de feligreses…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/peru-el-mensaje-que-dejo-el-papa-leon-xiv/",
+    "fecha": "2026-11-17T03:12:55.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-16mutie",
     "titulo": "Consumir para pertenecer: cuando el mercado comienza a definir quiénes somos",
     "resumen": "Hay algo que debería hacernos reflexionar sobre la sociedad que estamos construyendo: hemos comenzado a confundir la posibilidad de disfrutar con la obligación de consumir.",
@@ -1167,36 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/11/los-gigantes-del-oceano-reaparecen-en-las-costas-del-mundo/",
     "fecha": "2026-11-08T12:24:35.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-1cyk7tv",
-    "titulo": "Ritmos en tiempos de derechos de propiedad intelectual",
-    "resumen": "Desde hace tiempo, al Caribe se le explota en el escenario mundial, y la ley de derechos de autor no es la excepción",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/11/08/ritmos-en-tiempos-de-derechos-de-propiedad-intelectual/",
-    "fecha": "2026-11-08T06:00:32.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-j6umbh",
-    "titulo": "Fifty Fun Facts sobre Olivia [mi madre]: El lenguaje del silencio",
-    "resumen": "Son las tres de la mañana. Ayer —o hoy, según cómo se cuenten las horas— pasé demasiado tiempo deslizando el dedo por la pantalla de mi teléfono, viendo un video tras otro: las elecciones, la guerra, la corrupción, tipos sexis, una receta…",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/fifty-fun-facts-sobre-olivia-mi-madre-el-lenguaje-del-silencio/",
-    "fecha": "2026-11-08T00:12:41.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-bibehu",
-    "titulo": "Escándalos y sospechosos relacionados con Flávio Bolsonaro, según la prensa brasileña",
-    "resumen": "Tras su derrota electoral, el senador huyó a Estados Unidos con su familia",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/11/07/escandalos-y-sospechosos-relacionados-con-flavio-bolsonaro-segun-la-prensa-brasilena/",
-    "fecha": "2026-11-07T07:00:50.000Z",
     "estado": "pendiente"
   }
 ]
