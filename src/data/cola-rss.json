@@ -1,5 +1,45 @@
 [
   {
+    "id": "pressenza-16mutie",
+    "titulo": "Consumir para pertenecer: cuando el mercado comienza a definir quiénes somos",
+    "resumen": "Hay algo que debería hacernos reflexionar sobre la sociedad que estamos construyendo: hemos comenzado a confundir la posibilidad de disfrutar con la obligación de consumir.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/consumir-para-pertenecer-cuando-el-mercado-comienza-a-definir-quienes-somos/",
+    "fecha": "2026-11-17T01:38:13.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1r5vwpk",
+    "titulo": "Taller de meditación y expresión creativa INSPIRARTE",
+    "resumen": "INSPIRARTE Taller de meditación y expresión creativa: un laboratorio para recuperar la interioridad como inspiración, donde la experiencia compartida se convierte en sentido y acción conjunta. Una apertura espiritual suave, íntima y…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/taller-de-meditacion-y-expresion-creativa-inspirarte/",
+    "fecha": "2026-11-16T21:54:47.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-o5jej6",
+    "titulo": "Los siete pecados capitales del poder. Dante, la moral medieval y las tentaciones autoritarias del gobierno de Kast",
+    "resumen": "Hay algo profundamente inquietante cuando la política comienza a confundirse con la moral, cuando un gobierno pretende establecer no solamente las reglas de convivencia de una sociedad, sino también determinar qué valores deben profesar…",
+    "seccion": "politica",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/los-siete-pecados-capitales-del-poder-dante-la-moral-medieval-y-las-tentaciones-autoritarias-del-gobierno-de-kast/",
+    "fecha": "2026-11-16T20:08:49.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-x8pvfr",
+    "titulo": "Marcha No+AFP",
+    "resumen": "El movimiento social por la restitución del Derecho a la Seguridad Social en Chile, liderado por la Coordinadora Nacional de Trabajadoras/es NO + AFP, realizó un llamado a movilización en todo los territorios para protestar contra el…",
+    "seccion": "economia",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/marcha-noafp/",
+    "fecha": "2026-11-16T19:42:40.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-7fa50d",
     "titulo": "¿Y si tratar el cáncer implica mirar más allá del tumor?",
     "resumen": "Después de más de quince años investigando medicina integrativa, Carolina Bezamat presenta El cuerpo recuerda, publicado por Editorial Forja, un libro que aborda el cáncer desde una perspectiva que reúne ciencia, medicina convencional…",
@@ -1157,46 +1197,6 @@
     "medio": "Global Voices",
     "enlace": "https://es.globalvoices.org/2026/11/07/escandalos-y-sospechosos-relacionados-con-flavio-bolsonaro-segun-la-prensa-brasilena/",
     "fecha": "2026-11-07T07:00:50.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-ro2qyz",
-    "titulo": "Espacio positivo y de apoyo para profesionales independientes: Entrevista con las fundadoras de #TeamTranslator",
-    "resumen": "«También muchas conexiones increíbles y maravillosas ocurrieron por la comunidad»",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/11/07/espacio-positivo-y-de-apoyo-para-profesionales-independientes-entrevista-con-las-fundadoras-de-teamtranslator/",
-    "fecha": "2026-11-07T06:00:23.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-11klcec",
-    "titulo": "Perú: Indígenas anuncian conflicto sino se respetan acuerdos en Lote 192",
-    "resumen": "En conferencia de prensa, dirigentes indígenas de más de cien comunidades nativas afectadas por derrames petroleros exigieron al Estado peruano que garantice el cumplimiento de los acuerdos establecidos sobre Consulta Previa y respeto a…",
-    "seccion": "economia",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/peru-indigenas-anuncian-conflicto-sino-se-respetan-acuerdos-en-lote-192/",
-    "fecha": "2026-11-07T04:42:36.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1daouys",
-    "titulo": "Jesús, Jesús, Jesús. Un nombre tres veces perseguido",
-    "resumen": "Más que un nombre, tres hombres citados, alabados y denostados, ayer en la tierra imperial y hoy en la era digital.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/jesus-jesus-jesus-un-nombre-tres-veces-perseguido/",
-    "fecha": "2026-11-07T03:37:11.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-xn1gsr",
-    "titulo": "Continentes y Contenidos #39 06/11/26 Alianza por el desarme nuclear",
-    "resumen": "Hablamos desde España con Carlos Umaña, integrante de la Alianza por el desarme nuclear, ICAN y la Asociación Internacional de Médicos para la Prevención de la Guerra Nuclear.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/continentes-y-contenidos-39-06-11-26-alianza-por-el-desarme-nuclear/",
-    "fecha": "2026-11-07T03:29:14.000Z",
     "estado": "pendiente"
   }
 ]
