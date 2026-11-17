@@ -1,5 +1,85 @@
 [
   {
+    "id": "pressenza-1jxshtv",
+    "titulo": "Bangladesh impulsa la participación de comunidades educativas para prevenir la violencia y el acoso escolar",
+    "resumen": "Estudiantes, docentes, familias y representantes comunitarios de 30 escuelas de Bangladesh participan en una iniciativa orientada a prevenir la violencia, el acoso escolar y el ciberacoso, y promover entornos educativos seguros e…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/bangladesh-impulsa-la-participacion-de-comunidades-educativas-para-prevenir-la-violencia-y-el-acoso-escolar/",
+    "fecha": "2026-11-17T18:35:30.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "dialogue-earth-1kqpdd2",
+    "titulo": "COP31: El objetivo de electrificación global, ¿una trampa para América Latina?",
+    "resumen": "América Latina cuenta con algo por lo que gran parte del mundo aún está luchando: una red eléctrica en gran medida limpia. Las fuentes limpias generan el 66% de la electricidad de la región. La mayor parte proviene de la energía…",
+    "seccion": "internacional",
+    "medio": "Dialogue Earth",
+    "enlace": "https://dialogue.earth/es/energia/cop31-objetivo-electrificacion-global-trampa-america-latina/",
+    "fecha": "2026-11-17T17:49:11.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-44w6lg",
+    "titulo": "Disputar la hegemonía no es necesariamente transformar el mundo",
+    "resumen": "A propósito de la columna de Tania…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/disputar-la-hegemonia-no-es-necesariamente-transformar-el-mundo/",
+    "fecha": "2026-11-17T17:02:13.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-3quqzf",
+    "titulo": "Por qué el voto de los mayores es el gran olvidado en la lucha contra los bulos electorales",
+    "resumen": "Cada vez que hablamos de bulos y redes sociales, la conversación se dirige hacia los más jóvenes. Es comprensible, ya que son ellos a quienes identificamos más con el uso de pantallas y redes sociales. Sin embargo, eso deja fuera del foco…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/por-que-el-voto-de-los-mayores-es-el-gran-olvidado-en-la-lucha-contra-los-bulos-electorales-285557",
+    "fecha": "2026-11-17T16:21:20.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-214nsr",
+    "titulo": "¿Y si recuperamos los coros escolares? Manuel Borguñó y su pedagogía musical",
+    "resumen": "¿Son los coros escolares un vestigio del pasado? Pese a sus reconocidos beneficios(https://journals.sagepub.com/doi/full/10.1177/20592043251369986), no solo para la educación musical sino para el bienestar diario de los…",
+    "seccion": "cultura",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/y-si-recuperamos-los-coros-escolares-manuel-borguno-y-su-pedagogia-musical-290077",
+    "fecha": "2026-11-17T16:20:59.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-lkpzi2",
+    "titulo": "¿Y si no soy la madre que imaginaba? El peso psicológico de las expectativas",
+    "resumen": "Antes de que nazca un bebé, muchas mujeres ya han imaginado cómo serán como madres. Quizá se ven pacientes ante el llanto desconsolado, disfrutando de la lactancia o capaces de compaginar la crianza con su vida anterior.",
+    "seccion": "derechos",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/y-si-no-soy-la-madre-que-imaginaba-el-peso-psicologico-de-las-expectativas-294711",
+    "fecha": "2026-11-17T16:20:33.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1batnwg",
+    "titulo": "47 organizaciones instan a la UE a proteger los derechos de las personas, no a externalizar su protección",
+    "resumen": "Este 16 de noviembre de 2026, Austria, Dinamarca, Alemania, Grecia y los Países Bajos han presentado formalmente sus planes para establecer un «centro de retorno» en Ruanda.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/47-organizaciones-instan-a-la-ue-a-proteger-los-derechos-de-las-personas-no-a-externalizar-su-proteccion/",
+    "fecha": "2026-11-17T15:52:03.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-zjsmcj",
+    "titulo": "No solo gobernadores, diputados y senadores: también una nueva ola de alcaldes socialistas en EE. UU.",
+    "resumen": "En enero de 2027, cuando quienes fueron elegidos a principios de noviembre tomen posesión, más de 100 candidatos respaldados por los Democratic Socialists of America(https://www.dsausa.org/) (DSA, Socialistas Democráticos de América)…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/no-solo-gobernadores-diputados-y-senadores-tambien-una-nueva-ola-de-alcaldes-socialistas-en-ee-uu/",
+    "fecha": "2026-11-17T14:32:11.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "global-voices-qgeyr6",
     "titulo": "Desglose de la puntuación del Estado de derecho de Hong Kong según la clasificación del World Justice Project",
     "resumen": "Hong Kong está en el puesto 24 en el Índice de Estado de Derecho y está en tendencia a la baja.",
@@ -1117,86 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/aprendizaje-federado-el-truco-para-que-un-coche-autonomo-aprenda-de-otros-conductores-sin-violar-su-privacidad-294792",
     "fecha": "2026-11-08T22:52:04.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-a4a3t",
-    "titulo": "CIADI: noticias sobre demanda de EBI contra Costa Rica y … se organiza «conversatorio» en Turrúcares: acto I",
-    "resumen": "Introducción",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/ciadi-noticias-sobre-demanda-de-ebi-contra-costa-rica-y-se-organiza-conversatorio-en-turrucares-acto-i/",
-    "fecha": "2026-11-08T22:31:22.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1ckx0dh",
-    "titulo": "Objetivos de Desarrollo Sostenible: la brecha entre saber y actuar en educación",
-    "resumen": "¿Recuerda la película El día de mañana(https://www.filmaffinity.com/es/film377460.html)? Trasladémonos a una de sus escenas más incómodas: un climatólogo lleva años advirtiendo del colapso climático ante gobiernos y organismos…",
-    "seccion": "derechos",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/objetivos-de-desarrollo-sostenible-la-brecha-entre-saber-y-actuar-en-educacion-293369",
-    "fecha": "2026-11-08T18:14:02.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-ogn044",
-    "titulo": "¿Por qué recordamos el pasado y no el futuro?",
-    "resumen": "Recordamos lo que hicimos ayer, pero no lo que haremos mañana. Encontramos fotografías de nuestra infancia, huellas de animales que ya pasaron o cráteres dejados por impactos antiguos, pero nunca registros de acontecimientos que todavía no…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/por-que-recordamos-el-pasado-y-no-el-futuro-291713",
-    "fecha": "2026-11-08T18:13:50.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-kqf9pq",
-    "titulo": "¿Los colegios bilingües nos hacen bilingües?",
-    "resumen": "Muchas familias eligen colegios bilingües para que sus hijos aprendan bien inglés. Esperan y desean que lo hablen con soltura, casi como si fuera su lengua materna. Sin embargo, estudiar algunas asignaturas en inglés no significa…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/los-colegios-bilingues-nos-hacen-bilingues-294973",
-    "fecha": "2026-11-08T18:13:16.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1gr0buf",
-    "titulo": "La urgencia de recuperar las terrazas agrícolas del Atlas marroquí",
-    "resumen": "Por Yossef Ben-Meir",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/la-urgencia-de-recuperar-las-terrazas-agricolas-del-atlas-marroqui/",
-    "fecha": "2026-11-08T13:19:51.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-h4yplb",
-    "titulo": "[Perú] Arturo Corcuera: nuevo documental explora la vida del poeta",
-    "resumen": "La película Arturo Corcuera: Poeta reúne a familiares, escritores y artistas para explorar cómo la obra del poeta peruano continúa adquiriendo nuevos significados tras su muerte en 2017. El estreno será el 6 de diciembre en Jazz Zone.",
-    "seccion": "cultura",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/peru-arturo-corcuera-nuevo-documental-explora-la-vida-del-poeta/",
-    "fecha": "2026-11-08T12:36:15.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-oj55qa",
-    "titulo": "Mochilazo: cuando los estudiantes vuelven a poner el cuerpo",
-    "resumen": "Hay algo que el poder nunca termina de entender: los estudiantes tienen la mala costumbre de no quedarse callados. Y cuando salen a la calle, con sus mochilas cargadas de cuadernos, rabia y futuro, los escritorios ministeriales comienzan a…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/mochilazo-cuando-los-estudiantes-vuelven-a-poner-el-cuerpo/",
-    "fecha": "2026-11-08T12:29:20.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-cpmzc7",
-    "titulo": "Los gigantes del océano reaparecen en las costas del mundo",
-    "resumen": "Los hallazgos en Patagonia y Rapa Nui nos devuelven la esperanza: podemos proteger a los gigantes del océano.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/los-gigantes-del-oceano-reaparecen-en-las-costas-del-mundo/",
-    "fecha": "2026-11-08T12:24:35.000Z",
     "estado": "pendiente"
   }
 ]
