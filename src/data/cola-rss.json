@@ -1,5 +1,35 @@
 [
   {
+    "id": "global-voices-1rz7eyu",
+    "titulo": "Grandes empresas tecnológicas y Estados autoritarios: Bielorrusia",
+    "resumen": "Un podcast de Global Voices sobre la situación de la represión digital en Bielorrusia",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/18/grandes-empresas-tecnologicas-y-estados-autoritarios-bielorrusia/",
+    "fecha": "2026-11-18T07:00:02.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-em311r",
+    "titulo": "Emprendedora haitiana logra el triunfo al apoyar productos locales",
+    "resumen": "«Comamos lo que producimos; así todos ganamos»",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/18/emprendedora-haitiana-logra-el-triunfo-al-apoyar-productos-locales/",
+    "fecha": "2026-11-18T06:00:21.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-ljp0ux",
+    "titulo": "Más que una escuela, una comunidad que sueña y se transforma (1)",
+    "resumen": "Brasil amanecía con las celebraciones del triunfo de Lula en las elecciones presidenciales. Atrás queda la gran metrópoli de Sao Paulo, mientras avanzo por la carretera hacia el litoral atlántico en busca de un tesoro escondido: la escuela…",
+    "seccion": "politica",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/mas-que-una-escuela-una-comunidad-que-suena-y-se-transforma-1/",
+    "fecha": "2026-11-18T05:57:17.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-4qefns",
     "titulo": "OLCA estrena un podcast que cuestiona la transición energética impulsada desde el Norte Global",
     "resumen": "por Comunicaciones OLCA",
@@ -1167,36 +1197,6 @@
     "medio": "Global Voices",
     "enlace": "https://es.globalvoices.org/2026/11/09/en-kirguistan-personas-con-discapacidad-recopilan-evidencia-de-barreras-fisicas-para-exigir-responsabilidades-al-gobierno/",
     "fecha": "2026-11-09T07:00:44.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-150adds",
-    "titulo": "¿Quién puede hablar en nombre del pueblo? Nuevas fronteras de protesta en el Sahel",
-    "resumen": "¿Puede existir una democracia sin el derecho a discrepar?",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/11/09/quien-habla-en-nombre-del-pueblo-nuevas-fronteras-de-protesta-en-el-sahel/",
-    "fecha": "2026-11-09T06:00:57.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1mo5vun",
-    "titulo": "Italia: la protesta bajo sospecha reabre el debate sobre el espacio cívico y la tecnovigilancia",
-    "resumen": "Los hechos no suceden en el vacío: la vigilancia como marco europeo",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/italia-la-protesta-bajo-sospecha-reabre-el-debate-sobre-el-espacio-civico-y-la-tecnovigilancia/",
-    "fecha": "2026-11-09T03:05:43.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-11ocim",
-    "titulo": "Cuba frente al cerco de Washington",
-    "resumen": "Solidaridad en la Cumbre Iberoamericana y respaldo en la ONU",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/cuba-frente-al-cerco-de-washington/",
-    "fecha": "2026-11-09T01:30:01.000Z",
     "estado": "pendiente"
   }
 ]
