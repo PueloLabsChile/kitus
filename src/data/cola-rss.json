@@ -1,5 +1,45 @@
 [
   {
+    "id": "pressenza-4qefns",
+    "titulo": "OLCA estrena un podcast que cuestiona la transición energética impulsada desde el Norte Global",
+    "resumen": "por Comunicaciones OLCA",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/olca-estrena-un-podcast-que-cuestiona-la-transicion-energetica-impulsada-desde-el-norte-global/",
+    "fecha": "2026-11-18T00:39:48.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1nzr55f",
+    "titulo": "Luces y sombras del desarrollo económico de Bangladés",
+    "resumen": "Por Kamal Mosharef (Redacción Pressenza-Bangladés/Daca)",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/luces-y-sombras-del-desarrollo-economico-de-banglades/",
+    "fecha": "2026-11-17T22:15:31.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1hclk8m",
+    "titulo": "Convocatoria: Invitación a formar parte de los Talleres FRI",
+    "resumen": "Como resultado de las Jornadas FRI-ICAP realizadas en la ciudad de Santa Clara-Cuba en octubre de 2026, FORUM RED INTERCULTURAL, convoca a su red de colaboradores a participar en el primer Taller FRI.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/convocatoria-invitacion-a-formar-parte-de-los-talleres-fri/",
+    "fecha": "2026-11-17T22:09:17.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-17dbszf",
+    "titulo": "Ni apocalipsis ni fervor",
+    "resumen": "Por Fernando La Chica",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/ni-apocalipsis-ni-fervor/",
+    "fecha": "2026-11-17T20:49:42.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-1jxshtv",
     "titulo": "Bangladesh impulsa la participación de comunidades educativas para prevenir la violencia y el acoso escolar",
     "resumen": "Estudiantes, docentes, familias y representantes comunitarios de 30 escuelas de Bangladesh participan en una iniciativa orientada a prevenir la violencia, el acoso escolar y el ciberacoso, y promover entornos educativos seguros e…",
@@ -1157,46 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/11/cuba-frente-al-cerco-de-washington/",
     "fecha": "2026-11-09T01:30:01.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-5u0ewr",
-    "titulo": "Protestas en Ecuador: «Gobierno vs. Pueblo»",
-    "resumen": "Por Rodrigo Muñoz Contreras.",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/protestas-en-ecuador-gobierno-vs-pueblo/",
-    "fecha": "2026-11-09T01:10:19.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-gjyb0q",
-    "titulo": "El escollo insalvable de dividir por cero: por qué las matemáticas permiten entender el universo pero no coinciden con él",
-    "resumen": "En los años sesenta del pasado siglo, el físico y premio Nobel Eugene Wigner(https://webhomes.maths.ed.ac.uk/%7Ev1ranick/papers/wigner.pdf) inmortalizó una pregunta que aún continúa quitando el sueño: ¿por qué una serie de símbolos…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/el-escollo-insalvable-de-dividir-por-cero-por-que-las-matematicas-permiten-entender-el-universo-pero-no-coinciden-con-el-292330",
-    "fecha": "2026-11-08T22:56:50.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1uozc87",
-    "titulo": "Cómo la ciencia estableció las claves de la ‘Génesis’ de Ferran Adrià en elBulli",
-    "resumen": "El estreno en TV3 –y posteriormente en Netflix– de Génesis(https://www.3cat.cat/3cat/genesi/), la serie que recrea los años en los que Ferran Adrià y el equipo de elBulli transformaron la gastronomía, supone una buena excusa para repasar…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/como-la-ciencia-establecio-las-claves-de-la-genesis-de-ferran-adria-en-elbulli-293595",
-    "fecha": "2026-11-08T22:54:30.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1b4lczv",
-    "titulo": "Aprendizaje federado: el truco para que un coche autónomo aprenda de otros conductores sin violar su privacidad",
-    "resumen": "Los coches autónomos(https://theconversation.com/mejorar-los-coches-autonomos-imitando-al-cerebro-humano-281444) necesitan aprender a desenvolverse en un mundo extraordinariamente complejo. Una carretera en apariencia sencilla puede…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/aprendizaje-federado-el-truco-para-que-un-coche-autonomo-aprenda-de-otros-conductores-sin-violar-su-privacidad-294792",
-    "fecha": "2026-11-08T22:52:04.000Z",
     "estado": "pendiente"
   }
 ]
