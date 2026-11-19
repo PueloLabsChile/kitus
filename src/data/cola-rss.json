@@ -1,5 +1,55 @@
 [
   {
+    "id": "pressenza-15sqxnu",
+    "titulo": "La resistencia socioambiental de Uspallata (Argentina) ante los foros internacionales: judicialización, captura estatal y vulneración de Derechos Humanos en Mendoza",
+    "resumen": "Quién es Federico Soria(https://www.frontlinedefenders.org/es/profile/federico-soria)",
+    "seccion": "derechos",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/la-resistencia-socioambiental-de-uspallata-argentina-ante-los-foros-internacionales-judicializacion-captura-estatal-y-vulneracion-de-derechos-humanos-en-mendoza/",
+    "fecha": "2026-11-18T21:43:29.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-mwm8hh",
+    "titulo": "Cuando un boleto no bastó: la prueba robada y la farsa de la causa «Mabel Ochoa y otros»",
+    "resumen": "Por Aisha dos Santos Echeveste",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/cuando-un-boleto-no-basto-la-prueba-robada-y-la-farsa-de-la-causa-mabel-ochoa-y-otros/",
+    "fecha": "2026-11-18T21:36:31.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-pgg6vt",
+    "titulo": "El intelectual frente a la ultraderecha: el deber de incomodar al poder",
+    "resumen": "A propósito de Umberto Eco, la democracia y el avance de los nuevos autoritarismos en América Latina y Europa",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/el-intelectual-frente-a-la-ultraderecha-el-deber-de-incomodar-al-poder/",
+    "fecha": "2026-11-18T21:28:53.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-wj27rs",
+    "titulo": "Europa deporta a Ruanda: la política migratoria toca fondo en Derechos Humanos",
+    "resumen": "En el marco de la Vienna Migration Conference del ICMPD(https://www.elcorreogallego.es/mundo/2026/11/16/paises-europeos-ruanda-centro-solicitantes-asilo-rechazados-136505821.html), Austria ha anunciado, junto con Alemania, Grecia…",
+    "seccion": "derechos",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/la-politica-migratoria-alcanza-otro-minimo-en-la-vulneracion-de-derechos-humanos/",
+    "fecha": "2026-11-18T20:24:11.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-fw5z0g",
+    "titulo": "Setenta años de debates electorales ante las cámaras: la evolución del cara a cara",
+    "resumen": "El presidente del Gobierno, Pedro Sánchez, y el presidente del Partido Popular (PP), Alberto Núñez Feijóo, protagonizarán el jueves 19 de noviembre un debate cara a cara organizado por la Academia de…",
+    "seccion": "politica",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/setenta-anos-de-debates-electorales-ante-las-camaras-la-evolucion-del-cara-a-cara-296766",
+    "fecha": "2026-11-18T20:12:38.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-kgisi3",
     "titulo": "Las dos huelgas del 11-N y la dura realidad",
     "resumen": "La multitudinaria y unitaria (?) manifestación de Barcelona ha sido una de las más importantes de los últimos años, con mucha diferencia. Hay que decir que este 11N había a la vez dos huelgas:",
@@ -1147,56 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/11/para-que/",
     "fecha": "2026-11-10T01:19:45.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-17y579f",
-    "titulo": "Rehabilitaciones basadas en la magia: algo más que un truco",
-    "resumen": "Subir un anillo por una goma elástica es un truco de magia que hace que parezca que un objeto flora en el aire, desafiando a la gravedad. Para que el efecto funcione hay que sujetar, tensar, coordinar ambas manos, graduar la fuerza…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/rehabilitaciones-basadas-en-la-magia-algo-mas-que-un-truco-289111",
-    "fecha": "2026-11-09T22:58:05.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-4e2ap7",
-    "titulo": "¿Está el porno detrás de los problemas de erección de los hombres jóvenes?",
-    "resumen": "Un hombre joven puede tener erecciones durante la masturbación y, sin embargo, experimentar dificultades para mantenerlas cuando está con otra persona. Esta situación puede despertar dudas sobre su salud sexual, la atracción hacia su…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/esta-el-porno-detras-de-los-problemas-de-ereccion-de-los-hombres-jovenes-295085",
-    "fecha": "2026-11-09T22:55:17.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-cfb2an",
-    "titulo": "Cómo usar el cobalto de una batería vieja para evitar el incendio de la nueva",
-    "resumen": "La batería de su coche eléctrico llega al final de su vida. ¿Y ahora qué?",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/como-usar-el-cobalto-de-una-bateria-vieja-para-evitar-el-incendio-de-la-nueva-293985",
-    "fecha": "2026-11-09T22:54:56.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "agencia-tierra-viva-mmb5xx",
-    "titulo": "Día de la Maestra y el Maestro Rural: sembrar el derecho a la educación en cerros, llanuras y bosques",
-    "resumen": "El primer día de su trabajo Leila quedó largas horas empantanada en el camino hacia la escuela. Ese fue su bautismo como maestra rural en el norte santafesino. Sandra enseña arte en secundarias rurales de Entre Ríos; todo el tiempo…",
-    "seccion": "internacional",
-    "medio": "Agencia Tierra Viva",
-    "enlace": "https://agenciatierraviva.com.ar/dia-de-la-maestra-y-el-maestro-rural-sembrar-el-derecho-a-la-educacion-en-cerros-llanuras-y-bosques/",
-    "fecha": "2026-11-09T22:01:16.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-239256",
-    "titulo": "Pensar: El último acto revolucionario",
-    "resumen": "Cuando pensar se convierte en una forma de resistencia",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/pensar-el-ultimo-acto-revolucionario/",
-    "fecha": "2026-11-09T21:30:42.000Z",
     "estado": "pendiente"
   }
 ]

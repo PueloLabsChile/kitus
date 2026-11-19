@@ -1,0 +1,77 @@
+---
+titulo: "La resistencia socioambiental de Uspallata (Argentina) ante los foros internacionales: judicialización, captura estatal y vulneración de Derechos Humanos en Mendoza"
+bajada: "Quién es Federico Soria(https://www.frontlinedefenders.org/es/profile/federico-soria)"
+seccion: derechos
+autor: medios-aliados
+fecha: 2026-11-18
+fechaIncorporacion: 2026-11-19T00:46:27.133Z
+etiquetas: ["Pressenza"]
+portada: "/uploads/sind-pressenza-15sqxnu.webp"
+creditoPortada: "Foto: Pressenza"
+origen: sindicada
+firma: "Redacción Argentina"
+fuente: "Pressenza"
+fuenteUrl: "https://www.pressenza.com/es/"
+original: "https://www.pressenza.com/es/2026/11/la-resistencia-socioambiental-de-uspallata-argentina-ante-los-foros-internacionales-judicializacion-captura-estatal-y-vulneracion-de-derechos-humanos-en-mendoza/"
+licencia: "CC BY 4.0"
+licenciaUrl: "https://creativecommons.org/licenses/by/4.0/deed.es"
+---
+[**Quién es Federico Soria**](https://www.frontlinedefenders.org/es/profile/federico-soria)
+
+*Federico Soria es un defensor de derechos humanos y de la naturaleza de Mendoza, profesional en turismo y conservación de la naturaleza, y miembro de la Asamblea de Vecinos Autoconvocados de Uspallata, un movimiento ciudadano organizado para hacer frente a la instalación de la Minera San Jorge debido al impacto negativo que puede ocasionar en el ecosistema y población de Uspallata. Desde 1990, Federico Soria ha trabajado en la promoción de la defensa del ambiente, el agua y el territorio mediante la producción de material bibliográfico informativo sobre el ecosistema de la cordillera de Los Andes. También ha sido autor intelectual de numerosas leyes de creación de Áreas Naturales Protegidas y ordenanzas ambientales. Es uno de los portavoces a favor de la iniciativa popular de creación del Área Natural Protegida Uspallata-Polvaredas.*
+
+**Pressenza:** Buen día, Federico. Sabemos de tu militancia en la defensa del agua pura a nivel provincial, nacional y, ahora, internacional. ¿Podés contarme sobre tu próxima intervención a ese nivel?
+
+**Federico Soria:** Bueno, estoy invitado a participar del foro sobre derechos humanos y empresas que se va a hacer en la ONU en Ginebra del 23 al 25 de noviembre. He sido invitado por un grupo de organizaciones que conforman un colectivo que se llama Tolerancia Cero, que son varias ONGs internacionales y grupos de distintos países del mundo.
+
+Entre todas esas organizaciones hay una que es Front Line Defenders, que nos viene asistiendo a los presos políticos por defender el agua de Mendoza desde el momento mismo que se inicia el primer caso con Mauricio Cornejo y yo. Esa organización nos ha asistido legalmente y asesorándonos en algunas materias como ciberseguridad, y también lo que ha hecho es visibilizar nuestro caso en el exterior. Han creado unos perfiles con nuestros casos, participan como auditores externos en nuestras causas y también en las causas que se están tramitando en el Ministerio Público Fiscal. Ya nos han visitado un par de veces en Mendoza y Uspallata, y ellos son los que han hecho el contacto para que yo pueda ir, obviamente con todo pago, porque toda esta situación a mí me ha dejado bastante mal económicamente. Ya que, además de estar prófugo y de estar preso, me echaron del trabajo y, por tener una imputación por delitos graves, no puedo acceder ni al empleo registrado ni al empleo público.
+
+La idea y para lo que me han convocado es para comentar la situación de Uspallata en general con la minera San Jorge, destacando el rol de la empresa y la situación de los presos políticos por defender el agua de Mendoza, obviamente focalizando en mi caso, pero teniendo en cuenta que ya son más de 40 los casos que tenemos en Mendoza. Y en el caso de la empresa Solway, que además tiene sede en Suiza, vamos a estar en el país donde tiene su sede comercial la empresa que es propietaria de Minera San Jorge. No sabemos si van a participar; sabemos que en este foro participan grandes empresas y es un espacio internacional donde las Naciones Unidas procuran que se encuentren las organizaciones de la sociedad civil con las grandes empresas.
+
+En realidad conversé con quienes me han convocado y no queremos ningún tipo de diálogo. Primero porque de entrada no lo hubo; acá todo lo manejó el gobierno de Mendoza. Jamás tuvimos un contacto con la empresa y el gobierno actuó como un brazo ejecutor de la propia empresa en todo el proceso previo de aprobación y ahora de ejecución del proyecto, siendo la cara visible de la empresa y confundiendo el rol de solicitante y concedente dentro de la evaluación del proyecto. Vamos a ir a contar todo lo que hemos investigado y a tratar de establecer contacto con las organizaciones de otros países del mundo que también han padecido las violaciones a los derechos humanos que ha perpetrado Solway, sobre todo el caso de Guatemala, que lo tenemos bastante conocido y que la empresa está queriendo replicar acá en la Argentina de la mano del gobierno de Mendoza.
+
+**Pressenza:** Bien. Entonces, ¿podrías ampliarnos lo que vas a presentar en esta exposición internacional que vas a hacer? ¿De alguna manera, cuáles serían los puntos más importantes?
+
+**Federico Soria:** Básicamente yo ya tengo elaborada una denuncia que he ido presentando ante las distintas relatorías de la ONU con las cuales tuve contacto, algunas de las cuales voy a volver a juntarme allí y con otras relatorías más. La ONU tiene alrededor de 30 o 40 relatorías que abordan distintas temáticas en relación a la violación de los derechos humanos y elaboran recomendaciones para enviárselas a los gobiernos. Con varias de esas relatorías me voy a reunir, como la de derechos humanos, la de protección del agua y la de protección de los defensores del ambiente. Ya he tenido contacto virtual con una relatora y una reunión la vez pasada que asistí a un encuentro de defensores de derechos humanos y ambientales en Colombia en junio.
+
+Esa denuncia resumida incluye el proceso de resistencia que venimos llevando a cabo en Uspallata, que lleva 18 años a la fecha, el rechazo a la minera y cómo esta ha ido cambiando de manos mientras cada nuevo dueño ha ido insistiendo en el proyecto. Ahora, de la mano del gobierno de Mendoza, con todo este esquema de aprobar de manera fraudulenta el proceso con una evaluación de impacto ambiental insuficiente, con una declaración de impacto ambiental condicionada —cosa inédita— y sin línea de base. Eso dio lugar a planteos jurídicos, pero para callar la protesta social el gobierno recurrió a su persecución y criminalización, paralelamente con la pauta millonaria que destina a propaganda oficial en los medios hegemónicos para una campaña de desprestigio en nuestra contra, con calumnias, injurias, información falsa y sin derecho a réplica.
+
+Todo eso se va a denunciar, además de todo el proceso que nos tocó a nosotros, los defensores del agua. En el caso de Mauricio Cornejo y yo, fuimos señalados aprovechando el contexto de una manifestación en Uspallata en contra de la apertura de la Cámara Minera. Buscaron a un denunciante acá en Uspallata que nombró a 33 personas, y de esas 33 personas únicamente nos eligieron a Mauricio y a mí para imputarnos delitos graves como agrupación para la coerción ideológica, coacciones agravadas, privación de la libertad e interrupción de un acto lícito. Después, alrededor de 40 personas más fueron imputadas con posterioridad en el marco de la represión a manifestaciones y movilizaciones que se hicieron en Mendoza en rechazo al proyecto megaminero San Jorge.
+
+Vamos a denunciar además que nuestras contradenuncias no han sido tramitadas de la manera acelerada con que tramitaron las causas contra nosotros; al contrario, se han archivado. Vamos a pedir que se mueva la denuncia que han presentado nuestros abogados ante la Comisión Interamericana de Derechos Humanos (CIDH). Nuestros abogados, que en su mayoría integran organizaciones defensoras de derechos humanos, hicieron una compilación de todos los casos y la elevaron hace unos meses a la CIDH. Vamos a reiterar ese pedido y el otro contacto que vamos a hacer es en la OIT (Organización Internacional del Trabajo) por el caso de la comunidad Huarpe Guentota / Guitamari, que hizo una reclamación por la ilegalidad del procedimiento de consulta previa, libre e informada, la cual se hizo de manera fraudulenta y sin que la comunidad diera consentimiento al proyecto. También denunciaremos en la OIT mi despido arbitrario de la Administración de Parques Nacionales: yo trabajaba en el Parque Nacional El Leoncito, aledaño a Minera San Jorge, donde fui víctima de acoso laboral (*mobbing*) y persecución que culminó con el despido. Todas esas cuestiones son las que vamos a denunciar en este ámbito.
+
+**Pressenza:** Bien, entonces lo que estamos viendo es la defensa que hace el sistema gubernamental actual judicializando y atacando a los militantes ambientalistas, ecologistas y en la defensa del agua. Me gustaría que pudieras comentar qué sentís en esta situación, por qué militás en este tema y qué es lo que te mueve.
+
+**Federico Soria:** Es una pregunta bastante profunda. Primero, hay muchas etiquetas que nos van colocando; nuestro rol está tipificado como persona defensora de los derechos humanos desde la conformación de la Comisión Interamericana, de la ONU y en los distintos pactos internacionales de derechos humanos. El Acuerdo de Escazú menciona específicamente que las personas defensoras del ambiente deberían tener una protección y defensa por parte de los Estados, cosa que es completamente al revés.
+
+En ese marco tratamos de ejercer la defensa en nuestros territorios. Lo hacemos porque, en mi caso, tengo la formación técnica profesional para darme cuenta de que esto es un verdadero atropello que tiene impactos negativos ambientales, sociales y económicos, existiendo antecedentes en todo el mundo sobre los impactos de la megaminería y el extractivismo. Además, en Uspallata hemos podido elaborar alternativas ambientales, sociales y económicas con fundamento técnico, científico y jurídico para ofrecer frente a este modelo que nos quieren imponer.
+
+El extractivismo se presenta como un modelo, pero en realidad es una cuestión ideológica sin fundamento científico, con el postulado de que las actividades extractivas que aniquilan la naturaleza traerían prosperidad, implicando además el sometimiento de los pueblos. Vivimos en Uspallata en un lugar maravilloso que elegimos porque es natural, tranquilo y con patrimonio, y queremos defender la naturaleza, el ambiente y los modos de vida tradicionales.
+
+Desde mi faz profesional entiendo cómo debe ser la perspectiva ambiental empleando el enfoque multidisciplinario donde todo tiene que ver con todo, evitando el pensamiento compartimentado que pretende imponer que la explotación minera no tiene que ver con el turismo. La propia ciencia demuestra, vinculando diversas disciplinas, que esto es negativo ambientalmente por el impacto en el ecosistema, socialmente sobre la población y económicamente perjudicando las actividades tradicionales de este lugar. Por eso luchamos para evitar el ingreso de este modelo y defender nuestras actividades productivas tradicionales.
+
+**Pressenza:** Bien. Para ir terminando te pregunto: ¿cuál es tu móvil, cuál es tu esperanza, qué futuro esperás de esta acción conjunta y cuál es el mundo que estás buscando?
+
+**Federico Soria:** En el sentido práctico tenemos un problema complejo por toda esta persecución, que es una suerte de mordaza impuesta por el gobierno para que esto no trascienda a nivel local ni hacia afuera. Como acá están cooptadas todas las instituciones -Poder Ejecutivo, Poder Legislativo y un Poder Judicial que nos persigue-, lo que tratamos de hacer es que este estado de sitio, las violaciones a los derechos humanos y el armado de causas por parte del gobernador Alfredo Cornejo por cuenta y orden de Minera San Jorge trasciendan al exterior.
+
+Buscamos alertar a inversores y a organismos de derechos humanos internacionales que observan a la Argentina creyendo que es un país donde rige plenamente la democracia, cuando no es así. Apuntamos a que esas observaciones lleguen a las autoridades y a generar antecedentes para que en el futuro los responsables de esta situación sean enjuiciados como lo fueron los militares de la dictadura. La impunidad no dura para siempre: si los jerarcas de la dictadura están casi todos presos hoy, eso sirve de motivación para no claudicar ante esta vulneración de derechos. Lo hacemos también con una impronta de patriotismo frente a intereses extranjeros y entregadores locales.
+
+En lo personal está la satisfacción de que vale la pena luchar: en Uspallata hemos resistido 18 años y la minera no pudo entrar. Existen herramientas como las áreas naturales protegidas creadas en San Carlos, Tunuyán y Tupungato (Valle de Uco), donde las mineras que demandaron a la provincia perdieron los juicios y se tuvieron que ir; eso mismo queremos como escudo protector para Uspallata.
+
+**Pressenza:** Sabemos que es un tema internacional porque no pasa solamente en Uspallata y Mendoza, sino en otras provincias y en Chile. ¿Cómo ves la situación en Chile? ¿Hay contacto y trabajo conjunto?
+
+**Federico Soria:** Con Chile tenemos contacto permanente; hay un embrión de Asamblea Binacional conformándose entre Mendoza y la zona central chilena. Hace poco ocurrieron dos derrames en el río Aconcagua provenientes de la Minera Andina, apenas bajando los caracoles tras cruzar la cordillera. Esos incidentes son permanentes y previsibles. Aunque las autoridades mendocinas pretendan poner a Chile como modelo, allí hay pueblos contaminados, personas enfermas y más de 800 relaves mineros abandonados.
+
+Asimismo, nos conectan las vías de comunicación que operan como las rutas del saqueo de las que hablaba Eduardo Galeano en *Las venas abiertas de América Latina*. Los corredores bioceánicos se proyectan no para integrar a los pueblos, sino para acentuar el saqueo hacia las grandes potencias. Nuestro mensaje integrador sostiene que la cordillera no es una barrera, sino un portal que nos une como unía a los pueblos originarios antes de las fronteras impuestas para dividir. Con comunidades como Putaendo hemos coordinado históricamente, impulsando que las rutas sanmartinianas sean declaradas Patrimonio de la Humanidad, y continuamos marchando en conjunto contra la destrucción de los territorios.
+
+**Pressenza:** Bueno, Federico, muchas gracias por tus comentarios y por tu participación en la próxima reunión internacional en Europa. No sé si querés cerrar con algunas palabras.
+
+**Federico Soria:** No hay mucho más que agregar, solo esperar traer buenas conclusiones de ese encuentro y seguir tejiendo redes nacionales e internacionales, tal como hacen ustedes transmitiendo el mensaje de Silo y el humanismo. Un saludo muy grande a todos los lectores y muchísimas gracias.
+
+**Pressenza:** Gracias a tí, Federico.
+
+[Redacción Argentina](https://www.pressenza.com/es/author/redaccion-argentina/)
+
+---
+
+*Publicado originalmente en [Pressenza](https://www.pressenza.com/es/2026/11/la-resistencia-socioambiental-de-uspallata-argentina-ante-los-foros-internacionales-judicializacion-captura-estatal-y-vulneracion-de-derechos-humanos-en-mendoza/) el 18 de noviembre de 2026. Reproducido por Kitus bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es). El texto no fue modificado.*
