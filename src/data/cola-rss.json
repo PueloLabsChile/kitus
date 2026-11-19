@@ -1,5 +1,75 @@
 [
   {
+    "id": "pressenza-jt4rup",
+    "titulo": "Invitación a formar parte de los Talleres FRI",
+    "resumen": "Como resultado de las Jornadas FRI-ICAP realizadas en la ciudad de Santa Clara-Cuba en octubre de 2026, FORUM RED INTERCULTURAL, convoca a su red de colaboradores a participar en el primer Taller FRI.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/invitacion-a-formar-parte-de-los-talleres-fri/",
+    "fecha": "2026-11-19T22:23:43.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1i794d6",
+    "titulo": "Mario Aguilar reelecto como Presidente del Colegio de Profesoras y Profesores de Chile",
+    "resumen": "El Comité Electoral Nacional (CEN) del Colegio de Profesoras y Profesores de Chile, mediante la Circular N° 20/2026, de fecha 18 de noviembre, dio a conocer la nómina de candidatas y candidatos presuntamente electos para integrar el…",
+    "seccion": "politica",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/mario-aguilar-reelecto-como-presidente-del-colegio-de-profesoras-y-profesores-de-chile/",
+    "fecha": "2026-11-19T20:50:11.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-12elueb",
+    "titulo": "Milei y la dolarización en una sociedad precarizada",
+    "resumen": "La aprobación del libertario presidente argentino Javier Milei se ubicó esta semana en 36,2%, mientras que el 60,6% desaprueba su desempeño y el 3,2% no sabe o prefiere no contestar, según la última encuesta de Latam Pulse Argentina. La…",
+    "seccion": "politica",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/milei-y-la-dolarizacion-en-una-sociedad-precarizada/",
+    "fecha": "2026-11-19T20:48:59.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-skc4el",
+    "titulo": "Marcia Scantlebury: «El problema del gobierno que tenemos ahora es que desconoce el valor de lo intangible»",
+    "resumen": "Tras ser reconocida en la categoría Trayectoria del Premio Libertad de Expresión José Carrasco…",
+    "seccion": "politica",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/marcia-scantlebury-el-problema-del-gobierno-que-tenemos-ahora-es-que-desconoce-el-valor-de-lo-intangible/",
+    "fecha": "2026-11-19T19:58:06.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-rwjvbv",
+    "titulo": "Los robots sociales están abandonando los laboratorios y entrando en nuestro imaginario",
+    "resumen": "Un robot humanoide supera la velocidad de Usain Bolt(https://www.rtve.es/noticias/20260822/robot-chino-bate-record-mundial-usain-bolt-100-metros-prueba-previa-a-juegos-mundiales-robots/17199091.shtml) en una prueba para los Juegos…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/los-robots-sociales-estan-abandonando-los-laboratorios-y-entrando-en-nuestro-imaginario-294080",
+    "fecha": "2026-11-19T17:40:46.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-xz3jbp",
+    "titulo": "Cómo acabamos plastificados: todo empezó con la promesa de vivir mejor con menos esfuerzo",
+    "resumen": "Introduzco en una bolsa de plástico un juguete envuelto en plástico. En el supermercado, buena parte de lo que compro también está empaquetado en el mismo material. Paso por la farmacia y recojo medicamentos en un blíster. Pago con una…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/como-acabamos-plastificados-todo-empezo-con-la-promesa-de-vivir-mejor-con-menos-esfuerzo-295205",
+    "fecha": "2026-11-19T17:40:40.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1f7tcq2",
+    "titulo": "Antes de preguntar a un chatbot por las elecciones del 29-N, conviene saber cómo se equivoca",
+    "resumen": "Faltan unos días para el 29 de noviembre y alguien, con prisa, abre un chatbot y escribe: “¿qué propone cada partido sobre vivienda?”. La respuesta llega en segundos. Bien redactada, ordenada por apartados y sin una sola duda. Y ese tono…",
+    "seccion": "politica",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/antes-de-preguntar-a-un-chatbot-por-las-elecciones-del-29-n-conviene-saber-como-se-equivoca-295187",
+    "fecha": "2026-11-19T17:33:34.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "agencia-tierra-viva-1kr3yud",
     "titulo": "La economía agroecológica avanza en América: lecciones desde los movimientos",
     "resumen": "¿Qué economías agroecológicas queremos? Es la pregunta que se instaló en Pisco (Perú), en el encuentro de \"Intercambios de Aprendizajes de las Américas sobre Economías de la Agroecología\", que reunió a 60 organizaciones de 15 países, con…",
@@ -187,6 +257,16 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/11/mexico-llega-con-su-estrategia-de-desarrollo-economico-a-china/",
     "fecha": "2026-11-18T15:58:56.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "dialogue-earth-ukki6x",
+    "titulo": "China acusa a Chile y Bélgica de un ‘acuerdo a puertas cerradas’ en medio de tensiones por la sede del tratado de alta mar",
+    "resumen": "China apenas disimuló su furia después de que su intento por albergar su primer organismo de la ONU pareciera haber sido frustrado por una alianza entre Chile y Bélgica.",
+    "seccion": "internacional",
+    "medio": "Dialogue Earth",
+    "enlace": "https://dialogue.earth/es/oceanos/china-acusa-chile-belgica-acuerdo-puertas-cerradas-tensiones-sede-tratado-alta-mar/",
+    "fecha": "2026-11-18T08:10:00.000Z",
     "estado": "pendiente"
   },
   {
@@ -1117,86 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/11/el-final-de-la-trampa-financiera-entre-el-vaciamiento-de-asuncion-el-espejismo-de-buenos-aires-y-la-advertencia-humanista/",
     "fecha": "2026-11-10T21:53:20.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1vrfihk",
-    "titulo": "Consecuencias del Niño 2027",
-    "resumen": "Los océanos se calientan y Latinoamérica se debe prepara para un año difícil",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/consecuencias-del-nino-2027/",
-    "fecha": "2026-11-10T19:04:48.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-1bqzlqw",
-    "titulo": "Madagascar protege sus zonas marinas como parte de su biodiversidad",
-    "resumen": "En Madagascar, las metas en materia de biodiversidad enfrentan el reto de financiación y realidades locales",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/11/10/madagascar-se-compromete-con-la-biodiversidad-a-traves-de-la-proteccion-des-zonas-marinas/",
-    "fecha": "2026-11-10T18:00:04.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-2y4v0g",
-    "titulo": "El lenguaje de los árboles. La comunicación secreta de los seres vivos",
-    "resumen": "El cine vuelve a invitarnos a escuchar la naturaleza",
-    "seccion": "cultura",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/el-lenguaje-de-los-arboles-la-comunicacion-secreta-de-los-seres-vivos/",
-    "fecha": "2026-11-10T17:39:06.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-8neqog",
-    "titulo": "“Queremos que vuelva”: por qué recuperar a un cliente no siempre es una buena idea",
-    "resumen": "Llega un correo de una empresa cuyos servicios hemos dejado de utilizar diciendo: “Le echamos de menos”. El mensaje incluye un descuento, una oferta especial o una invitación a retomar el contacto. Pero, si nos marchamos porque el servicio…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/queremos-que-vuelva-por-que-recuperar-a-un-cliente-no-siempre-es-una-buena-idea-295049",
-    "fecha": "2026-11-10T17:01:49.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1qftiy1",
-    "titulo": "¿Es la Escuela de Salamanca la cuna de los derechos humanos?",
-    "resumen": "El 19 de octubre de 1526, el dominico Francisco de Vitoria(https://theconversation.com/topics/francisco-de-vitoria-188431) se estrenó como profesor de la Universidad de Salamanca, tras ganar la plaza de Prima de Teología frente al…",
-    "seccion": "derechos",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/es-la-escuela-de-salamanca-la-cuna-de-los-derechos-humanos-290201",
-    "fecha": "2026-11-10T16:57:13.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1qrya0u",
-    "titulo": "Riesgo permitido y responsabilidad penal: ¿era fútbol el rodillazo del portero, aunque resultara letal?",
-    "resumen": "La desgraciada muerte del futbolista Jesús de Miguel(https://www.rtve.es/deportes/20261103/muere-delantero-jesus-miguel-tenerife-andorra/17297081.shtml) el pasado 3 de noviembre, tras el impacto sufrido durante el partido entre el CD…",
-    "seccion": "politica",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/riesgo-permitido-y-responsabilidad-penal-era-futbol-el-rodillazo-del-portero-aunque-resultara-letal-296003",
-    "fecha": "2026-11-10T16:57:07.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-lza9by",
-    "titulo": "COPEHU: nueve países unidos para profundizar en la Pedagogía de la Intencionalidad y planificar el 2027",
-    "resumen": "El II Encuentro Internacional virtual reunió a participantes de nueve países para compartir experiencias y abrir nuevas posibilidades de acciones, estudio e investigación en torno a una educación humanizadora.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/copehu-nueve-paises-unidos-para-profundizar-en-la-pedagogia-de-la-intencionalidad-y-planificar-el-2027/",
-    "fecha": "2026-11-10T16:03:30.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1829mu3",
-    "titulo": "Anna Skorokhod: una parlamentaria valiente en la Rada ucraniana",
-    "resumen": "Hay una sola diputada en toda la Verkhovna Rada (el Parlamento ucraniano) que, en los últimos tres años, ha pisado los cuarteles y los centros de reclutamiento. Se llama Anna Kostiantynivna Skorokhod, nació el 14 de enero de 1990 en…",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/anna-skorokhod-una-parlamentaria-valiente-en-la-rada-ucraniana/",
-    "fecha": "2026-11-10T16:00:42.000Z",
     "estado": "pendiente"
   }
 ]
