@@ -1,5 +1,55 @@
 [
   {
+    "id": "global-voices-lg0gth",
+    "titulo": "Ofensiva de Egipto contra medios independientes alcanza a Mada Masr: Editora enfrenta juicio",
+    "resumen": "Egipto condenó a Lina Attalah, de Mada Masr, en una audiencia plagada de irregularidades y ordenó el cierre del medio.",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/19/ofensiva-de-egipto-contra-medios-independientes-alcanza-a-mada-masr-editora-enfrenta-juicio/",
+    "fecha": "2026-11-19T07:00:01.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-uvcgbi",
+    "titulo": "Plataforma de tecnología cívica ayuda a las mujeres en Serbia a llegar a salvo a casa",
+    "resumen": "¿Qué podemos cambiar en los lugares donde la gente trabaja, estudia y pasa su tiempo libre?",
+    "seccion": "derechos",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/19/plataforma-de-tecnologia-civica-ayuda-a-las-mujeres-en-serbia-a-llegar-a-salvo-a-casa/",
+    "fecha": "2026-11-19T06:00:13.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-16th1hz",
+    "titulo": "El Salvador: Bukele exporta su modelo represivo",
+    "resumen": "Más de 2.000 soldados salvadoreños en el Caribe",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/el-salvador-bukele-exporta-su-modelo-represivo/",
+    "fecha": "2026-11-19T03:08:39.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-ujbxw",
+    "titulo": "Programa ¡Que el Pueblo Viva!: Militarización y Derechos Humanos",
+    "resumen": "En este nuevo Programa ¡¡Que el Pueblo Viva!!(https://www.youtube.com/watch?v=vgYKLpYvZ5E), Pablo Ruiz presenta el libro «Entrenamiento, Bases y Militarización en América Latina» poniendo atención en el entrenamiento en la Escuela de las…",
+    "seccion": "derechos",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/programa-que-el-pueblo-viva-militarizacion-y-derechos-humanos/",
+    "fecha": "2026-11-19T02:43:16.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-bobisy",
+    "titulo": "Perú: Estudiantes de la PUCP toman medida de fuerza nuevamente por pensiones",
+    "resumen": "Ayer, miércoles 18 de noviembre, los estudiantes de la Pontificia Universidad Católica del Perú (PUCP) nuevamente realizaron una medida de protesta por el nuevo sistema de pensiones y procesos disciplinarios contra los estudiantes, pese a…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/peru-estudiantes-de-la-pucp-toman-medida-de-fuerza-nuevamente-por-pensiones/",
+    "fecha": "2026-11-19T02:40:59.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-15sqxnu",
     "titulo": "La resistencia socioambiental de Uspallata (Argentina) ante los foros internacionales: judicialización, captura estatal y vulneración de Derechos Humanos en Mendoza",
     "resumen": "Quién es Federico Soria(https://www.frontlinedefenders.org/es/profile/federico-soria)",
@@ -1147,56 +1197,6 @@
     "medio": "Global Voices",
     "enlace": "https://es.globalvoices.org/2026/11/10/gobiernos-africanos-ya-consideran-a-internet-como-infraestructura-para-protestar-sus-tribunales-aun-no-estan-al-corriente/",
     "fecha": "2026-11-10T06:00:30.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1buq5jm",
-    "titulo": "Papa León XIV: “¡Vuelve a casa!”",
-    "resumen": "Con el lema “¡Vuelve a casa!” el Perú se prepara para recibir al Papa León XIV, Robert Francis Prevost, quien retorna por primera vez al Perú, luego de ser nombrado como la principal autoridad de la iglesia Católica en mayo del 2025. Su…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/papa-leon-xiv-vuelve-a-casa/",
-    "fecha": "2026-11-10T03:23:38.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-aukf33",
-    "titulo": "La búsqueda de la izquierda brasileña de «domar» a Meta: Narrativa de denuncia y resistencia",
-    "resumen": "Defensores de los derechos en Internet y simpatizantes de la campaña de Lula da Silva cuestionan la supuesta “prohibición encubierta” de Meta",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/11/10/la-busqueda-de-la-izquierda-brasilena-de-domar-a-meta-narrativa-de-denuncia-y-resistencia/",
-    "fecha": "2026-11-10T02:00:42.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1iluijz",
-    "titulo": "Por qué las protestas masivas actuales en Europa y en otros lugares no pueden producir un cambio profundo. Para que eso suceda, se necesita algo más",
-    "resumen": "En Francia viven 66.788.480 personas, de las cuales 5,4 millones son jóvenes de entre 18 y 24/25 años. En Italia viven aproximadamente 58,9 millones de personas, de las cuales 4, 7 millones tienen entre 18 y 25 años. Dos países en los que…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/por-que-las-protestas-masivas-actuales-en-europa-y-en-otros-lugares-no-pueden-producir-un-cambio-profundo-para-que-eso-suceda-se-necesita-algo-mas/",
-    "fecha": "2026-11-10T01:55:37.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1g2zr57",
-    "titulo": "Ucrania y los drones en el Golfo: ¿cooperación militar o un nuevo negocio en medio de la guerra?",
-    "resumen": "Mientras continúa la guerra con Rusia, Ucrania comienza a proyectar su industria militar hacia Oriente Medio. El gobierno de Volodímir Zelenski ha encontrado en la crisis regional una oportunidad para ofrecer tecnología antidrones…",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/ucrania-y-los-drones-en-el-golfo-cooperacion-militar-o-un-nuevo-negocio-en-medio-de-la-guerra/",
-    "fecha": "2026-11-10T01:25:12.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-ckccye",
-    "titulo": "¿Para qué?",
-    "resumen": "El sentido de las movilizaciones, las huelgas, las elecciones y las luchas",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/para-que/",
-    "fecha": "2026-11-10T01:19:45.000Z",
     "estado": "pendiente"
   }
 ]
