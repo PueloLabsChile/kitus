@@ -1,5 +1,35 @@
 [
   {
+    "id": "agencia-tierra-viva-1kr3yud",
+    "titulo": "La economía agroecológica avanza en América: lecciones desde los movimientos",
+    "resumen": "¿Qué economías agroecológicas queremos? Es la pregunta que se instaló en Pisco (Perú), en el encuentro de \"Intercambios de Aprendizajes de las Américas sobre Economías de la Agroecología\", que reunió a 60 organizaciones de 15 países, con…",
+    "seccion": "economia",
+    "medio": "Agencia Tierra Viva",
+    "enlace": "https://agenciatierraviva.com.ar/la-economia-agroecologica-avanza-en-america-lecciones-desde-los-movimientos/",
+    "fecha": "2026-11-19T16:23:47.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-8zhzz5",
+    "titulo": "Kiev, entre explosiones y apagones: otra noche de guerra",
+    "resumen": "Crónica de Noches de guerra. Ayer a las 3 de la madrugada, como ya escribí(https://www.pressenza.com/it/author/mauro-zanella/), según afirman fuentes ucranianas:",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/kiev-entre-explosiones-y-apagones-otra-noche-de-guerra/",
+    "fecha": "2026-11-19T13:28:18.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "agencia-tierra-viva-a21rpl",
+    "titulo": "Un molino agroecológico en plena Pampa Húmeda y el cooperativismo que produce alimentos sanos",
+    "resumen": "Existe un molino que genera entusiasmo en el partido bonaerense de Lincoln. No es un molino cualquiera: es de producción agroecológica y uno de los últimos logros de un grupo de productores y vecinos que, inspirados en otras experiencias…",
+    "seccion": "politica",
+    "medio": "Agencia Tierra Viva",
+    "enlace": "https://agenciatierraviva.com.ar/un-molino-agroecologico-en-plena-pampa-humeda-y-el-cooperativismo-que-produce-alimentos-sanos/",
+    "fecha": "2026-11-19T10:52:01.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "global-voices-lg0gth",
     "titulo": "Ofensiva de Egipto contra medios independientes alcanza a Mada Masr: Editora enfrenta juicio",
     "resumen": "Egipto condenó a Lina Attalah, de Mada Masr, en una audiencia plagada de irregularidades y ordenó el cierre del medio.",
@@ -1167,36 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/11/anna-skorokhod-una-parlamentaria-valiente-en-la-rada-ucraniana/",
     "fecha": "2026-11-10T16:00:42.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-w36n9e",
-    "titulo": "Voluntarios de Polonia recuerdan cómo los polacos abrieron sus hogares a los refugiados ucranianos en 2022",
-    "resumen": "Ahora, la desinformación rusa aviva el recuerdo de conflictos históricos violentos, y la empatía polaca se está agotando",
-    "seccion": "derechos",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/11/10/voluntarios-de-polonia-recuerdan-como-los-polacos-abrieron-sus-hogares-a-los-refugiados-ucranianos-en-2022/",
-    "fecha": "2026-11-10T07:00:31.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1pqkf74",
-    "titulo": "¿A quién cree la universidad? Cómo se distribuye la credibilidad en la ciencia",
-    "resumen": "Una investigadora presenta su trabajo en un seminario y recibe más interrupciones(https://www.aeaweb.org/articles?id=10.1257%2Faer.20241718) que un compañero. Una candidata opta a una plaza y su carta de recomendación introduce cautelas o…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/a-quien-cree-la-universidad-como-se-distribuye-la-credibilidad-en-la-ciencia-295825",
-    "fecha": "2026-11-10T06:32:44.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-10idv9y",
-    "titulo": "Gobiernos africanos ya consideran a internet como infraestructura para protestar; sus tribunales aún no están al corriente",
-    "resumen": "Cuando reúnen muchos, algunos Estados no procesan a las personas. Más bien, desmantelan la red.",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/11/10/gobiernos-africanos-ya-consideran-a-internet-como-infraestructura-para-protestar-sus-tribunales-aun-no-estan-al-corriente/",
-    "fecha": "2026-11-10T06:00:30.000Z",
     "estado": "pendiente"
   }
 ]
