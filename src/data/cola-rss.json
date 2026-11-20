@@ -1,5 +1,55 @@
 [
   {
+    "id": "the-conversation-espana-fmoaf7",
+    "titulo": "¿Es el objetivo de electrificación del 35% para 2035 de la COP31 la solución para reducir emisiones?",
+    "resumen": "La Presidencia de la última Conferencia de las Naciones Unidas sobre el Cambio Climático (la COP31), celebrada en Antalya (Turquía) del 9 al 20 de noviembre de 2026, lanzó al comienzo del evento el Compromiso Global de Electrificación ’35…",
+    "seccion": "derechos",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/es-el-objetivo-de-electrificacion-del-35-para-2035-de-la-cop31-la-solucion-para-reducir-emisiones-296896",
+    "fecha": "2026-11-20T11:28:12.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1ph90iu",
+    "titulo": "El debate Sánchez-Feijóo: nada de fundamento durante 45 minutos",
+    "resumen": "Hay que empezar por el ridículo, porque el ridículo es lo que mejor resume la noche. Mientras dos candidatos a presidir un país discutían, una parte de la prensa —la que se reclama seria— dedicó párrafos enteros a descifrar si el fucsia de…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/el-debate-sanchez-feijoo-nada-de-fundamento-durante-45-minutos/",
+    "fecha": "2026-11-20T08:09:01.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-cm3sh9",
+    "titulo": "Cuando los chatbots se convierten en «motores de respuestas»: IA, geopolítica y verdad",
+    "resumen": "La información equivocada pero creíble es la más peligrosa",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/20/cuando-los-chatbots-se-convierten-en-motores-de-respuestas-ia-geopolitica-y-verdad/",
+    "fecha": "2026-11-20T06:00:54.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-1cmrdgs",
+    "titulo": "Bangladesh considera endurecer legislación en ciberseguridad debido a la violencia generada con IA contra las mujeres",
+    "resumen": "La vigilancia estatal y el control de la libertad de expresión en línea tienen una larga historia en el país",
+    "seccion": "derechos",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/20/bangladesh-considera-endurecer-legislacion-en-ciberseguridad-debido-a-la-violencia-generada-con-ia-contra-las-mujeres/",
+    "fecha": "2026-11-20T06:00:25.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1kak69k",
+    "titulo": "Perú: Gobierno detiene a artistas populares bajo la figura de “terrorismo”",
+    "resumen": "La Dirección contra el terrorismo (Dircote) inició una serie de detenciones este jueves 19 de noviembre, en Cusco y Lima, bajo el marco de investigaciones por presunta afiliación a una organización terrorista. Los dos artistas de hip hop…",
+    "seccion": "cultura",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/peru-gobierno-detiene-a-artistas-populares-bajo-la-figura-de-terrorismo/",
+    "fecha": "2026-11-20T04:44:44.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-1pfe0vh",
     "titulo": "Estados Unidos nunca ha sido aliado de Chile (IX)",
     "resumen": "Como señaló Gonzalo Vial, “el caso Alsop enfrió las relaciones Chile-Estados Unidos. Se advirtió en la Cuarta Conferencia Interamericana –Buenos Aires, 1910- . Los norteamericanos (sic), por mano brasileña, pretendían obtener una especie…",
@@ -1147,56 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/spain-general-strike-how-50-years-of-industrial-action-shaped-spains-post-franco-democracy-296306",
     "fecha": "2026-11-11T08:39:17.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-uedi4g",
-    "titulo": "En Naciones Unidas, se planea una coalición mundial para atacar derechos LGBTQ+ y reproductivos",
-    "resumen": "La extrema derecha busca desmantelar protecciones globales para personas LGBTQ+ bajo la apariencia de «valores familiares.»",
-    "seccion": "derechos",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/11/11/en-naciones-unidas-se-planea-una-coalicion-mundial-para-atacar-derechos-lgbtq-y-reproductivos/",
-    "fecha": "2026-11-11T07:00:41.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-fpgxi8",
-    "titulo": "Reformas en contratación entre Bangladesh y Malasia reavivan viejas preguntas sobre costos de la migración",
-    "resumen": "Reiteradas interrupciones generan inquietudes sobre transparencia en reclutamiento y protección de los trabajadores migrantes frente a la explotación.",
-    "seccion": "economia",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/11/11/reformas-en-contratacion-entre-bangladesh-y-malasia-reavivan-viejas-preguntas-sobre-costos-de-la-migracion/",
-    "fecha": "2026-11-11T06:00:08.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1mrqgr4",
-    "titulo": "Perú: La otra agenda del Papa León XIV",
-    "resumen": "A pocas horas de la llegada del Papa León XIV al Perú, hoy miércoles 11 de noviembre, los miles de fieles se preparan para recibirlo en las diferentes ciudades del norte, centro y oriente del país. Unidos a los fieles, colectivos de la…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/peru-la-otra-agenda-del-papa-leon-xiv/",
-    "fecha": "2026-11-11T04:15:08.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-si7llv",
-    "titulo": "Cuando una cura pone en tela de juicio el negocio de los tratamientos",
-    "resumen": "Parte de «Una violencia demasiado grande para ser vista(https://www.deepl.com/?tag=a-violence-too-large-to-see)», un análisis de cómo la organización económica de la asistencia sanitaria afecta a la libertad humana y de cómo el progreso…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/when-a-cure-challenges-the-business-of-treatment/",
-    "fecha": "2026-11-11T01:24:01.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1po02ag",
-    "titulo": "«Los Sueños, una entrada hacia otros mundos» publicado en Portugués, presentado por Pía Figueroa en Sao Paulo",
-    "resumen": "En el ambiente distendido de la librería Tapera Tapera, todavía inmersa en la desbordante alegría del pueblo brasilero tras la re-elección de su Presidente Lula Da Silva, fue presentada la edición en Portugués del libro de Pía Figueroa…",
-    "seccion": "derechos",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/los-suenos-una-entrada-hacia-otros-mundos-publicado-en-portugues-presentado-por-pia-figueroa-en-sao-paulo/",
-    "fecha": "2026-11-10T22:35:11.000Z",
     "estado": "pendiente"
   }
 ]
