@@ -1,5 +1,45 @@
 [
   {
+    "id": "pressenza-1rv90s0",
+    "titulo": "Pescadores y artistas de Sorsogon montan una exposición por la protección costera",
+    "resumen": "GUBAT, Sorsogon (Filipinas) — Pescadores, artistas locales y activistas ambientales están poniendo el foco en las amenazas ambientales y climáticas que afronta la bahía de Gubat, en la región de Bicol, al sureste de la isla de Luzón. Entre…",
+    "seccion": "derechos",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/pescadores-y-artistas-de-sorsogon-montan-una-exposicion-por-la-proteccion-costera/",
+    "fecha": "2026-11-20T19:13:48.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1ovtxis",
+    "titulo": "De ‘perder el tiempo’ con ‘GTA V’ a pedir el día libre por ‘GTA VI’",
+    "resumen": "Estas líneas se escriben el 20 de noviembre de 2026 y ayer, día del lanzamiento del esperadísimo GTA VI, hubo gente que se pidió el día libre. Lo curioso es que puede que alguno se lo haya pedido hace más de un año. El 6 de noviembre de…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/de-perder-el-tiempo-con-gta-v-a-pedir-el-dia-libre-por-gta-vi-297085",
+    "fecha": "2026-11-20T17:20:04.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "agencia-tierra-viva-rkok92",
+    "titulo": "Mapuches defienden el territorio, mientras la política de Estado es negar los derechos indígenas",
+    "resumen": "La ocupación tradicional indígena en tierras fiscales es una fuente permanente de conflictos en la provincia de Río Negro, a pesar de que tiene cuarenta años una ley específica que contempla la protección de la población rural originaria…",
+    "seccion": "derechos",
+    "medio": "Agencia Tierra Viva",
+    "enlace": "https://agenciatierraviva.com.ar/mapuches-defienden-el-territorio-mientras-la-politica-de-estado-es-negar-los-derechos-indigenas/",
+    "fecha": "2026-11-20T14:53:29.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1ihfn65",
+    "titulo": "Ámbar Pérez-García gana la primera edición del concurso ‘Mi investigación en cinco minutos’ de ÍNSULA",
+    "resumen": "Cinco minutos para contar años de investigación. Ese era el reto del concurso regional Mi investigación en cinco minutos, que ha estrenado edición en el festival de divulgación científica ÍNSULA, en el Gabinete Literario de Las Palmas de…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/ambar-perez-garcia-gana-la-primera-edicion-del-concurso-mi-investigacion-en-cinco-minutos-de-insula-296978",
+    "fecha": "2026-11-20T13:45:22.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "the-conversation-espana-fmoaf7",
     "titulo": "¿Es el objetivo de electrificación del 35% para 2035 de la COP31 la solución para reducir emisiones?",
     "resumen": "La Presidencia de la última Conferencia de las Naciones Unidas sobre el Cambio Climático (la COP31), celebrada en Antalya (Turquía) del 9 al 20 de noviembre de 2026, lanzó al comienzo del evento el Compromiso Global de Electrificación ’35…",
@@ -1157,46 +1197,6 @@
     "medio": "Dialogue Earth",
     "enlace": "https://dialogue.earth/es/energia/trump-promete-bonanza-petrolera-venezuela-en-beneficio-de-quien/",
     "fecha": "2026-11-11T15:16:28.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1tlrk13",
-    "titulo": "La atención mundial se centra en Shenzhen: ¿cómo se vive en la ciudad del futuro?",
-    "resumen": "Un creador de contenido egipcio quedó sorprendido al ver drones que entregan pedidos en el parque Lianhuashan y probar un vehículo inteligente en una tienda de Huawei. Su conclusión: Shenzhen es «la ciudad del futuro». Un turista británico…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/la-atencion-mundial-se-centra-en-shenzhen-como-se-vive-en-la-ciudad-del-futuro/",
-    "fecha": "2026-11-11T15:15:47.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-gryvxy",
-    "titulo": "No es solamente el precio de la bencina, es el costo de vivir",
-    "resumen": "Desde Arica hasta Punta Arenas, las movilizaciones que hoy reúnen a transportistas, conductores, organizaciones como No+TAG y otros sectores de la ciudadanía expresan un malestar que trasciende al transporte. No es un reclamo aislado, es…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/no-es-solamente-el-precio-de-la-bencina-es-el-costo-de-vivir/",
-    "fecha": "2026-11-11T15:04:34.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-5wxoqb",
-    "titulo": "Tribunal Ambiental suspende “Pascua Lama 2.0” y frena sondajes cercanos a glaciares de Alto del Carmen",
-    "resumen": "El Segundo Tribunal Ambiental acogió la cautelar del Comité Ambiental Comunal de Alto del Carmen y suspendió la RCA del proyecto “Prospección Minera El Alto”, que pretendía perforar en el área clausurada de Pascua Lama cercana a los…",
-    "seccion": "derechos",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/tribunal-ambiental-suspende-pascua-lama-2-0-y-frena-sondajes-cercanos-a-glaciares-de-alto-del-carmen/",
-    "fecha": "2026-11-11T14:01:03.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1sybnol",
-    "titulo": "Spain general strike: how 50 years of industrial action shaped Spain’s post-Franco democracy",
-    "resumen": "The end of the Franco dictatorship profoundly changed labour relations in Spain. Under Franco, trade unions were wholly authoritarian, and there was only one permitted union, the Spanish Syndical Organisation or “Sindicato Vertical”. But…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/spain-general-strike-how-50-years-of-industrial-action-shaped-spains-post-franco-democracy-296306",
-    "fecha": "2026-11-11T08:39:17.000Z",
     "estado": "pendiente"
   }
 ]

@@ -13,6 +13,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/11/20/cuando-los-chatbots-se-convierten-en-motores-de-respuestas-ia-geopolitica-y-verdad/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-cm3sh9.jpg"
+creditoPortada: "Foto: Global Voices"
 ---
 *La información equivocada pero creíble es la más peligrosa*
 
