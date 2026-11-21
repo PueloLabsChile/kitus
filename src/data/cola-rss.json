@@ -1,5 +1,15 @@
 [
   {
+    "id": "pressenza-olxm4h",
+    "titulo": "Actuación de Teatro Adentro en las Jornadas FRI-ICAP",
+    "resumen": "Teatro Adentro es una agrupación y proyecto teatral de Santa Clara, Cuba, fundado en 2012 y dirigido por José Brito Cordero.",
+    "seccion": "cultura",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/actuacion-de-teatro-adentro-en-las-jornadas-fri-icap/",
+    "fecha": "2026-11-21T20:20:54.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-1up9mu7",
     "titulo": "Un Congreso de ricos en un país que aprieta el cinturón",
     "resumen": "La investigación publicada esta semana por un canal de televisión reveló que los congresistas gastaron más de $260 millones en combustible en apenas tres meses de este año. El desembolso ocurrió justo cuando la mayoría de los chilenos y…",
@@ -1187,16 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/11/donde-van-a-parar-los-fondos-publicos-del-congreso-nacional-hondureno/",
     "fecha": "2026-11-12T13:57:04.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1029maq",
-    "titulo": "La selección: el vértigo informativo de un otoño histórico",
-    "resumen": "Es difícil encontrar un momento de la historia reciente en el que hayan ocurrido tantos acontecimientos de impacto en tan poco tiempo. Haga el ejercicio de echar la vista atrás al último mes y medio y quedará sin aliento leyendo grandes…",
-    "seccion": "politica",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/la-seleccion-el-vertigo-informativo-de-un-otono-historico-296031",
-    "fecha": "2026-11-12T08:36:26.000Z",
     "estado": "pendiente"
   }
 ]
