@@ -1,5 +1,35 @@
 [
   {
+    "id": "pressenza-1up9mu7",
+    "titulo": "Un Congreso de ricos en un país que aprieta el cinturón",
+    "resumen": "La investigación publicada esta semana por un canal de televisión reveló que los congresistas gastaron más de $260 millones en combustible en apenas tres meses de este año. El desembolso ocurrió justo cuando la mayoría de los chilenos y…",
+    "seccion": "politica",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/un-congreso-de-ricos-en-un-pais-que-aprieta-el-cinturon/",
+    "fecha": "2026-11-21T15:38:59.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-18i74dr",
+    "titulo": "El prejuicio como instrumento de poder",
+    "resumen": "Hay una vieja enfermedad que atraviesa la historia política de América Latina: la convicción de que quien tiene más poder es, por ese solo hecho, superior a quienes carecen de él. No se trata simplemente de una expresión de arrogancia…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/el-prejuicio-como-instrumento-de-poder/",
+    "fecha": "2026-11-21T14:58:42.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1uts9go",
+    "titulo": "¡Detengamos el rearme de Europa!: la Coalición por la Paz de la UE exige reformas sociales en lugar de rearme",
+    "resumen": "Stop ReArm Europe(https://www.betterworld.info/politics/european-union/eu-policies/stop-rearm-europelinks) es una alianza por la paz compuesta por más de 800 organizaciones de la sociedad civil. Están unidas en su oposición a la creciente…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/detengamos-el-rearme-de-europa-la-coalicion-por-la-paz-de-la-ue-exige-reformas-sociales-en-lugar-de-rearme/",
+    "fecha": "2026-11-21T11:37:09.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-pa7e3q",
     "titulo": "Aplazado en Kiev el juicio al pacifista Yurii Sheliazhenko, pero le congelan todas las cuentas",
     "resumen": "El 11 de noviembre de 2026, el Tribunal de Distrito de Pechersk de Kiev celebró una audiencia en el caso penal del cuáquero y pacifista ucraniano Yurii Sheliazhenko, acusado de justificar la agresión rusa en un comunicado pacifista que…",
@@ -1167,36 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/la-seleccion-el-vertigo-informativo-de-un-otono-historico-296031",
     "fecha": "2026-11-12T08:36:26.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-diwvuf",
-    "titulo": "Lo que dejan las empresas de telecomunicaciones cuando se van de un país",
-    "resumen": "Cuando las empresas de telecomunicaciones se retiran de un mercado, los compromisos de protección de datos y derechos humanos suelen desaparecer",
-    "seccion": "derechos",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/11/12/lo-que-dejan-las-empresas-de-telecomunicaciones-cuando-se-van-de-un-pais/",
-    "fecha": "2026-11-12T07:00:21.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-wxrlfm",
-    "titulo": "Hechos para vivir en barco, a la deriva en tierra firme: La comunidad bede de Bangladesh tiene dificultades con el sistema de domicilio fijo",
-    "resumen": "«No podemos cambiar el curso del río, ni podemos dejar de avanzar»",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/11/12/hecha-para-vivir-en-barco-a-la-deriva-en-tierra-firme-la-comunidad-bede-de-bangladesh-tiene-dificultades-con-el-sistema-de-domicilio-fijo/",
-    "fecha": "2026-11-12T06:00:18.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1gz6ov9",
-    "titulo": "Perú: Jóvenes GZ envían potente mensaje a Papa León XIV",
-    "resumen": "Con la presencia del Papa León XIV en el Perú, los jóvenes de la Generación Z enviaron una carta al líder de la Iglesia Católica que expone las diversas problemáticas socioeconómicas que enfrentan las familias peruanas y, que han sido…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/peru-jovenes-gz-envian-mensaje-a-papa-leon-xiv/",
-    "fecha": "2026-11-12T05:12:48.000Z",
     "estado": "pendiente"
   }
 ]
