@@ -1,5 +1,45 @@
 [
   {
+    "id": "pressenza-168duxe",
+    "titulo": "Conocimiento de causa: Las 30 horas del abogado Álvaro Varela en el infierno de José Domingo Cañas 1367",
+    "resumen": "Hace 52 años, un joven defensor de los derechos humanos fue sumergido en el inframundo de un centro de detención y tortura, del que salió con conocimiento de causa y una experiencia empírica que nunca quiso tener acerca de la…",
+    "seccion": "derechos",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/conocimiento-de-causa-las-30-horas-del-abogado-alvaro-varela-en-el-infierno-de-jose-domingo-canas-1367/",
+    "fecha": "2026-11-21T02:14:59.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-15agwd3",
+    "titulo": "Tres potencias no hacen un mundo multipolar",
+    "resumen": "La reunión de Donald Trump, Xi Jinping y Vladimir Putin en China, durante la cumbre de APEC, tiene un significado histórico que trasciende los acuerdos que puedan alcanzar. Es el reconocimiento simbólico del fin de una época: la hegemonía…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/tres-potencias-no-hacen-un-mundo-multipolar/",
+    "fecha": "2026-11-21T01:49:35.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1cr3a03",
+    "titulo": "Patricio Guzmán, tu festival continúa",
+    "resumen": "Nos ayudó a abrir ventanas y mirarnos ante un espejo. No lo hizo Guzmán en persona y, lo de la ventana y el espejo, tampoco son palabras mías. Pero fue en la versión número treinta del Festival Internacional de Documentales de Santiago…",
+    "seccion": "cultura",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/patricio-guzman-tu-festival-continua/",
+    "fecha": "2026-11-21T01:26:47.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-2ykni0",
+    "titulo": "Elvis sigue vivo",
+    "resumen": "El 21 de noviembre de 2026 se cumplen 70 años de la llegada a los cines de todo Estados Unidos de Love Me Tender, la primera película de Elvis Presley. El aniversario nos devuelve al joven que conmovió al público con una canción de amor y…",
+    "seccion": "cultura",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/elvis-sigue-vivo/",
+    "fecha": "2026-11-21T00:58:43.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-1rv90s0",
     "titulo": "Pescadores y artistas de Sorsogon montan una exposición por la protección costera",
     "resumen": "GUBAT, Sorsogon (Filipinas) — Pescadores, artistas locales y activistas ambientales están poniendo el foco en las amenazas ambientales y climáticas que afronta la bahía de Gubat, en la región de Bicol, al sureste de la isla de Luzón. Entre…",
@@ -1157,46 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/andres-delich-secretario-general-electo-de-la-oei-reconocemos-poco-el-valor-de-la-ciencia-en-iberoamerica-296377",
     "fecha": "2026-11-11T18:07:29.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-olcud5",
-    "titulo": "TikTok y sus malas prácticas: ¿hemos normalizado ya los riesgos y las alertas sobre la red social?",
-    "resumen": "Una reciente investigación publicada por Maldita.es(https://maldita.es/investigaciones/20261109/denunciamos-tiktok-videos-abuso-infantil/) vuelve a situar a TikTok en el ojo del huracán. Un equipo de periodistas ha identificado más de 1…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/tiktok-y-sus-malas-practicas-hemos-normalizado-ya-los-riesgos-y-las-alertas-sobre-la-red-social-296356",
-    "fecha": "2026-11-11T18:06:58.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1iii4wi",
-    "titulo": "León XIV, la encíclica y el territorio",
-    "resumen": "Viernes 6 de noviembre de 2026. Un avión con el fuselaje pintado de azul, la escalerilla pegada a la puerta y, en el umbral, un hombre de blanco con una mano en alto. Atrás flamean dos banderas, la vaticana y la uruguaya. En la cabina, un…",
-    "seccion": "derechos",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/leon-xiv-la-enciclica-y-el-territorio/",
-    "fecha": "2026-11-11T17:53:18.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1tupnoq",
-    "titulo": "Los algoritmos ignoran la evolución vital de las personas",
-    "resumen": "Tendemos a considerar a las audiencias como entidades estáticas, y de usuarios o espectadores, como si sus necesidades cognitivas y emocionales fueran fijas. En realidad, unas y otros evolucionan de manera continua, y no siempre de forma…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/los-algoritmos-ignoran-la-evolucion-vital-de-las-personas-283248",
-    "fecha": "2026-11-11T16:54:12.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "dialogue-earth-1xa8mj3",
-    "titulo": "Trump promete una bonanza petrolera en Venezuela, pero ¿en beneficio de quién?",
-    "resumen": "El mayor acuerdo petrolero de la historia mundial”. Así fue anunciado(https://www.bbc.com/mundo/articles/cwyz1d15w9go) el 28 de agosto el trato entre los gobiernos de Donald Trump y Delcy Rodríguez sobre el control de Washington sobre 17…",
-    "seccion": "economia",
-    "medio": "Dialogue Earth",
-    "enlace": "https://dialogue.earth/es/energia/trump-promete-bonanza-petrolera-venezuela-en-beneficio-de-quien/",
-    "fecha": "2026-11-11T15:16:28.000Z",
     "estado": "pendiente"
   }
 ]
