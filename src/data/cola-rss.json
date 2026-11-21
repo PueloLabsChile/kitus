@@ -1,5 +1,45 @@
 [
   {
+    "id": "pressenza-pa7e3q",
+    "titulo": "Aplazado en Kiev el juicio al pacifista Yurii Sheliazhenko, pero le congelan todas las cuentas",
+    "resumen": "El 11 de noviembre de 2026, el Tribunal de Distrito de Pechersk de Kiev celebró una audiencia en el caso penal del cuáquero y pacifista ucraniano Yurii Sheliazhenko, acusado de justificar la agresión rusa en un comunicado pacifista que…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/aplazado-en-kiev-el-juicio-al-pacifista-yurii-sheliazhenko-pero-le-congelan-todas-las-cuentas/",
+    "fecha": "2026-11-21T09:32:58.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-3a4o9u",
+    "titulo": "La patria pertenece a los pobres, la tierra a los ricos",
+    "resumen": "He decidido recoger testimonios y los jóvenes están bien dispuestos, sobre todo las chicas. Los chicos rapados, a veces con camuflaje y otros con uniforme de marinero, están claramente de permiso y no me siento con ánimo de ponerlos en un…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/la-patria-pertenece-a-los-pobres-la-tierra-a-los-ricos/",
+    "fecha": "2026-11-21T08:41:44.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-f6iep1",
+    "titulo": "En Kazajistán, las mujeres rurales se organizan en comunidad para mejorar su calidad de vida.",
+    "resumen": "El desafío más grande es encontrar una solución a la escasez de agua en la zona.",
+    "seccion": "derechos",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/21/en-kazajistan-las-mujeres-rurales-se-organizan-en-comunidad-para-mejorar-su-calidad-de-vida/",
+    "fecha": "2026-11-21T06:00:39.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-cpcj5i",
+    "titulo": "(Perú) Javier Torres: “Esta detención es para amedrentar”",
+    "resumen": "La detención de los artistas de rap y activistas culturales Pedro Mo (en Cusco) y Brenda Jah (en Lima), por presunta afiliación o pertenencia a organizaciones terroristas, sigue indignando a la población por considerarla como…",
+    "seccion": "cultura",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/peru-javier-torres-esta-detencion-es-para-amedrentar/",
+    "fecha": "2026-11-21T05:02:45.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-168duxe",
     "titulo": "Conocimiento de causa: Las 30 horas del abogado Álvaro Varela en el infierno de José Domingo Cañas 1367",
     "resumen": "Hace 52 años, un joven defensor de los derechos humanos fue sumergido en el inframundo de un centro de detención y tortura, del que salió con conocimiento de causa y una experiencia empírica que nunca quiso tener acerca de la…",
@@ -1157,46 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/11/peru-jovenes-gz-envian-mensaje-a-papa-leon-xiv/",
     "fecha": "2026-11-12T05:12:48.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "agencia-tierra-viva-e17870",
-    "titulo": "Repudio europeo al INTA por la exoneración de Virginia Aparicio: \"Los hallazgos de la investigación no fueron convenientes para muchas personas y sectores\"",
-    "resumen": "Violette Geissen, profesora de la Universidad de Wageningen (Países Bajos) y coordinadora general del proyecto internacional Sprint (Transición Sostenible de Protección Vegetal, por sus siglas en inglés), calificó de “injusta” la…",
-    "seccion": "internacional",
-    "medio": "Agencia Tierra Viva",
-    "enlace": "https://agenciatierraviva.com.ar/repudio-europeo-al-inta-por-la-exoneracion-de-virginia-aparicio-los-hallazgos-de-la-investigacion-no-fueron-convenientes-para-muchas-personas-y-sectores/",
-    "fecha": "2026-11-11T22:21:24.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-iwe5f4",
-    "titulo": "11N, huelga general en España por los derechos de la ciudadanía",
-    "resumen": "El 11N en Cataluña: seguimiento y dimensión de la convocatoria",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/11n-huelga-general-en-espana-por-los-derechos-de-la-ciudadania/",
-    "fecha": "2026-11-11T20:45:52.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-8cal1e",
-    "titulo": "Más allá de las playas: República Dominicana y el debate global sobre minería submarina",
-    "resumen": "El desafío no es solo declarar nuevas zonas protegidas, sino asegurar que se gestione efectivamente.",
-    "seccion": "economia",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/11/11/mas-alla-de-las-playas-republica-dominicana-y-el-debate-global-sobre-mineria-submarina/",
-    "fecha": "2026-11-11T19:00:47.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-8dbz3a",
-    "titulo": "Andrés Delich, secretario general electo de la OEI: “Reconocemos poco el valor de la ciencia en Iberoamérica”",
-    "resumen": "Iberoamérica vive en dos registros: los mismos alumnos que estudian sin luz o mal alimentados usan la inteligencia artificial en su día a día. Así lo describe el sociólogo argentino Andrés Delich, exministro de Educación de Argentina con…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/andres-delich-secretario-general-electo-de-la-oei-reconocemos-poco-el-valor-de-la-ciencia-en-iberoamerica-296377",
-    "fecha": "2026-11-11T18:07:29.000Z",
     "estado": "pendiente"
   }
 ]
