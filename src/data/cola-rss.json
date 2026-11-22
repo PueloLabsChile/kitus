@@ -1,5 +1,55 @@
 [
   {
+    "id": "pressenza-9w7t7p",
+    "titulo": "Académicos abogan por profundizar cooperación entre China y América Latina y el Caribe para el desarrollo compartido",
+    "resumen": "Académicos de China y América Latina y el Caribe coincidieron este sábado en la importancia de profundizar la cooperación, intercambiar experiencias y generar conocimiento conjunto para impulsar el desarrollo y explorar caminos de…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/academicos-abogan-por-profundizar-cooperacion-entre-china-y-america-latina-y-el-caribe-para-el-desarrollo-compartido/",
+    "fecha": "2026-11-22T23:25:56.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1nbr07o",
+    "titulo": "28-29 Noviembre, Sexta Asamblea Abierta del Foro Humanista Mundial: Una cita con el futuro.",
+    "resumen": "Activistas de más de 50 países de todos los continentes se darán cita este 28 y 29 de Noviembre en la Sexta Asamblea Abierta del Foro Humanista Mundial.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/28-29-noviembre-sexta-asamblea-del-foro-humanista-mundial-una-cita-con-el-futuro/",
+    "fecha": "2026-11-22T20:11:09.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-uerf68",
+    "titulo": "El suicidio ruidoso de las células: cuando morir no es el final",
+    "resumen": "Podría parecer paradójico que la supervivencia de un organismo dependa de la muerte de sus propias células. Sin embargo, es así y, además, se trata de una dependencia esencial. Para mantener un balance de reposición celular en los tejidos…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/el-suicidio-ruidoso-de-las-celulas-cuando-morir-no-es-el-final-283416",
+    "fecha": "2026-11-22T19:38:31.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-r13kvs",
+    "titulo": "¿Suicidio o asesinato? Resuelva este caso y aprenderá cómo trabaja la criminalística",
+    "resumen": "En las series policiacas, al forense le basta una mirada al cadáver para saber qué ocurrió. En la vida real, esa primera mirada es justo la más peligrosa. Una escena puede contar una historia coherente, convincente… y falsa.",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/suicidio-o-asesinato-resuelva-este-caso-y-aprendera-como-trabaja-la-criminalistica-294287",
+    "fecha": "2026-11-22T19:36:34.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1cpwdb8",
+    "titulo": "A Netflix cada vez le cuesta más mantener nuestra atención",
+    "resumen": "Abrimos la aplicación de Netflix. Revisamos sus novedades, las diez series más consumidas esta semana… Pasamos de un contenido a otro. Consultamos recomendaciones, nos dejamos aconsejar por sus…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/a-netflix-cada-vez-le-cuesta-mas-mantener-nuestra-atencion-295364",
+    "fecha": "2026-11-22T19:35:39.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-mddvct",
     "titulo": "Perú: El Arturo Corcuera, poeta, que solo su familia conocía, llega al cine",
     "resumen": "- Los hijos de Arturo Corcuera y del cineasta Mario Pozzi-Escot participan en la realización de Arturo Corcuera: Poeta, documental que incluirá material familiar nunca antes difundido y se estrenará el 6 de diciembre en Jazz Zone.",
@@ -1147,56 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/el-coste-oculto-de-la-violencia-en-las-protestas-296529",
     "fecha": "2026-11-13T10:33:26.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-q96nq7",
-    "titulo": "Cómo los Estados autoritarios están creando un mercado internacional de vigilancia digital",
-    "resumen": "El principal peligro de la inteligencia artificial en los regímenes autoritarios es su capacidad para reprimir cualquier protesta.",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/11/13/como-los-estados-autoritarios-estan-creando-un-mercado-internacional-de-vigilancia-digital/",
-    "fecha": "2026-11-13T07:00:17.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-1507kpd",
-    "titulo": "Qué pueden aprender las elecciones africanas del sistema gada de los borana",
-    "resumen": "¿Puede el sistema gada de los borana servir de inspiración para elecciones más justas, transiciones pacíficas y una democracia más sólida en toda África?",
-    "seccion": "politica",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/11/13/que-pueden-aprender-las-elecciones-africanas-del-sistema-gada-de-los-borana/",
-    "fecha": "2026-11-13T06:00:18.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-17grsr2",
-    "titulo": "Jóvenes ecuatorianos se unen contra modelo neoliberal y violencia estatal",
-    "resumen": "Los estudiantes piden un futuro justo para todos",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/11/13/la-juventud-ecuatoriana-se-une-contra-el-modelo-neoliberal-y-la-violencia-estatal/",
-    "fecha": "2026-11-13T02:00:01.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-c7t7mz",
-    "titulo": "La crueldad y el rostro político del poder",
-    "resumen": "Es precisamente aquí donde la reflexión sobre la crueldad abandona las páginas del poeta Lautréamont y comienza a caminar por nuestras propias calles. Ya no estamos solamente frente a un personaje literario que ha decidido convertir la…",
-    "seccion": "cultura",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/la-crueldad-y-el-rostro-politico-del-poder/",
-    "fecha": "2026-11-13T00:38:27.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1ip54l9",
-    "titulo": "Estados unidos nunca ha sido aliado de Chile (VIII)",
-    "resumen": "Estados Unidos llevó nuevamente a una extrema tensión sus relaciones con Chile, a comienzos del siglo XX, por el “Caso Alsop”. Alsop y Cía. era una firma formada por siete socios estadounidenses que se había constituido en Valparaíso e…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/estados-unidos-nunca-ha-sido-aliado-de-chile-viii/",
-    "fecha": "2026-11-13T00:30:19.000Z",
     "estado": "pendiente"
   }
 ]
