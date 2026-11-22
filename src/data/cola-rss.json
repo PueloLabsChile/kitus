@@ -1,5 +1,15 @@
 [
   {
+    "id": "global-voices-19fpt34",
+    "titulo": "Cuando las grandes empresas tecnológicas se convierte en herramienta de control estatal en Kenia",
+    "resumen": "La censura estatal de la información ha pasado de las emisoras a las plataformas y a las leyes que las rigen",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/22/cuando-las-grandes-empresas-tecnologicas-se-convierte-en-herramienta-de-control-estatal-en-kenia/",
+    "fecha": "2026-11-22T06:00:50.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-17ssk4x",
     "titulo": "Nueva sociedad, nuevo modo de producción",
     "resumen": "A la memoria de CLOTARIO BLEST RIFFO, incansable luchador social, compañero nuestro, en el 127 aniversario de su nacimiento.",
@@ -1187,16 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/es-la-espermidina-el-nutriente-de-la-eterna-juventud-295541",
     "fecha": "2026-11-12T17:35:33.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-6g0sre",
-    "titulo": "La política exterior de Takaichi a la luz de tres dimensiones de la seguridad",
-    "resumen": "El tercer artículo proponía tres dimensiones: seguridad del Estado, seguridad humana y seguridad de la relación. La pregunta es si una política fortalece al Estado, protege a las personas y hace las relaciones más previsibles y menos…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/la-politica-exterior-de-takaichi-a-la-luz-de-tres-dimensiones-de-la-seguridad/",
-    "fecha": "2026-11-12T17:11:11.000Z",
     "estado": "pendiente"
   }
 ]
