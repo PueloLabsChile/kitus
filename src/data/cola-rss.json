@@ -1,5 +1,45 @@
 [
   {
+    "id": "pressenza-mddvct",
+    "titulo": "Perú: El Arturo Corcuera, poeta, que solo su familia conocía, llega al cine",
+    "resumen": "- Los hijos de Arturo Corcuera y del cineasta Mario Pozzi-Escot participan en la realización de Arturo Corcuera: Poeta, documental que incluirá material familiar nunca antes difundido y se estrenará el 6 de diciembre en Jazz Zone.",
+    "seccion": "cultura",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/peru-el-arturo-corcuera-poeta-que-solo-su-familia-conocia-llega-al-cine/",
+    "fecha": "2026-11-22T13:09:02.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-o8iiqu",
+    "titulo": "La no violencia: una rebeldía necesaria",
+    "resumen": "Hay encuentros que comienzan con una convocatoria y terminan convirtiéndose en una esperanza colectiva. Hoy, en la Biblioteca Gabriela Mistral de La Serena, más de una veintena de personas nos reunimos por primera vez en torno al…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/la-no-violencia-una-rebeldia-necesaria/",
+    "fecha": "2026-11-22T13:03:24.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1hsqsg2",
+    "titulo": "Myanmar, Gaza e Israel: las implicaciones de una sentencia por genocidio",
+    "resumen": "Las implicaciones de la sentencia de la Corte Internacional de Justicia (CIJ) condenando a Myanmar por genocidio contra la minoría Royhingya para Israel en Gaza: algunas reflexiones",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/myanmar-gaza-e-israel-las-implicaciones-de-una-sentencia-por-genocidio/",
+    "fecha": "2026-11-22T12:57:59.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1r5wzrk",
+    "titulo": "GTA6: Entre la realidad virtual y el sentido de la vida",
+    "resumen": "Por Marta Lozano.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/gta6-entre-la-realidad-virtual-y-el-sentido-de-la-vida/",
+    "fecha": "2026-11-22T12:50:37.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "global-voices-19fpt34",
     "titulo": "Cuando las grandes empresas tecnológicas se convierte en herramienta de control estatal en Kenia",
     "resumen": "La censura estatal de la información ha pasado de las emisoras a las plataformas y a las leyes que las rigen",
@@ -1157,46 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/11/estados-unidos-nunca-ha-sido-aliado-de-chile-viii/",
     "fecha": "2026-11-13T00:30:19.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-t70zyo",
-    "titulo": "Ignacio Fritz publica Factoría de brutalidades. Una novela sobre la memoria, la violencia y los delirios de la historia",
-    "resumen": "El escritor chileno publica con Das Kapital una obra que mezcla ciencia ficción, pulp, sátira negra y memoria histórica para narrar la experiencia de un militante de la Unidad Popular sometido a tortura tras el Golpe de Estado de 1973. El…",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/ignacio-fritz-publica-factoria-de-brutalidades-una-novela-sobre-la-memoria-la-violencia-y-los-delirios-de-la-historia/",
-    "fecha": "2026-11-13T00:22:12.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1x658d2",
-    "titulo": "El tornillo de Arquímides: un invento de la Antigüedad para la industria acuícola del siglo XXI",
-    "resumen": "El giro, o movimiento de rotación, puede manifestarse como un bucle destructivo o como una solución técnica brillante, dependiendo de cómo se aplique. Aunque solemos asociar la idea de “dar vueltas” a la mente humana —como ocurre en la…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/el-tornillo-de-arquimides-un-invento-de-la-antiguedad-para-la-industria-acuicola-del-siglo-xxi-281816",
-    "fecha": "2026-11-12T17:41:30.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1oj7u5p",
-    "titulo": "¿Cómo influyen los cambios hormonales de las mujeres con diabetes tipo 1?",
-    "resumen": "Vivir con diabetes tipo 1 implica tomar decisiones constantes para mantener un buen control glucémico. Pero ¿qué ocurre cuando las necesidades de insulina cambian con el ciclo menstrual? ¿Están preparadas las tecnologías actuales para…",
-    "seccion": "derechos",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/como-influyen-los-cambios-hormonales-de-las-mujeres-con-diabetes-tipo-1-295371",
-    "fecha": "2026-11-12T17:35:37.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1d71ebq",
-    "titulo": "¿Es la espermidina el nutriente de la eterna juventud?",
-    "resumen": "Por norma general asumimos que, en gran medida, somos lo que comemos. Pero ¿también envejecemos como comemos?",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/es-la-espermidina-el-nutriente-de-la-eterna-juventud-295541",
-    "fecha": "2026-11-12T17:35:33.000Z",
     "estado": "pendiente"
   }
 ]
