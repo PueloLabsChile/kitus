@@ -1,5 +1,15 @@
 [
   {
+    "id": "pressenza-7x3k0x",
+    "titulo": "Presentaron oficialmente el filme “Silo, un silencio ensordecedor”",
+    "resumen": "Referentes culturales, artistas y vecinos, un emblemático teatro de la Ciudad de Mendoza fue el escenario elegido esta semana para dar el puntapié inicial a “Silo, un silencio ensordecedor”",
+    "seccion": "cultura",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/presentaron-oficialmente-el-filme-silo-un-silencio-ensordecedor/",
+    "fecha": "2026-11-22T23:55:02.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-9w7t7p",
     "titulo": "Académicos abogan por profundizar cooperación entre China y América Latina y el Caribe para el desarrollo compartido",
     "resumen": "Académicos de China y América Latina y el Caribe coincidieron este sábado en la importancia de profundizar la cooperación, intercambiar experiencias y generar conocimiento conjunto para impulsar el desarrollo y explorar caminos de…",
@@ -1187,16 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/de-la-libertad-de-expresion-al-discurso-de-odio-en-el-aula-como-pueden-actuar-los-docentes-293849",
     "fecha": "2026-11-13T13:00:29.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1c6wbez",
-    "titulo": "El coste oculto de la violencia en las protestas",
-    "resumen": "Una manifestación termina. Las cámaras se marchan. Se apagan los contenedores incendiados, se retiran los cristales y las calles recuperan poco a poco su aspecto habitual. Pero el conflicto no desaparece con la última imagen del…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/el-coste-oculto-de-la-violencia-en-las-protestas-296529",
-    "fecha": "2026-11-13T10:33:26.000Z",
     "estado": "pendiente"
   }
 ]
