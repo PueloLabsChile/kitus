@@ -1,5 +1,75 @@
 [
   {
+    "id": "the-conversation-espana-1o2fnp2",
+    "titulo": "Suplemento cultural: la cocina de Adrià (y de algunos hombres más)",
+    "resumen": "Una versión de este texto se publicó por primera vez en nuestro boletín Suplemento cultural, un resumen quincenal de la actualidad cultural y una selección de los mejores artículos de historia, literatura, cine, arte o música. Si quiere…",
+    "seccion": "cultura",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/suplemento-cultural-la-cocina-de-adria-y-de-algunos-hombres-mas-297113",
+    "fecha": "2026-11-23T12:51:45.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-a2k0pr",
+    "titulo": "Tras dos sustos, ¡BepiColombo llega a Mercurio!",
+    "resumen": "Tras ocho años de viaje y casi 10 000 millones de kilómetros, la misión europeo-japonesa BepiColombo entró el 21 de noviembre en órbita de…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/tras-dos-sustos-bepicolombo-llega-a-mercurio-294005",
+    "fecha": "2026-11-23T12:31:49.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-199jdlw",
+    "titulo": "Formosa: punto de mira de Naciones Unidas",
+    "resumen": "El proyecto gran simio lleva a naciones unidas la situación de los pueblos indígenas en Formosa (Argentina), denunciando la vulneración de los derechos humanos fundamentales que afectan a comunidades indígenas y del trato indigno y…",
+    "seccion": "derechos",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/formosa-punto-de-mira-de-naciones-unidas/",
+    "fecha": "2026-11-23T10:48:32.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1gc14us",
+    "titulo": "Actuación de Elías Yuniesky en las Jornadas FRI-ICAP",
+    "resumen": "Elías Yuniesky Cabriales Sáez-Wilkie (también conocido artísticamente como Elías Wilkie) es un trovador, cantautor, escritor y profesor de Filosofía originario de Santa Clara, Cuba.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/actuacion-de-elias-yuniesky-en-las-jornadas-fri-icap/",
+    "fecha": "2026-11-23T07:05:13.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-hsmgqe",
+    "titulo": "Fuerzas complementarias: Por qué el activismo necesita del arte para impulsar la acción",
+    "resumen": "«Una acción llamativa, un poco de humor o una escena inesperada pueden llamar la atención»",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/23/fuerzas-complementarias-por-que-el-activismo-necesita-del-arte-para-impulsar-la-accion/",
+    "fecha": "2026-11-23T07:00:09.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1en6hpp",
+    "titulo": "COP31: ¿siguen teniendo sentido las conferencias climáticas si no nos ponemos de acuerdo?",
+    "resumen": "La reciente Conferencia de las Naciones Unidas sobre el Cambio Climático (la COP31), que ha tenido lugar en Antalya (Turquía), ha terminado sin la aprobación de ningún documento final. Es la primera vez que ocurre desde la cumbre de…",
+    "seccion": "derechos",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/cop31-siguen-teniendo-sentido-las-conferencias-climaticas-si-no-nos-ponemos-de-acuerdo-296851",
+    "fecha": "2026-11-23T06:50:23.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-r64x74",
+    "titulo": "En Moldavia, adolescentes aprenden sobre democracia y elecciones con un aplicativo",
+    "resumen": "El aplicativo ofrece lecciones cortas e interactivas, con cuestionarios, tarjetas de estudio y otros formatos accesibles en tres idiomas.",
+    "seccion": "politica",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/23/en-moldavia-adolescentes-aprenden-sobre-democracia-y-elecciones-con-un-aplicativo/",
+    "fecha": "2026-11-23T06:00:08.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-7x3k0x",
     "titulo": "Presentaron oficialmente el filme “Silo, un silencio ensordecedor”",
     "resumen": "Referentes culturales, artistas y vecinos, un emblemático teatro de la Ciudad de Mendoza fue el escenario elegido esta semana para dar el puntapié inicial a “Silo, un silencio ensordecedor”",
@@ -1127,76 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/11/argentina-leon-xiv-y-la-justicia-social/",
     "fecha": "2026-11-14T00:39:09.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-m515n2",
-    "titulo": "Mercenarios Chilenos: reclutados para morir en Ucrania",
-    "resumen": "Entre promesas de empleo y el silencio de las autoridades.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/mercenarios-chilenos-reclutados-para-morir-en-ucrania/",
-    "fecha": "2026-11-14T00:10:45.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1qe5or8",
-    "titulo": "Matar en nombre de la seguridad",
-    "resumen": "Una sociedad que necesita matar para sentirse segura ha perdido el sentido de la humanidad. Matar en nombre de la seguridad se ha convertido en una práctica aceptada y hasta aplaudida. Israel justifica el genocidio en Gaza, con más de…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/matar-en-nombre-de-la-seguridad/",
-    "fecha": "2026-11-13T23:36:37.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-uh0hc",
-    "titulo": "La imparcialidad y la responsabilidad política y espiritual",
-    "resumen": "“No importas en qué bando te hayan puesto las circunstancias, lo importante es que comprendas que tú no has elegido ningún bando”. Silo",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/la-imparcialidad-y-la-responsabilidad-politica-y-espiritual/",
-    "fecha": "2026-11-13T23:16:13.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1ybkxcu",
-    "titulo": "Un anclaje en medio de las revueltas",
-    "resumen": "En medio del ruido, un anclaje posible.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/un-anclaje-en-medio-de-las-revueltas/",
-    "fecha": "2026-11-13T22:31:41.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-1h86dfw",
-    "titulo": "Negligencia médica llevó a la muerte a Alfredo Díaz en una prisión venezolana",
-    "resumen": "El Estado negó atención médica a un exgobernador pese a claras señales de alerta",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/11/13/negligencia-medica-llevo-a-la-muerte-a-alfredo-diaz-en-una-prision-venezolana/",
-    "fecha": "2026-11-13T21:00:27.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "agencia-tierra-viva-1jen4zq",
-    "titulo": "Saquear y fugar: el mito del desarrollo a partir de las exportaciones",
-    "resumen": "El discurso dominante de la política económica argentina defiende la “inserción internacional” y la reprimarización de la economía. Sin embargo, un estudio reciente del Instituto de Pensamiento y Políticas Públicas (IPyPP) demuestra cómo…",
-    "seccion": "economia",
-    "medio": "Agencia Tierra Viva",
-    "enlace": "https://agenciatierraviva.com.ar/saquear-y-fugar-el-mito-del-desarrollo-a-partir-de-las-exportaciones/",
-    "fecha": "2026-11-13T13:05:19.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-vp2b75",
-    "titulo": "De la libertad de expresión al discurso de odio en el aula: ¿cómo pueden actuar los docentes?",
-    "resumen": "Un insulto en mitad de una clase de secundaria o de bachillerato es relativamente fácil de identificar. Más complejo resulta detectar una burla sutil sobre el origen cultural de un compañero, un meme compartido sin pensar desde redes…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/de-la-libertad-de-expresion-al-discurso-de-odio-en-el-aula-como-pueden-actuar-los-docentes-293849",
-    "fecha": "2026-11-13T13:00:29.000Z",
     "estado": "pendiente"
   }
 ]
