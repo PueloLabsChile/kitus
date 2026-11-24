@@ -1,5 +1,85 @@
 [
   {
+    "id": "pressenza-3he4cp",
+    "titulo": "El exilio interior: el castigo de la proscripción o ‘muerte civil’ ha vuelto al XXI",
+    "resumen": "Es un supuesto pero ha sucedido ya demasiadas veces. … Un profesor emérito de civilizaciones orientales —que también es periodista de investigación— regresa a su ciudad después de entrevistar a una autoridad de Irán, de Irak o de Rusia…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/el-exilio-interior-el-castigo-de-la-proscripcion-o-muerte-civil-ha-vuelto-al-xxi/",
+    "fecha": "2026-11-24T19:08:58.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1eidam8",
+    "titulo": "Cómo evitar estereotipos y mensajes erróneos en los carteles contra la violencia de género",
+    "resumen": "Ya está aquí un nuevo 25N (Día Internacional de la Eliminación de la Violencia contra las Mujeres) y las diferentes instituciones del Estado lanzan sus carteles contra esta lacra social. Estas campañas y las imágenes asociadas a ellas…",
+    "seccion": "derechos",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/como-evitar-estereotipos-y-mensajes-erroneos-en-los-carteles-contra-la-violencia-de-genero-297334",
+    "fecha": "2026-11-24T16:59:50.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-11ug39n",
+    "titulo": "Cuando el líder es imprescindible: el regreso de Jensen Huang a Nvidia y los límites de la ética empresarial",
+    "resumen": "El pasado 12 de noviembre, Nvidia anunció la dimisión de su fundador y consejero delegado(https://www.rtve.es/noticias/20261112/nvidia-futuro-jensen-huang/17310046.shtml), Jensen Huang, tras conocerse informaciones sobre comportamientos…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/cuando-el-lider-es-imprescindible-el-regreso-de-jensen-huang-a-nvidia-y-los-limites-de-la-etica-empresarial-295319",
+    "fecha": "2026-11-24T16:59:23.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "agencia-tierra-viva-1aezret",
+    "titulo": "Vía libre para desalojos exprés y un Congreso a medida del extractivismo",
+    "resumen": "Finalmente, se sancionó la Ley de Inviolabilidad de la Propiedad Privada. El Senado la convirtió en ley, luego de múltiples avatares que tuvieron su epicentro en la extranjerización de la tierra. La derogación de un artículo del polémico…",
+    "seccion": "derechos",
+    "medio": "Agencia Tierra Viva",
+    "enlace": "https://agenciatierraviva.com.ar/via-libre-para-desalojos-expres-y-un-congreso-a-medida-del-extractivismo/",
+    "fecha": "2026-11-24T16:54:54.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1bdcabm",
+    "titulo": "Gafas inteligentes y nuevas formas de violencia obstétrica entran en la consulta",
+    "resumen": "Una mujer acude a una consulta ginecológica(https://www.clarin.com/sociedad/decia-nenita-atendio-lentes-inteligentes-ginecologo-desato-escandalo-cordoba-solo-multado0q2wGXim0Ye.html) relacionada con relacionada con la conservación de…",
+    "seccion": "derechos",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/gafas-inteligentes-y-nuevas-formas-de-violencia-obstetrica-entran-en-la-consulta-297440",
+    "fecha": "2026-11-24T16:51:50.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-15og5hg",
+    "titulo": "El valor del cuidado",
+    "resumen": "Reproducimos la intervención de la psicóloga Elsa Sierra durante la última edición de la Universidad de Verano del Humanismo Universalista, que tuvo lugar el pasado septiembre en el Parque Toledo.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/el-valor-del-cuidado/",
+    "fecha": "2026-11-24T15:52:19.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-exytwy",
+    "titulo": "La Corte Internacional de Justicia condena a Myanmar por el genocidio de los rohingya",
+    "resumen": "La Corte Internacional de Justicia ha declarado hoy, 19 de noviembre de 2026, a Myanmar culpable de genocidio contra los rohingya, una minoría musulmana de Myanmar, durante las «operaciones de seguridad» de 2016-2017 llevadas a cabo por el…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/la-corte-internacional-de-justicia-condena-a-myanmar-por-el-genocidio-de-los-rohingya/",
+    "fecha": "2026-11-24T15:12:52.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "dialogue-earth-10q2jk0",
+    "titulo": "La COP31 mostró grietas en las negociaciones climáticas, pero no en la cooperación",
+    "resumen": "A mitad de la segunda semana de la COP31, la conferencia climática de la ONU en Antalya, Turquía, con tensas negociaciones en marcha, ministros de Ambiente se…",
+    "seccion": "derechos",
+    "medio": "Dialogue Earth",
+    "enlace": "https://dialogue.earth/es/clima/cop31-mostro-grietas-negociaciones-climaticas-pero-no-cooperacion/",
+    "fecha": "2026-11-24T11:08:54.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-1gjujnp",
     "titulo": "Comunicado Prensa: Acuerdo laboral con Osasunbidea para reforzar la sanidad pública",
     "resumen": "Los sindicatos LAB, SATSE, SAE, UGT y AFAPNA han pactado con la Dirección de Profesionales de Osasunbidea mejoras laborales que abarcan el refuerzo de plantillas, la ampliación voluntaria de jornada del personal a tiempo parcial, la…",
@@ -1117,86 +1197,6 @@
     "medio": "Global Voices",
     "enlace": "https://es.globalvoices.org/2026/11/16/el-periodismo-independiente-esta-sitiado-en-georgia/",
     "fecha": "2026-11-16T06:00:44.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-vrmn31",
-    "titulo": "El peaje de los tres euros: la tasa que no ha echado a Temu y Shein de Europa, pero les ha cambiado la ruta",
-    "resumen": "Acaba de pasar el 11 del 11, el Día del Soltero, la gran campaña china de compras por internet. Este año tenía una novedad en la aduana. Por primera vez, lo que plataformas como AliExpress, Temu o Shein envían a la Unión Europea desde…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/el-peaje-de-los-tres-euros-la-tasa-que-no-ha-echado-a-temu-y-shein-de-europa-pero-les-ha-cambiado-la-ruta-296623",
-    "fecha": "2026-11-16T01:03:11.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-wy3ff0",
-    "titulo": "Los dientes de caballos fósiles revelan cómo cambió el clima en la península ibérica hace 9 millones de años",
-    "resumen": "¿Es posible reconstruir los cambios estacionales del clima de hace millones de años a partir de dientes fósiles? La respuesta es afirmativa. El análisis de su composición química nos permite detectar variaciones ambientales registradas…",
-    "seccion": "derechos",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/los-dientes-de-caballos-fosiles-revelan-como-cambio-el-clima-en-la-peninsula-iberica-hace-9-millones-de-anos-296100",
-    "fecha": "2026-11-15T22:34:05.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1w4ooic",
-    "titulo": "Cultura no solo hay una: cuatro formas de definirla (y vivirla)",
-    "resumen": "A veces hablamos de cultura utilizando un mismo término para prácticas y lógicas muy diferentes.",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/cultura-no-solo-hay-una-cuatro-formas-de-definirla-y-vivirla-290465",
-    "fecha": "2026-11-15T22:28:36.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-117mhil",
-    "titulo": "¿Cómo ayudar a nuestros hijos con los deberes de Lengua?",
-    "resumen": "Un martes por la tarde, Mario, de 10 años, necesita ayuda. Su profesora de Lengua le ha encargado que escriba una redacción sobre un miembro de su familia al que admire. El niño, después de darle muchas vueltas, y con algunas sugerencias…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/como-ayudar-a-nuestros-hijos-con-los-deberes-de-lengua-294549",
-    "fecha": "2026-11-15T22:28:16.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-b1fmfi",
-    "titulo": "Serbia paraliza comercio de armas y producción de drones con Israel, anuncia la Lista de los Estudiantes",
-    "resumen": "Durante la campaña electoral, la Lista de los Estudiantes había condenado sin rodeos el genocidio perpetrado por Israel en Gaza. Tras su rotunda victoria en las elecciones del 25 de octubre y a pocos días de la constitución del nuevo…",
-    "seccion": "economia",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/serbia-paraliza-comercio-de-armas-y-produccion-de-drones-con-israel-anuncia-la-lista-de-los-estudiantes/",
-    "fecha": "2026-11-15T20:58:43.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-5unwrl",
-    "titulo": "Lo que Cuba no tiene",
-    "resumen": "Javier Belda.-",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/lo-que-cuba-no-tiene/",
-    "fecha": "2026-11-15T18:11:34.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-gaup40",
-    "titulo": "Continentes y Contenidos #40 Elecciones de medio término en Estados Unidos",
-    "resumen": "Analizamos junto a Mariana Fernández los resultados electorales y su impacto en las elecciones de medio término en los Estados Unidos.",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/continentes-y-contenidos-40-elecciones-de-medio-termino-en-estados-unidos/",
-    "fecha": "2026-11-15T15:09:29.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-yih34j",
-    "titulo": "Editorial de Rapa Nui en Feria del Libro de Santiago de Chile",
-    "resumen": "El título Hetu’u-Estrellas es una de las novedades de la editorial Rapanui Press en la Feria Internacional del Libro de Santiago, que sesiona hoy en el Centro Cultural Estación Mapocho de la capital chilena.",
-    "seccion": "cultura",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/editorial-de-rapa-nui-en-feria-del-libro-de-santiago-de-chile/",
-    "fecha": "2026-11-15T12:56:15.000Z",
     "estado": "pendiente"
   }
 ]
