@@ -1,5 +1,45 @@
 [
   {
+    "id": "pressenza-1gjujnp",
+    "titulo": "Comunicado Prensa: Acuerdo laboral con Osasunbidea para reforzar la sanidad pública",
+    "resumen": "Los sindicatos LAB, SATSE, SAE, UGT y AFAPNA han pactado con la Dirección de Profesionales de Osasunbidea mejoras laborales que abarcan el refuerzo de plantillas, la ampliación voluntaria de jornada del personal a tiempo parcial, la…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/comunicado-prensa-acuerdo-laboral-con-osasunbidea-para-reforzar-la-sanidad-publica/",
+    "fecha": "2026-11-24T09:17:22.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-ldwg3x",
+    "titulo": "Reflexión de una periodista de Myanmar: «Cuando el dolor ajeno se vuelve parte de ti»",
+    "resumen": "Una periodista en el exilio, becaria de Exile Hub, cuenta sus vivencias y reflexiones.",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/24/reflexion-de-una-periodista-de-myanmar-cuando-el-dolor-ajeno-se-vuelve-parte-de-ti/",
+    "fecha": "2026-11-24T07:00:29.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-1yoy47j",
+    "titulo": "En Ucrania, la juventud encuentra su voz en la democracia digital",
+    "resumen": "Están aprendiendo a ser impulsores del cambio a nivel local",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/24/en-ucrania-la-juventud-encuentra-su-voz-en-la-democracia-digital/",
+    "fecha": "2026-11-24T06:00:25.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-136vghu",
+    "titulo": "Perú: Mujeres de la etnia Awajun denuncian: “Impunidad es violencia. ¡Justicia para Condorcanqui!”",
+    "resumen": "El sábado 21 de noviembre pasado, en el marco del Día Internacional de la Eliminación de la Violencia de Género, mujeres lideresas de la etnia awajun, llegaron a la ciudad capital para demandar “¡Justicia para Condorcanqui!” por la…",
+    "seccion": "derechos",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/peru-mujeres-de-la-etnia-awajun-denuncian-impunidad-es-violencia-justicia-para-condorcanqui/",
+    "fecha": "2026-11-24T03:22:57.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-1xor1pt",
     "titulo": "Dra. Delia Espinoza: “El terruqueo es recurrente por un sector de malos políticos sin argumentos”",
     "resumen": "La figura del “terruqueo” (derivado del adjetivo “terruco”, terrorista) se va extendiendo paulatinamente en el día a día de los peruanos, no solo por las detenciones a ciudadanos de a pie, sino por el término de “terrorismo urbano” que ha…",
@@ -1157,46 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/11/editorial-de-rapa-nui-en-feria-del-libro-de-santiago-de-chile/",
     "fecha": "2026-11-15T12:56:15.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-lg0ba1",
-    "titulo": "El FECIT 2026 culminó en Trujillo premiando a las películas «Punku» y «Manuales de supervivencia» y a las mejores producciones del cine peruano",
-    "resumen": "Nueve días, más de 50 producciones cinematográficas y múltiples historias provenientes de distintas regiones del país, marcaron la decimotercera edición del Festival de Cine de Trujillo (FECIT 2026), que llegó a su fin el sábado 24 de…",
-    "seccion": "cultura",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/el-fecit-2026-culmino-en-trujillo-premiando-a-las-peliculas-punku-y-manuales-de-supervivencia-y-a-las-mejores-producciones-del-cine-peruano/",
-    "fecha": "2026-11-15T12:52:20.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-ru81ak",
-    "titulo": "La Habana, 507 años: el corazón musical del planeta",
-    "resumen": "Un homenaje desde Chile a la ciudad que convirtió sus calles, sus encuentros y su memoria en ritmos que viajaron por el mundo. Cuatro acontecimientos de noviembre reúnen el reconocimiento internacional a Celia Cruz, el aniversario de La…",
-    "seccion": "cultura",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/la-habana-507-anos-el-corazon-musical-del-planeta/",
-    "fecha": "2026-11-15T12:48:09.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-5pblt5",
-    "titulo": "En Albania, jóvenes de zonas rurales hacen campaña para resolver problemas ambientales",
-    "resumen": "Su pedido a las autoridades ya tiene más de 500 firmas.",
-    "seccion": "derechos",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/11/15/en-albania-jovenes-de-zonas-rurales-hacen-campana-para-resolver-problemas-ambientales/",
-    "fecha": "2026-11-15T06:00:43.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-xq9jym",
-    "titulo": "Irán: ¿compromiso o catástrofe?",
-    "resumen": "No hay una solución militar duradera al conflicto de Estados Unidos e Israel con Irán. Los bombardeos pueden destruir instalaciones, pero no pueden borrar el conocimiento científico, apagar el orgullo nacional ni crear un acuerdo político…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/iran-compromiso-o-catastrofe/",
-    "fecha": "2026-11-15T02:42:39.000Z",
     "estado": "pendiente"
   }
 ]
