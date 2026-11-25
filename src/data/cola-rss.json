@@ -1,5 +1,45 @@
 [
   {
+    "id": "pressenza-shdsud",
+    "titulo": "Francia – Argelia: ¿el fin de la influencia francesa en Argelia?",
+    "resumen": "Bajo los litigios por la inmigración, el Sáhara Occidental y el comercio late un giro geopolítico más profundo: la determinación de Argelia de recuperar el control de sus decisiones económicas y diplomáticas, y la dificultad de Francia…",
+    "seccion": "economia",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/francia-argelia-el-fin-de-la-influencia-francesa-en-argelia/",
+    "fecha": "2026-11-25T01:49:59.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-7jrbr9",
+    "titulo": "Presentación del proyecto Monte Soy en las Jornadas FRI-ICAP",
+    "resumen": "Monte Soy es una iniciativa sociocultural y artística de la Asociación Hermanos Saíz (AHS) en la provincia de Villa Clara, Cuba, enfocada en llevar el arte joven a comunidades rurales, de difícil acceso o en transformación.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/presentacion-del-proyecto-monte-soy-en-las-jornadas-fri-icap/",
+    "fecha": "2026-11-24T22:30:38.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-b964fh",
+    "titulo": "La trastienda de la campaña: por qué a Sánchez y a Feijóo les conviene que el 29-N parezca un duelo",
+    "resumen": "Apenas kilómetro y medio separaba el pasado domingo 22 de noviembre en Murcia las dos versiones de lo que está siendo la última semana de la campaña electoral antes de las elecciones del 29-N. En la plaza del Cardenal Belluga, el candidato…",
+    "seccion": "politica",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/la-trastienda-de-la-campana-por-que-a-sanchez-y-a-feijoo-les-conviene-que-el-29-n-parezca-un-duelo-297356",
+    "fecha": "2026-11-24T21:10:10.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1o1sorb",
+    "titulo": "La pobreza energética no se combate solo con ayudas económicas, también con alfabetización sobre facturas y consumo",
+    "resumen": "En 2026, la factura eléctrica sigue disparándose en España. Las estimaciones sitúan la factura de noviembre un 38 % por encima de la de hace un año y como la más cara desde junio de…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/la-pobreza-energetica-no-se-combate-solo-con-ayudas-economicas-tambien-con-alfabetizacion-sobre-facturas-y-consumo-294532",
+    "fecha": "2026-11-24T21:09:27.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-3he4cp",
     "titulo": "El exilio interior: el castigo de la proscripción o ‘muerte civil’ ha vuelto al XXI",
     "resumen": "Es un supuesto pero ha sucedido ya demasiadas veces. … Un profesor emérito de civilizaciones orientales —que también es periodista de investigación— regresa a su ciudad después de entrevistar a una autoridad de Irán, de Irak o de Rusia…",
@@ -1157,46 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/11/mosacat-y-olca-denuncian-en-el-consejo-regional-los-impactos-que-tendria-el-data-center-de-google-en-cerrillos-y-la-falta-de-regulacion/",
     "fecha": "2026-11-16T16:17:31.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-uxt1ff",
-    "titulo": "Integración de cadenas productivas y transferencia tecnológica deben marcar nueva etapa de APEC",
-    "resumen": "El valor de la próxima Reunión de Líderes Económicos del Foro de Cooperación Económica Asia-Pacífico (APEC) es lograr una integración de las cadenas de suministro, producción y tecnología, que permita traducir la apertura económica en…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/integracion-de-cadenas-productivas-y-transferencia-tecnologica-deben-marcar-nueva-etapa-de-apec/",
-    "fecha": "2026-11-16T13:43:07.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-16jfsap",
-    "titulo": "«Acuerdos de Comercio Recíproco» de Trump amenazan acceso equitativo a internet en países en desarrollo",
-    "resumen": "Esta disposición podría darle a Estados Unidos el poder de excluir a proveedores chinos de tecnologías de la información en los países firmantes",
-    "seccion": "economia",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/11/16/acuerdos-de-comercio-reciproco-de-trump-amenazan-acceso-equitativo-a-internet-en-paises-en-desarrollo/",
-    "fecha": "2026-11-16T07:00:36.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-sllg0w",
-    "titulo": "¿Por qué huele mal el sudor?",
-    "resumen": "¿A qué huele el sudor humano? Aunque le cueste creerlo, la respuesta es: a nada. El sudor humano secretado de forma natural es inodoro. El característico olor corporal surge cuando los microorganismos comensales de la piel metabolizan los…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/por-que-huele-mal-el-sudor-295478",
-    "fecha": "2026-11-16T06:29:22.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-1fsycbp",
-    "titulo": "El periodismo independiente está sitiado en Georgia",
-    "resumen": "La necesidad de unidad se volvió urgente en abril de 2025, tras la ley sobre la aprobación de donaciones extranjeras",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/11/16/el-periodismo-independiente-esta-sitiado-en-georgia/",
-    "fecha": "2026-11-16T06:00:44.000Z",
     "estado": "pendiente"
   }
 ]

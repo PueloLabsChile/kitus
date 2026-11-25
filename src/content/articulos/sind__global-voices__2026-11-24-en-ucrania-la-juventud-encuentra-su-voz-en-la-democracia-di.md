@@ -13,6 +13,8 @@ fuenteUrl: "https://es.globalvoices.org/"
 original: "https://es.globalvoices.org/2026/11/24/en-ucrania-la-juventud-encuentra-su-voz-en-la-democracia-digital/"
 licencia: "CC BY-SA 4.0"
 licenciaUrl: "https://creativecommons.org/licenses/by-sa/4.0/deed.es"
+portada: "/uploads/sind-global-voices-1yoy47j.webp"
+creditoPortada: "Foto: Global Voices"
 ---
 *Están aprendiendo a ser impulsores del cambio a nivel local*
 
