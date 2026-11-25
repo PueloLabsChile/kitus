@@ -1,5 +1,85 @@
 [
   {
+    "id": "pressenza-jcw2df",
+    "titulo": "Continentes y Contenidos #41 19/11/2026 Juicio político en Paraguay",
+    "resumen": "Con el comunicador de COnexión Paraguay Aldo Pelli hablamos de las crisis política que vive su país a raíz del juicio político contra el ex presidente Santiago Peña por la crisis del Ueno Bank.",
+    "seccion": "politica",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/continentes-y-contenidos-41-19-11-2026-juicio-politico-en-paraguay/",
+    "fecha": "2026-11-25T22:55:10.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-1ndo3wy",
+    "titulo": "Global Voices condena los ataques a Faktoje, servicio de verificación de datos albanés",
+    "resumen": "Faktoje es un miembro respetado de la comunidad de verificación de información internacional",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/25/global-voices-condena-los-ataques-a-faktoje-servicio-de-verificacion-de-datos-albanes/",
+    "fecha": "2026-11-25T22:00:40.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1oals8m",
+    "titulo": "Ultima madrugada con Fidel",
+    "resumen": "Por Rafael Pla León.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/ultima-madrugada-con-fidel-2/",
+    "fecha": "2026-11-25T20:41:19.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-1b1b1lr",
+    "titulo": "En Senegal, la justicia avanza en los juzgados, pero no en las altas esferas del Estado",
+    "resumen": "El 6 de abril de 2026, en las cárceles de Senegal había 15,912 reclusos para una capacidad de 10,912 reos.",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/25/en-senegal-la-justicia-avanza-en-las-cortes-pero-no-en-las-altas-esferas-del-estado/",
+    "fecha": "2026-11-25T20:00:35.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "dialogue-earth-10lz1qw",
+    "titulo": "El movimiento rural brasileño que trabaja con China para fabricar tractores",
+    "resumen": "Los agricultores familiares brasileños pronto podrían estar comprando los tractores económicos que tanto necesitan de una fuente inesperada: una alianza entre fabricantes chinos y uno de los movimientos sociales más conocidos de Brasil.",
+    "seccion": "internacional",
+    "medio": "Dialogue Earth",
+    "enlace": "https://dialogue.earth/es/negocios/mst-movimiento-rural-brasileno-trabaja-con-china-fabricar-tractores/",
+    "fecha": "2026-11-25T17:34:51.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-cr1yev",
+    "titulo": "Hierro en los océanos: cuando tan poco importa tanto",
+    "resumen": "Los océanos capturan alrededor de un 30 % del CO₂ producido por las actividades humanas(https://static.un.org/es/conf/ocean/background.shtml). Con este gas realiza la fotosíntesis el…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/hierro-en-los-oceanos-cuando-tan-poco-importa-tanto-292704",
+    "fecha": "2026-11-25T17:17:53.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-oyqg48",
+    "titulo": "‘Matocalipsis’: la (presunta) solución de la hipótesis de Riemann por una IA complica el panorama de las matemáticas",
+    "resumen": "Los matemáticos no ganamos para sustos. Ciertamente llevamos algún tiempo usando plataformas de inteligencia artificial, ChatGPT la más popular de ellas, pero, al menos en mi caso, mayoritariamente para fines menores (dime qué árbol es…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/matocalipsis-la-presunta-solucion-de-la-hipotesis-de-riemann-por-una-ia-complica-el-panorama-de-las-matematicas-297303",
+    "fecha": "2026-11-25T17:17:20.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-6dl80o",
+    "titulo": "‘Reza por mí’: estrategias publicitarias en las lápidas de la Edad Media",
+    "resumen": "Este artículo forma parte de una serie de textos que estudian la muerte en la Edad Media desde el punto de vista de la historia del arte y parten de un proyecto de investigación(https://portalcientifico.unileon.es/proyectos/889645/detalle)…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/reza-por-mi-estrategias-publicitarias-en-las-lapidas-de-la-edad-media-294726",
+    "fecha": "2026-11-25T17:16:28.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-wsiylm",
     "titulo": "Niñas, madres y abuelas: cuando la vida se adelanta",
     "resumen": "En agosto de 1999, en Rotherham, Inglaterra, una niña de apenas 12 años dio a luz. Su madre, que tenía solamente 26 años, se convirtió en una de las abuelas más jóvenes de Gran Bretaña.",
@@ -1117,86 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/y-si-no-soy-la-madre-que-imaginaba-el-peso-psicologico-de-las-expectativas-294711",
     "fecha": "2026-11-17T16:20:33.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1batnwg",
-    "titulo": "47 organizaciones instan a la UE a proteger los derechos de las personas, no a externalizar su protección",
-    "resumen": "Este 16 de noviembre de 2026, Austria, Dinamarca, Alemania, Grecia y los Países Bajos han presentado formalmente sus planes para establecer un «centro de retorno» en Ruanda.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/47-organizaciones-instan-a-la-ue-a-proteger-los-derechos-de-las-personas-no-a-externalizar-su-proteccion/",
-    "fecha": "2026-11-17T15:52:03.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-zjsmcj",
-    "titulo": "No solo gobernadores, diputados y senadores: también una nueva ola de alcaldes socialistas en EE. UU.",
-    "resumen": "En enero de 2027, cuando quienes fueron elegidos a principios de noviembre tomen posesión, más de 100 candidatos respaldados por los Democratic Socialists of America(https://www.dsausa.org/) (DSA, Socialistas Democráticos de América)…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/no-solo-gobernadores-diputados-y-senadores-tambien-una-nueva-ola-de-alcaldes-socialistas-en-ee-uu/",
-    "fecha": "2026-11-17T14:32:11.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-qgeyr6",
-    "titulo": "Desglose de la puntuación del Estado de derecho de Hong Kong según la clasificación del World Justice Project",
-    "resumen": "Hong Kong está en el puesto 24 en el Índice de Estado de Derecho y está en tendencia a la baja.",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/11/17/desglose-de-la-puntuacion-del-estado-de-derecho-de-hong-kong-segun-la-clasificacion-del-world-justice-project/",
-    "fecha": "2026-11-17T07:00:40.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-aan1dc",
-    "titulo": "Publicación digital ilustra el sistema penitenciario de Turquía",
-    "resumen": "«No existía ningún organismo independiente que supervisara periódicamente la situación en las prisiones y comunicara esta información al público mediante datos».",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/11/17/publicacion-digital-ilustra-el-sistema-penitenciario-de-turquia/",
-    "fecha": "2026-11-17T06:00:44.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1anoph3",
-    "titulo": "Perú: El mensaje que dejó el Papa León XIV",
-    "resumen": "El Papa León XIV finalizó su visita al Perú, donde estuvo desde el 11 al 16 de noviembre y visitó las ciudades de Lima, Callao, Chiclayo, Cajamarca, Santa Cruz de Succhabamba, Zaña, Cusco y Pucallpa, con la asistencia masiva de feligreses…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/peru-el-mensaje-que-dejo-el-papa-leon-xiv/",
-    "fecha": "2026-11-17T03:12:55.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-16mutie",
-    "titulo": "Consumir para pertenecer: cuando el mercado comienza a definir quiénes somos",
-    "resumen": "Hay algo que debería hacernos reflexionar sobre la sociedad que estamos construyendo: hemos comenzado a confundir la posibilidad de disfrutar con la obligación de consumir.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/consumir-para-pertenecer-cuando-el-mercado-comienza-a-definir-quienes-somos/",
-    "fecha": "2026-11-17T01:38:13.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1r5vwpk",
-    "titulo": "Taller de meditación y expresión creativa INSPIRARTE",
-    "resumen": "INSPIRARTE Taller de meditación y expresión creativa: un laboratorio para recuperar la interioridad como inspiración, donde la experiencia compartida se convierte en sentido y acción conjunta. Una apertura espiritual suave, íntima y…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/taller-de-meditacion-y-expresion-creativa-inspirarte/",
-    "fecha": "2026-11-16T21:54:47.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-o5jej6",
-    "titulo": "Los siete pecados capitales del poder. Dante, la moral medieval y las tentaciones autoritarias del gobierno de Kast",
-    "resumen": "Hay algo profundamente inquietante cuando la política comienza a confundirse con la moral, cuando un gobierno pretende establecer no solamente las reglas de convivencia de una sociedad, sino también determinar qué valores deben profesar…",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/los-siete-pecados-capitales-del-poder-dante-la-moral-medieval-y-las-tentaciones-autoritarias-del-gobierno-de-kast/",
-    "fecha": "2026-11-16T20:08:49.000Z",
     "estado": "pendiente"
   }
 ]
