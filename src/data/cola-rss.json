@@ -1,5 +1,75 @@
 [
   {
+    "id": "pressenza-wsiylm",
+    "titulo": "Niñas, madres y abuelas: cuando la vida se adelanta",
+    "resumen": "En agosto de 1999, en Rotherham, Inglaterra, una niña de apenas 12 años dio a luz. Su madre, que tenía solamente 26 años, se convirtió en una de las abuelas más jóvenes de Gran Bretaña.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/ninas-madres-y-abuelas-cuando-la-vida-se-adelanta/",
+    "fecha": "2026-11-25T14:49:27.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1mo3xjw",
+    "titulo": "No eran 56, eran 1.886: la aritmética del poder y la responsabilidad política",
+    "resumen": "Hay cifras que no son simplemente números. Son verdaderas radiografías del poder. Y cuando esas cifras aparecen en medio de una controversia política, lo que queda al descubierto no es solamente un error de cálculo, sino la dimensión de…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/no-eran-56-eran-1-886-la-aritmetica-del-poder-y-la-responsabilidad-politica/",
+    "fecha": "2026-11-25T14:23:19.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-mrg0he",
+    "titulo": "Las violencias transmutan, ¿y nuestras respuestas?",
+    "resumen": "Cada 25 de noviembre volvemos a hablar de las violencias contra las mujeres, de los avances alcanzados y de los desafíos pendientes. Sin embargo, las violencias también transmutan, se complejizan y encuentran nuevos espacios donde…",
+    "seccion": "derechos",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/las-violencias-transmutan-y-nuestras-respuestas/",
+    "fecha": "2026-11-25T14:22:34.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-12y3u0v",
+    "titulo": "Elisa García Mingo, socióloga española: “Las plataformas tecnológicas son cómplices al 100% de un diseño que monetiza y viraliza el machismo”",
+    "resumen": "por Eva Débia Oyarzún, www.evadebia.com",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/elisa-garcia-mingo-sociologa-espanola-las-plataformas-tecnologicas-son-complices-al-100-de-un-diseno-que-monetiza-y-viraliza-el-machismo/",
+    "fecha": "2026-11-25T14:10:23.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1vmt69v",
+    "titulo": "Voting rights for AI? The research behind an unsettling idea",
+    "resumen": "AI researchers are giving increasing attention to the idea of AI models becoming conscious. The implications are potentially huge: a conscious AI model would no longer be a tool we can use as we wish, but a being with moral status and…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/voting-rights-for-ai-the-research-behind-an-unsettling-idea-295036",
+    "fecha": "2026-11-25T09:56:12.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-1bakj1h",
+    "titulo": "La justicia es la infraestructura que el mundo sigue olvidando",
+    "resumen": "El mundo no puede construir economías prósperas, sociedades pacíficas ni democracias resilientes mientras niega las necesidades de justicia de sus habitantes.",
+    "seccion": "economia",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/25/la-justicia-es-la-infraestructura-que-el-mundo-sigue-olvidando/",
+    "fecha": "2026-11-25T07:00:06.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-f0qlbz",
+    "titulo": "Análisis de la trampa del reclutamiento detrás de la guerra de Rusia",
+    "resumen": "No hay justicia para los trabajadores de Bangladesh reclutados para la guerra de Rusia",
+    "seccion": "economia",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/25/analisis-de-la-trampa-del-reclutamiento-detras-de-la-guerra-de-rusia/",
+    "fecha": "2026-11-25T06:00:11.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-shdsud",
     "titulo": "Francia – Argelia: ¿el fin de la influencia francesa en Argelia?",
     "resumen": "Bajo los litigios por la inmigración, el Sáhara Occidental y el comercio late un giro geopolítico más profundo: la determinación de Argelia de recuperar el control de sus decisiones económicas y diplomáticas, y la dificultad de Francia…",
@@ -1127,76 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/11/los-siete-pecados-capitales-del-poder-dante-la-moral-medieval-y-las-tentaciones-autoritarias-del-gobierno-de-kast/",
     "fecha": "2026-11-16T20:08:49.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-x8pvfr",
-    "titulo": "Marcha No+AFP",
-    "resumen": "El movimiento social por la restitución del Derecho a la Seguridad Social en Chile, liderado por la Coordinadora Nacional de Trabajadoras/es NO + AFP, realizó un llamado a movilización en todo los territorios para protestar contra el…",
-    "seccion": "economia",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/marcha-noafp/",
-    "fecha": "2026-11-16T19:42:40.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-7fa50d",
-    "titulo": "¿Y si tratar el cáncer implica mirar más allá del tumor?",
-    "resumen": "Después de más de quince años investigando medicina integrativa, Carolina Bezamat presenta El cuerpo recuerda, publicado por Editorial Forja, un libro que aborda el cáncer desde una perspectiva que reúne ciencia, medicina convencional…",
-    "seccion": "cultura",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/y-si-tratar-el-cancer-implica-mirar-mas-alla-del-tumor/",
-    "fecha": "2026-11-16T18:45:58.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1jouiep",
-    "titulo": "Aunque no compensa los efectos negativos, el humo de los incendios ayuda a fertilizar la selva amazónica",
-    "resumen": "El humo generado por los incendios en los trópicos puede viajar miles de kilómetros(https://pubmed.ncbi.nlm.nih.gov/31358622/), impulsado por el flujo de viento de la zona. Durante este transporte, dicho humo es capaz de arrastrar…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/aunque-no-compensa-los-efectos-negativos-el-humo-de-los-incendios-ayuda-a-fertilizar-la-selva-amazonica-295406",
-    "fecha": "2026-11-16T17:09:51.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1fzg9dl",
-    "titulo": "¿Qué votamos en las elecciones generales del 29-N?",
-    "resumen": "El próximo 29 de noviembre, tras la disolución de las Cortes Generales y convocatoria de elecciones generales por Real Decreto 806/2026, de 5 de octubre(https://www.boe.es/diarioboe/txt.php?id=BOE-A-2026-20742), tendremos la posibilidad de…",
-    "seccion": "politica",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/que-votamos-en-las-elecciones-generales-del-29-n-294026",
-    "fecha": "2026-11-16T17:03:07.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-r6fj7t",
-    "titulo": "Violencia sexual contra la infancia y la adolescencia: cómo prevenirla antes de la primera agresión",
-    "resumen": "La violencia sexual contra niños, niñas y adolescentes es una grave vulneración de derechos y un problema de salud pública que genera profunda preocupación social. Sus consecuencias pueden afectar al desarrollo de las víctimas y…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/violencia-sexual-contra-la-infancia-y-la-adolescencia-como-prevenirla-antes-de-la-primera-agresion-295939",
-    "fecha": "2026-11-16T17:03:03.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-125xcsi",
-    "titulo": "Alarma científica por fenómeno del Niño: «Tenemos siete meses»",
-    "resumen": "Los científicos y expertos climáticos advirtieron esta semana en el Parlamento Europeo de que Europa debe urgentemente prepararse para las consecuencias del fenómeno de El Niño de los años 2026-2027, que, según sus previsiones, será…",
-    "seccion": "derechos",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/alarma-cientifica-por-fenomeno-del-nino-tenemos-siete-meses/",
-    "fecha": "2026-11-16T16:46:23.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-qwrs38",
-    "titulo": "MOSACAT y OLCA denuncian en el Consejo Regional los impactos que tendría el data center de Google en Cerrillos y la falta de regulación",
-    "resumen": "por Comunicaciones OLCA",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/mosacat-y-olca-denuncian-en-el-consejo-regional-los-impactos-que-tendria-el-data-center-de-google-en-cerrillos-y-la-falta-de-regulacion/",
-    "fecha": "2026-11-16T16:17:31.000Z",
     "estado": "pendiente"
   }
 ]
