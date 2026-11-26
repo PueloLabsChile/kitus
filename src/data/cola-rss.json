@@ -1,5 +1,45 @@
 [
   {
+    "id": "the-conversation-espana-adku1",
+    "titulo": "Cuidado con el Black Friday, puede ser la precuela de una pesadilla financiera",
+    "resumen": "Cada noviembre llega cargadito de pesadillas, y no precisamente de las que dan sustos: es la precuela de diciembre. Lo estrenamos con Halloween, una tradición estadounidense que se ha ido instaurando a nivel global en forma de disfraces…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/cuidado-con-el-black-friday-puede-ser-la-precuela-de-una-pesadilla-financiera-296541",
+    "fecha": "2026-11-26T13:21:09.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1evjhto",
+    "titulo": "Black Friday 2026: ¿quién decide cuándo compramos?",
+    "resumen": "Tres de cada cuatro consumidores españoles(https://www.ocu.org/consumo-familia/compras-online/noticias/gasto-black-friday) prevén comprar algo este Black Friday. El gasto medio previsto para este 27 de noviembre es de 209 euros. En este…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/black-friday-2026-quien-decide-cuando-compramos-297499",
+    "fecha": "2026-11-26T13:21:03.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-3gospn",
+    "titulo": "De una vida tranquila al terror de las pandillas armadas: Historia del municipio de Kenscoff en Haití",
+    "resumen": "El 19 de octubre, una unidad de soldados salvadoreños también fue emboscada; la situación sigue tensa",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/26/de-una-vida-tranquila-al-terror-de-las-pandillas-armadas-historia-del-municipio-de-kenscoff-en-haiti/",
+    "fecha": "2026-11-26T07:00:50.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-1p6svr0",
+    "titulo": "En Macao, condenan a exlegislador a 12 años y medio de prisión en juicio a puertas cerradas",
+    "resumen": "El representante legal internacional de Au Kam San calificó el juicio de «farsa» y denunció la existencia de «acusaciones fabricadas».",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/26/en-macao-condenan-a-exlegislador-a-12-anos-y-medio-de-prision-en-juicio-a-puertas-cerradas/",
+    "fecha": "2026-11-26T06:00:49.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-1yb1f7t",
     "titulo": "La masacre silenciosa de las personas LGBTQIA+ en Centroamérica: entre asesinatos e impunidad",
     "resumen": "Sólo en Honduras se registraron 56 muertes violentas en los primeros diez meses de 2026, y más del 90% de los delitos han quedado impunes desde 2009. También en Guatemala y El Salvador, la violencia homofóbica y transfóbica involucra a las…",
@@ -1157,46 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/11/ni-apocalipsis-ni-fervor/",
     "fecha": "2026-11-17T20:49:42.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1jxshtv",
-    "titulo": "Bangladesh impulsa la participación de comunidades educativas para prevenir la violencia y el acoso escolar",
-    "resumen": "Estudiantes, docentes, familias y representantes comunitarios de 30 escuelas de Bangladesh participan en una iniciativa orientada a prevenir la violencia, el acoso escolar y el ciberacoso, y promover entornos educativos seguros e…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/bangladesh-impulsa-la-participacion-de-comunidades-educativas-para-prevenir-la-violencia-y-el-acoso-escolar/",
-    "fecha": "2026-11-17T18:35:30.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "dialogue-earth-1kqpdd2",
-    "titulo": "COP31: El objetivo de electrificación global, ¿una trampa para América Latina?",
-    "resumen": "América Latina cuenta con algo por lo que gran parte del mundo aún está luchando: una red eléctrica en gran medida limpia. Las fuentes limpias generan el 66% de la electricidad de la región. La mayor parte proviene de la energía…",
-    "seccion": "internacional",
-    "medio": "Dialogue Earth",
-    "enlace": "https://dialogue.earth/es/energia/cop31-objetivo-electrificacion-global-trampa-america-latina/",
-    "fecha": "2026-11-17T17:49:11.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-44w6lg",
-    "titulo": "Disputar la hegemonía no es necesariamente transformar el mundo",
-    "resumen": "A propósito de la columna de Tania…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/disputar-la-hegemonia-no-es-necesariamente-transformar-el-mundo/",
-    "fecha": "2026-11-17T17:02:13.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-3quqzf",
-    "titulo": "Por qué el voto de los mayores es el gran olvidado en la lucha contra los bulos electorales",
-    "resumen": "Cada vez que hablamos de bulos y redes sociales, la conversación se dirige hacia los más jóvenes. Es comprensible, ya que son ellos a quienes identificamos más con el uso de pantallas y redes sociales. Sin embargo, eso deja fuera del foco…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/por-que-el-voto-de-los-mayores-es-el-gran-olvidado-en-la-lucha-contra-los-bulos-electorales-285557",
-    "fecha": "2026-11-17T16:21:20.000Z",
     "estado": "pendiente"
   }
 ]
