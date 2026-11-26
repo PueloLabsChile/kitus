@@ -1,5 +1,25 @@
 [
   {
+    "id": "pressenza-1yb1f7t",
+    "titulo": "La masacre silenciosa de las personas LGBTQIA+ en Centroamérica: entre asesinatos e impunidad",
+    "resumen": "Sólo en Honduras se registraron 56 muertes violentas en los primeros diez meses de 2026, y más del 90% de los delitos han quedado impunes desde 2009. También en Guatemala y El Salvador, la violencia homofóbica y transfóbica involucra a las…",
+    "seccion": "derechos",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/la-masacre-silenciosa-de-las-personas-lgbtqia-en-centroamerica-entre-asesinatos-e-impunidad/",
+    "fecha": "2026-11-26T01:12:43.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "agencia-tierra-viva-18nkkcc",
+    "titulo": "Denuncia penal contra autoridades del INTA: contaminación,  censura y venenos en la sangre",
+    "resumen": "Tras la exoneración de la investigadora del INTA(https://agenciatierraviva.com.ar/perseguir-y-censurar-a-la-ciencia-el-inta-echa-y-exonera-a-su-mayor-investigadora-en-agrotoxicos/) Virginia Aparicio, las repercusiones en torno al censurado…",
+    "seccion": "derechos",
+    "medio": "Agencia Tierra Viva",
+    "enlace": "https://agenciatierraviva.com.ar/denuncia-penal-contra-autoridades-del-inta-contaminacion-censura-y-venenos-en-la-sangre/",
+    "fecha": "2026-11-26T00:02:52.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-jcw2df",
     "titulo": "Continentes y Contenidos #41 19/11/2026 Juicio político en Paraguay",
     "resumen": "Con el comunicador de COnexión Paraguay Aldo Pelli hablamos de las crisis política que vive su país a raíz del juicio político contra el ex presidente Santiago Peña por la crisis del Ueno Bank.",
@@ -1177,26 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/por-que-el-voto-de-los-mayores-es-el-gran-olvidado-en-la-lucha-contra-los-bulos-electorales-285557",
     "fecha": "2026-11-17T16:21:20.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-214nsr",
-    "titulo": "¿Y si recuperamos los coros escolares? Manuel Borguñó y su pedagogía musical",
-    "resumen": "¿Son los coros escolares un vestigio del pasado? Pese a sus reconocidos beneficios(https://journals.sagepub.com/doi/full/10.1177/20592043251369986), no solo para la educación musical sino para el bienestar diario de los…",
-    "seccion": "cultura",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/y-si-recuperamos-los-coros-escolares-manuel-borguno-y-su-pedagogia-musical-290077",
-    "fecha": "2026-11-17T16:20:59.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-lkpzi2",
-    "titulo": "¿Y si no soy la madre que imaginaba? El peso psicológico de las expectativas",
-    "resumen": "Antes de que nazca un bebé, muchas mujeres ya han imaginado cómo serán como madres. Quizá se ven pacientes ante el llanto desconsolado, disfrutando de la lactancia o capaces de compaginar la crianza con su vida anterior.",
-    "seccion": "derechos",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/y-si-no-soy-la-madre-que-imaginaba-el-peso-psicologico-de-las-expectativas-294711",
-    "fecha": "2026-11-17T16:20:33.000Z",
     "estado": "pendiente"
   }
 ]
