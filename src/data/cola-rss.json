@@ -1,5 +1,35 @@
 [
   {
+    "id": "global-voices-1xcjf27",
+    "titulo": "Pocos peces, bolas de alquitrán y delfines varados: Costos ocultos de las plataformas marinas en aguas de Camerún",
+    "resumen": "Las plataformas petroleras amenazan la biodiversidad y el bienestar de las comunidades costeras e indígenas.",
+    "seccion": "economia",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/27/pocos-peces-bolas-de-alquitran-y-delfines-varados-costos-ocultos-de-las-plataformas-marinas-en-aguas-de-camerun/",
+    "fecha": "2026-11-27T07:00:17.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "global-voices-1jx8ztf",
+    "titulo": "En Montenegro, ciudadanos contribuyen a tener un país más limpio",
+    "resumen": "Y colaborar para que los objetivos de adhesión a la Unión Europea sean plausibles.",
+    "seccion": "internacional",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/27/en-montenegro-ciudadanos-contribuyen-a-tener-un-pais-mas-limpio/",
+    "fecha": "2026-11-27T06:00:38.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-yqx5ry",
+    "titulo": "Perú: Congreso aprueba Presupuesto Fiscal 2027 mientras ciudadanía exige transparencia y buen manejo",
+    "resumen": "El pasado 20 de noviembre, el Congreso bicameral aprobó el Presupuesto del Sector Público para el año fiscal 2027 que asciende a S/. 266,506 millones de soles y que prioriza los sectores de economía, educación, salud y seguridad…",
+    "seccion": "economia",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/peru-congreso-aprueba-presupuesto-fiscal-2027-mientras-ciudadania-exige-transparencia-y-buen-manejo/",
+    "fecha": "2026-11-27T04:18:04.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-3316vy",
     "titulo": "El Dios del dinero, la estafa más grande de la historia",
     "resumen": "Vivimos finalmente en un mundo donde los gobiernos no pueden operar sin préstamos constantes de los bancos. Los préstamos nunca se pueden pagar completamente debido a los pagos de intereses que tienen. En muchos casos, los gobiernos tienen…",
@@ -1167,36 +1197,6 @@
     "medio": "The Conversation España",
     "enlace": "https://theconversation.com/que-pueden-revelar-las-corrientes-oceanicas-sobre-un-accidente-aereo-en-el-mar-293509",
     "fecha": "2026-11-18T16:51:01.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-px3x8o",
-    "titulo": "La ciencia que compramos: cómo los descubrimientos del laboratorio se convierten en tendencias de bienestar",
-    "resumen": "Si pasea por el expositor de lácteos del supermercado y ve la palabra “microbiota” en un yogur, automáticamente llamará su atención de entre todos los demás yogures. Pasa lo mismo cuando un producto lleva rótulos como “bienestar digestivo”…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/la-ciencia-que-compramos-como-los-descubrimientos-del-laboratorio-se-convierten-en-tendencias-de-bienestar-291890",
-    "fecha": "2026-11-18T16:50:38.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-6j0oi2",
-    "titulo": "México llega con su estrategia de desarrollo económico a China",
-    "resumen": "Parte de “Una violencia demasiado grande para ser vista(https://www.pressenza.com/es/tag/a-violence-too-large-to-see/)” nos hace explorar cómo la reducción de la pobreza en México y su nueva estrategia de desarrollo plantean preguntas…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/mexico-llega-con-su-estrategia-de-desarrollo-economico-a-china/",
-    "fecha": "2026-11-18T15:58:56.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "dialogue-earth-ukki6x",
-    "titulo": "China acusa a Chile y Bélgica de un ‘acuerdo a puertas cerradas’ en medio de tensiones por la sede del tratado de alta mar",
-    "resumen": "China apenas disimuló su furia después de que su intento por albergar su primer organismo de la ONU pareciera haber sido frustrado por una alianza entre Chile y Bélgica.",
-    "seccion": "internacional",
-    "medio": "Dialogue Earth",
-    "enlace": "https://dialogue.earth/es/oceanos/china-acusa-chile-belgica-acuerdo-puertas-cerradas-tensiones-sede-tratado-alta-mar/",
-    "fecha": "2026-11-18T08:10:00.000Z",
     "estado": "pendiente"
   }
 ]
