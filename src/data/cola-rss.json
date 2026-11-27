@@ -1,5 +1,55 @@
 [
   {
+    "id": "agencia-tierra-viva-ihjxvm",
+    "titulo": "El embrujo extractivista del progresismo uruguayo",
+    "resumen": "El gobierno de Yamandú Orsi parece empeñado en profundizar la carrera extractivista que inició Tabaré Vázquez con Botnia y continuó José Mujica con la minera Aratirí (que tuvo que detener por la amplia oposición que despertó). Ahora se…",
+    "seccion": "derechos",
+    "medio": "Agencia Tierra Viva",
+    "enlace": "https://agenciatierraviva.com.ar/el-embrujo-extractivista-del-progresismo-uruguayo/",
+    "fecha": "2026-11-27T17:57:49.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-mwbyre",
+    "titulo": "Naufragio en Ibiza: ¿cómo pudo hundirse un buque moderno como el Med Emre, sin un gran temporal?",
+    "resumen": "Un buque de apenas siete años de antigüedad, dotado de doble casco y navegando por el Mediterráneo, acaba de hundirse cerca de Ibiza. El Med Emre tenía 120 metros de eslora y llevaba bandera de Malta. Había salido de Algeciras el martes 24…",
+    "seccion": "internacional",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/naufragio-en-ibiza-como-pudo-hundirse-un-buque-moderno-como-el-med-emre-sin-un-gran-temporal-297706",
+    "fecha": "2026-11-27T16:28:04.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-18jd79n",
+    "titulo": "Emoción y gran nivel de debate en el primer Taller FRI",
+    "resumen": "Las Jornadas FRI-ICAP, celebradas el mes de octubre, marcaron un hito histórico, en cuanto al alto nivel de los desarrollos intelectuales y toda la emoción que se vivió en el trascurso de las mismas.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/emocion-y-gran-nivel-de-debate-en-el-primer-taller-fri/",
+    "fecha": "2026-11-27T16:02:56.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1yg816n",
+    "titulo": "Del Prestige a Ibiza, ¿qué protección ofrece hoy un petrolero de doble casco?",
+    "resumen": "A las 9:26 del 26 de noviembre de 2026, el barco que se daba por hundido mostró la quilla, boca abajo. Un avión de Salvamento Marítimo localizó al Med Emre, todavía a flote, a unos 35 kilómetros al noroeste de Ibiza. La noche anterior…",
+    "seccion": "economia",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/del-prestige-a-ibiza-que-proteccion-ofrece-hoy-un-petrolero-de-doble-casco-297699",
+    "fecha": "2026-11-27T13:50:16.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-t7ok8",
+    "titulo": "¿Por qué escuchar la palabra ‘calladita’ activa todos los resortes?",
+    "resumen": "El jueves 26 de noviembre, a tres días de las elecciones generales en España, el debate a cuatro de RTVE(https://www.rtve.es/noticias/20261127/debate-electoral-cuatro-elecciones-generales-2026-cronica/17331240.shtml) dejó una frase que ha…",
+    "seccion": "politica",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/por-que-escuchar-la-palabra-calladita-activa-todos-los-resortes-297760",
+    "fecha": "2026-11-27T11:36:07.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "global-voices-1xcjf27",
     "titulo": "Pocos peces, bolas de alquitrán y delfines varados: Costos ocultos de las plataformas marinas en aguas de Camerún",
     "resumen": "Las plataformas petroleras amenazan la biodiversidad y el bienestar de las comunidades costeras e indígenas.",
@@ -1147,56 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/11/la-politica-migratoria-alcanza-otro-minimo-en-la-vulneracion-de-derechos-humanos/",
     "fecha": "2026-11-18T20:24:11.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-fw5z0g",
-    "titulo": "Setenta años de debates electorales ante las cámaras: la evolución del cara a cara",
-    "resumen": "El presidente del Gobierno, Pedro Sánchez, y el presidente del Partido Popular (PP), Alberto Núñez Feijóo, protagonizarán el jueves 19 de noviembre un debate cara a cara organizado por la Academia de…",
-    "seccion": "politica",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/setenta-anos-de-debates-electorales-ante-las-camaras-la-evolucion-del-cara-a-cara-296766",
-    "fecha": "2026-11-18T20:12:38.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-kgisi3",
-    "titulo": "Las dos huelgas del 11-N y la dura realidad",
-    "resumen": "La multitudinaria y unitaria (?) manifestación de Barcelona ha sido una de las más importantes de los últimos años, con mucha diferencia. Hay que decir que este 11N había a la vez dos huelgas:",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/las-dos-huelgas-del-11-n-y-la-dura-realidad/",
-    "fecha": "2026-11-18T18:40:41.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-140pmdk",
-    "titulo": "¿Qué fue lo que realmente ganó en las elecciones de mitad de mandato de 2026?",
-    "resumen": "Han pasado dos semanas desde las elecciones de mitad de mandato del 3 de noviembre de 2026. Al día siguiente, los análisis se centraron en el avance demócrata, el rechazo a Trump y el impulso progresista. Los demócratas recuperaron ambas…",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/que-fue-lo-que-realmente-gano-en-las-elecciones-de-mitad-de-mandato-de-2026/",
-    "fecha": "2026-11-18T18:03:59.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1c01qp7",
-    "titulo": "Cuidarse por dentro para verse mejor por fuera: ¿funciona la nutricosmética?",
-    "resumen": "La palabra “nutricosmética” suena a novedad, a tendencia recién llegada al mercado de la belleza. Pero la idea de embellecerse desde dentro, tomando suplementos, es más vieja de lo que parece. Mucho antes de que el término se pusiera de…",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/cuidarse-por-dentro-para-verse-mejor-por-fuera-funciona-la-nutricosmetica-296011",
-    "fecha": "2026-11-18T16:51:37.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "the-conversation-espana-1rhyav0",
-    "titulo": "¿Qué pueden revelar las corrientes oceánicas sobre un accidente aéreo en el mar?",
-    "resumen": "Cuando un avión cae al mar, el accidente no termina en el punto de impacto: comienza una segunda historia, escrita por el viento y las corrientes oceánicas.",
-    "seccion": "internacional",
-    "medio": "The Conversation España",
-    "enlace": "https://theconversation.com/que-pueden-revelar-las-corrientes-oceanicas-sobre-un-accidente-aereo-en-el-mar-293509",
-    "fecha": "2026-11-18T16:51:01.000Z",
     "estado": "pendiente"
   }
 ]
