@@ -1,5 +1,75 @@
 [
   {
+    "id": "pressenza-3316vy",
+    "titulo": "El Dios del dinero, la estafa más grande de la historia",
+    "resumen": "Vivimos finalmente en un mundo donde los gobiernos no pueden operar sin préstamos constantes de los bancos. Los préstamos nunca se pueden pagar completamente debido a los pagos de intereses que tienen. En muchos casos, los gobiernos tienen…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/el-dios-del-dinero-la-estafa-mas-grande-de-la-historia/",
+    "fecha": "2026-11-26T21:24:24.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "agencia-tierra-viva-1owj39a",
+    "titulo": "Proteger el agua y celebrar la vida: \"Somos el territorio, somos el cerro Famatina\"",
+    "resumen": "Este libro es parte de la historia viva de un movimiento que traspasa los límites provinciales, recorre el país y se expande por el mundo, por cada lugar de nuestra Madre Tierra habitado por personas que trabajan, estudian y miran su…",
+    "seccion": "derechos",
+    "medio": "Agencia Tierra Viva",
+    "enlace": "https://agenciatierraviva.com.ar/proteger-el-agua-y-celebrar-la-vida-somos-el-territorio-somos-el-cerro-famatina/",
+    "fecha": "2026-11-26T20:22:10.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-r504s2",
+    "titulo": "El sindicato de enseñanza STEILAS recurre la nueva orden foral de evaluación de FP",
+    "resumen": "La privatización encubierta de la educación pública no es cosa solo de Navarra: avanza en toda España. STEILAS, primera fuerza sindical en la enseñanza pública navarra, recurre la nueva orden foral de evaluación de FP, que consolida un…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/el-sindicato-de-ensenanza-steilas-recurre-la-nueva-orden-foral-de-evaluacion-de-fp/",
+    "fecha": "2026-11-26T17:22:07.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-1ewnuv4",
+    "titulo": "Multas o imposibilidad de obtener un pasaporte: así funciona el voto obligatorio en el mundo",
+    "resumen": "El 29 de noviembre España celebra elecciones generales. Millones de ciudadanos acudirán a las urnas, pero muchos otros se quedarán en casa. En la mayoría de las democracias, votar constituye un derecho y los electores eligen a sus…",
+    "seccion": "politica",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/multas-o-imposibilidad-de-obtener-un-pasaporte-asi-funciona-el-voto-obligatorio-en-el-mundo-297096",
+    "fecha": "2026-11-26T17:09:21.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-xldti5",
+    "titulo": "¿Cómo votan las personas con discapacidad?",
+    "resumen": "El próximo 29 de noviembre, España tiene una cita con la democracia(https://theconversation.com/el-29-n-entre-ceuta-y-la-vivienda-las-dos-batallas-que-decidiran-las-elecciones-293567). Todas las personas mayores de edad con derecho a voto…",
+    "seccion": "politica",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/como-votan-las-personas-con-discapacidad-297208",
+    "fecha": "2026-11-26T17:09:18.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "the-conversation-espana-183jtkn",
+    "titulo": "El maltratador de 2046 tiene hoy 15 años: la prevención empieza en casa y en la escuela",
+    "resumen": "El 25 de noviembre de 2026, Día Internacional para la Eliminación de la Violencia contra la Mujer, Verónica, de 32 años y madre de dos hijos, murió apuñalada en su casa de Bullas (Murcia). El presunto autor, su pareja, se entregó al día…",
+    "seccion": "derechos",
+    "medio": "The Conversation España",
+    "enlace": "https://theconversation.com/el-maltratador-de-2046-tiene-hoy-15-anos-la-prevencion-empieza-en-casa-y-en-la-escuela-297615",
+    "fecha": "2026-11-26T17:09:11.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-bozntd",
+    "titulo": "La transición energética no espera a que nos guste China",
+    "resumen": "Por Enrique Dans ()",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/la-transicion-energetica-no-espera-a-que-nos-guste-china/",
+    "fecha": "2026-11-26T16:40:51.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "the-conversation-espana-adku1",
     "titulo": "Cuidado con el Black Friday, puede ser la precuela de una pesadilla financiera",
     "resumen": "Cada noviembre llega cargadito de pesadillas, y no precisamente de las que dan sustos: es la precuela de diciembre. Lo estrenamos con Halloween, una tradición estadounidense que se ha ido instaurando a nivel global en forma de disfraces…",
@@ -1127,76 +1197,6 @@
     "medio": "Dialogue Earth",
     "enlace": "https://dialogue.earth/es/oceanos/china-acusa-chile-belgica-acuerdo-puertas-cerradas-tensiones-sede-tratado-alta-mar/",
     "fecha": "2026-11-18T08:10:00.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-1rz7eyu",
-    "titulo": "Grandes empresas tecnológicas y Estados autoritarios: Bielorrusia",
-    "resumen": "Un podcast de Global Voices sobre la situación de la represión digital en Bielorrusia",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/11/18/grandes-empresas-tecnologicas-y-estados-autoritarios-bielorrusia/",
-    "fecha": "2026-11-18T07:00:02.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-em311r",
-    "titulo": "Emprendedora haitiana logra el triunfo al apoyar productos locales",
-    "resumen": "«Comamos lo que producimos; así todos ganamos»",
-    "seccion": "internacional",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/11/18/emprendedora-haitiana-logra-el-triunfo-al-apoyar-productos-locales/",
-    "fecha": "2026-11-18T06:00:21.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-ljp0ux",
-    "titulo": "Más que una escuela, una comunidad que sueña y se transforma (1)",
-    "resumen": "Brasil amanecía con las celebraciones del triunfo de Lula en las elecciones presidenciales. Atrás queda la gran metrópoli de Sao Paulo, mientras avanzo por la carretera hacia el litoral atlántico en busca de un tesoro escondido: la escuela…",
-    "seccion": "politica",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/mas-que-una-escuela-una-comunidad-que-suena-y-se-transforma-1/",
-    "fecha": "2026-11-18T05:57:17.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-4qefns",
-    "titulo": "OLCA estrena un podcast que cuestiona la transición energética impulsada desde el Norte Global",
-    "resumen": "por Comunicaciones OLCA",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/olca-estrena-un-podcast-que-cuestiona-la-transicion-energetica-impulsada-desde-el-norte-global/",
-    "fecha": "2026-11-18T00:39:48.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1nzr55f",
-    "titulo": "Luces y sombras del desarrollo económico de Bangladés",
-    "resumen": "Por Kamal Mosharef (Redacción Pressenza-Bangladés/Daca)",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/luces-y-sombras-del-desarrollo-economico-de-banglades/",
-    "fecha": "2026-11-17T22:15:31.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-1hclk8m",
-    "titulo": "Convocatoria: Invitación a formar parte de los Talleres FRI",
-    "resumen": "Como resultado de las Jornadas FRI-ICAP realizadas en la ciudad de Santa Clara-Cuba en octubre de 2026, FORUM RED INTERCULTURAL, convoca a su red de colaboradores a participar en el primer Taller FRI.",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/convocatoria-invitacion-a-formar-parte-de-los-talleres-fri/",
-    "fecha": "2026-11-17T22:09:17.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-17dbszf",
-    "titulo": "Ni apocalipsis ni fervor",
-    "resumen": "Por Fernando La Chica",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/ni-apocalipsis-ni-fervor/",
-    "fecha": "2026-11-17T20:49:42.000Z",
     "estado": "pendiente"
   }
 ]
