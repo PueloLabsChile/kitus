@@ -1,5 +1,45 @@
 [
   {
+    "id": "pressenza-8i5aw6",
+    "titulo": "Colombia, entre el apagón y el incendio",
+    "resumen": "El país se oscurece bajo la política incendiaria de su actual presidente.",
+    "seccion": "politica",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/colombia-entre-el-apagon-y-el-incendio/",
+    "fecha": "2026-11-27T22:31:39.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1wnakq3",
+    "titulo": "El mundo sabe que las armas nucleares son peligrosas. ¿Ahora qué?",
+    "resumen": "Parte de “ El mundo como zona libre de armas nucleares(https://www.pressenza.com/es/tag/the-world-as-a-nuclear-free-zone/)” — Más allá del reconocimiento de la amenaza nuclear a la construcción de una alternativa.",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/el-mundo-sabe-que-las-armas-nucleares-son-peligrosas-ahora-que/",
+    "fecha": "2026-11-27T22:25:17.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1l64i46",
+    "titulo": "COP31: Un retroceso para la humanidad",
+    "resumen": "Para Chile, enfrentar decididamente el cambio climático constituye una extraordinaria oportunidad de desarrollo económico y social. Por ello, el fracaso de la COP31, realizada en Antalya, Turquía, nos interpela no solo como miembros de la…",
+    "seccion": "derechos",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/cop31-un-retroceso-para-la-humanidad/",
+    "fecha": "2026-11-27T22:17:05.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1ufnr8k",
+    "titulo": "Estados Unidos nunca ha sido aliado de Chile (X)",
+    "resumen": "El creciente intervencionismo estadounidense en América Latina, y particularmente en México, causó tanto malestar en el gobierno chileno que su ministro de Relaciones Exteriores, Enrique Villegas, comenzó ya en agosto de 1913 a sondear a…",
+    "seccion": "politica",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/estados-unidos-nunca-ha-sido-aliado-de-chile-x/",
+    "fecha": "2026-11-27T21:59:28.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "agencia-tierra-viva-ihjxvm",
     "titulo": "El embrujo extractivista del progresismo uruguayo",
     "resumen": "El gobierno de Yamandú Orsi parece empeñado en profundizar la carrera extractivista que inició Tabaré Vázquez con Botnia y continuó José Mujica con la minera Aratirí (que tuvo que detener por la amplia oposición que despertó). Ahora se…",
@@ -1157,46 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/11/peru-estudiantes-de-la-pucp-toman-medida-de-fuerza-nuevamente-por-pensiones/",
     "fecha": "2026-11-19T02:40:59.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-15sqxnu",
-    "titulo": "La resistencia socioambiental de Uspallata (Argentina) ante los foros internacionales: judicialización, captura estatal y vulneración de Derechos Humanos en Mendoza",
-    "resumen": "Quién es Federico Soria(https://www.frontlinedefenders.org/es/profile/federico-soria)",
-    "seccion": "derechos",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/la-resistencia-socioambiental-de-uspallata-argentina-ante-los-foros-internacionales-judicializacion-captura-estatal-y-vulneracion-de-derechos-humanos-en-mendoza/",
-    "fecha": "2026-11-18T21:43:29.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-mwm8hh",
-    "titulo": "Cuando un boleto no bastó: la prueba robada y la farsa de la causa «Mabel Ochoa y otros»",
-    "resumen": "Por Aisha dos Santos Echeveste",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/cuando-un-boleto-no-basto-la-prueba-robada-y-la-farsa-de-la-causa-mabel-ochoa-y-otros/",
-    "fecha": "2026-11-18T21:36:31.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-pgg6vt",
-    "titulo": "El intelectual frente a la ultraderecha: el deber de incomodar al poder",
-    "resumen": "A propósito de Umberto Eco, la democracia y el avance de los nuevos autoritarismos en América Latina y Europa",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/el-intelectual-frente-a-la-ultraderecha-el-deber-de-incomodar-al-poder/",
-    "fecha": "2026-11-18T21:28:53.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-wj27rs",
-    "titulo": "Europa deporta a Ruanda: la política migratoria toca fondo en Derechos Humanos",
-    "resumen": "En el marco de la Vienna Migration Conference del ICMPD(https://www.elcorreogallego.es/mundo/2026/11/16/paises-europeos-ruanda-centro-solicitantes-asilo-rechazados-136505821.html), Austria ha anunciado, junto con Alemania, Grecia…",
-    "seccion": "derechos",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/la-politica-migratoria-alcanza-otro-minimo-en-la-vulneracion-de-derechos-humanos/",
-    "fecha": "2026-11-18T20:24:11.000Z",
     "estado": "pendiente"
   }
 ]
