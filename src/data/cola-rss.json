@@ -1,5 +1,25 @@
 [
   {
+    "id": "pressenza-9z5w3f",
+    "titulo": "Odesa, otro crimen de guerra… ¿Acaso nos estaremos acostumbrando?",
+    "resumen": "llegó ya la mañana del 23 de noviembre; salgo por la calle Europa, y que descubro ser adyacente al Teatro de la Ópera y, por tanto, a el que era mi hotel. La calle se llamaba antaño «calle Catalina», en honor de Catalina II la Grande…",
+    "seccion": "cultura",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/odesa-otro-crimen-de-guerra-acaso-nos-estaremos-acostumbrando/",
+    "fecha": "2026-11-28T12:26:03.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-1czyl2o",
+    "titulo": "«¿Quién puede vivir con un 20% de sueldo?»: SATSE Navarra protesta por las plazas parciales de Enfermería",
+    "resumen": "Nos llega a la Redacción de Pressenza, la convocatoria de concentración y posterior lectura de comunicado del Sindicato de Enfermería de Navarra (SATSE), que reproducimos a continuación. Se ha respetado íntegro el comunicado que se va a…",
+    "seccion": "internacional",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/2765792/",
+    "fecha": "2026-11-28T09:45:07.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "global-voices-13o553",
     "titulo": "El soñador que quiere dar a conocer al mundo la literatura nepalí",
     "resumen": "«Ya no vemos a la literatura nepalí aislada por límites geográficos»",
@@ -1177,26 +1197,6 @@
     "medio": "Global Voices",
     "enlace": "https://es.globalvoices.org/2026/11/19/ofensiva-de-egipto-contra-medios-independientes-alcanza-a-mada-masr-editora-enfrenta-juicio/",
     "fecha": "2026-11-19T07:00:01.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "global-voices-uvcgbi",
-    "titulo": "Plataforma de tecnología cívica ayuda a las mujeres en Serbia a llegar a salvo a casa",
-    "resumen": "¿Qué podemos cambiar en los lugares donde la gente trabaja, estudia y pasa su tiempo libre?",
-    "seccion": "derechos",
-    "medio": "Global Voices",
-    "enlace": "https://es.globalvoices.org/2026/11/19/plataforma-de-tecnologia-civica-ayuda-a-las-mujeres-en-serbia-a-llegar-a-salvo-a-casa/",
-    "fecha": "2026-11-19T06:00:13.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-16th1hz",
-    "titulo": "El Salvador: Bukele exporta su modelo represivo",
-    "resumen": "Más de 2.000 soldados salvadoreños en el Caribe",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/el-salvador-bukele-exporta-su-modelo-represivo/",
-    "fecha": "2026-11-19T03:08:39.000Z",
     "estado": "pendiente"
   }
 ]
