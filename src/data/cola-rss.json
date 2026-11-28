@@ -1,5 +1,25 @@
 [
   {
+    "id": "global-voices-13o553",
+    "titulo": "El soñador que quiere dar a conocer al mundo la literatura nepalí",
+    "resumen": "«Ya no vemos a la literatura nepalí aislada por límites geográficos»",
+    "seccion": "cultura",
+    "medio": "Global Voices",
+    "enlace": "https://es.globalvoices.org/2026/11/28/el-sonador-que-quiere-dar-a-conocer-al-mundo-la-literatura-nepali/",
+    "fecha": "2026-11-28T06:00:31.000Z",
+    "estado": "pendiente"
+  },
+  {
+    "id": "pressenza-f8e1a5",
+    "titulo": "(Perú) Triunfo de la población organizada: Derogan Ley del Colegio Profesional de Artistas",
+    "resumen": "La acción organizada de cientos de artistas del Perú, en defensa de los derechos culturales, logró luego de muchas jornadas de lucha, la derogatoria de la Ley N° 32645 de Creación del Colegio Profesional de Artistas del Perú, mediante la…",
+    "seccion": "cultura",
+    "medio": "Pressenza",
+    "enlace": "https://www.pressenza.com/es/2026/11/peru-triunfo-de-la-poblacion-organizada-derogan-ley-del-colegio-profesional-de-artistas/",
+    "fecha": "2026-11-28T02:29:09.000Z",
+    "estado": "pendiente"
+  },
+  {
     "id": "pressenza-8i5aw6",
     "titulo": "Colombia, entre el apagón y el incendio",
     "resumen": "El país se oscurece bajo la política incendiaria de su actual presidente.",
@@ -1177,26 +1197,6 @@
     "medio": "Pressenza",
     "enlace": "https://www.pressenza.com/es/2026/11/el-salvador-bukele-exporta-su-modelo-represivo/",
     "fecha": "2026-11-19T03:08:39.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-ujbxw",
-    "titulo": "Programa ¡Que el Pueblo Viva!: Militarización y Derechos Humanos",
-    "resumen": "En este nuevo Programa ¡¡Que el Pueblo Viva!!(https://www.youtube.com/watch?v=vgYKLpYvZ5E), Pablo Ruiz presenta el libro «Entrenamiento, Bases y Militarización en América Latina» poniendo atención en el entrenamiento en la Escuela de las…",
-    "seccion": "derechos",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/programa-que-el-pueblo-viva-militarizacion-y-derechos-humanos/",
-    "fecha": "2026-11-19T02:43:16.000Z",
-    "estado": "pendiente"
-  },
-  {
-    "id": "pressenza-bobisy",
-    "titulo": "Perú: Estudiantes de la PUCP toman medida de fuerza nuevamente por pensiones",
-    "resumen": "Ayer, miércoles 18 de noviembre, los estudiantes de la Pontificia Universidad Católica del Perú (PUCP) nuevamente realizaron una medida de protesta por el nuevo sistema de pensiones y procesos disciplinarios contra los estudiantes, pese a…",
-    "seccion": "internacional",
-    "medio": "Pressenza",
-    "enlace": "https://www.pressenza.com/es/2026/11/peru-estudiantes-de-la-pucp-toman-medida-de-fuerza-nuevamente-por-pensiones/",
-    "fecha": "2026-11-19T02:40:59.000Z",
     "estado": "pendiente"
   }
 ]
